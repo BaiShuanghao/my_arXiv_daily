@@ -22,18 +22,26 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    # "SLAM": 
+    #     filters: ["SLAM", "Visual Odometry"]
+    # "SFM":
+    #     filters: ["SFM", "Structure from Motion"]
+    # "Visual Localization":
+    #     filters: ["Visual Localization","Camera Localization",
+    #               "Camera Re-localisation","Loop Closure Detection",
+    #               "visual place recognition","image retrieval"]
+    # "Keypoint Detection":
+    #     filters: ["Keypoint Detection", "Feature Descriptor"]
+    # "Image Matching":
+    #     filters: ["Image Matching", "Keypoint Matching", 
+    #               "Line Segment Detection", "Local Feature Matching"]
+    # "NeRF":
+    #     filters: ["NeRF"]
+    "DA":
+        filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation"]
+    "DG":
+        filters: ["Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
+    "VLM":
+        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
+    "Prompt":
+        filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
