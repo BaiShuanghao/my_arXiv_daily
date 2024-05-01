@@ -127,16 +127,36 @@
 |**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
 |**2024-04-29**|**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**|Alexis Guichemerre et.al.|[2404.19113](http://arxiv.org/abs/2404.19113)|**[link](https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda)**|
+|**2024-04-29**|**Hyperplane Representations of Interventional Characteristic Imset Polytopes**|Benjamin Hollering et.al.|[2404.18500](http://arxiv.org/abs/2404.18500)|null|
 |**2024-04-28**|**Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition**|María Alfaro-Contreras et.al.|[2404.18260](http://arxiv.org/abs/2404.18260)|null|
 |**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228](http://arxiv.org/abs/2404.18228)|null|
 |**2024-04-28**|**SafePaint: Anti-forensic Image Inpainting with Domain Adaptation**|Dunyun Chen et.al.|[2404.18136](http://arxiv.org/abs/2404.18136)|null|
+|**2024-04-26**|**A Conditional Independence Test in the Presence of Discretization**|Boyang Sun et.al.|[2404.17644](http://arxiv.org/abs/2404.17644)|null|
 |**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
 |**2024-04-29**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454](http://arxiv.org/abs/2404.17454)|**[link](https://github.com/catchxu/acsleuth)**|
 |**2024-04-26**|**M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**|Lakmal Meegahapola et.al.|[2404.17391](http://arxiv.org/abs/2404.17391)|null|
 |**2024-04-26**|**Adversarial Reweighting with $α$ -Power Maximization for Domain Adaptation**|Xiang Gu et.al.|[2404.17275](http://arxiv.org/abs/2404.17275)|**[link](https://github.com/xjtu-xgu/arpm)**|
+|**2024-04-25**|**Evolutionary Causal Discovery with Relative Impact Stratification for Interpretable Data Analysis**|Ou Deng et.al.|[2404.16361](http://arxiv.org/abs/2404.16361)|null|
+|**2024-04-25**|**NeuroKoopman Dynamic Causal Discovery**|Rahmat Adesunkanmi et.al.|[2404.16326](http://arxiv.org/abs/2404.16326)|null|
 |**2024-04-23**|**Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models**|Chen Zhang et.al.|[2404.14897](http://arxiv.org/abs/2404.14897)|null|
+|**2024-04-23**|**LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data**|Peiwen Li et.al.|[2404.14786](http://arxiv.org/abs/2404.14786)|null|
+|**2024-04-18**|**Redefining the Shortest Path Problem Formulation of the Linear Non-Gaussian Acyclic Model: Pairwise Likelihood Ratios, Prior Knowledge, and Path Enumeration**|Hans Jarett J. Ong et.al.|[2404.11922](http://arxiv.org/abs/2404.11922)|null|
+|**2024-04-17**|**The Causal Chambers: Real Physical Systems as a Testbed for AI Methodology**|Juan L. Gamella et.al.|[2404.11341](http://arxiv.org/abs/2404.11341)|**[link](https://github.com/juangamella/causal-chamber)**|
+|**2024-04-17**|**On the Causal Nature of Sentiment Analysis**|Zhiheng Lyu et.al.|[2404.11055](http://arxiv.org/abs/2404.11055)|**[link](https://github.com/cogito233/causal-sa)**|
+|**2024-04-15**|**Explainable Online Unsupervised Anomaly Detection for Cyber-Physical Systems via Causal Discovery from Time Series**|Daniele Meli et.al.|[2404.09871](http://arxiv.org/abs/2404.09871)|null|
 |**2024-04-12**|**Assessing Economic Viability: A Comparative Analysis of Total Cost of Ownership for Domain-Adapted Large Language Models versus State-of-the-art Counterparts in Chip Design Coding Assistance**|Amit Sharma et.al.|[2404.08850](http://arxiv.org/abs/2404.08850)|null|
+|**2024-04-03**|**Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods**|Sahara Ali et.al.|[2404.05746](http://arxiv.org/abs/2404.05746)|null|
+|**2024-04-24**|**Faithlessness in Gaussian graphical models**|Mathias Drton et.al.|[2404.05306](http://arxiv.org/abs/2404.05306)|null|
+|**2024-04-05**|**Colored Gaussian DAG models**|Tobias Boege et.al.|[2404.04024](http://arxiv.org/abs/2404.04024)|**[link](https://github.com/soluslab/coloreddags)**|
+|**2024-04-01**|**TS-CausalNN: Learning Temporal Causal Relations from Non-linear Non-stationary Time Series Data**|Omar Faruque et.al.|[2404.01466](http://arxiv.org/abs/2404.01466)|null|
 |**2024-03-28**|**Developing Healthcare Language Model Embedding Spaces**|Niall Taylor et.al.|[2403.19802](http://arxiv.org/abs/2403.19802)|null|
+|**2024-03-26**|**Adaptive Bayesian Structure Learning of DAGs With Non-conjugate Prior**|S. Nazari et.al.|[2403.17489](http://arxiv.org/abs/2403.17489)|null|
+|**2024-03-25**|**Causal Discovery from Poisson Branching Structural Causal Model Using High-Order Cumulant with Path Analysis**|Jie Qiao et.al.|[2403.16523](http://arxiv.org/abs/2403.16523)|null|
+|**2024-03-21**|**Local Causal Discovery with Linear non-Gaussian Cyclic Models**|Haoyue Dai et.al.|[2403.14843](http://arxiv.org/abs/2403.14843)|**[link](https://github.com/markdana/local-ling-discovery)**|
+|**2024-03-21**|**Learning causal graphs using variable grouping according to ancestral relationship**|Ming Cai et.al.|[2403.14125](http://arxiv.org/abs/2403.14125)|null|
+|**2024-03-14**|**Recursive Causal Discovery**|Ehsan Mokhtarian et.al.|[2403.09300](http://arxiv.org/abs/2403.09300)|**[link](https://github.com/ban-epfl/rcd)**|
+|**2024-03-11**|**Detection of Unobserved Common Causes based on NML Code in Discrete, Mixed, and Continuous Variables**|Masatoshi Kobayashi et.al.|[2403.06499](http://arxiv.org/abs/2403.06499)|**[link](https://github.com/matsushima-lab/cloud)**|
+|**2024-03-06**|**Ancestor regression in structural vector autoregressive models**|Christoph Schultheiss et.al.|[2403.03778](http://arxiv.org/abs/2403.03778)|null|
 |**2023-11-29**|**Large Language Models for Networking: Applications, Enabling Techniques, and Challenges**|Yudong Huang et.al.|[2311.17474](http://arxiv.org/abs/2311.17474)|**[link](https://github.com/hyduni001/chatnet)**|
 |**2023-11-02**|**Revisiting the Knowledge Injection Frameworks**|Peng Fu et.al.|[2311.01150](http://arxiv.org/abs/2311.01150)|null|
 |**2024-04-04**|**ChipNeMo: Domain-Adapted LLMs for Chip Design**|Mingjie Liu et.al.|[2311.00176](http://arxiv.org/abs/2311.00176)|null|

@@ -37,13 +37,15 @@ keywords:
     #               "Line Segment Detection", "Local Feature Matching"]
     # "NeRF":
     #     filters: ["NeRF"]
-    "DA":
-        filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation"]
-    "DG":
-        filters: ["Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
-    "Prompt":
-        filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
+
+    # --------- My Keywords ---------
+    # "DA":
+    #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation"]
+    # "DG":
+    #     filters: ["Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
+    # "VLM":
+    #     filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
+    # "Prompt":
+    #     filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
     "LLM":
-        filters: ["Causal Large Language Model", "Domain Adaptation LLM"]
+        filters: ["Causal Inference and Large Language Models", "Domain Adaptation and Large Language Models", "Causal Discovery"]
