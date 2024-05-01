@@ -4,8 +4,8 @@ user_name: "Vincentqyw"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
-max_results: 10
+show_badge: False
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -46,4 +46,4 @@ keywords:
     "Prompt":
         filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
     "LLM":
-        filters: ["Causal", "Domain Adaptation", "LLM"]
+        filters: ["Causal Large Language Model", "Domain Adaptation LLM"]

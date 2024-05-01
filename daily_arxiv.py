@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+import subprocess
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -429,7 +430,7 @@ def demo(**config):
         else:    
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge) 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -441,3 +442,11 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
+
+    try:
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "commit"], check=True)
+        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
+        print("Git commands executed successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error occurred: {e}")
