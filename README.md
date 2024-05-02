@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
+|**2024-05-01**|**Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring**|Sizhuo Li et.al.|[2405.00514](http://arxiv.org/abs/2405.00514)|null|
+|**2024-05-01**|**A Self-explaining Neural Architecture for Generalizable Concept Learning**|Sanchit Sinha et.al.|[2405.00349](http://arxiv.org/abs/2405.00349)|null|
+|**2024-04-30**|**Block-As-Domain Adaptation for Workload Prediction from fNIRS Data**|Jiyang Wang et.al.|[2405.00213](http://arxiv.org/abs/2405.00213)|null|
+|**2024-04-30**|**HistNERo: Historical Named Entity Recognition for the Romanian Language**|Andrei-Marius Avram et.al.|[2405.00155](http://arxiv.org/abs/2405.00155)|null|
 |**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
 |**2024-04-29**|**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**|Alexis Guichemerre et.al.|[2404.19113](http://arxiv.org/abs/2404.19113)|**[link](https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda)**|
@@ -71,6 +76,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355](http://arxiv.org/abs/2405.00355)|null|
+|**2024-04-30**|**GUing: A Mobile GUI Search Engine using a Vision-Language Model**|Jialiang Wei et.al.|[2405.00145](http://arxiv.org/abs/2405.00145)|**[link](https://github.com/jl-wei/guing)**|
 |**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|null|
 |**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287](http://arxiv.org/abs/2404.19287)|null|
 |**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286](http://arxiv.org/abs/2404.19286)|null|
@@ -79,7 +86,7 @@
 |**2024-04-29**|**In-Context Symbolic Regression: Leveraging Language Models for Function Discovery**|Matteo Merler et.al.|[2404.19094](http://arxiv.org/abs/2404.19094)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
-|**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212](http://arxiv.org/abs/2404.18212)|null|
+|**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212](http://arxiv.org/abs/2404.18212)|**[link](https://github.com/RotsteinNoam/Paint-by-Inpaint)**|
 |**2024-04-27**|**SERPENT-VLM : Self-Refining Radiology Report Generation Using Vision Language Models**|Manav Nitin Kapadnis et.al.|[2404.17912](http://arxiv.org/abs/2404.17912)|null|
 |**2024-04-27**|**Medical Vision-Language Pre-Training for Brain Abnormalities**|Masoud Monajatipoor et.al.|[2404.17779](http://arxiv.org/abs/2404.17779)|null|
 |**2024-04-26**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/abs/2404.17672)|null|
@@ -125,6 +132,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Causal Evaluation of Language Models**|Sirui Chen et.al.|[2405.00622](http://arxiv.org/abs/2405.00622)|null|
+|**2024-04-30**|**Estimating Heterogeneous Treatment Effects with Item-Level Outcome Data: Insights from Item Response Theory**|Joshua B. Gilbert et.al.|[2405.00161](http://arxiv.org/abs/2405.00161)|null|
+|**2024-04-30**|**Causal Inference with High-dimensional Discrete Covariates**|Zhenghao Zeng et.al.|[2405.00118](http://arxiv.org/abs/2405.00118)|null|
 |**2024-04-30**|**Be Aware of the Neighborhood Effect: Modeling Selection Bias under Interference**|Haoxuan Li et.al.|[2404.19620](http://arxiv.org/abs/2404.19620)|**[link](https://github.com/haoxuanli-pku/iclr24-interference)**|
 |**2024-04-30**|**Correcting for confounding in longitudinal experiments: positioning non-linear mixed effects modeling as implementation of standardization using latent conditional exchangeability**|Christian Bartels et.al.|[2404.19325](http://arxiv.org/abs/2404.19325)|null|
 |**2024-04-29**|**Identification and estimation of causal effects using non-concurrent controls in platform trials**|Michele Santacatterina et.al.|[2404.19118](http://arxiv.org/abs/2404.19118)|null|
@@ -152,6 +162,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Certified Adversarial Robustness of Machine Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2405.00392](http://arxiv.org/abs/2405.00392)|null|
+|**2024-05-01**|**Optimal nonparametric estimation of the expected shortfall risk**|Daniel Bartl et.al.|[2405.00357](http://arxiv.org/abs/2405.00357)|null|
+|**2024-04-30**|**PAODING: A High-fidelity Data-free Pruning Toolkit for Debloating Pre-trained Neural Networks**|Mark Huasong Meng et.al.|[2405.00074](http://arxiv.org/abs/2405.00074)|null|
 |**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640](http://arxiv.org/abs/2404.19640)|null|
 |**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287](http://arxiv.org/abs/2404.19287)|null|
 |**2024-04-27**|**Cauchy-Schwarz Divergence Information Bottleneck for Regression**|Shujian Yu et.al.|[2404.17951](http://arxiv.org/abs/2404.17951)|**[link](https://github.com/sjyucnel/cauchy-schwarz-information-bottleneck)**|
