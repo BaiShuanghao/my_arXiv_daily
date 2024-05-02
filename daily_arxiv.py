@@ -449,4 +449,6 @@ if __name__ == "__main__":
         subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
         print("Git commands executed successfully.")
     except subprocess.CalledProcessError as e:
-        print(f"Error occurred: {e}")
+        pass
+
+    
