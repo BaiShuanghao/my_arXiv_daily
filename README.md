@@ -23,7 +23,7 @@
 |**2024-04-28**|**Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition**|María Alfaro-Contreras et.al.|[2404.18260](http://arxiv.org/abs/2404.18260)|null|
 |**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228](http://arxiv.org/abs/2404.18228)|null|
 |**2024-04-28**|**SafePaint: Anti-forensic Image Inpainting with Domain Adaptation**|Dunyun Chen et.al.|[2404.18136](http://arxiv.org/abs/2404.18136)|null|
-|**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
+|**2024-05-01**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng Zhang et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
 |**2024-04-29**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454](http://arxiv.org/abs/2404.17454)|**[link](https://github.com/catchxu/acsleuth)**|
 |**2024-04-26**|**M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training**|Lakmal Meegahapola et.al.|[2404.17391](http://arxiv.org/abs/2404.17391)|null|
 |**2024-04-26**|**Adversarial Reweighting with $α$ -Power Maximization for Domain Adaptation**|Xiang Gu et.al.|[2404.17275](http://arxiv.org/abs/2404.17275)|**[link](https://github.com/xjtu-xgu/arpm)**|
