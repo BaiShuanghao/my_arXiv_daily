@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -163,7 +163,7 @@ layout: default
 |**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
 |**2024-04-22**|**Multidimensional Interpolants**|Dohoon Lee et.al.|[2404.14161](http://arxiv.org/abs/2404.14161)|null|
 |**2024-04-21**|**Fermi-Bose Machine**|Mingshan Xie et.al.|[2404.13631](http://arxiv.org/abs/2404.13631)|null|
-|**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
+|**2024-05-02**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-18**|**Enhancing AI Diagnostics: Autonomous Lesion Masking via Semi-Supervised Deep Learning**|Ting-Ruen Wei et.al.|[2404.12450](http://arxiv.org/abs/2404.12450)|null|
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
