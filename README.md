@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**DALLMi: Domain Adaption for LLM-based Multi-label Classifier**|Miruna Beţianu et.al.|[2405.01883](http://arxiv.org/abs/2405.01883)|null|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
 |**2024-05-01**|**More is Better: Deep Domain Adaptation with Multiple Sources**|Sicheng Zhao et.al.|[2405.00749](http://arxiv.org/abs/2405.00749)|null|
@@ -83,6 +84,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
+|**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
+|**2024-05-03**|**Improving Concept Alignment in Vision-Language Concept Bottleneck Models**|Nithish Muthuchamy Selvaraj et.al.|[2405.01825](http://arxiv.org/abs/2405.01825)|**[link](https://github.com/nms05/improving-concept-alignment-in-vision-language-concept-bottleneck-models)**|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|null|
 |**2024-05-02**|**Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models**|Yifei Ming et.al.|[2405.01468](http://arxiv.org/abs/2405.01468)|null|
 |**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
@@ -119,6 +123,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
+|**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-05-01**|**CLIPArTT: Light-weight Adaptation of CLIP to New Domains at Test Time**|Gustavo Adolfo Vargas Hakim et.al.|[2405.00754](http://arxiv.org/abs/2405.00754)|null|
 |**2024-04-30**|**StablePT: Towards Stable Prompting for Few-shot Learning via Input Separation**|Xiaoming Liu et.al.|[2404.19335](http://arxiv.org/abs/2404.19335)|null|
@@ -148,6 +154,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Metalearners for Ranking Treatment Effects**|Toon Vanderschueren et.al.|[2405.02183](http://arxiv.org/abs/2405.02183)|null|
+|**2024-05-02**|**Towards A Double-Edged Sword: Modelling the Impact in Agile Software Development**|Michael Neumann et.al.|[2405.01757](http://arxiv.org/abs/2405.01757)|null|
+|**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744](http://arxiv.org/abs/2405.01744)|null|
+|**2024-05-02**|**A deep causal inference model for fully-interpretable travel behaviour analysis**|Kimia Kamal et.al.|[2405.01708](http://arxiv.org/abs/2405.01708)|null|
 |**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484](http://arxiv.org/abs/2405.01484)|null|
 |**2024-05-02**|**Investigating the causal effects of multiple treatments using longitudinal data: a simulation study**|Emily Granger et.al.|[2405.01110](http://arxiv.org/abs/2405.01110)|null|
 |**2024-05-02**|**Does Financial Literacy Impact Investment Participation and Retirement Planning in Japan?**|Yi Jiang et.al.|[2405.01078](http://arxiv.org/abs/2405.01078)|null|
@@ -182,6 +192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
+|**2024-05-03**|**Uniformly Stable Algorithms for Adversarial Training and Beyond**|Jiancong Xiao et.al.|[2405.01817](http://arxiv.org/abs/2405.01817)|null|
 |**2024-05-02**|**Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders**|Yi Yu et.al.|[2405.01460](http://arxiv.org/abs/2405.01460)|**[link](https://github.com/yuyi-sd/d-vae)**|
 |**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965](http://arxiv.org/abs/2405.00965)|null|
 |**2024-05-01**|**Certified Adversarial Robustness of Machine Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2405.00392](http://arxiv.org/abs/2405.00392)|null|
