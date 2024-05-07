@@ -9,7 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-03**|**DALLMi: Domain Adaption for LLM-based Multi-label Classifier**|Miruna Beţianu et.al.|[2405.01883](http://arxiv.org/abs/2405.01883)|null|
+|**2024-05-06**|**Cross-Modal Domain Adaptation in Brain Disease Diagnosis: Maximum Mean Discrepancy-based Convolutional Neural Networks**|Xuran Zhu et.al.|[2405.03235](http://arxiv.org/abs/2405.03235)|null|
+|**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
+|**2024-05-05**|**Fast One-Stage Unsupervised Domain Adaptive Person Search**|Tianxiang Cui et.al.|[2405.02832](http://arxiv.org/abs/2405.02832)|null|
+|**2024-05-03**|**DALLMi: Domain Adaption for LLM-based Multi-label Classifier**|Miruna Beţianu et.al.|[2405.01883](http://arxiv.org/abs/2405.01883)|**[link](https://github.com/mirunabetianu/dallmi)**|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
 |**2024-05-01**|**More is Better: Deep Domain Adaptation with Multiple Sources**|Sicheng Zhao et.al.|[2405.00749](http://arxiv.org/abs/2405.00749)|null|
@@ -18,7 +21,7 @@ layout: default
 |**2024-05-05**|**A Self-explaining Neural Architecture for Generalizable Concept Learning**|Sanchit Sinha et.al.|[2405.00349](http://arxiv.org/abs/2405.00349)|null|
 |**2024-04-30**|**Block-As-Domain Adaptation for Workload Prediction from fNIRS Data**|Jiyang Wang et.al.|[2405.00213](http://arxiv.org/abs/2405.00213)|null|
 |**2024-04-30**|**HistNERo: Historical Named Entity Recognition for the Romanian Language**|Andrei-Marius Avram et.al.|[2405.00155](http://arxiv.org/abs/2405.00155)|null|
-|**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
+|**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[2404.19384](http://arxiv.org/abs/2404.19384)|null|
 |**2024-04-29**|**Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology**|Alexis Guichemerre et.al.|[2404.19113](http://arxiv.org/abs/2404.19113)|**[link](https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda)**|
 |**2024-04-28**|**Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition**|María Alfaro-Contreras et.al.|[2404.18260](http://arxiv.org/abs/2404.18260)|null|
@@ -47,7 +50,7 @@ layout: default
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
 |**2024-05-02**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
 |**2024-05-03**|**UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation**|Juhwan Choi et.al.|[2405.01022](http://arxiv.org/abs/2405.01022)|null|
-|**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
+|**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286](http://arxiv.org/abs/2404.19286)|null|
 |**2024-04-29**|**Transitive Vision-Language Prompt Learning for Domain Generalization**|Liyuan Wang et.al.|[2404.18758](http://arxiv.org/abs/2404.18758)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
@@ -72,12 +75,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
+|**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
+|**2024-05-05**|**Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models**|Tobias Groot et.al.|[2405.02917](http://arxiv.org/abs/2405.02917)|null|
+|**2024-05-05**|**Octopi: Object Property Reasoning with Large Tactile-Language Models**|Samson Yu et.al.|[2405.02794](http://arxiv.org/abs/2405.02794)|null|
+|**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
 |**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
 |**2024-05-03**|**Improving Concept Alignment in Vision-Language Concept Bottleneck Models**|Nithish Muthuchamy Selvaraj et.al.|[2405.01825](http://arxiv.org/abs/2405.01825)|**[link](https://github.com/nms05/improving-concept-alignment-in-vision-language-concept-bottleneck-models)**|
-|**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|null|
+|**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|**[link](https://github.com/asaakyan/V-FLUTE)**|
 |**2024-05-02**|**Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models**|Yifei Ming et.al.|[2405.01468](http://arxiv.org/abs/2405.01468)|null|
-|**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
+|**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|**[link](https://github.com/tangyuan96/minigpt-3d)**|
 |**2024-05-02**|**Learning Object States from Actions via Large Language Models**|Masatoshi Tateno et.al.|[2405.01090](http://arxiv.org/abs/2405.01090)|null|
 |**2024-05-02**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al.|[2405.01040](http://arxiv.org/abs/2405.01040)|null|
 |**2024-05-01**|**Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis**|Prateek Verma et.al.|[2405.00876](http://arxiv.org/abs/2405.00876)|null|
@@ -109,6 +118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
+|**2024-05-06**|**Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning**|Qizhou Chen et.al.|[2405.03279](http://arxiv.org/abs/2405.03279)|null|
 |**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
 |**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
@@ -116,7 +127,7 @@ layout: default
 |**2024-04-30**|**StablePT: Towards Stable Prompting for Few-shot Learning via Input Separation**|Xiaoming Liu et.al.|[2404.19335](http://arxiv.org/abs/2404.19335)|null|
 |**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286](http://arxiv.org/abs/2404.19286)|null|
 |**2024-04-29**|**Transitive Vision-Language Prompt Learning for Domain Generalization**|Liyuan Wang et.al.|[2404.18758](http://arxiv.org/abs/2404.18758)|null|
-|**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896](http://arxiv.org/abs/2404.17896)|null|
+|**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896](http://arxiv.org/abs/2404.17896)|**[link](https://github.com/antonio-mastropaolo/dl-training-vuln-patching)**|
 |**2024-04-27**|**PromptCL: Improving Event Representation via Prompt Template and Contrastive Learning**|Yubo Feng et.al.|[2404.17877](http://arxiv.org/abs/2404.17877)|**[link](https://github.com/yubofeng2023/promptcl)**|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433](http://arxiv.org/abs/2404.17433)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
 |**2024-04-26**|**Open-Set Video-based Facial Expression Recognition with Human Expression-sensitive Prompting**|Yuanyuan Liu et.al.|[2404.17100](http://arxiv.org/abs/2404.17100)|null|
@@ -138,6 +149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Some Statistical and Data Challenges When Building Early-Stage Digital Experimentation and Measurement Capabilities**|C. H. Bryan Liu et.al.|[2405.03579](http://arxiv.org/abs/2405.03579)|null|
+|**2024-05-06**|**Deep Learning for Causal Inference: A Comparison of Architectures for Heterogeneous Treatment Effect Estimation**|Demetrios Papakostas et.al.|[2405.03130](http://arxiv.org/abs/2405.03130)|null|
+|**2024-05-05**|**On Probabilistic and Causal Reasoning with Summation Operators**|Duligur Ibeling et.al.|[2405.03069](http://arxiv.org/abs/2405.03069)|null|
+|**2024-05-05**|**A causal inference approach of monosynapses from spike trains**|Zach Saccomano et.al.|[2405.02786](http://arxiv.org/abs/2405.02786)|null|
 |**2024-05-03**|**Metalearners for Ranking Treatment Effects**|Toon Vanderschueren et.al.|[2405.02183](http://arxiv.org/abs/2405.02183)|null|
 |**2024-05-02**|**Towards A Double-Edged Sword: Modelling the Impact in Agile Software Development**|Michael Neumann et.al.|[2405.01757](http://arxiv.org/abs/2405.01757)|null|
 |**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744](http://arxiv.org/abs/2405.01744)|null|
@@ -174,6 +189,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**Provably Unlearnable Examples**|Derui Wang et.al.|[2405.03316](http://arxiv.org/abs/2405.03316)|null|
+|**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
+|**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
 |**2024-05-03**|**Uniformly Stable Algorithms for Adversarial Training and Beyond**|Jiancong Xiao et.al.|[2405.01817](http://arxiv.org/abs/2405.01817)|null|
 |**2024-05-06**|**Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders**|Yi Yu et.al.|[2405.01460](http://arxiv.org/abs/2405.01460)|**[link](https://github.com/yuyi-sd/d-vae)**|
