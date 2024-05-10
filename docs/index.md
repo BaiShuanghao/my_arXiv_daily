@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493](http://arxiv.org/abs/2405.05493)|null|
+|**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|
 |**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804](http://arxiv.org/abs/2405.04804)|null|
 |**2024-05-07**|**Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment**|Aobo Li et.al.|[2405.04167](http://arxiv.org/abs/2405.04167)|null|
@@ -81,6 +83,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
+|**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
+|**2024-05-09**|**Vision-Language Modeling with Regularized Spatial Transformer Networks for All Weather Crosswind Landing of Aircraft**|Debabrata Pal et.al.|[2405.05574](http://arxiv.org/abs/2405.05574)|null|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
 |**2024-05-08**|**Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection**|Zhaoxiang Zhang et.al.|[2405.04782](http://arxiv.org/abs/2405.04782)|null|
 |**2024-05-08**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
@@ -129,6 +134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment**|Yoonsu Kim et.al.|[2405.05678](http://arxiv.org/abs/2405.05678)|null|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
 |**2024-05-08**|**APrompt4EM: Augmented Prompt Tuning for Generalized Entity Matching**|Yikuan Xia et.al.|[2405.04820](http://arxiv.org/abs/2405.04820)|null|
 |**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351](http://arxiv.org/abs/2405.03351)|null|
@@ -209,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Universal Adversarial Perturbations for Vision-Language Pre-trained Models**|Peng-Fei Zhang et.al.|[2405.05524](http://arxiv.org/abs/2405.05524)|null|
+|**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
 |**2024-05-08**|**Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations**|Xuyang Zhong et.al.|[2405.05075](http://arxiv.org/abs/2405.05075)|**[link](https://github.com/cityu-mlo/spgd)**|
 |**2024-05-07**|**Effective and Robust Adversarial Training against Data and Label Corruptions**|Peng-Fei Zhang et.al.|[2405.04191](http://arxiv.org/abs/2405.04191)|null|
 |**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
