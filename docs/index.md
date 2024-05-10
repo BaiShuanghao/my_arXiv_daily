@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -178,7 +178,7 @@ layout: default
 |**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744](http://arxiv.org/abs/2405.01744)|null|
 |**2024-05-02**|**A deep causal inference model for fully-interpretable travel behaviour analysis**|Kimia Kamal et.al.|[2405.01708](http://arxiv.org/abs/2405.01708)|null|
 |**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484](http://arxiv.org/abs/2405.01484)|null|
-|**2024-05-02**|**Investigating the causal effects of multiple treatments using longitudinal data: a simulation study**|Emily Granger et.al.|[2405.01110](http://arxiv.org/abs/2405.01110)|null|
+|**2024-05-02**|**Investigating the causal effects of multiple treatments using longitudinal data: a simulation study**|Emily Granger et.al.|[2405.01110](http://arxiv.org/abs/2405.01110)|**[link](https://github.com/emilyg602/multipletreatmentssimulationstudy)**|
 |**2024-05-02**|**Does Financial Literacy Impact Investment Participation and Retirement Planning in Japan?**|Yi Jiang et.al.|[2405.01078](http://arxiv.org/abs/2405.01078)|null|
 |**2024-05-01**|**Cross-modality Matching and Prediction of Perturbation Responses with Labeled Gromov-Wasserstein Optimal Transport**|Jayoung Ryu et.al.|[2405.00838](http://arxiv.org/abs/2405.00838)|null|
 |**2024-05-01**|**Causal Evaluation of Language Models**|Sirui Chen et.al.|[2405.00622](http://arxiv.org/abs/2405.00622)|**[link](https://github.com/OpenCausaLab/CaLM)**|
