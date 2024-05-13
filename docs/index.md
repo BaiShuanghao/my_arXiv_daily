@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
 |**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493](http://arxiv.org/abs/2405.05493)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|
@@ -53,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**PhysMLE: Generalizable and Priors-Inclusive Multi-task Remote Physiological Measurement**|Jiyao Wang et.al.|[2405.06201](http://arxiv.org/abs/2405.06201)|null|
 |**2024-05-08**|**All in One Framework for Multimodal Re-identification in the Wild**|He Li et.al.|[2405.04741](http://arxiv.org/abs/2405.04741)|null|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
@@ -83,6 +85,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
+|**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468](http://arxiv.org/abs/2405.06468)|null|
+|**2024-05-10**|**VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**|Manish Dhakal et.al.|[2405.06196](http://arxiv.org/abs/2405.06196)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
 |**2024-05-09**|**Vision-Language Modeling with Regularized Spatial Transformer Networks for All Weather Crosswind Landing of Aircraft**|Debabrata Pal et.al.|[2405.05574](http://arxiv.org/abs/2405.05574)|null|
@@ -134,6 +139,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468](http://arxiv.org/abs/2405.06468)|null|
+|**2024-05-09**|**Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion**|Syed Hammad Ahmed et.al.|[2405.06128](http://arxiv.org/abs/2405.06128)|null|
 |**2024-05-09**|**Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment**|Yoonsu Kim et.al.|[2405.05678](http://arxiv.org/abs/2405.05678)|null|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
 |**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216](http://arxiv.org/abs/2405.05216)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
@@ -216,6 +223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Certified $\ell_2$ Attribution Robustness via Uniformly Smoothed Attributions**|Fan Wang et.al.|[2405.06361](http://arxiv.org/abs/2405.06361)|null|
+|**2024-05-10**|**Evaluating Adversarial Robustness in the Spatial Frequency Domain**|Keng-Hsin Liao et.al.|[2405.06345](http://arxiv.org/abs/2405.06345)|null|
+|**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
+|**2024-05-10**|**Exploring the Interplay of Interpretability and Robustness in Deep Neural Networks: A Saliency-guided Approach**|Amira Guesmi et.al.|[2405.06278](http://arxiv.org/abs/2405.06278)|null|
 |**2024-05-09**|**Universal Adversarial Perturbations for Vision-Language Pre-trained Models**|Peng-Fei Zhang et.al.|[2405.05524](http://arxiv.org/abs/2405.05524)|null|
 |**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
 |**2024-05-08**|**Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations**|Xuyang Zhong et.al.|[2405.05075](http://arxiv.org/abs/2405.05075)|**[link](https://github.com/cityu-mlo/spgd)**|
