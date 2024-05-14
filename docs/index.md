@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -234,7 +234,7 @@ layout: default
 |**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-06**|**Provably Unlearnable Examples**|Derui Wang et.al.|[2405.03316](http://arxiv.org/abs/2405.03316)|null|
-|**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
+|**2024-05-11**|**Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
 |**2024-05-03**|**Uniformly Stable Algorithms for Adversarial Training and Beyond**|Jiancong Xiao et.al.|[2405.01817](http://arxiv.org/abs/2405.01817)|null|
