@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411](http://arxiv.org/abs/2405.07411)|null|
+|**2024-05-12**|**Semi-Self-Supervised Domain Adaptation: Developing Deep Learning Models with Limited Annotated Data for Wheat Head Segmentation**|Alireza Ghanbari et.al.|[2405.07157](http://arxiv.org/abs/2405.07157)|null|
+|**2024-05-12**|**Cross-Domain Continual Learning via CLAMP**|Weiwei Weng et.al.|[2405.07142](http://arxiv.org/abs/2405.07142)|null|
+|**2024-05-11**|**High-order Neighborhoods Know More: HyperGraph Learning Meets Source-free Unsupervised Domain Adaptation**|Jinkun Jiang et.al.|[2405.06916](http://arxiv.org/abs/2405.06916)|null|
+|**2024-05-11**|**ADLDA: A Method to Reduce the Harm of Data Distribution Shift in Data Augmentation**|Haonan Wang et.al.|[2405.06893](http://arxiv.org/abs/2405.06893)|null|
 |**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
 |**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493](http://arxiv.org/abs/2405.05493)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
@@ -64,6 +69,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-11**|**Benchmarking Cross-Domain Audio-Visual Deception Detection**|Xiaobao Guo et.al.|[2405.06995](http://arxiv.org/abs/2405.06995)|null|
+|**2024-05-10**|**Non-stationary Domain Generalization: Theory and Algorithm**|Thai-Hoang Pham et.al.|[2405.06816](http://arxiv.org/abs/2405.06816)|null|
 |**2024-05-10**|**PhysMLE: Generalizable and Priors-Inclusive Multi-task Remote Physiological Measurement**|Jiyao Wang et.al.|[2405.06201](http://arxiv.org/abs/2405.06201)|null|
 |**2024-05-08**|**All in One Framework for Multimodal Re-identification in the Wild**|He Li et.al.|[2405.04741](http://arxiv.org/abs/2405.04741)|null|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
@@ -97,6 +104,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
+|**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
+|**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
 |**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468](http://arxiv.org/abs/2405.06468)|null|
 |**2024-05-10**|**VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**|Manish Dhakal et.al.|[2405.06196](http://arxiv.org/abs/2405.06196)|null|
@@ -153,6 +163,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
+|**2024-05-13**|**DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval**|Yuchuan Deng et.al.|[2405.07459](http://arxiv.org/abs/2405.07459)|null|
+|**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
 |**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468](http://arxiv.org/abs/2405.06468)|null|
 |**2024-05-09**|**Enhanced Multimodal Content Moderation of Children's Videos using Audiovisual Fusion**|Syed Hammad Ahmed et.al.|[2405.06128](http://arxiv.org/abs/2405.06128)|null|
 |**2024-05-09**|**Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment**|Yoonsu Kim et.al.|[2405.05678](http://arxiv.org/abs/2405.05678)|null|
@@ -192,6 +205,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
+|**2024-05-13**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
+|**2024-05-13**|**Uniform Inference for Subsampled Moment Regression**|David M. Ritzwoller et.al.|[2405.07860](http://arxiv.org/abs/2405.07860)|null|
+|**2024-05-13**|**Improved Bound for Robust Causal Bandits with Linear Models**|Zirui Yan et.al.|[2405.07795](http://arxiv.org/abs/2405.07795)|null|
+|**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373](http://arxiv.org/abs/2405.07373)|null|
+|**2024-05-11**|**Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments**|Kaitlyn J. Lee et.al.|[2405.07109](http://arxiv.org/abs/2405.07109)|null|
+|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
+|**2024-05-11**|**Causal Inference from Slowly Varying Nonstationary Processes**|Kang Du et.al.|[2405.06902](http://arxiv.org/abs/2405.06902)|null|
+|**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763](http://arxiv.org/abs/2405.06763)|null|
 |**2024-05-08**|**Combining Rollout Designs and Clustering for Causal Inference under Low-order Interference**|Mayleen Cortez-Rodriguez et.al.|[2405.05119](http://arxiv.org/abs/2405.05119)|null|
 |**2024-05-08**|**Learning Structural Causal Models through Deep Generative Models: Methods, Guarantees, and Challenges**|Audrey Poinsot et.al.|[2405.05025](http://arxiv.org/abs/2405.05025)|null|
 |**2024-05-07**|**Causality Pursuit from Heterogeneous Environments via Neural Adversarial Invariance Learning**|Yihong Gu et.al.|[2405.04715](http://arxiv.org/abs/2405.04715)|null|
@@ -241,6 +263,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors**|Liam Dugan et.al.|[2405.07940](http://arxiv.org/abs/2405.07940)|null|
+|**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
+|**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
 |**2024-05-10**|**Certified $\ell_2$ Attribution Robustness via Uniformly Smoothed Attributions**|Fan Wang et.al.|[2405.06361](http://arxiv.org/abs/2405.06361)|null|
 |**2024-05-10**|**Evaluating Adversarial Robustness in the Spatial Frequency Domain**|Keng-Hsin Liao et.al.|[2405.06345](http://arxiv.org/abs/2405.06345)|null|
 |**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
