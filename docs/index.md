@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -67,7 +67,7 @@ layout: default
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
 |**2024-05-02**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
 |**2024-05-03**|**UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation**|Juhwan Choi et.al.|[2405.01022](http://arxiv.org/abs/2405.01022)|null|
-|**2024-05-05**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
+|**2024-05-14**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286](http://arxiv.org/abs/2404.19286)|null|
 |**2024-04-29**|**Transitive Vision-Language Prompt Learning for Domain Generalization**|Liyuan Wang et.al.|[2404.18758](http://arxiv.org/abs/2404.18758)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
@@ -189,8 +189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-13**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
-|**2024-05-13**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
+|**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
+|**2024-05-14**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
 |**2024-05-13**|**Uniform Inference for Subsampled Moment Regression**|David M. Ritzwoller et.al.|[2405.07860](http://arxiv.org/abs/2405.07860)|null|
 |**2024-05-13**|**Improved Bound for Robust Causal Bandits with Linear Models**|Zirui Yan et.al.|[2405.07795](http://arxiv.org/abs/2405.07795)|null|
 |**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373](http://arxiv.org/abs/2405.07373)|null|
