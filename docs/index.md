@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
 |**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411](http://arxiv.org/abs/2405.07411)|null|
 |**2024-05-12**|**Semi-Self-Supervised Domain Adaptation: Developing Deep Learning Models with Limited Annotated Data for Wheat Head Segmentation**|Alireza Ghanbari et.al.|[2405.07157](http://arxiv.org/abs/2405.07157)|null|
 |**2024-05-12**|**Cross-Domain Continual Learning via CLAMP**|Weiwei Weng et.al.|[2405.07142](http://arxiv.org/abs/2405.07142)|null|
@@ -59,6 +61,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Cross-Domain Feature Augmentation for Domain Generalization**|Yingnan Liu et.al.|[2405.08586](http://arxiv.org/abs/2405.08586)|**[link](https://github.com/nancyquris/xdomainmix)**|
 |**2024-05-11**|**Benchmarking Cross-Domain Audio-Visual Deception Detection**|Xiaobao Guo et.al.|[2405.06995](http://arxiv.org/abs/2405.06995)|null|
 |**2024-05-10**|**Non-stationary Domain Generalization: Theory and Algorithm**|Thai-Hoang Pham et.al.|[2405.06816](http://arxiv.org/abs/2405.06816)|null|
 |**2024-05-10**|**PhysMLE: Generalizable and Priors-Inclusive Multi-task Remote Physiological Measurement**|Jiyao Wang et.al.|[2405.06201](http://arxiv.org/abs/2405.06201)|null|
@@ -92,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
 |**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
@@ -149,6 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval**|Yuchuan Deng et.al.|[2405.07459](http://arxiv.org/abs/2405.07459)|null|
 |**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
@@ -189,6 +195,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**A Brief Introduction to Causal Inference in Machine Learning**|Kyunghyun Cho et.al.|[2405.08793](http://arxiv.org/abs/2405.08793)|null|
+|**2024-05-14**|**Calibrated sensitivity models**|Alec McClean et.al.|[2405.08738](http://arxiv.org/abs/2405.08738)|null|
+|**2024-05-14**|**A Generalized Difference-in-Differences Estimator for Unbiased Estimation of Desired Estimands from Staggered Adoption and Stepped-Wedge Settings**|Lee Kennedy-Shaffer et.al.|[2405.08730](http://arxiv.org/abs/2405.08730)|null|
+|**2024-05-14**|**Weakly-supervised causal discovery based on fuzzy knowledge and complex data complementarity**|Wenrui Li et.al.|[2405.08699](http://arxiv.org/abs/2405.08699)|null|
+|**2024-05-14**|**CIER: A Novel Experience Replay Approach with Causal Inference in Deep Reinforcement Learning**|Jingwen Wang et.al.|[2405.08380](http://arxiv.org/abs/2405.08380)|null|
+|**2024-05-13**|**Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference**|Sahara Ali et.al.|[2405.08174](http://arxiv.org/abs/2405.08174)|null|
+|**2024-05-12**|**PHUDGE: Phi-3 as Scalable Judge**|Mahesh Deshwal et.al.|[2405.08029](http://arxiv.org/abs/2405.08029)|null|
 |**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
 |**2024-05-14**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
 |**2024-05-13**|**Uniform Inference for Subsampled Moment Regression**|David M. Ritzwoller et.al.|[2405.07860](http://arxiv.org/abs/2405.07860)|null|
@@ -245,6 +258,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
+|**2024-05-14**|**Distance-Restricted Explanations: Theoretical Underpinnings & Efficient Implementation**|Yacine Izza et.al.|[2405.08297](http://arxiv.org/abs/2405.08297)|null|
 |**2024-05-13**|**RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors**|Liam Dugan et.al.|[2405.07940](http://arxiv.org/abs/2405.07940)|null|
 |**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
