@@ -1,4 +1,4 @@
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,13 +18,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
-|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-13**|**MoVL:Exploring Fusion Strategies for the Domain-Adaptive Application of Pretrained Models in Medical Imaging Tasks**|Haijiang Tian et.al.|[2405.07411](http://arxiv.org/abs/2405.07411)|null|
 |**2024-05-12**|**Semi-Self-Supervised Domain Adaptation: Developing Deep Learning Models with Limited Annotated Data for Wheat Head Segmentation**|Alireza Ghanbari et.al.|[2405.07157](http://arxiv.org/abs/2405.07157)|null|
-|**2024-05-12**|**Cross-Domain Continual Learning via CLAMP**|Weiwei Weng et.al.|[2405.07142](http://arxiv.org/abs/2405.07142)|null|
+|**2024-05-12**|**Cross-Domain Continual Learning via CLAMP**|Weiwei Weng et.al.|[2405.07142](http://arxiv.org/abs/2405.07142)|**[link](https://github.com/wengweng001/CLAMP_torch)**|
 |**2024-05-11**|**High-order Neighborhoods Know More: HyperGraph Learning Meets Source-free Unsupervised Domain Adaptation**|Jinkun Jiang et.al.|[2405.06916](http://arxiv.org/abs/2405.06916)|null|
 |**2024-05-11**|**ADLDA: A Method to Reduce the Harm of Data Distribution Shift in Data Augmentation**|Haonan Wang et.al.|[2405.06893](http://arxiv.org/abs/2405.06893)|null|
-|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|null|
+|**2024-05-10**|**Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data**|Yonghao Xu et.al.|[2405.06502](http://arxiv.org/abs/2405.06502)|**[link](https://github.com/yonghaoxu/ut-kd)**|
 |**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493](http://arxiv.org/abs/2405.05493)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|
@@ -65,7 +65,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## DG
 
@@ -78,7 +78,7 @@
 |**2024-05-08**|**All in One Framework for Multimodal Re-identification in the Wild**|He Li et.al.|[2405.04741](http://arxiv.org/abs/2405.04741)|null|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
-|**2024-05-02**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
+|**2024-05-15**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
 |**2024-05-03**|**UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation**|Juhwan Choi et.al.|[2405.01022](http://arxiv.org/abs/2405.01022)|null|
 |**2024-05-14**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286](http://arxiv.org/abs/2404.19286)|null|
@@ -101,13 +101,13 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|null|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
@@ -162,13 +162,13 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval**|Yuchuan Deng et.al.|[2405.07459](http://arxiv.org/abs/2405.07459)|null|
 |**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
@@ -205,7 +205,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -217,7 +217,7 @@
 |**2024-05-14**|**Weakly-supervised causal discovery based on fuzzy knowledge and complex data complementarity**|Wenrui Li et.al.|[2405.08699](http://arxiv.org/abs/2405.08699)|null|
 |**2024-05-14**|**CIER: A Novel Experience Replay Approach with Causal Inference in Deep Reinforcement Learning**|Jingwen Wang et.al.|[2405.08380](http://arxiv.org/abs/2405.08380)|null|
 |**2024-05-13**|**Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference**|Sahara Ali et.al.|[2405.08174](http://arxiv.org/abs/2405.08174)|null|
-|**2024-05-12**|**PHUDGE: Phi-3 as Scalable Judge**|Mahesh Deshwal et.al.|[2405.08029](http://arxiv.org/abs/2405.08029)|null|
+|**2024-05-15**|**PHUDGE: Phi-3 as Scalable Judge**|Mahesh Deshwal et.al.|[2405.08029](http://arxiv.org/abs/2405.08029)|null|
 |**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
 |**2024-05-14**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
 |**2024-05-13**|**Uniform Inference for Subsampled Moment Regression**|David M. Ritzwoller et.al.|[2405.07860](http://arxiv.org/abs/2405.07860)|null|
@@ -270,7 +270,7 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## Adversarial
 
@@ -322,5 +322,5 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
