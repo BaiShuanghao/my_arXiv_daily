@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -24,7 +24,7 @@ layout: default
 |**2024-05-08**|**WixUp: A General Data Augmentation Framework for Wireless Perception in Tracking of Humans**|Yin Li et.al.|[2405.04804](http://arxiv.org/abs/2405.04804)|null|
 |**2024-05-07**|**Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment**|Aobo Li et.al.|[2405.04167](http://arxiv.org/abs/2405.04167)|null|
 |**2024-05-07**|**MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization**|Gunjan Balde et.al.|[2405.04163](http://arxiv.org/abs/2405.04163)|**[link](https://github.com/gb-kgp/medvoc)**|
-|**2024-05-07**|**Generalized Cauchy-Schwarz Divergence and Its Deep Learning Applications**|Mingfei Lu et.al.|[2405.04061](http://arxiv.org/abs/2405.04061)|null|
+|**2024-05-16**|**Generalized Cauchy-Schwarz Divergence and Its Deep Learning Applications**|Mingfei Lu et.al.|[2405.04061](http://arxiv.org/abs/2405.04061)|null|
 |**2024-05-06**|**Cross-Modal Domain Adaptation in Brain Disease Diagnosis: Maximum Mean Discrepancy-based Convolutional Neural Networks**|Xuran Zhu et.al.|[2405.03235](http://arxiv.org/abs/2405.03235)|null|
 |**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
 |**2024-05-05**|**Fast One-Stage Unsupervised Domain Adaptive Person Search**|Tianxiang Cui et.al.|[2405.02832](http://arxiv.org/abs/2405.02832)|**[link](https://github.com/whbdmu/fous)**|
@@ -218,7 +218,7 @@ layout: default
 |**2024-05-13**|**Improved Bound for Robust Causal Bandits with Linear Models**|Zirui Yan et.al.|[2405.07795](http://arxiv.org/abs/2405.07795)|null|
 |**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373](http://arxiv.org/abs/2405.07373)|null|
 |**2024-05-11**|**Bridging Binarization: Causal Inference with Dichotomized Continuous Treatments**|Kaitlyn J. Lee et.al.|[2405.07109](http://arxiv.org/abs/2405.07109)|null|
-|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
+|**2024-05-16**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference for Sensor Signals**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
 |**2024-05-11**|**Causal Inference from Slowly Varying Nonstationary Processes**|Kang Du et.al.|[2405.06902](http://arxiv.org/abs/2405.06902)|null|
 |**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763](http://arxiv.org/abs/2405.06763)|null|
 |**2024-05-08**|**Combining Rollout Designs and Clustering for Causal Inference under Low-order Interference**|Mayleen Cortez-Rodriguez et.al.|[2405.05119](http://arxiv.org/abs/2405.05119)|null|
