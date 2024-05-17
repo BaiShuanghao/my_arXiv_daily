@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
+|**2024-05-16**|**IGOT: Information Gain Optimized Tokenizer on Domain Adaptive Pretraining**|Dawei Feng et.al.|[2405.09857](http://arxiv.org/abs/2405.09857)|null|
+|**2024-05-16**|**Rethinking Barely-Supervised Segmentation from an Unsupervised Domain Adaptation Perspective**|Zhiqiang Shen et.al.|[2405.09777](http://arxiv.org/abs/2405.09777)|null|
+|**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[2405.09682](http://arxiv.org/abs/2405.09682)|null|
+|**2024-05-15**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al.|[2405.09582](http://arxiv.org/abs/2405.09582)|null|
 |**2024-05-15**|**Adapting Abstract Meaning Representation Parsing to the Clinical Narrative -- the SPRING THYME parser**|Jon Z. Cai et.al.|[2405.09153](http://arxiv.org/abs/2405.09153)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
@@ -97,6 +102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
+|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
+|**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122](http://arxiv.org/abs/2405.10122)|null|
+|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
+|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-15**|**Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model**|Wanting Xu et.al.|[2405.09215](http://arxiv.org/abs/2405.09215)|**[link](https://github.com/xiaoduoailab/xmodelvlm)**|
 |**2024-05-14**|**Contextual Emotion Recognition using Large Vision Language Models**|Yasaman Etesam et.al.|[2405.08992](http://arxiv.org/abs/2405.08992)|null|
@@ -159,6 +170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**DualFocus: A Unified Framework for Integrating Positive and Negative Descriptors in Text-based Person Retrieval**|Yuchuan Deng et.al.|[2405.07459](http://arxiv.org/abs/2405.07459)|null|
@@ -200,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**The case for specifying the "ideal" target trial**|Margarita Moreno-Betancur et.al.|[2405.10026](http://arxiv.org/abs/2405.10026)|null|
 |**2024-05-15**|**Stability via resampling: statistical problems beyond the real line**|Jake A. Soloff et.al.|[2405.09511](http://arxiv.org/abs/2405.09511)|null|
 |**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
 |**2024-05-15**|**Causal Inference for a Hidden Treatment**|Ying Zhou et.al.|[2405.09080](http://arxiv.org/abs/2405.09080)|null|
@@ -213,7 +226,7 @@ layout: default
 |**2024-05-13**|**Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference**|Sahara Ali et.al.|[2405.08174](http://arxiv.org/abs/2405.08174)|null|
 |**2024-05-15**|**PHUDGE: Phi-3 as Scalable Judge**|Mahesh Deshwal et.al.|[2405.08029](http://arxiv.org/abs/2405.08029)|null|
 |**2024-05-14**|**Low-order outcomes and clustered designs: combining design and analysis for causal inference under network interference**|Matthew Eichhorn et.al.|[2405.07979](http://arxiv.org/abs/2405.07979)|null|
-|**2024-05-14**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
+|**2024-05-15**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910](http://arxiv.org/abs/2405.07910)|null|
 |**2024-05-13**|**Uniform Inference for Subsampled Moment Regression**|David M. Ritzwoller et.al.|[2405.07860](http://arxiv.org/abs/2405.07860)|null|
 |**2024-05-13**|**Improved Bound for Robust Causal Bandits with Linear Models**|Zirui Yan et.al.|[2405.07795](http://arxiv.org/abs/2405.07795)|null|
 |**2024-05-12**|**Probabilistic and Causal Satisfiability: the Impact of Marginalization**|Julian Dörfler et.al.|[2405.07373](http://arxiv.org/abs/2405.07373)|null|
@@ -268,6 +281,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
+|**2024-05-15**|**Training Deep Learning Models with Hybrid Datasets for Robust Automatic Target Detection on real SAR images**|Benjamin Camus et.al.|[2405.09588](http://arxiv.org/abs/2405.09588)|null|
+|**2024-05-15**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al.|[2405.09582](http://arxiv.org/abs/2405.09582)|null|
 |**2024-05-15**|**Sensitivity Decouple Learning for Image Compression Artifacts Reduction**|Li Ma et.al.|[2405.09291](http://arxiv.org/abs/2405.09291)|null|
 |**2024-05-14**|**The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**|Ziquan Liu et.al.|[2405.08886](http://arxiv.org/abs/2405.08886)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
