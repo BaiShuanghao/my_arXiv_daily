@@ -10,6 +10,7 @@
     <li><a href=#prompt>Prompt</a></li>
     <li><a href=#causal-learning>Causal Learning</a></li>
     <li><a href=#adversarial>Adversarial</a></li>
+    <li><a href=#robotics>Robotics</a></li>
   </ol>
 </details>
 
@@ -349,6 +350,33 @@
 |**2024-04-18**|**Enhancing AI Diagnostics: Autonomous Lesion Masking via Semi-Supervised Deep Learning**|Ting-Ruen Wei et.al.|[2404.12450](http://arxiv.org/abs/2404.12450)|null|
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
+
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+
+## Robotics
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-05-16**|**Introducing Learning Rate Adaptation CMA-ES into Rigid 2D/3D Registration for Robotic Navigation in Spine Surgery**|Zhirun Zhang et.al.|[2405.10186](http://arxiv.org/abs/2405.10186)|null|
+|**2024-05-16**|**ACES: A Teleoperated Robotic Solution to Pipe Inspection from the Inside**|Eric Lucet et.al.|[2405.09925](http://arxiv.org/abs/2405.09925)|null|
+|**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[2405.09755](http://arxiv.org/abs/2405.09755)|null|
+|**2024-05-15**|**VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics**|Song Jingwei et.al.|[2405.09375](http://arxiv.org/abs/2405.09375)|null|
+|**2024-05-14**|**Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation**|Jared Mejia et.al.|[2405.08576](http://arxiv.org/abs/2405.08576)|null|
+|**2024-05-14**|**The Stiffness of 3-PRS PM Across Parasitic and Orientational Workspace**|Hassen Nigatu et.al.|[2405.08418](http://arxiv.org/abs/2405.08418)|null|
+|**2024-05-15**|**Computational Thought Experiments for a More Rigorous Philosophy and Science of the Mind**|Iris Oved et.al.|[2405.08304](http://arxiv.org/abs/2405.08304)|null|
+|**2024-05-13**|**Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes**|Zili Tang et.al.|[2405.07908](http://arxiv.org/abs/2405.07908)|null|
+|**2024-05-13**|**RoboCAP: Robotic Classification and Precision Pouring of Diverse Liquids and Granular Media with Capacitive Sensing**|Yexin Hu et.al.|[2405.07423](http://arxiv.org/abs/2405.07423)|null|
+|**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
+|**2024-05-11**|**ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots**|Zhixuan Xu et.al.|[2405.06964](http://arxiv.org/abs/2405.06964)|null|
+|**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422](http://arxiv.org/abs/2405.06422)|null|
+|**2024-05-09**|**Evaluating Real-World Robot Manipulation Policies in Simulation**|Xuanlin Li et.al.|[2405.05941](http://arxiv.org/abs/2405.05941)|**[link](https://github.com/simpler-env/SimplerEnv)**|
+|**2024-05-09**|**Composable Part-Based Manipulation**|Weiyu Liu et.al.|[2405.05876](http://arxiv.org/abs/2405.05876)|null|
+|**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
+|**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792](http://arxiv.org/abs/2405.05792)|null|
+|**2024-05-08**|**General Place Recognition Survey: Towards Real-World Autonomy**|Peng Yin et.al.|[2405.04812](http://arxiv.org/abs/2405.04812)|**[link](https://github.com/MetaSLAM/GPRS)**|
+|**2024-05-08**|**From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control**|Yide Shentu et.al.|[2405.04798](http://arxiv.org/abs/2405.04798)|null|
+|**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
+|**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|null|
 
 <p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
