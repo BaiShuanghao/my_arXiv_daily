@@ -51,3 +51,6 @@ keywords:
         filters: ["Causal Inference", "Causal model", "Causal Discovery", "Causal reasoning"]
     "Adversarial":
         filters: ["Adversarial Robustness", "Adversarial Training"]
+    "Robotics":
+        filters: ["Robot", "Embodied Agent", "Robot Manipulation", "Robot Navigation"]
+        
