@@ -52,5 +52,5 @@ keywords:
     "Adversarial":
         filters: ["Adversarial Robustness", "Adversarial Training"]
     "Robotics":
-        filters: ["Robot", "Embodied Agent", "Robot Manipulation", "Robot Navigation"]
+        filters: ["Embodied Agent", "Robot Manipulation", "Robot Navigation"]
         
