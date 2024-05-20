@@ -46,7 +46,7 @@
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Improving Domain Generalization on Gaze Estimation via Branch-out Auxiliary Regularization**|Ruijie Zhao et.al.|[2405.01439](http://arxiv.org/abs/2405.01439)|null|
 |**2024-05-01**|**More is Better: Deep Domain Adaptation with Multiple Sources**|Sicheng Zhao et.al.|[2405.00749](http://arxiv.org/abs/2405.00749)|null|
-|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|**[link](https://github.com/ch-andrei/hdr-iqa-dom-adapt)**|
 |**2024-05-01**|**Get Your Embedding Space in Order: Domain-Adaptive Regression for Forest Monitoring**|Sizhuo Li et.al.|[2405.00514](http://arxiv.org/abs/2405.00514)|null|
 |**2024-05-05**|**A Self-explaining Neural Architecture for Generalizable Concept Learning**|Sanchit Sinha et.al.|[2405.00349](http://arxiv.org/abs/2405.00349)|null|
 |**2024-04-30**|**Block-As-Domain Adaptation for Workload Prediction from fNIRS Data**|Jiyang Wang et.al.|[2405.00213](http://arxiv.org/abs/2405.00213)|null|
@@ -144,7 +144,7 @@
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
 |**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954](http://arxiv.org/abs/2405.02954)|null|
 |**2024-05-05**|**Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models**|Tobias Groot et.al.|[2405.02917](http://arxiv.org/abs/2405.02917)|null|
-|**2024-05-05**|**Octopi: Object Property Reasoning with Large Tactile-Language Models**|Samson Yu et.al.|[2405.02794](http://arxiv.org/abs/2405.02794)|null|
+|**2024-05-05**|**Octopi: Object Property Reasoning with Large Tactile-Language Models**|Samson Yu et.al.|[2405.02794](http://arxiv.org/abs/2405.02794)|**[link](https://github.com/clear-nus/octopi)**|
 |**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
 |**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
@@ -212,10 +212,10 @@
 |**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824](http://arxiv.org/abs/2404.16824)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
 |**2024-04-25**|**Training-Free Unsupervised Prompt for Vision-Language Models**|Sifan Long et.al.|[2404.16339](http://arxiv.org/abs/2404.16339)|**[link](https://github.com/wlb12345/tfup)**|
-|**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|null|
+|**2024-04-23**|**Multi-Modal Prompt Learning on Blind Image Quality Assessment**|Wensheng Pan et.al.|[2404.14949](http://arxiv.org/abs/2404.14949)|**[link](https://github.com/stephencurry-web/IQA)**|
 |**2024-04-24**|**Adaptive Prompt Learning with Negative Textual Semantics and Uncertainty Modeling for Universal Multi-Source Domain Adaptation**|Yuxiang Yang et.al.|[2404.14696](http://arxiv.org/abs/2404.14696)|null|
 |**2024-04-22**|**Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language Learning**|Yanhui Guo et.al.|[2404.14607](http://arxiv.org/abs/2404.14607)|null|
-|**2024-04-22**|**DAIC-WOZ: On the Validity of Using the Therapist's prompts in Automatic Depression Detection from Clinical Interviews**|Sergio Burdisso et.al.|[2404.14463](http://arxiv.org/abs/2404.14463)|null|
+|**2024-04-22**|**DAIC-WOZ: On the Validity of Using the Therapist's prompts in Automatic Depression Detection from Clinical Interviews**|Sergio Burdisso et.al.|[2404.14463](http://arxiv.org/abs/2404.14463)|**[link](https://github.com/idiap/bias_in_daic-woz)**|
 |**2024-04-19**|**A Large-scale Medical Visual Task Adaptation Benchmark**|Shentong Mo et.al.|[2404.12876](http://arxiv.org/abs/2404.12876)|null|
 |**2024-04-19**|**Requirements Satisfiability with In-Context Learning**|Sarah Santos et.al.|[2404.12576](http://arxiv.org/abs/2404.12576)|**[link](https://github.com/cmu-relab/req_sat)**|
 |**2024-04-18**|**SKIP: Skill-Localized Prompt Tuning for Inference Speed Boost-Up**|Nakyeong Yang et.al.|[2404.11916](http://arxiv.org/abs/2404.11916)|null|
