@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
+|**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
+|**2024-05-16**|**Beyond Traditional Single Object Tracking: A Survey**|Omar Abdelaziz et.al.|[2405.10439](http://arxiv.org/abs/2405.10439)|null|
 |**2024-05-16**|**PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning**|Jiancheng Pan et.al.|[2405.10160](http://arxiv.org/abs/2405.10160)|**[link](https://github.com/jaychempan/pir-clip)**|
 |**2024-05-16**|**IGOT: Information Gain Optimized Tokenizer on Domain Adaptive Pretraining**|Dawei Feng et.al.|[2405.09857](http://arxiv.org/abs/2405.09857)|null|
 |**2024-05-16**|**Rethinking Barely-Supervised Segmentation from an Unsupervised Domain Adaptation Perspective**|Zhiqiang Shen et.al.|[2405.09777](http://arxiv.org/abs/2405.09777)|null|
@@ -67,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification**|Jinge Wu et.al.|[2405.10440](http://arxiv.org/abs/2405.10440)|null|
 |**2024-05-15**|**RobustMVS: Single Domain Generalized Deep Multi-view Stereo**|Hongbin Xu et.al.|[2405.09131](http://arxiv.org/abs/2405.09131)|**[link](https://github.com/toughstonex/mvs_evaluation_benchmark)**|
 |**2024-05-14**|**Cross-Domain Feature Augmentation for Domain Generalization**|Yingnan Liu et.al.|[2405.08586](http://arxiv.org/abs/2405.08586)|**[link](https://github.com/nancyquris/xdomainmix)**|
 |**2024-05-11**|**Benchmarking Cross-Domain Audio-Visual Deception Detection**|Xiaobao Guo et.al.|[2405.06995](http://arxiv.org/abs/2405.06995)|null|
@@ -102,6 +106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
 |**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
@@ -170,6 +175,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models**|Zikun Zhou et.al.|[2405.10610](http://arxiv.org/abs/2405.10610)|null|
+|**2024-05-17**|**GPTs Window Shopping: An analysis of the Landscape of Custom ChatGPT Models**|Benjamin Zi Hao Zhao et.al.|[2405.10547](http://arxiv.org/abs/2405.10547)|null|
+|**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
+|**2024-05-16**|**Learning to Predict Mutation Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**|Lirong Wu et.al.|[2405.10348](http://arxiv.org/abs/2405.10348)|null|
 |**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
@@ -212,6 +221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Causality in the Can: Diet Coke's Impact on Fatness**|Yicheng Qi et.al.|[2405.10746](http://arxiv.org/abs/2405.10746)|null|
+|**2024-05-16**|**Causal Discovery in Multivariate Extremes with a Hydrological Analysis of Swiss River Discharges**|Linda Mhalla et.al.|[2405.10371](http://arxiv.org/abs/2405.10371)|null|
 |**2024-05-16**|**The case for specifying the "ideal" target trial**|Margarita Moreno-Betancur et.al.|[2405.10026](http://arxiv.org/abs/2405.10026)|null|
 |**2024-05-15**|**Stability via resampling: statistical problems beyond the real line**|Jake A. Soloff et.al.|[2405.09511](http://arxiv.org/abs/2405.09511)|null|
 |**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
@@ -281,6 +292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
+|**2024-05-16**|**Adversarial Robustness Guarantees for Quantum Classifiers**|Neil Dowling et.al.|[2405.10360](http://arxiv.org/abs/2405.10360)|null|
 |**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
 |**2024-05-15**|**Training Deep Learning Models with Hybrid Datasets for Robust Automatic Target Detection on real SAR images**|Benjamin Camus et.al.|[2405.09588](http://arxiv.org/abs/2405.09588)|null|
 |**2024-05-15**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al.|[2405.09582](http://arxiv.org/abs/2405.09582)|null|
