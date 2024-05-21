@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
+|**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
+|**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
+|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-19**|**Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors**|Chun-Yin Huang et.al.|[2405.11525](http://arxiv.org/abs/2405.11525)|null|
+|**2024-05-18**|**Wind Power Prediction across Different Locations using Deep Domain Adaptive Learning**|Md Saiful Islam Sajol et.al.|[2405.11188](http://arxiv.org/abs/2405.11188)|null|
 |**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
 |**2024-05-16**|**Beyond Traditional Single Object Tracking: A Survey**|Omar Abdelaziz et.al.|[2405.10439](http://arxiv.org/abs/2405.10439)|null|
@@ -70,6 +76,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
+|**2024-05-18**|**LexGen: Domain-aware Multilingual Lexicon Generation**|Karthika NJ et.al.|[2405.11200](http://arxiv.org/abs/2405.11200)|null|
+|**2024-05-18**|**Domain Generalization for Zero-calibration BCIs with Knowledge Distillation-based Phase Invariant Feature Extraction**|Zilin Liang et.al.|[2405.11163](http://arxiv.org/abs/2405.11163)|null|
 |**2024-05-16**|**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification**|Jinge Wu et.al.|[2405.10440](http://arxiv.org/abs/2405.10440)|null|
 |**2024-05-15**|**RobustMVS: Single Domain Generalized Deep Multi-view Stereo**|Hongbin Xu et.al.|[2405.09131](http://arxiv.org/abs/2405.09131)|**[link](https://github.com/toughstonex/mvs_evaluation_benchmark)**|
 |**2024-05-14**|**Cross-Domain Feature Augmentation for Domain Generalization**|Yingnan Liu et.al.|[2405.08586](http://arxiv.org/abs/2405.08586)|**[link](https://github.com/nancyquris/xdomainmix)**|
@@ -106,6 +115,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Rethinking Overlooked Aspects in Vision-Language Models**|Yuan Liu et.al.|[2405.11850](http://arxiv.org/abs/2405.11850)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
+|**2024-05-18**|**MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection**|Ximiao Zhang et.al.|[2405.11315](http://arxiv.org/abs/2405.11315)|**[link](https://github.com/cnulab/mediclip)**|
+|**2024-05-18**|**Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models**|Canshi Wei et.al.|[2405.11301](http://arxiv.org/abs/2405.11301)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
+|**2024-05-18**|**Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions**|Junzhang Liu et.al.|[2405.11145](http://arxiv.org/abs/2405.11145)|null|
 |**2024-05-17**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
 |**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
@@ -175,6 +190,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976](http://arxiv.org/abs/2405.11976)|**[link](https://github.com/sunzc-sunny/ppad)**|
+|**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478](http://arxiv.org/abs/2405.11478)|null|
+|**2024-05-19**|**Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion**|Pengxiang Lan et.al.|[2405.11464](http://arxiv.org/abs/2405.11464)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-17**|**Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models**|Zikun Zhou et.al.|[2405.10610](http://arxiv.org/abs/2405.10610)|null|
 |**2024-05-17**|**GPTs Window Shopping: An analysis of the Landscape of Custom ChatGPT Models**|Benjamin Zi Hao Zhao et.al.|[2405.10547](http://arxiv.org/abs/2405.10547)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
@@ -221,6 +240,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-19**|**Adaptive Online Experimental Design for Causal Discovery**|Muhammad Qasim Elahi et.al.|[2405.11548](http://arxiv.org/abs/2405.11548)|null|
+|**2024-05-18**|**Causal Customer Churn Analysis with Low-rank Tensor Block Hazard Model**|Chenyin Gao et.al.|[2405.11377](http://arxiv.org/abs/2405.11377)|null|
+|**2024-05-18**|**The Logic of Counterfactuals and the Epistemology of Causal Inference**|Hanti Lin et.al.|[2405.11284](http://arxiv.org/abs/2405.11284)|null|
+|**2024-05-18**|**Argumentative Causal Discovery**|Fabrizio Russo et.al.|[2405.11250](http://arxiv.org/abs/2405.11250)|**[link](https://github.com/briziorusso/argcausaldisco)**|
+|**2024-05-16**|**Relative Counterfactual Contrastive Learning for Mitigating Pretrained Stance Bias in Stance Detection**|Jiarui Zhang et.al.|[2405.10991](http://arxiv.org/abs/2405.10991)|null|
 |**2024-05-17**|**Causality in the Can: Diet Coke's Impact on Fatness**|Yicheng Qi et.al.|[2405.10746](http://arxiv.org/abs/2405.10746)|null|
 |**2024-05-16**|**Causal Discovery in Multivariate Extremes with a Hydrological Analysis of Swiss River Discharges**|Linda Mhalla et.al.|[2405.10371](http://arxiv.org/abs/2405.10371)|null|
 |**2024-05-16**|**The case for specifying the "ideal" target trial**|Margarita Moreno-Betancur et.al.|[2405.10026](http://arxiv.org/abs/2405.10026)|null|
@@ -292,6 +316,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
+|**2024-05-16**|**Learnable Privacy Neurons Localization in Language Models**|Ruizhe Chen et.al.|[2405.10989](http://arxiv.org/abs/2405.10989)|**[link](https://github.com/richhh520/learnable-privacy-neurons-localization)**|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
 |**2024-05-16**|**Adversarial Robustness Guarantees for Quantum Classifiers**|Neil Dowling et.al.|[2405.10360](http://arxiv.org/abs/2405.10360)|null|
 |**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
@@ -349,6 +376,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
+|**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
+|**2024-05-18**|**Characterizing the Complexity of Social Robot Navigation Scenarios**|Andrew Stratton et.al.|[2405.11410](http://arxiv.org/abs/2405.11410)|null|
+|**2024-05-17**|**Affine Transformation-based Perfectly Undetectable False Data Injection Attacks on Remote Manipulator Kinematic Control with Attack Detector**|Jun Ueda et.al.|[2405.11047](http://arxiv.org/abs/2405.11047)|null|
 |**2024-05-16**|**Introducing Learning Rate Adaptation CMA-ES into Rigid 2D/3D Registration for Robotic Navigation in Spine Surgery**|Zhirun Zhang et.al.|[2405.10186](http://arxiv.org/abs/2405.10186)|null|
 |**2024-05-16**|**ACES: A Teleoperated Robotic Solution to Pipe Inspection from the Inside**|Eric Lucet et.al.|[2405.09925](http://arxiv.org/abs/2405.09925)|null|
 |**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[2405.09755](http://arxiv.org/abs/2405.09755)|null|
