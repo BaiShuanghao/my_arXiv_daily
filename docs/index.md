@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|null|
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -115,6 +116,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
+|**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
+|**2024-05-20**|**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**|Shantanu Ghosh et.al.|[2405.12255](http://arxiv.org/abs/2405.12255)|**[link](https://github.com/batmanlab/mammo-clip)**|
 |**2024-05-20**|**Rethinking Overlooked Aspects in Vision-Language Models**|Yuan Liu et.al.|[2405.11850](http://arxiv.org/abs/2405.11850)|null|
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
 |**2024-05-18**|**MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection**|Ximiao Zhang et.al.|[2405.11315](http://arxiv.org/abs/2405.11315)|**[link](https://github.com/cnulab/mediclip)**|
@@ -190,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Prompt Learning for Generalized Vehicle Routing**|Fei Liu et.al.|[2405.12262](http://arxiv.org/abs/2405.12262)|null|
 |**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976](http://arxiv.org/abs/2405.11976)|**[link](https://github.com/sunzc-sunny/ppad)**|
 |**2024-05-19**|**Unsupervised Image Prior via Prompt Learning and CLIP Semantic Guidance for Low-Light Image Enhancement**|Igor Morawski et.al.|[2405.11478](http://arxiv.org/abs/2405.11478)|null|
 |**2024-05-19**|**Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion**|Pengxiang Lan et.al.|[2405.11464](http://arxiv.org/abs/2405.11464)|null|
@@ -240,6 +245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Learning Causal Dynamics Models in Object-Oriented Environments**|Zhongwei Yu et.al.|[2405.12615](http://arxiv.org/abs/2405.12615)|null|
+|**2024-05-20**|**Decomposing causality into its synergistic, unique, and redundant components**|Álvaro Martínez-Sánchez et.al.|[2405.12411](http://arxiv.org/abs/2405.12411)|null|
+|**2024-05-20**|**Conformal Counterfactual Inference under Hidden Confounding**|Zonghao Chen et.al.|[2405.12387](http://arxiv.org/abs/2405.12387)|null|
 |**2024-05-19**|**Adaptive Online Experimental Design for Causal Discovery**|Muhammad Qasim Elahi et.al.|[2405.11548](http://arxiv.org/abs/2405.11548)|null|
 |**2024-05-18**|**Causal Customer Churn Analysis with Low-rank Tensor Block Hazard Model**|Chenyin Gao et.al.|[2405.11377](http://arxiv.org/abs/2405.11377)|null|
 |**2024-05-18**|**The Logic of Counterfactuals and the Epistemology of Causal Inference**|Hanti Lin et.al.|[2405.11284](http://arxiv.org/abs/2405.11284)|null|
@@ -316,6 +324,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Paired Conditional Generative Adversarial Network for Highly Accelerated Liver 4D MRI**|Di Xu et.al.|[2405.12357](http://arxiv.org/abs/2405.12357)|null|
+|**2024-05-20**|**EGAN: Evolutional GAN for Ransomware Evasion**|Daniel Commey et.al.|[2405.12266](http://arxiv.org/abs/2405.12266)|null|
 |**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
 |**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-16**|**Learnable Privacy Neurons Localization in Language Models**|Ruizhe Chen et.al.|[2405.10989](http://arxiv.org/abs/2405.10989)|**[link](https://github.com/richhh520/learnable-privacy-neurons-localization)**|
@@ -376,6 +386,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher et.al.|[2405.12616](http://arxiv.org/abs/2405.12616)|null|
+|**2024-05-21**|**WorldAfford: Affordance Grounding based on Natural Language Instructions**|Changmao Chen et.al.|[2405.12461](http://arxiv.org/abs/2405.12461)|null|
+|**2024-05-20**|**Flexible Active Safety Motion Control for Robotic Obstacle Avoidance: A CBF-Guided MPC Approach**|Jinhao Liu et.al.|[2405.12408](http://arxiv.org/abs/2405.12408)|null|
 |**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
 |**2024-05-18**|**Characterizing the Complexity of Social Robot Navigation Scenarios**|Andrew Stratton et.al.|[2405.11410](http://arxiv.org/abs/2405.11410)|null|
