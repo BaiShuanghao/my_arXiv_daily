@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**CEEBERT: Cross-Domain Inference in Early Exit BERT**|Divya Jyoti Bajpai et.al.|[2405.15039](http://arxiv.org/abs/2405.15039)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
 |**2024-05-23**|**SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Kai Yao et.al.|[2405.14278](http://arxiv.org/abs/2405.14278)|null|
 |**2024-05-22**|**Rehearsal-free Federated Domain-incremental Learning**|Rui Sun et.al.|[2405.13900](http://arxiv.org/abs/2405.13900)|null|
@@ -81,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225](http://arxiv.org/abs/2405.15225)|null|
+|**2024-05-24**|**Exploring the Impact of Synthetic Data for Aerial-view Human Detection**|Hyungtae Lee et.al.|[2405.15203](http://arxiv.org/abs/2405.15203)|null|
 |**2024-05-23**|**Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment**|Muhammad Sohail Danish et.al.|[2405.14497](http://arxiv.org/abs/2405.14497)|null|
 |**2024-05-21**|**Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting**|Krishna Prasad Varadarajan Srinivasan et.al.|[2405.13181](http://arxiv.org/abs/2405.13181)|null|
 |**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
@@ -122,6 +125,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
+|**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
+|**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
+|**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580](http://arxiv.org/abs/2405.15580)|null|
+|**2024-05-24**|**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization**|Beitao Chen et.al.|[2405.15356](http://arxiv.org/abs/2405.15356)|null|
+|**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289](http://arxiv.org/abs/2405.15289)|null|
+|**2024-05-24**|**Learning from True-False Labels via Multi-modal Prompt Retrieving**|Zhongnian Li et.al.|[2405.15228](http://arxiv.org/abs/2405.15228)|**[link](https://github.com/tranquilxu/tmp)**|
+|**2024-05-24**|**CLIP model is an Efficient Online Lifelong Learner**|Leyuan Wang et.al.|[2405.15155](http://arxiv.org/abs/2405.15155)|null|
+|**2024-05-23**|**Agentic Skill Discovery**|Xufeng Zhao et.al.|[2405.15019](http://arxiv.org/abs/2405.15019)|null|
+|**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
 |**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
 |**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715](http://arxiv.org/abs/2405.14715)|null|
@@ -217,6 +230,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633](http://arxiv.org/abs/2405.15633)|**[link](https://github.com/tdemin16/multi-lane)**|
+|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282](http://arxiv.org/abs/2405.15282)|null|
+|**2024-05-24**|**Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**|Huali Ren et.al.|[2405.15161](http://arxiv.org/abs/2405.15161)|null|
+|**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-23**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|null|
 |**2024-05-22**|**What Makes Good Few-shot Examples for Vision-Language Models?**|Zhaojun Guo et.al.|[2405.13532](http://arxiv.org/abs/2405.13532)|null|
 |**2024-05-21**|**Multi-domain Knowledge Graph Collaborative Pre-training and Prompt Tuning for Diverse Downstream Tasks**|Yichi Zhang et.al.|[2405.13085](http://arxiv.org/abs/2405.13085)|null|
@@ -271,6 +289,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Consistency of Neural Causal Partial Identification**|Jiyuan Tan et.al.|[2405.15673](http://arxiv.org/abs/2405.15673)|null|
+|**2024-05-24**|**Coordinated Multi-Neighborhood Learning on a Directed Acyclic Graph**|Stephen Smith et.al.|[2405.15358](http://arxiv.org/abs/2405.15358)|**[link](https://github.com/stephenvsmith/cml)**|
+|**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289](http://arxiv.org/abs/2405.15289)|null|
+|**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225](http://arxiv.org/abs/2405.15225)|null|
+|**2024-05-24**|**Learning the Distribution Map in Reverse Causal Performative Prediction**|Daniele Bracale et.al.|[2405.15172](http://arxiv.org/abs/2405.15172)|null|
+|**2024-05-24**|**A Counterfactual Analysis of the Dishonest Casino**|Martin Haugh et.al.|[2405.15120](http://arxiv.org/abs/2405.15120)|null|
 |**2024-05-23**|**Local Causal Discovery for Structural Evidence of Direct Discrimination**|Jacqueline Maasch et.al.|[2405.14848](http://arxiv.org/abs/2405.14848)|null|
 |**2024-05-23**|**Implicit Personalization in Language Models: A Systematic Study**|Zhijing Jin et.al.|[2405.14808](http://arxiv.org/abs/2405.14808)|null|
 |**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728](http://arxiv.org/abs/2405.14728)|null|
@@ -364,6 +388,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Efficient Adversarial Training in LLMs with Continuous Attacks**|Sophie Xhonneux et.al.|[2405.15589](http://arxiv.org/abs/2405.15589)|null|
+|**2024-05-24**|**Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient**|Yongliang Wu et.al.|[2405.15304](http://arxiv.org/abs/2405.15304)|null|
+|**2024-05-24**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
 |**2024-05-23**|**Certified Robustness against Sparse Adversarial Perturbations via Data Localization**|Ambar Pal et.al.|[2405.14176](http://arxiv.org/abs/2405.14176)|null|
 |**2024-05-22**|**Adversarial Training of Two-Layer Polynomial and ReLU Activation Networks via Convex Optimization**|Daniel Kuelbs et.al.|[2405.14033](http://arxiv.org/abs/2405.14033)|**[link](https://github.com/dklbs493/convex_adversarial_robustness)**|
 |**2024-05-22**|**High-dimensional (Group) Adversarial Training in Linear Regression**|Yiling Xie et.al.|[2405.13940](http://arxiv.org/abs/2405.13940)|null|
@@ -430,6 +457,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**TD3 Based Collision Free Motion Planning for Robot Navigation**|Hao Liu et.al.|[2405.15460](http://arxiv.org/abs/2405.15460)|null|
+|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
+|**2024-05-23**|**Social Zone as a Barrier Function for Socially-Compliant Robot Navigation**|Junwoo Jang et.al.|[2405.15101](http://arxiv.org/abs/2405.15101)|null|
 |**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|null|
 |**2024-05-23**|**A Unification Between Deep-Learning Vision, Compartmental Dynamical Thermodynamics, and Robotic Manipulation for a Circular Economy**|Federico Zocco et.al.|[2405.14406](http://arxiv.org/abs/2405.14406)|null|
 |**2024-05-23**|**Skip-SCAR: A Modular Approach to ObjectGoal Navigation with Sparsity and Adaptive Skips**|Yaotian Liu et.al.|[2405.14154](http://arxiv.org/abs/2405.14154)|null|
