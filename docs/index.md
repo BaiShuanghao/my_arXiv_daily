@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -132,7 +132,7 @@ layout: default
 |**2024-05-23**|**Unveiling the Tapestry of Consistency in Large Vision-Language Models**|Yuan Zhang et.al.|[2405.14156](http://arxiv.org/abs/2405.14156)|null|
 |**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
 |**2024-05-22**|**Refining Skewed Perceptions in Vision-Language Models through Visual Representations**|Haocheng Dai et.al.|[2405.14030](http://arxiv.org/abs/2405.14030)|null|
-|**2024-05-22**|**No Filter: Cultural and Socioeconomic Diversityin Contrastive Vision-Language Models**|Angéline Pouget et.al.|[2405.13777](http://arxiv.org/abs/2405.13777)|null|
+|**2024-05-24**|**No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models**|Angéline Pouget et.al.|[2405.13777](http://arxiv.org/abs/2405.13777)|null|
 |**2024-05-22**|**Safety Alignment for Vision Language Models**|Zhendong Liu et.al.|[2405.13581](http://arxiv.org/abs/2405.13581)|null|
 |**2024-05-22**|**AltChart: Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks**|Omar Moured et.al.|[2405.13580](http://arxiv.org/abs/2405.13580)|null|
 |**2024-05-22**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
