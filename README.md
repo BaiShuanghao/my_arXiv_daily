@@ -1,4 +1,4 @@
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -87,7 +87,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## DG
 
@@ -132,7 +132,7 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|null|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## VLM
 
@@ -151,7 +151,7 @@
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
 |**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
 |**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715](http://arxiv.org/abs/2405.14715)|null|
-|**2024-05-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
+|**2024-05-25**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
 |**2024-05-23**|**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**|Chuanhao Li et.al.|[2405.14554](http://arxiv.org/abs/2405.14554)|null|
 |**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230](http://arxiv.org/abs/2405.14230)|null|
@@ -239,7 +239,7 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Prompt
 
@@ -300,7 +300,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -401,7 +401,7 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Adversarial
 
@@ -472,7 +472,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 ## Robotics
 
@@ -491,7 +491,7 @@
 |**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher et.al.|[2405.12616](http://arxiv.org/abs/2405.12616)|null|
 |**2024-05-21**|**WorldAfford: Affordance Grounding based on Natural Language Instructions**|Changmao Chen et.al.|[2405.12461](http://arxiv.org/abs/2405.12461)|null|
 |**2024-05-20**|**Flexible Active Safety Motion Control for Robotic Obstacle Avoidance: A CBF-Guided MPC Approach**|Jinhao Liu et.al.|[2405.12408](http://arxiv.org/abs/2405.12408)|null|
-|**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
+|**2024-05-26**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
 |**2024-05-18**|**Characterizing the Complexity of Social Robot Navigation Scenarios**|Andrew Stratton et.al.|[2405.11410](http://arxiv.org/abs/2405.11410)|null|
 |**2024-05-17**|**Affine Transformation-based Perfectly Undetectable False Data Injection Attacks on Remote Manipulator Kinematic Control with Attack Detector**|Jun Ueda et.al.|[2405.11047](http://arxiv.org/abs/2405.11047)|null|
@@ -516,5 +516,5 @@
 |**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-20**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|**[link](https://github.com/irmvlab/diff-ip2d)**|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
