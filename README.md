@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Supervised Batch Normalization**|Bilal Faye et.al.|[2405.17027](http://arxiv.org/abs/2405.17027)|null|
+|**2024-05-27**|**Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings**|Robert Wolfe et.al.|[2405.16820](http://arxiv.org/abs/2405.16820)|null|
+|**2024-05-27**|**Automatic Domain Adaptation by Transformers in In-Context Learning**|Ryuichiro Hataya et.al.|[2405.16819](http://arxiv.org/abs/2405.16819)|null|
+|**2024-05-26**|**Incremental Pseudo-Labeling for Black-Box Unsupervised Domain Adaptation**|Yawen Zou et.al.|[2405.16437](http://arxiv.org/abs/2405.16437)|null|
+|**2024-05-25**|**SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors**|Jiawei Fang et.al.|[2405.16152](http://arxiv.org/abs/2405.16152)|null|
+|**2024-05-25**|**5W1H Extraction With Large Language Models**|Yang Cao et.al.|[2405.16150](http://arxiv.org/abs/2405.16150)|null|
+|**2024-05-25**|**Multi-scale Quaternion CNN and BiGRU with Cross Self-attention Feature Fusion for Fault Diagnosis of Bearing**|Huanbai Liu et.al.|[2405.16114](http://arxiv.org/abs/2405.16114)|**[link](https://github.com/mubai011/MQCCAF)**|
+|**2024-05-25**|**Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation**|Hongye Zeng et.al.|[2405.16102](http://arxiv.org/abs/2405.16102)|**[link](https://github.com/zenghy96/reliable-source-approximation)**|
+|**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
 |**2024-05-23**|**CEEBERT: Cross-Domain Inference in Early Exit BERT**|Divya Jyoti Bajpai et.al.|[2405.15039](http://arxiv.org/abs/2405.15039)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
 |**2024-05-23**|**SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Kai Yao et.al.|[2405.14278](http://arxiv.org/abs/2405.14278)|null|
@@ -27,7 +36,7 @@
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
-|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-27**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
 |**2024-05-19**|**Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors**|Chun-Yin Huang et.al.|[2405.11525](http://arxiv.org/abs/2405.11525)|null|
 |**2024-05-18**|**Wind Power Prediction across Different Locations using Deep Domain Adaptive Learning**|Md Saiful Islam Sajol et.al.|[2405.11188](http://arxiv.org/abs/2405.11188)|null|
 |**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
@@ -93,8 +102,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-25**|**Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients**|Farhad Pourpanah et.al.|[2405.16304](http://arxiv.org/abs/2405.16304)|null|
+|**2024-05-25**|**Continuous Temporal Domain Generalization**|Zekun Cai et.al.|[2405.16075](http://arxiv.org/abs/2405.16075)|null|
+|**2024-05-24**|**Grounding Stylistic Domain Generalization with Quantitative Domain Shift Measures and Synthetic Scene Images**|Yiran Luo et.al.|[2405.15961](http://arxiv.org/abs/2405.15961)|null|
 |**2024-05-24**|**Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection**|Yajing Liu et.al.|[2405.15225](http://arxiv.org/abs/2405.15225)|null|
-|**2024-05-24**|**Exploring the Impact of Synthetic Data for Aerial-view Human Detection**|Hyungtae Lee et.al.|[2405.15203](http://arxiv.org/abs/2405.15203)|null|
+|**2024-05-27**|**Exploring the Impact of Synthetic Data for Aerial-view Human Detection**|Hyungtae Lee et.al.|[2405.15203](http://arxiv.org/abs/2405.15203)|null|
 |**2024-05-23**|**Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment**|Muhammad Sohail Danish et.al.|[2405.14497](http://arxiv.org/abs/2405.14497)|null|
 |**2024-05-21**|**Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting**|Krishna Prasad Varadarajan Srinivasan et.al.|[2405.13181](http://arxiv.org/abs/2405.13181)|null|
 |**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
@@ -138,6 +150,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247](http://arxiv.org/abs/2405.17247)|null|
+|**2024-05-27**|**Diagnosing the Compositional Knowledge of Vision Language Models from a Game-Theoretic View**|Jin Wang et.al.|[2405.17201](http://arxiv.org/abs/2405.17201)|null|
+|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
+|**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
+|**2024-05-25**|**Vision Language Models for Spreadsheet Understanding: Challenges and Opportunities**|Shiyu Xia et.al.|[2405.16234](http://arxiv.org/abs/2405.16234)|null|
+|**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
+|**2024-05-24**|**Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement**|Xiyao Wang et.al.|[2405.15973](http://arxiv.org/abs/2405.15973)|null|
 |**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
 |**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
 |**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
@@ -245,6 +264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
+|**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
+|**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
 |**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633](http://arxiv.org/abs/2405.15633)|**[link](https://github.com/tdemin16/multi-lane)**|
 |**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
 |**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282](http://arxiv.org/abs/2405.15282)|null|
@@ -306,6 +328,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**The state learner -- a super learner for right-censored data**|Anders Munch et.al.|[2405.17259](http://arxiv.org/abs/2405.17259)|null|
+|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151](http://arxiv.org/abs/2405.17151)|null|
+|**2024-05-27**|**Demystifying amortized causal discovery with transformers**|Francesco Montagna et.al.|[2405.16924](http://arxiv.org/abs/2405.16924)|null|
+|**2024-05-25**|**Deep Causal Generative Models with Property Control**|Qilong Zhao et.al.|[2405.16219](http://arxiv.org/abs/2405.16219)|null|
+|**2024-05-25**|**Automating the Selection of Proxy Variables of Unmeasured Confounders**|Feng Xie et.al.|[2405.16130](http://arxiv.org/abs/2405.16130)|null|
+|**2024-05-25**|**IncomeSCM: From tabular data set to time-series simulator and causal estimation benchmark**|Fredrik D. Johansson et.al.|[2405.16069](http://arxiv.org/abs/2405.16069)|null|
 |**2024-05-24**|**Consistency of Neural Causal Partial Identification**|Jiyuan Tan et.al.|[2405.15673](http://arxiv.org/abs/2405.15673)|null|
 |**2024-05-24**|**Coordinated Multi-Neighborhood Learning on a Directed Acyclic Graph**|Stephen Smith et.al.|[2405.15358](http://arxiv.org/abs/2405.15358)|**[link](https://github.com/stephenvsmith/cml)**|
 |**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289](http://arxiv.org/abs/2405.15289)|null|
@@ -407,6 +435,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|null|
+|**2024-05-27**|**Exploiting the Layered Intrinsic Dimensionality of Deep Models for Practical Adversarial Training**|Enes Altinisik et.al.|[2405.17130](http://arxiv.org/abs/2405.17130)|null|
+|**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
+|**2024-05-25**|**A Differential Equation Approach for Wasserstein GANs and Beyond**|Zachariah Malik et.al.|[2405.16351](http://arxiv.org/abs/2405.16351)|null|
+|**2024-05-25**|**R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model**|Changhoon Kim et.al.|[2405.16341](http://arxiv.org/abs/2405.16341)|null|
+|**2024-05-25**|**Layer-Aware Analysis of Catastrophic Overfitting: Revealing the Pseudo-Robust Shortcut Dependency**|Runqi Lin et.al.|[2405.16262](http://arxiv.org/abs/2405.16262)|null|
+|**2024-05-25**|**Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness**|Jieren Deng et.al.|[2405.16036](http://arxiv.org/abs/2405.16036)|null|
+|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
+|**2024-05-24**|**Robust width: A lightweight and certifiable adversarial defense**|Jonathan Peck et.al.|[2405.15971](http://arxiv.org/abs/2405.15971)|**[link](https://github.com/peck94/robust-width-defense)**|
+|**2024-05-24**|**Can Implicit Bias Imply Adversarial Robustness?**|Hancheng Min et.al.|[2405.15942](http://arxiv.org/abs/2405.15942)|null|
 |**2024-05-24**|**Efficient Adversarial Training in LLMs with Continuous Attacks**|Sophie Xhonneux et.al.|[2405.15589](http://arxiv.org/abs/2405.15589)|null|
 |**2024-05-24**|**Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient**|Yongliang Wu et.al.|[2405.15304](http://arxiv.org/abs/2405.15304)|null|
 |**2024-05-24**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
@@ -416,7 +454,7 @@
 |**2024-05-22**|**Adversarial Training via Adaptive Knowledge Amalgamation of an Ensemble of Teachers**|Shayan Mohajer Hamidi et.al.|[2405.13324](http://arxiv.org/abs/2405.13324)|null|
 |**2024-05-20**|**Paired Conditional Generative Adversarial Network for Highly Accelerated Liver 4D MRI**|Di Xu et.al.|[2405.12357](http://arxiv.org/abs/2405.12357)|null|
 |**2024-05-20**|**EGAN: Evolutional GAN for Ransomware Evasion**|Daniel Commey et.al.|[2405.12266](http://arxiv.org/abs/2405.12266)|null|
-|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-27**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
 |**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-16**|**Learnable Privacy Neurons Localization in Language Models**|Ruizhe Chen et.al.|[2405.10989](http://arxiv.org/abs/2405.10989)|**[link](https://github.com/richhh520/learnable-privacy-neurons-localization)**|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
@@ -478,6 +516,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424](http://arxiv.org/abs/2405.17424)|null|
+|**2024-05-27**|**Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation**|Jiaming Liu et.al.|[2405.17418](http://arxiv.org/abs/2405.17418)|null|
+|**2024-05-27**|**Soft Two-degree-of-freedom Dielectric Elastomer Position Sensor Exhibiting Linear Behavior**|Alexandre Girard et.al.|[2405.17073](http://arxiv.org/abs/2405.17073)|null|
+|**2024-05-27**|**Interpretable Robotic Manipulation from Language**|Boyuan Zheng et.al.|[2405.17047](http://arxiv.org/abs/2405.17047)|null|
+|**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|null|
+|**2024-05-25**|**RoboArm-NMP: a Learning Environment for Neural Motion Planning**|Tom Jurgenson et.al.|[2405.16335](http://arxiv.org/abs/2405.16335)|null|
+|**2024-05-25**|**Deep Reinforcement Learning with Enhanced PPO for Safe Mobile Robot Navigation**|Hamid Taheri et.al.|[2405.16266](http://arxiv.org/abs/2405.16266)|null|
 |**2024-05-24**|**TD3 Based Collision Free Motion Planning for Robot Navigation**|Hao Liu et.al.|[2405.15460](http://arxiv.org/abs/2405.15460)|null|
 |**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
 |**2024-05-23**|**Social Zone as a Barrier Function for Socially-Compliant Robot Navigation**|Junwoo Jang et.al.|[2405.15101](http://arxiv.org/abs/2405.15101)|null|
