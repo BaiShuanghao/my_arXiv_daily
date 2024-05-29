@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**|Dongjie Chen et.al.|[2405.18376](http://arxiv.org/abs/2405.18376)|**[link](https://github.com/Dong-Jie-Chen/RCL)**|
+|**2024-05-28**|**CT-based brain ventricle segmentation via diffusion Schrödinger Bridge without target domain ground truths**|Reihaneh Teimouri et.al.|[2405.18267](http://arxiv.org/abs/2405.18267)|null|
+|**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224](http://arxiv.org/abs/2405.18224)|null|
+|**2024-05-28**|**MultiADE: A Multi-domain Benchmark for Adverse Drug Event Extraction**|Xiang Dai et.al.|[2405.18015](http://arxiv.org/abs/2405.18015)|null|
+|**2024-05-28**|**Gradually Vanishing Gap in Prototypical Network for Unsupervised Domain Adaptation**|Shanshan Wang et.al.|[2405.17774](http://arxiv.org/abs/2405.17774)|null|
+|**2024-05-27**|**Consistency Regularisation for Unsupervised Domain Adaptation in Monocular Depth Estimation**|Amir El-Ghoussani et.al.|[2405.17704](http://arxiv.org/abs/2405.17704)|null|
+|**2024-05-25**|**Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis**|Ziyan Wang et.al.|[2405.17493](http://arxiv.org/abs/2405.17493)|null|
+|**2024-05-24**|**ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning**|Yihang Wang et.al.|[2405.17478](http://arxiv.org/abs/2405.17478)|null|
 |**2024-05-27**|**Supervised Batch Normalization**|Bilal Faye et.al.|[2405.17027](http://arxiv.org/abs/2405.17027)|null|
 |**2024-05-27**|**Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings**|Robert Wolfe et.al.|[2405.16820](http://arxiv.org/abs/2405.16820)|null|
 |**2024-05-27**|**Automatic Domain Adaptation by Transformers in In-Context Learning**|Ryuichiro Hataya et.al.|[2405.16819](http://arxiv.org/abs/2405.16819)|null|
@@ -91,6 +99,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405](http://arxiv.org/abs/2405.18405)|null|
+|**2024-05-28**|**Implicitly Guided Design with PropEn: Match your Data to Follow the Gradient**|Nataša Tagasovska et.al.|[2405.18075](http://arxiv.org/abs/2405.18075)|null|
 |**2024-05-25**|**Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients**|Farhad Pourpanah et.al.|[2405.16304](http://arxiv.org/abs/2405.16304)|null|
 |**2024-05-25**|**Continuous Temporal Domain Generalization**|Zekun Cai et.al.|[2405.16075](http://arxiv.org/abs/2405.16075)|null|
 |**2024-05-24**|**Grounding Stylistic Domain Generalization with Quantitative Domain Shift Measures and Synthetic Scene Images**|Yiran Luo et.al.|[2405.15961](http://arxiv.org/abs/2405.15961)|null|
@@ -137,6 +147,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405](http://arxiv.org/abs/2405.18405)|null|
+|**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
+|**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
+|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871](http://arxiv.org/abs/2405.17871)|null|
+|**2024-05-28**|**RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs**|Sangmin Woo et.al.|[2405.17821](http://arxiv.org/abs/2405.17821)|null|
+|**2024-05-28**|**Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models**|Sangmin Woo et.al.|[2405.17820](http://arxiv.org/abs/2405.17820)|null|
 |**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247](http://arxiv.org/abs/2405.17247)|null|
 |**2024-05-27**|**Diagnosing the Compositional Knowledge of Vision Language Models from a Game-Theoretic View**|Jin Wang et.al.|[2405.17201](http://arxiv.org/abs/2405.17201)|null|
 |**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
@@ -249,6 +266,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
+|**2024-05-28**|**IAPT: Instruction-Aware Prompt Tuning for Large Language Models**|Wei Zhu et.al.|[2405.18203](http://arxiv.org/abs/2405.18203)|null|
+|**2024-05-28**|**Cross-Context Backdoor Attacks against Graph Prompt Learning**|Xiaoting Lyu et.al.|[2405.17984](http://arxiv.org/abs/2405.17984)|null|
+|**2024-05-28**|**FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**|Zhonghang Li et.al.|[2405.17898](http://arxiv.org/abs/2405.17898)|**[link](https://github.com/hkuds/flashst)**|
 |**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
 |**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
 |**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
@@ -311,6 +332,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Untangling Climate's Complexity: Methodological Insights**|Alka Yadav et.al.|[2405.18391](http://arxiv.org/abs/2405.18391)|null|
+|**2024-05-28**|**Deriving Causal Order from Single-Variable Interventions: Guarantees & Algorithm**|Mathieu Chevalley et.al.|[2405.18314](http://arxiv.org/abs/2405.18314)|null|
+|**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206](http://arxiv.org/abs/2405.18206)|null|
+|**2024-05-28**|**Is machine learning good or bad for the natural sciences?**|David W. Hogg et.al.|[2405.18095](http://arxiv.org/abs/2405.18095)|null|
+|**2024-05-27**|**Towards Causal Physical Error Discovery in Video Analytics Systems**|Jinjin Zhao et.al.|[2405.17686](http://arxiv.org/abs/2405.17686)|null|
+|**2024-05-27**|**Bayesian Nonparametrics for Principal Stratification with Continuous Post-Treatment Variables**|Dafne Zorzetto et.al.|[2405.17669](http://arxiv.org/abs/2405.17669)|null|
+|**2024-05-27**|**Individualized Dynamic Mediation Analysis Using Latent Factor Models**|Yijiao Zhang et.al.|[2405.17591](http://arxiv.org/abs/2405.17591)|null|
 |**2024-05-27**|**The state learner -- a super learner for right-censored data**|Anders Munch et.al.|[2405.17259](http://arxiv.org/abs/2405.17259)|null|
 |**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151](http://arxiv.org/abs/2405.17151)|null|
 |**2024-05-27**|**Demystifying amortized causal discovery with transformers**|Francesco Montagna et.al.|[2405.16924](http://arxiv.org/abs/2405.16924)|null|
@@ -416,6 +444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929](http://arxiv.org/abs/2405.17929)|**[link](https://github.com/john-niu-07/pud)**|
+|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
+|**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678](http://arxiv.org/abs/2405.17678)|null|
 |**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|null|
 |**2024-05-27**|**Exploiting the Layered Intrinsic Dimensionality of Deep Models for Practical Adversarial Training**|Enes Altinisik et.al.|[2405.17130](http://arxiv.org/abs/2405.17130)|null|
 |**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
@@ -495,6 +526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Sensor-Based Distributionally Robust Control for Safe Robot Navigation in Dynamic Environments**|Kehan Long et.al.|[2405.18251](http://arxiv.org/abs/2405.18251)|null|
+|**2024-05-27**|**Spatial Spinal Fixation: A Transformative Approach Using a Unique Robot-Assisted Steerable Drilling System and Flexible Pedicle Screw**|Susheela Sharma et.al.|[2405.17600](http://arxiv.org/abs/2405.17600)|null|
 |**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424](http://arxiv.org/abs/2405.17424)|null|
 |**2024-05-27**|**Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation**|Jiaming Liu et.al.|[2405.17418](http://arxiv.org/abs/2405.17418)|null|
 |**2024-05-27**|**Soft Two-degree-of-freedom Dielectric Elastomer Position Sensor Exhibiting Linear Behavior**|Alexandre Girard et.al.|[2405.17073](http://arxiv.org/abs/2405.17073)|null|
