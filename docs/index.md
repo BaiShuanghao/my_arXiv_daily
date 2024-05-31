@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -161,7 +161,7 @@ layout: default
 |**2024-05-29**|**ChartFormer: A Large Vision Language Model for Converting Chart Images into Tactile Accessible SVGs**|Omar Moured et.al.|[2405.19117](http://arxiv.org/abs/2405.19117)|**[link](https://github.com/nsothman/chartformer)**|
 |**2024-05-29**|**Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer**|Zengqun Zhao et.al.|[2405.19100](http://arxiv.org/abs/2405.19100)|**[link](https://github.com/zengqunzhao/exp-clip)**|
 |**2024-05-29**|**Efficient Black-box Adversarial Attacks via Bayesian Optimization Guided by a Function Prior**|Shuyu Cheng et.al.|[2405.19098](http://arxiv.org/abs/2405.19098)|**[link](https://github.com/yibo-miao/pbo-attack)**|
-|**2024-05-29**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-30**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-29**|**Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**|Zhe Hu et.al.|[2405.19088](http://arxiv.org/abs/2405.19088)|null|
 |**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|null|
 |**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
@@ -298,7 +298,7 @@ layout: default
 |**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
 |**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
 |**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633](http://arxiv.org/abs/2405.15633)|**[link](https://github.com/tdemin16/multi-lane)**|
-|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
+|**2024-05-30**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
 |**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282](http://arxiv.org/abs/2405.15282)|**[link](https://github.com/jabhinav/prompt-tuning-strikes-back-with-lopa)**|
 |**2024-05-24**|**Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**|Huali Ren et.al.|[2405.15161](http://arxiv.org/abs/2405.15161)|null|
 |**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
