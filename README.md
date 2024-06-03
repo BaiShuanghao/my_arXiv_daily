@@ -47,12 +47,12 @@
 |**2024-05-25**|**Multi-scale Quaternion CNN and BiGRU with Cross Self-attention Feature Fusion for Fault Diagnosis of Bearing**|Huanbai Liu et.al.|[2405.16114](http://arxiv.org/abs/2405.16114)|**[link](https://github.com/mubai011/MQCCAF)**|
 |**2024-05-25**|**Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation**|Hongye Zeng et.al.|[2405.16102](http://arxiv.org/abs/2405.16102)|**[link](https://github.com/zenghy96/reliable-source-approximation)**|
 |**2024-05-25**|**DiffuBox: Refining 3D Object Detection with Point Diffusion**|Xiangyu Chen et.al.|[2405.16034](http://arxiv.org/abs/2405.16034)|null|
-|**2024-05-23**|**CEEBERT: Cross-Domain Inference in Early Exit BERT**|Divya Jyoti Bajpai et.al.|[2405.15039](http://arxiv.org/abs/2405.15039)|null|
+|**2024-05-23**|**CEEBERT: Cross-Domain Inference in Early Exit BERT**|Divya Jyoti Bajpai et.al.|[2405.15039](http://arxiv.org/abs/2405.15039)|**[link](https://github.com/Div290/CeeBERT)**|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
 |**2024-05-23**|**SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Kai Yao et.al.|[2405.14278](http://arxiv.org/abs/2405.14278)|null|
 |**2024-05-22**|**Rehearsal-free Federated Domain-incremental Learning**|Rui Sun et.al.|[2405.13900](http://arxiv.org/abs/2405.13900)|null|
 |**2024-05-15**|**Continued Pretraining for Domain Adaptation of Wav2vec2.0 in Automatic Speech Recognition for Elementary Math Classroom Settings**|Ahmed Adel Attia et.al.|[2405.13018](http://arxiv.org/abs/2405.13018)|null|
-|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|null|
+|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|**[link](https://github.com/vinairesearch/recgpt)**|
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
 |**2024-05-20**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al.|[2405.11765](http://arxiv.org/abs/2405.11765)|**[link](https://github.com/h751410234/datr)**|
 |**2024-05-20**|**Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**|Runou Yang et.al.|[2405.11754](http://arxiv.org/abs/2405.11754)|**[link](https://github.com/ricardooyoung/versatileteacher)**|
@@ -112,7 +112,7 @@
 |**2024-04-24**|**The Over-Certainty Phenomenon in Modern UDA Algorithms**|Fin Amin et.al.|[2404.16168](http://arxiv.org/abs/2404.16168)|null|
 |**2024-04-24**|**Vision Transformer-based Adversarial Domain Adaptation**|Yahan Li et.al.|[2404.15817](http://arxiv.org/abs/2404.15817)|**[link](https://github.com/lluckyyh/vt-ada)**|
 |**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615](http://arxiv.org/abs/2404.15615)|null|
-|**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
+|**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|**[link](https://github.com/eidoslab/lic-domain-adaptation-with-supervised-adapters)**|
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
@@ -204,7 +204,7 @@
 |**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
 |**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
 |**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
-|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871](http://arxiv.org/abs/2405.17871)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871](http://arxiv.org/abs/2405.17871)|**[link](https://github.com/foundation-multimodal-models/cal)**|
 |**2024-05-28**|**RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs**|Sangmin Woo et.al.|[2405.17821](http://arxiv.org/abs/2405.17821)|null|
 |**2024-05-28**|**Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models**|Sangmin Woo et.al.|[2405.17820](http://arxiv.org/abs/2405.17820)|null|
 |**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247](http://arxiv.org/abs/2405.17247)|null|
@@ -216,18 +216,18 @@
 |**2024-05-24**|**Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement**|Xiyao Wang et.al.|[2405.15973](http://arxiv.org/abs/2405.15973)|null|
 |**2024-05-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al.|[2405.15728](http://arxiv.org/abs/2405.15728)|**[link](https://github.com/rpidial/disease-informed-vlm-adaptation)**|
 |**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
-|**2024-05-29**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
+|**2024-05-29**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|**[link](https://github.com/billpsomas/rscir)**|
 |**2024-05-24**|**Open-Vocabulary SAM3D: Understand Any 3D Scene**|Hanchen Tai et.al.|[2405.15580](http://arxiv.org/abs/2405.15580)|null|
 |**2024-05-24**|**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization**|Beitao Chen et.al.|[2405.15356](http://arxiv.org/abs/2405.15356)|null|
 |**2024-05-24**|**Learning Invariant Causal Mechanism from Vision-Language Models**|Zeen Song et.al.|[2405.15289](http://arxiv.org/abs/2405.15289)|null|
 |**2024-05-24**|**Learning from True-False Labels via Multi-modal Prompt Retrieving**|Zhongnian Li et.al.|[2405.15228](http://arxiv.org/abs/2405.15228)|**[link](https://github.com/tranquilxu/tmp)**|
-|**2024-05-24**|**CLIP model is an Efficient Online Lifelong Learner**|Leyuan Wang et.al.|[2405.15155](http://arxiv.org/abs/2405.15155)|null|
+|**2024-05-24**|**CLIP model is an Efficient Online Lifelong Learner**|Leyuan Wang et.al.|[2405.15155](http://arxiv.org/abs/2405.15155)|**[link](https://github.com/Debatrix/LifeLong-CLIP)**|
 |**2024-05-23**|**Agentic Skill Discovery**|Xufeng Zhao et.al.|[2405.15019](http://arxiv.org/abs/2405.15019)|null|
 |**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
-|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|**[link](https://github.com/tahiya31/trash_track)**|
 |**2024-05-23**|**Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models**|Young Kyun Jang et.al.|[2405.14715](http://arxiv.org/abs/2405.14715)|null|
-|**2024-05-25**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
+|**2024-05-25**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|**[link](https://github.com/yiyangzhou/csr)**|
 |**2024-05-23**|**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**|Chuanhao Li et.al.|[2405.14554](http://arxiv.org/abs/2405.14554)|null|
 |**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529](http://arxiv.org/abs/2405.14529)|null|
 |**2024-05-23**|**Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports**|Guangyu Guo et.al.|[2405.14230](http://arxiv.org/abs/2405.14230)|null|
@@ -240,7 +240,7 @@
 |**2024-05-22**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
 |**2024-05-22**|**What Makes Good Few-shot Examples for Vision-Language Models?**|Zhaojun Guo et.al.|[2405.13532](http://arxiv.org/abs/2405.13532)|null|
 |**2024-05-22**|**PerSense: Personalized Instance Segmentation in Dense Images**|Muhammad Ibraheem Siddiqui et.al.|[2405.13518](http://arxiv.org/abs/2405.13518)|null|
-|**2024-05-22**|**Adapting Multi-modal Large Language Model to Concept Drift in the Long-tailed Open World**|Xiaoyu Yang et.al.|[2405.13459](http://arxiv.org/abs/2405.13459)|null|
+|**2024-05-22**|**Adapting Multi-modal Large Language Model to Concept Drift in the Long-tailed Open World**|Xiaoyu Yang et.al.|[2405.13459](http://arxiv.org/abs/2405.13459)|**[link](https://github.com/anonymous0knight/conceptdriftmllms)**|
 |**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
 |**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
 |**2024-05-22**|**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**|Shantanu Ghosh et.al.|[2405.12255](http://arxiv.org/abs/2405.12255)|**[link](https://github.com/batmanlab/mammo-clip)**|
@@ -265,7 +265,7 @@
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
 |**2024-05-11**|**TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt**|Xiangyu Wu et.al.|[2405.06926](http://arxiv.org/abs/2405.06926)|null|
-|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|**[link](https://github.com/evanup/vna_benchmark)**|
 |**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468](http://arxiv.org/abs/2405.06468)|null|
 |**2024-05-10**|**VLSM-Adapter: Finetuning Vision-Language Segmentation Efficiently with Lightweight Blocks**|Manish Dhakal et.al.|[2405.06196](http://arxiv.org/abs/2405.06196)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
@@ -347,7 +347,7 @@
 |**2024-05-19**|**Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion**|Pengxiang Lan et.al.|[2405.11464](http://arxiv.org/abs/2405.11464)|null|
 |**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-17**|**Driving Referring Video Object Segmentation with Vision-Language Pre-trained Models**|Zikun Zhou et.al.|[2405.10610](http://arxiv.org/abs/2405.10610)|null|
-|**2024-05-17**|**GPTs Window Shopping: An analysis of the Landscape of Custom ChatGPT Models**|Benjamin Zi Hao Zhao et.al.|[2405.10547](http://arxiv.org/abs/2405.10547)|null|
+|**2024-05-17**|**GPTs Window Shopping: An analysis of the Landscape of Custom ChatGPT Models**|Benjamin Zi Hao Zhao et.al.|[2405.10547](http://arxiv.org/abs/2405.10547)|**[link](https://github.com/gpts-survey/gptsurvey)**|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
 |**2024-05-16**|**Learning to Predict Mutation Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning**|Lirong Wu et.al.|[2405.10348](http://arxiv.org/abs/2405.10348)|**[link](https://github.com/lirongwu/prompt-ddg)**|
 |**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
@@ -422,7 +422,7 @@
 |**2024-05-24**|**Learning the Distribution Map in Reverse Causal Performative Prediction**|Daniele Bracale et.al.|[2405.15172](http://arxiv.org/abs/2405.15172)|null|
 |**2024-05-24**|**A Counterfactual Analysis of the Dishonest Casino**|Martin Haugh et.al.|[2405.15120](http://arxiv.org/abs/2405.15120)|null|
 |**2024-05-23**|**Local Causal Discovery for Structural Evidence of Direct Discrimination**|Jacqueline Maasch et.al.|[2405.14848](http://arxiv.org/abs/2405.14848)|null|
-|**2024-05-23**|**Implicit Personalization in Language Models: A Systematic Study**|Zhijing Jin et.al.|[2405.14808](http://arxiv.org/abs/2405.14808)|null|
+|**2024-05-23**|**Implicit Personalization in Language Models: A Systematic Study**|Zhijing Jin et.al.|[2405.14808](http://arxiv.org/abs/2405.14808)|**[link](https://github.com/jiarui-liu/ip)**|
 |**2024-05-23**|**Intervention and Conditioning in Causal Bayesian Networks**|Sainyam Galhotra et.al.|[2405.14728](http://arxiv.org/abs/2405.14728)|null|
 |**2024-05-23**|**Hybrid Global Causal Discovery with Local Search**|Sujai Hiremath et.al.|[2405.14496](http://arxiv.org/abs/2405.14496)|null|
 |**2024-05-23**|**Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study**|Lena Schmidt et.al.|[2405.14445](http://arxiv.org/abs/2405.14445)|null|
@@ -433,8 +433,8 @@
 |**2024-05-22**|**Towards Counting Markov Equivalence Classes with Logical Constraints**|Davide Bizzaro et.al.|[2405.13736](http://arxiv.org/abs/2405.13736)|null|
 |**2024-05-22**|**Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator**|Jose M. Alvarez et.al.|[2405.13693](http://arxiv.org/abs/2405.13693)|null|
 |**2024-05-21**|**Interpretable Spatio-Temporal Embedding for Brain Structural-Effective Network with Ordinary Differential Equation**|Haoteng Tang et.al.|[2405.13190](http://arxiv.org/abs/2405.13190)|null|
-|**2024-05-21**|**Better Simulations for Validating Causal Discovery with the DAG-Adaptation of the Onion Method**|Bryan Andrews et.al.|[2405.13100](http://arxiv.org/abs/2405.13100)|null|
-|**2024-05-21**|**CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge Causality Research**|Andreas W M Sauter et.al.|[2405.13092](http://arxiv.org/abs/2405.13092)|null|
+|**2024-05-21**|**Better Simulations for Validating Causal Discovery with the DAG-Adaptation of the Onion Method**|Bryan Andrews et.al.|[2405.13100](http://arxiv.org/abs/2405.13100)|**[link](https://github.com/bja43/dao_simulation)**|
+|**2024-05-21**|**CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge Causality Research**|Andreas W M Sauter et.al.|[2405.13092](http://arxiv.org/abs/2405.13092)|**[link](https://github.com/sa-and/causalplayground)**|
 |**2024-05-21**|**Learning Causal Dynamics Models in Object-Oriented Environments**|Zhongwei Yu et.al.|[2405.12615](http://arxiv.org/abs/2405.12615)|**[link](https://github.com/EaseOnway/oocdm)**|
 |**2024-05-22**|**Decomposing causality into its synergistic, unique, and redundant components**|Álvaro Martínez-Sánchez et.al.|[2405.12411](http://arxiv.org/abs/2405.12411)|null|
 |**2024-05-20**|**Conformal Counterfactual Inference under Hidden Confounding**|Zonghao Chen et.al.|[2405.12387](http://arxiv.org/abs/2405.12387)|null|
@@ -624,21 +624,21 @@
 |**2024-05-25**|**RoboArm-NMP: a Learning Environment for Neural Motion Planning**|Tom Jurgenson et.al.|[2405.16335](http://arxiv.org/abs/2405.16335)|null|
 |**2024-05-25**|**Deep Reinforcement Learning with Enhanced PPO for Safe Mobile Robot Navigation**|Hamid Taheri et.al.|[2405.16266](http://arxiv.org/abs/2405.16266)|null|
 |**2024-05-24**|**TD3 Based Collision Free Motion Planning for Robot Navigation**|Hao Liu et.al.|[2405.15460](http://arxiv.org/abs/2405.15460)|null|
-|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
+|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|**[link](https://github.com/thuml/iVideoGPT)**|
 |**2024-05-23**|**Social Zone as a Barrier Function for Socially-Compliant Robot Navigation**|Junwoo Jang et.al.|[2405.15101](http://arxiv.org/abs/2405.15101)|null|
 |**2024-05-23**|**Learning to Detect and Segment Mobile Objects from Unlabeled Videos**|Yihong Sun et.al.|[2405.14841](http://arxiv.org/abs/2405.14841)|**[link](https://github.com/yihongsun/mod-uv)**|
 |**2024-05-23**|**A Unification Between Deep-Learning Vision, Compartmental Dynamical Thermodynamics, and Robotic Manipulation for a Circular Economy**|Federico Zocco et.al.|[2405.14406](http://arxiv.org/abs/2405.14406)|null|
 |**2024-05-23**|**Skip-SCAR: A Modular Approach to ObjectGoal Navigation with Sparsity and Adaptive Skips**|Yaotian Liu et.al.|[2405.14154](http://arxiv.org/abs/2405.14154)|null|
 |**2024-05-22**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
-|**2024-05-22**|**BenchNav: Simulation Platform for Benchmarking Off-road Navigation Algorithms with Probabilistic Traversability**|Masafumi Endo et.al.|[2405.13318](http://arxiv.org/abs/2405.13318)|null|
-|**2024-05-21**|**BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads**|Abraham George et.al.|[2405.13204](http://arxiv.org/abs/2405.13204)|null|
+|**2024-05-22**|**BenchNav: Simulation Platform for Benchmarking Off-road Navigation Algorithms with Probabilistic Traversability**|Masafumi Endo et.al.|[2405.13318](http://arxiv.org/abs/2405.13318)|**[link](https://github.com/masafumiendo/benchnav)**|
+|**2024-05-21**|**BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads**|Abraham George et.al.|[2405.13204](http://arxiv.org/abs/2405.13204)|**[link](https://github.com/abraham190137/beadsight)**|
 |**2024-05-21**|**One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation**|Xinyu Zhang et.al.|[2405.13178](http://arxiv.org/abs/2405.13178)|null|
 |**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher et.al.|[2405.12616](http://arxiv.org/abs/2405.12616)|null|
 |**2024-05-21**|**WorldAfford: Affordance Grounding based on Natural Language Instructions**|Changmao Chen et.al.|[2405.12461](http://arxiv.org/abs/2405.12461)|null|
 |**2024-05-20**|**Flexible Active Safety Motion Control for Robotic Obstacle Avoidance: A CBF-Guided MPC Approach**|Jinhao Liu et.al.|[2405.12408](http://arxiv.org/abs/2405.12408)|null|
 |**2024-05-26**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
 |**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
-|**2024-05-18**|**Characterizing the Complexity of Social Robot Navigation Scenarios**|Andrew Stratton et.al.|[2405.11410](http://arxiv.org/abs/2405.11410)|null|
+|**2024-05-18**|**Characterizing the Complexity of Social Robot Navigation Scenarios**|Andrew Stratton et.al.|[2405.11410](http://arxiv.org/abs/2405.11410)|**[link](https://github.com/fluentrobotics/ComplexityNav)**|
 |**2024-05-17**|**Affine Transformation-based Perfectly Undetectable False Data Injection Attacks on Remote Manipulator Kinematic Control with Attack Detector**|Jun Ueda et.al.|[2405.11047](http://arxiv.org/abs/2405.11047)|null|
 |**2024-05-16**|**Introducing Learning Rate Adaptation CMA-ES into Rigid 2D/3D Registration for Robotic Navigation in Spine Surgery**|Zhirun Zhang et.al.|[2405.10186](http://arxiv.org/abs/2405.10186)|**[link](https://github.com/m1nhengchen/cmaes-reg)**|
 |**2024-05-16**|**ACES: A Teleoperated Robotic Solution to Pipe Inspection from the Inside**|Eric Lucet et.al.|[2405.09925](http://arxiv.org/abs/2405.09925)|null|
