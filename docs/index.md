@@ -18,7 +18,7 @@ layout: default
 |**2024-05-31**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917](http://arxiv.org/abs/2405.19917)|null|
 |**2024-05-30**|**Open-Set Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2405.19899](http://arxiv.org/abs/2405.19899)|**[link](https://github.com/khu-agi/bus)**|
 |**2024-05-29**|**Clustering-Based Validation Splits for Domain Generalisation**|Andrea Napoli et.al.|[2405.19461](http://arxiv.org/abs/2405.19461)|null|
-|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
+|**2024-06-03**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
 |**2024-05-29**|**Domain adaptation in small-scale and heterogeneous biological datasets**|Seyedmehdi Orouji et.al.|[2405.19221](http://arxiv.org/abs/2405.19221)|null|
 |**2024-05-29**|**OMPO: A Unified Framework for RL under Policy and Dynamics Shifts**|Yu Luo et.al.|[2405.19080](http://arxiv.org/abs/2405.19080)|**[link](https://github.com/roythuly/ompo)**|
 |**2024-05-28**|**The FAIIR Tool: A Conversational AI Agent Assistant for Youth Mental Health Service Provision**|Stephen Obadinma et.al.|[2405.18553](http://arxiv.org/abs/2405.18553)|null|
@@ -165,7 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-06-03**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834](http://arxiv.org/abs/2405.20834)|null|
 |**2024-05-31**|**InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced Visual Understanding**|Huaxiang Zhang et.al.|[2405.20795](http://arxiv.org/abs/2405.20795)|null|
 |**2024-05-31**|**Information Theoretic Text-to-Image Alignment**|Chao Wang et.al.|[2405.20759](http://arxiv.org/abs/2405.20759)|null|
