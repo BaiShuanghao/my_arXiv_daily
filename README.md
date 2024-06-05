@@ -1,4 +1,4 @@
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -117,7 +117,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## DG
 
@@ -172,13 +172,13 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|null|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-03**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-06-04**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834](http://arxiv.org/abs/2405.20834)|null|
 |**2024-05-31**|**InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced Visual Understanding**|Huaxiang Zhang et.al.|[2405.20795](http://arxiv.org/abs/2405.20795)|null|
 |**2024-05-31**|**Information Theoretic Text-to-Image Alignment**|Chao Wang et.al.|[2405.20759](http://arxiv.org/abs/2405.20759)|null|
@@ -188,7 +188,7 @@
 |**2024-05-30**|**Enhancing Large Vision Language Models with Self-Training on Image Comprehension**|Yihe Deng et.al.|[2405.19716](http://arxiv.org/abs/2405.19716)|null|
 |**2024-05-30**|**Knowledge-grounded Adaptation Strategy for Vision-language Models: Building Unique Case-set for Screening Mammograms for Residents Training**|Aisha Urooj Khan et.al.|[2405.19675](http://arxiv.org/abs/2405.19675)|null|
 |**2024-05-29**|**Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding**|Shenghuan Sun et.al.|[2405.19567](http://arxiv.org/abs/2405.19567)|null|
-|**2024-05-29**|**CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**|Pierre Chambon et.al.|[2405.19538](http://arxiv.org/abs/2405.19538)|**[link](https://github.com/stanford-aimi/chexpert-plus)**|
+|**2024-06-03**|**CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats**|Pierre Chambon et.al.|[2405.19538](http://arxiv.org/abs/2405.19538)|**[link](https://github.com/stanford-aimi/chexpert-plus)**|
 |**2024-05-29**|**Evaluating Vision-Language Models on Bistable Images**|Artemis Panagopoulou et.al.|[2405.19423](http://arxiv.org/abs/2405.19423)|**[link](https://github.com/artemisp/bistable-illusions-mllms)**|
 |**2024-05-29**|**Video Anomaly Detection in 10 Years: A Survey and Outlook**|Moshira Abdalla et.al.|[2405.19387](http://arxiv.org/abs/2405.19387)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
@@ -321,7 +321,7 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## Prompt
 
@@ -342,7 +342,7 @@
 |**2024-05-25**|**Enhancing Near OOD Detection in Prompt Learning: Maximum Gains, Minimal Costs**|Myong Chol Jung et.al.|[2405.16091](http://arxiv.org/abs/2405.16091)|null|
 |**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633](http://arxiv.org/abs/2405.15633)|**[link](https://github.com/tdemin16/multi-lane)**|
 |**2024-05-30**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549](http://arxiv.org/abs/2405.15549)|**[link](https://github.com/htyao89/sep)**|
-|**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282](http://arxiv.org/abs/2405.15282)|null|
+|**2024-05-24**|**Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation**|Abhinav Jain et.al.|[2405.15282](http://arxiv.org/abs/2405.15282)|**[link](https://github.com/jabhinav/prompt-tuning-strikes-back-with-lopa)**|
 |**2024-05-24**|**Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**|Huali Ren et.al.|[2405.15161](http://arxiv.org/abs/2405.15161)|null|
 |**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-31**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|**[link](https://github.com/zhangyong-tang/gmmt)**|
@@ -395,7 +395,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -518,7 +518,7 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## Adversarial
 
@@ -613,7 +613,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
 ## Robotics
 
@@ -673,5 +673,5 @@
 |**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-20**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|**[link](https://github.com/irmvlab/diff-ip2d)**|
 
-<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
 
