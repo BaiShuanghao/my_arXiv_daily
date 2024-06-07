@@ -1,4 +1,4 @@
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -126,7 +126,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## DG
 
@@ -189,7 +189,7 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|null|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## VLM
 
@@ -198,7 +198,7 @@
 |**2024-06-05**|**Exploiting LMM-based knowledge for image classification tasks**|Maria Tzelepi et.al.|[2406.03071](http://arxiv.org/abs/2406.03071)|null|
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015](http://arxiv.org/abs/2406.03015)|null|
 |**2024-06-05**|**Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**|Jinhao Li et.al.|[2406.02915](http://arxiv.org/abs/2406.02915)|**[link](https://github.com/tmlr-group/wca)**|
-|**2024-06-04**|**LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery**|Samuel Scheele et.al.|[2406.02780](http://arxiv.org/abs/2406.02780)|null|
+|**2024-06-04**|**LADI v2: Multi-label Dataset and Classifiers for Low-Altitude Disaster Imagery**|Samuel Scheele et.al.|[2406.02780](http://arxiv.org/abs/2406.02780)|**[link](https://github.com/LADI-Dataset/ladi-overview)**|
 |**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|null|
 |**2024-06-04**|**On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept**|Guangliang Liu et.al.|[2406.02378](http://arxiv.org/abs/2406.02378)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
@@ -214,7 +214,7 @@
 |**2024-06-03**|**MiniGPT-Reverse-Designing: Predicting Image Adjustments Utilizing MiniGPT-4**|Vahid Azizi et.al.|[2406.00971](http://arxiv.org/abs/2406.00971)|null|
 |**2024-06-02**|**OLIVE: Object Level In-Context Visual Embeddings**|Timothy Ossowski et.al.|[2406.00872](http://arxiv.org/abs/2406.00872)|**[link](https://github.com/tossowski/OLIVE)**|
 |**2024-06-02**|**Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection**|Chentao Cao et.al.|[2406.00806](http://arxiv.org/abs/2406.00806)|null|
-|**2024-06-02**|**Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation**|Yunheng Li et.al.|[2406.00670](http://arxiv.org/abs/2406.00670)|null|
+|**2024-06-06**|**Cascade-CLIP: Cascaded Vision-Language Embeddings Alignment for Zero-Shot Semantic Segmentation**|Yunheng Li et.al.|[2406.00670](http://arxiv.org/abs/2406.00670)|null|
 |**2024-06-02**|**Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering**|Xingrui Wang et.al.|[2406.00622](http://arxiv.org/abs/2406.00622)|null|
 |**2024-06-01**|**Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection**|Jiaming Li et.al.|[2406.00510](http://arxiv.org/abs/2406.00510)|null|
 |**2024-06-01**|**Effectiveness of Vision Language Models for Open-world Single Image Test Time Adaptation**|Manogna Sreenivas et.al.|[2406.00481](http://arxiv.org/abs/2406.00481)|null|
@@ -362,7 +362,7 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Prompt
 
@@ -375,7 +375,7 @@
 |**2024-06-01**|**DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection**|Zhi Zhou et.al.|[2406.00345](http://arxiv.org/abs/2406.00345)|null|
 |**2024-05-31**|**Passage-specific Prompt Tuning for Passage Reranking in Question Answering with Large Language Models**|Xuyang Wu et.al.|[2405.20654](http://arxiv.org/abs/2405.20654)|**[link](https://github.com/elviswxy/Gen-IR_PSPT)**|
 |**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
-|**2024-05-31**|**Two Optimizers Are Better Than One: LLM Catalyst for Enhancing Gradient-Based Optimization**|Zixian Guo et.al.|[2405.19732](http://arxiv.org/abs/2405.19732)|**[link](https://github.com/guozix/llm-catalyst)**|
+|**2024-06-06**|**Two Optimizers Are Better Than One: LLM Catalyst Empowers Gradient-Based Optimization for Prompt Tuning**|Zixian Guo et.al.|[2405.19732](http://arxiv.org/abs/2405.19732)|**[link](https://github.com/guozix/llm-catalyst)**|
 |**2024-05-30**|**A Novel Approach for Automated Design Information Mining from Issue Logs**|Jiuang Zhao et.al.|[2405.19623](http://arxiv.org/abs/2405.19623)|null|
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
 |**2024-06-01**|**Low-Rank Few-Shot Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2405.18541](http://arxiv.org/abs/2405.18541)|null|
@@ -441,7 +441,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -465,7 +465,7 @@
 |**2024-06-01**|**Causal Contrastive Learning for Counterfactual Regression Over Time**|Mouad El Bouchattaoui et.al.|[2406.00535](http://arxiv.org/abs/2406.00535)|null|
 |**2024-06-01**|**Learning Discrete Concepts in Latent Hierarchical Models**|Lingjing Kong et.al.|[2406.00519](http://arxiv.org/abs/2406.00519)|null|
 |**2024-06-01**|**Learning Causal Abstractions of Linear Structural Causal Models**|Riccardo Massidda et.al.|[2406.00394](http://arxiv.org/abs/2406.00394)|null|
-|**2024-06-01**|**Products, Abstractions and Inclusions of Causal Spaces**|Simon Buchholz et.al.|[2406.00388](http://arxiv.org/abs/2406.00388)|null|
+|**2024-06-06**|**Products, Abstractions and Inclusions of Causal Spaces**|Simon Buchholz et.al.|[2406.00388](http://arxiv.org/abs/2406.00388)|null|
 |**2024-05-31**|**Parameter identification in linear non-Gaussian causal models under general confounding**|Daniele Tramontano et.al.|[2405.20856](http://arxiv.org/abs/2405.20856)|null|
 |**2024-05-29**|**Causal Inference for Balanced Incomplete Block Designs**|Taehyeon Koo et.al.|[2405.19312](http://arxiv.org/abs/2405.19312)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand et.al.|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
@@ -583,7 +583,7 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Adversarial
 
@@ -595,7 +595,7 @@
 |**2024-06-04**|**Cross-Embodiment Robot Manipulation Skill Transfer using Latent Space Alignment**|Tianyu Wang et.al.|[2406.01968](http://arxiv.org/abs/2406.01968)|**[link](https://github.com/existentialrobotics/cross_embodiment_transfer)**|
 |**2024-06-04**|**MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by Adversarial Training**|Kengo Uchida et.al.|[2406.01867](http://arxiv.org/abs/2406.01867)|null|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
-|**2024-06-04**|**Sensitivity-Informed Augmentation for Robust Segmentation**|Laura Zheng et.al.|[2406.01425](http://arxiv.org/abs/2406.01425)|null|
+|**2024-06-05**|**Sensitivity-Informed Augmentation for Robust Segmentation**|Laura Zheng et.al.|[2406.01425](http://arxiv.org/abs/2406.01425)|null|
 |**2024-06-03**|**FreeTumor: Advance Tumor Segmentation via Large-Scale Tumor Synthesis**|Linshan Wu et.al.|[2406.01264](http://arxiv.org/abs/2406.01264)|null|
 |**2024-06-03**|**Learning Decision Trees and Forests with Algorithmic Recourse**|Kentaro Kanamori et.al.|[2406.01098](http://arxiv.org/abs/2406.01098)|**[link](https://github.com/kelicht/ract)**|
 |**2024-06-03**|**Accent Conversion in Text-To-Speech Using Multi-Level VAE and Adversarial Training**|Jan Melechovsky et.al.|[2406.01018](http://arxiv.org/abs/2406.01018)|null|
@@ -691,7 +691,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
 ## Robotics
 
@@ -715,7 +715,7 @@
 |**2024-05-30**|**SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation**|Junjie Zhang et.al.|[2405.19586](http://arxiv.org/abs/2405.19586)|null|
 |**2024-05-29**|**Towards an Autonomous Minimally Invasive Spinal Fixation Surgery Using a Concentric Tube Steerable Drilling Robot**|Susheela Sharma et.al.|[2405.19438](http://arxiv.org/abs/2405.19438)|null|
 |**2024-05-29**|**Learning to Recover from Plan Execution Errors during Robot Manipulation: A Neuro-symbolic Approach**|Namasivayam Kalithasan et.al.|[2405.18948](http://arxiv.org/abs/2405.18948)|null|
-|**2024-05-29**|**Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks**|Tianle Zhang et.al.|[2405.18860](http://arxiv.org/abs/2405.18860)|null|
+|**2024-06-06**|**Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks**|Tianle Zhang et.al.|[2405.18860](http://arxiv.org/abs/2405.18860)|null|
 |**2024-05-29**|**Tilde: Teleoperation for Dexterous In-Hand Manipulation Learning with a DeltaHand**|Zilin Si et.al.|[2405.18804](http://arxiv.org/abs/2405.18804)|null|
 |**2024-05-28**|**Sensor-Based Distributionally Robust Control for Safe Robot Navigation in Dynamic Environments**|Kehan Long et.al.|[2405.18251](http://arxiv.org/abs/2405.18251)|**[link](https://github.com/ExistentialRobotics/DR_Safe_Navigation)**|
 |**2024-05-27**|**Spatial Spinal Fixation: A Transformative Approach Using a Unique Robot-Assisted Steerable Drilling System and Flexible Pedicle Screw**|Susheela Sharma et.al.|[2405.17600](http://arxiv.org/abs/2405.17600)|null|
@@ -764,5 +764,5 @@
 |**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-20**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|**[link](https://github.com/irmvlab/diff-ip2d)**|
 
-<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240607>back to top</a>)</p>
 
