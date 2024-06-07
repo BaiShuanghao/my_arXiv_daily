@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering**|Anand Subramanian et.al.|[2406.03699](http://arxiv.org/abs/2406.03699)|null|
+|**2024-06-06**|**Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models**|Ding Huang et.al.|[2406.03683](http://arxiv.org/abs/2406.03683)|null|
 |**2024-06-05**|**SYN2REAL: Leveraging Task Arithmetic for Mitigating Synthetic-Real Discrepancies in ASR Domain Adaptation**|Hsuan Su et.al.|[2406.02925](http://arxiv.org/abs/2406.02925)|null|
 |**2024-06-04**|**Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation**|Peiliang Gong et.al.|[2406.02635](http://arxiv.org/abs/2406.02635)|null|
 |**2024-06-03**|**Proxy Denoising for Source-Free Domain Adaptation**|Song Tang et.al.|[2406.01658](http://arxiv.org/abs/2406.01658)|null|
@@ -132,6 +134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221](http://arxiv.org/abs/2406.04221)|**[link](https://github.com/siyuanliii/masa)**|
 |**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|null|
 |**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032](http://arxiv.org/abs/2406.03032)|null|
 |**2024-06-04**|**Domain Game: Disentangle Anatomical Feature for Single Domain Generalized Segmentation**|Hao Chen et.al.|[2406.02125](http://arxiv.org/abs/2406.02125)|null|
@@ -195,6 +198,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
+|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|null|
+|**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
+|**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753](http://arxiv.org/abs/2406.03753)|null|
+|**2024-06-05**|**CountCLIP -- [Re] Teaching CLIP to Count to Ten**|Harshvardhan Mestha et.al.|[2406.03586](http://arxiv.org/abs/2406.03586)|**[link](https://github.com/SforAiDl/CountCLIP)**|
 |**2024-06-05**|**Exploiting LMM-based knowledge for image classification tasks**|Maria Tzelepi et.al.|[2406.03071](http://arxiv.org/abs/2406.03071)|null|
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015](http://arxiv.org/abs/2406.03015)|null|
 |**2024-06-05**|**Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**|Jinhao Li et.al.|[2406.02915](http://arxiv.org/abs/2406.02915)|**[link](https://github.com/tmlr-group/wca)**|
@@ -368,6 +376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification**|Chun Liu et.al.|[2406.03725](http://arxiv.org/abs/2406.03725)|**[link](https://github.com/chunliu-cs/llmembed-acl2024)**|
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250](http://arxiv.org/abs/2406.03250)|null|
 |**2024-06-05**|**Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need**|Martin Wistuba et.al.|[2406.03216](http://arxiv.org/abs/2406.03216)|null|
 |**2024-06-03**|**Few-Shot Classification of Interactive Activities of Daily Living (InteractADL)**|Zane Durante et.al.|[2406.01662](http://arxiv.org/abs/2406.01662)|**[link](https://github.com/zanedurante/vlm_benchmark)**|
@@ -447,6 +456,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342](http://arxiv.org/abs/2406.04342)|**[link](https://github.com/opengvlab/de-focus-attention-networks)**|
+|**2024-06-05**|**Reconciling Heterogeneous Effects in Causal Inference**|Audrey Chang et.al.|[2406.03575](http://arxiv.org/abs/2406.03575)|null|
 |**2024-06-05**|**Causal Inference from Competing Treatments**|Ana-Andreea Stoica et.al.|[2406.03422](http://arxiv.org/abs/2406.03422)|null|
 |**2024-06-05**|**Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning**|Inwoo Hwang et.al.|[2406.03234](http://arxiv.org/abs/2406.03234)|**[link](https://github.com/iwhwang/Fine-Grained-Causal-RL)**|
 |**2024-06-05**|**Inferring the time-varying coupling of dynamical systems with temporal convolutional autoencoders**|Josuan Calderon et.al.|[2406.03212](http://arxiv.org/abs/2406.03212)|null|
@@ -589,6 +600,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|
+|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254](http://arxiv.org/abs/2406.04254)|null|
+|**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|null|
 |**2024-06-05**|**Adversarial Moment-Matching Distillation of Large Language Models**|Chen Jia et.al.|[2406.02959](http://arxiv.org/abs/2406.02959)|null|
 |**2024-06-04**|**Language-Universal Speech Attributes Modeling for Zero-Shot Multilingual Spoken Keyword Recognition**|Hao Yen et.al.|[2406.02488](http://arxiv.org/abs/2406.02488)|null|
 |**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|null|
@@ -697,6 +712,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
+|**2024-06-06**|**Redundancy-aware Action Spaces for Robot Learning**|Pietro Mazzaglia et.al.|[2406.04144](http://arxiv.org/abs/2406.04144)|null|
+|**2024-06-05**|**BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems**|Wei-Ting Tang et.al.|[2406.03616](http://arxiv.org/abs/2406.03616)|null|
 |**2024-06-05**|**Exponentially Stable Projector-based Control of Lagrangian Systems with Gaussian Processes**|Giulio Evangelisti et.al.|[2406.03224](http://arxiv.org/abs/2406.03224)|null|
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015](http://arxiv.org/abs/2406.03015)|null|
 |**2024-06-05**|**Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy**|Yunho Kim et.al.|[2406.02989](http://arxiv.org/abs/2406.02989)|null|
