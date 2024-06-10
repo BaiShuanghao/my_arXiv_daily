@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -19,7 +19,7 @@ layout: default
 |**2024-06-02**|**Extrapolability Improvement of Machine Learning-Based Evapotranspiration Models via Domain-Adversarial Neural Networks**|Haiyang Shi et.al.|[2406.00805](http://arxiv.org/abs/2406.00805)|null|
 |**2024-06-01**|**SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation**|Xueying Zeng et.al.|[2406.00492](http://arxiv.org/abs/2406.00492)|null|
 |**2024-06-01**|**Effectiveness of Vision Language Models for Open-world Single Image Test Time Adaptation**|Manogna Sreenivas et.al.|[2406.00481](http://arxiv.org/abs/2406.00481)|null|
-|**2024-05-31**|**Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification**|Yunling Ma et.al.|[2406.00085](http://arxiv.org/abs/2406.00085)|null|
+|**2024-06-07**|**Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification**|Yunling Ma et.al.|[2406.00085](http://arxiv.org/abs/2406.00085)|null|
 |**2024-05-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al.|[2405.20700](http://arxiv.org/abs/2405.20700)|null|
 |**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141](http://arxiv.org/abs/2405.20141)|null|
 |**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109](http://arxiv.org/abs/2405.20109)|**[link](https://github.com/links-ads/igarss-fmars)**|
@@ -374,7 +374,7 @@ layout: default
 |**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
 |**2024-06-01**|**Low-Rank Few-Shot Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2405.18541](http://arxiv.org/abs/2405.18541)|null|
 |**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
-|**2024-05-28**|**IAPT: Instruction-Aware Prompt Tuning for Large Language Models**|Wei Zhu et.al.|[2405.18203](http://arxiv.org/abs/2405.18203)|null|
+|**2024-06-07**|**IAPT: Instruction-Aware Prompt Tuning for Large Language Models**|Wei Zhu et.al.|[2405.18203](http://arxiv.org/abs/2405.18203)|null|
 |**2024-05-28**|**Cross-Context Backdoor Attacks against Graph Prompt Learning**|Xiaoting Lyu et.al.|[2405.17984](http://arxiv.org/abs/2405.17984)|**[link](https://github.com/xtLyu/CrossBA)**|
 |**2024-05-28**|**FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**|Zhonghang Li et.al.|[2405.17898](http://arxiv.org/abs/2405.17898)|**[link](https://github.com/hkuds/flashst)**|
 |**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
@@ -583,7 +583,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|
 |**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254](http://arxiv.org/abs/2406.04254)|null|
+|**2024-06-07**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254](http://arxiv.org/abs/2406.04254)|null|
 |**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
 |**2024-06-05**|**Adversarial Moment-Matching Distillation of Large Language Models**|Chen Jia et.al.|[2406.02959](http://arxiv.org/abs/2406.02959)|null|
 |**2024-06-04**|**Language-Universal Speech Attributes Modeling for Zero-Shot Multilingual Spoken Keyword Recognition**|Hao Yen et.al.|[2406.02488](http://arxiv.org/abs/2406.02488)|null|
