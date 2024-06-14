@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Efficient Discrepancy Testing for Learning with Distribution Shift**|Gautam Chandrasekaran et.al.|[2406.09373](http://arxiv.org/abs/2406.09373)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
+|**2024-06-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al.|[2406.08610](http://arxiv.org/abs/2406.08610)|**[link](https://github.com/mpilligua/layereddoc)**|
 |**2024-06-12**|**SE/BN Adapter: Parametric Efficient Domain Adaptation for Speaker Recognition**|Tianhao Wang et.al.|[2406.07832](http://arxiv.org/abs/2406.07832)|null|
 |**2024-06-11**|**Learning Domain-Invariant Features for Out-of-Context News Detection**|Yimeng Gu et.al.|[2406.07430](http://arxiv.org/abs/2406.07430)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
@@ -145,6 +148,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Learning from Natural Language Explanations for Generalizable Entity Matching**|Somin Wadhwa et.al.|[2406.09330](http://arxiv.org/abs/2406.09330)|null|
+|**2024-06-13**|**Fine-Grained Domain Generalization with Feature Structuralization**|Wenlong Yu et.al.|[2406.09166](http://arxiv.org/abs/2406.09166)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
 |**2024-06-11**|**Description and Discussion on DCASE 2024 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Tomoya Nishida et.al.|[2406.07250](http://arxiv.org/abs/2406.07250)|null|
 |**2024-06-10**|**On the Minimal Degree Bias in Generalization on the Unseen for non-Boolean Functions**|Denys Pushkin et.al.|[2406.06354](http://arxiv.org/abs/2406.06354)|**[link](https://github.com/DenisPushkin/GOTU-real-valued)**|
@@ -216,6 +221,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396](http://arxiv.org/abs/2406.09396)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
+|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295](http://arxiv.org/abs/2406.09295)|null|
+|**2024-06-13**|**MirrorCheck: Efficient Adversarial Defense for Vision-Language Models**|Samar Fares et.al.|[2406.09250](http://arxiv.org/abs/2406.09250)|null|
+|**2024-06-13**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|Melvin Wong et.al.|[2406.09143](http://arxiv.org/abs/2406.09143)|null|
+|**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105](http://arxiv.org/abs/2406.09105)|**[link](https://github.com/fdu-ins/ins-mmbench)**|
+|**2024-06-13**|**How structured are the representations in transformer-based vision encoders? An analysis of multi-object representations in vision-language models**|Tarun Khajuria et.al.|[2406.09067](http://arxiv.org/abs/2406.09067)|null|
+|**2024-06-13**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039](http://arxiv.org/abs/2406.09039)|null|
+|**2024-06-13**|**Conceptual Learning via Embedding Approximations for Reinforcing Interpretability and Transparency**|Maor Dikter et.al.|[2406.08840](http://arxiv.org/abs/2406.08840)|**[link](https://github.com/clearproject/clear)**|
+|**2024-06-13**|**MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs**|Xuannan Liu et.al.|[2406.08772](http://arxiv.org/abs/2406.08772)|null|
+|**2024-06-13**|**VLind-Bench: Measuring Language Priors in Large Vision-Language Models**|Kang-il Lee et.al.|[2406.08702](http://arxiv.org/abs/2406.08702)|null|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455](http://arxiv.org/abs/2406.08455)|null|
 |**2024-06-12**|**ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs**|Irene Huang et.al.|[2406.08164](http://arxiv.org/abs/2406.08164)|**[link](https://github.com/jmiemirza/conme)**|
@@ -418,6 +434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
 |**2024-06-12**|**GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**|Peiyan Zhang et.al.|[2406.08229](http://arxiv.org/abs/2406.08229)|null|
 |**2024-06-11**|**StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning**|Tongjun Shi et.al.|[2406.07590](http://arxiv.org/abs/2406.07590)|**[link](https://github.com/intellistream/efficient-stream-learning)**|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
@@ -510,6 +527,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207](http://arxiv.org/abs/2406.09207)|null|
+|**2024-06-13**|**Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency**|Alan Nawzad Amin et.al.|[2406.09177](http://arxiv.org/abs/2406.09177)|**[link](https://github.com/alannawzadamin/dat-graph)**|
+|**2024-06-13**|**Covariate balancing with measurement error**|Xialing Wen et.al.|[2406.09163](http://arxiv.org/abs/2406.09163)|null|
+|**2024-06-10**|**Efficiently Deciding Algebraic Equivalence of Bow-Free Acyclic Path Diagrams**|Thijs van Ommen et.al.|[2406.09049](http://arxiv.org/abs/2406.09049)|null|
+|**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$ -functions**|Angela Zhou et.al.|[2406.08697](http://arxiv.org/abs/2406.08697)|null|
+|**2024-06-12**|**Causal Inference on Missing Exposure via Robust Estimation**|Yuliang Shi et.al.|[2406.08668](http://arxiv.org/abs/2406.08668)|null|
+|**2024-06-12**|**Interventional Causal Discovery in a Mixture of DAGs**|Burak Varıcı et.al.|[2406.08666](http://arxiv.org/abs/2406.08666)|**[link](https://github.com/bvarici/intervention-mixture-dag)**|
 |**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311](http://arxiv.org/abs/2406.08311)|**[link](https://github.com/turuibo/cautabbench)**|
 |**2024-06-12**|**Counterfactual-based Root Cause Analysis for Dynamical Systems**|Juliane Weilbach et.al.|[2406.08106](http://arxiv.org/abs/2406.08106)|null|
 |**2024-06-12**|**Bridging multiple worlds: multi-marginal optimal transport for causal partial-identification problem**|Zijun Gao et.al.|[2406.07868](http://arxiv.org/abs/2406.07868)|null|
@@ -675,6 +699,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Towards Evaluating the Robustness of Visual State Space Models**|Hashmat Shadab Malik et.al.|[2406.09407](http://arxiv.org/abs/2406.09407)|**[link](https://github.com/hashmatshadab/mambarobustness)**|
+|**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
+|**2024-06-13**|**An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records**|Joakim Edin et.al.|[2406.08958](http://arxiv.org/abs/2406.08958)|null|
+|**2024-06-13**|**Learning Images Across Scales Using Adversarial Training**|Krzysztof Wolski et.al.|[2406.08924](http://arxiv.org/abs/2406.08924)|null|
+|**2024-06-13**|**Robust Information Retrieval**|Yu-An Liu et.al.|[2406.08891](http://arxiv.org/abs/2406.08891)|null|
+|**2024-06-13**|**Improving Adversarial Robustness via Feature Pattern Consistency Constraint**|Jiacong Hu et.al.|[2406.08829](http://arxiv.org/abs/2406.08829)|null|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
 |**2024-06-12**|**Interpretable Representation Learning of Cardiac MRI via Attribute Regularization**|Maxime Di Folco et.al.|[2406.08282](http://arxiv.org/abs/2406.08282)|null|
 |**2024-06-10**|**Fast White-Box Adversarial Streaming Without a Random Oracle**|Ying Feng et.al.|[2406.06808](http://arxiv.org/abs/2406.06808)|null|
@@ -800,6 +830,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Teleoperation of a robotic manipulator in peri-personal space: a virtual wand approach**|Alexis Poignant et.al.|[2406.09309](http://arxiv.org/abs/2406.09309)|null|
+|**2024-06-13**|**Direct Imitation Learning-based Visual Servoing using the Large Projection Formulation**|Sayantan Auddy et.al.|[2406.09120](http://arxiv.org/abs/2406.09120)|null|
 |**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
 |**2024-06-12**|**Highly agile flat swimming robot**|Florian Hartmann et.al.|[2406.08015](http://arxiv.org/abs/2406.08015)|null|
 |**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837](http://arxiv.org/abs/2406.07837)|**[link](https://github.com/mlzxy/visual-kinetic-chain)**|
