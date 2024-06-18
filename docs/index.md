@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -20,7 +20,7 @@ layout: default
 |**2024-06-12**|**SE/BN Adapter: Parametric Efficient Domain Adaptation for Speaker Recognition**|Tianhao Wang et.al.|[2406.07832](http://arxiv.org/abs/2406.07832)|null|
 |**2024-06-11**|**Learning Domain-Invariant Features for Out-of-Context News Detection**|Yimeng Gu et.al.|[2406.07430](http://arxiv.org/abs/2406.07430)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
-|**2024-06-13**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953](http://arxiv.org/abs/2406.06953)|null|
+|**2024-06-16**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953](http://arxiv.org/abs/2406.06953)|null|
 |**2024-06-10**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation**|Dong Zhao et.al.|[2406.06813](http://arxiv.org/abs/2406.06813)|**[link](https://github.com/DZhaoXd/SND)**|
 |**2024-06-06**|**Continuous Test-time Domain Adaptation for Efficient Fault Detection under Evolving Operating Conditions**|Han Sun et.al.|[2406.06607](http://arxiv.org/abs/2406.06607)|null|
 |**2024-06-10**|**FPN-IAIA-BL: A Multi-Scale Interpretable Deep Learning Model for Classification of Mass Margins in Digital Mammography**|Julia Yang et.al.|[2406.06386](http://arxiv.org/abs/2406.06386)|null|
@@ -844,11 +844,11 @@ layout: default
 |**2024-06-12**|**Highly agile flat swimming robot**|Florian Hartmann et.al.|[2406.08015](http://arxiv.org/abs/2406.08015)|null|
 |**2024-06-12**|**Scaling Manipulation Learning with Visual Kinematic Chain Prediction**|Xinyu Zhang et.al.|[2406.07837](http://arxiv.org/abs/2406.07837)|**[link](https://github.com/mlzxy/visual-kinetic-chain)**|
 |**2024-06-11**|**A Practical Roadmap to Learning from Demonstration for Robotic Manipulators in Manufacturing**|Alireza Barekatain et.al.|[2406.07678](http://arxiv.org/abs/2406.07678)|null|
-|**2024-06-10**|**HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction**|Jikai Wang et.al.|[2406.06843](http://arxiv.org/abs/2406.06843)|null|
+|**2024-06-16**|**HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction**|Jikai Wang et.al.|[2406.06843](http://arxiv.org/abs/2406.06843)|null|
 |**2024-06-10**|**Verification-Guided Shielding for Deep Reinforcement Learning**|Davide Corsi et.al.|[2406.06507](http://arxiv.org/abs/2406.06507)|null|
 |**2024-06-10**|**Sim-To-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery**|Paul Maria Scheikl et.al.|[2406.06092](http://arxiv.org/abs/2406.06092)|null|
 |**2024-06-10**|**Navigation and 3D Surface Reconstruction from Passive Whisker Sensing**|Michael A. Lin et.al.|[2406.06038](http://arxiv.org/abs/2406.06038)|null|
-|**2024-06-09**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
+|**2024-06-16**|**LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2406.05881](http://arxiv.org/abs/2406.05881)|null|
 |**2024-06-08**|**Artificial social influence via human-embodied AI agent interaction in immersive virtual reality (VR): Effects of similarity-matching during health conversations**|Sue Lim et.al.|[2406.05486](http://arxiv.org/abs/2406.05486)|null|
 |**2024-06-12**|**3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|**[link](https://github.com/sled-group/3D-GRAND)**|
 |**2024-06-06**|**Towards Robotic Haptic Proxies in Virtual Reality**|Eric Godden et.al.|[2406.04491](http://arxiv.org/abs/2406.04491)|null|
