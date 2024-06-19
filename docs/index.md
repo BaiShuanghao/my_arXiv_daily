@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2406.12634](http://arxiv.org/abs/2406.12634)|**[link](https://github.com/andreeaiana/nase)**|
+|**2024-06-18**|**Unsupervised Online Continual Learning for Automatic Speech Recognition**|Steven Vander Eeckt et.al.|[2406.12503](http://arxiv.org/abs/2406.12503)|null|
+|**2024-06-18**|**A Compass for Navigating the World of Sentence Embeddings for the Telecom Domain**|Sujoy Roychowdhury et.al.|[2406.12336](http://arxiv.org/abs/2406.12336)|null|
+|**2024-06-17**|**Interpretable modulated differentiable STFT and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations**|Chao He et.al.|[2406.11917](http://arxiv.org/abs/2406.11917)|**[link](https://github.com/liguge/PyDSN)**|
 |**2024-06-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al.|[2406.11313](http://arxiv.org/abs/2406.11313)|**[link](https://github.com/rasd3/toda)**|
 |**2024-06-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al.|[2406.11311](http://arxiv.org/abs/2406.11311)|null|
 |**2024-06-16**|**Physics-Informed Deep Learning and Partial Transfer Learning for Bearing Fault Diagnosis in the Presence of Highly Missing Data**|Mohammadreza Kavianpour et.al.|[2406.11023](http://arxiv.org/abs/2406.11023)|null|
@@ -151,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Advancing Cross-Domain Generalizability in Face Anti-Spoofing: Insights, Design, and Metrics**|Hyojin Kim et.al.|[2406.12258](http://arxiv.org/abs/2406.12258)|null|
 |**2024-06-17**|**Domain Generalization for In-Orbit 6D Pose Estimation**|Antoine Legrand et.al.|[2406.11743](http://arxiv.org/abs/2406.11743)|null|
 |**2024-06-17**|**Revisiting Spurious Correlation in Domain Generalization**|Bin Qin et.al.|[2406.11517](http://arxiv.org/abs/2406.11517)|null|
 |**2024-06-17**|**Beyond Boundaries: Learning a Universal Entity Taxonomy across Datasets and Languages for Open Named Entity Recognition**|Yuming Yang et.al.|[2406.11192](http://arxiv.org/abs/2406.11192)|**[link](https://github.com/umeannever/b2ner)**|
@@ -232,6 +237,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**|Wenbin An et.al.|[2406.12718](http://arxiv.org/abs/2406.12718)|null|
+|**2024-06-18**|**Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?**|Mingqian Feng et.al.|[2406.12663](http://arxiv.org/abs/2406.12663)|null|
+|**2024-06-18**|**Efficient and Long-Tailed Generalization for Pre-trained Vision-Language Model**|Jiang-Xin Shi et.al.|[2406.12638](http://arxiv.org/abs/2406.12638)|null|
+|**2024-06-18**|**VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding**|Xiang Li et.al.|[2406.12384](http://arxiv.org/abs/2406.12384)|**[link](https://github.com/lx709/vrsbench)**|
+|**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275](http://arxiv.org/abs/2406.12275)|null|
+|**2024-06-18**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
+|**2024-06-17**|**SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**|Yongting Zhang et.al.|[2406.12030](http://arxiv.org/abs/2406.12030)|**[link](https://github.com/echosechen/spa-vl-rlhf)**|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
 |**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823](http://arxiv.org/abs/2406.11823)|**[link](https://github.com/naver-ai/elva)**|
@@ -473,6 +485,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
+|**2024-06-18**|**Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning**|Ruiqi Wu et.al.|[2406.12316](http://arxiv.org/abs/2406.12316)|null|
+|**2024-06-18**|**Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning**|Chenyuan Wu et.al.|[2406.12251](http://arxiv.org/abs/2406.12251)|**[link](https://github.com/wcyno23/shlpt)**|
 |**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
 |**2024-06-16**|**COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection**|Yi Ouyang et.al.|[2406.10870](http://arxiv.org/abs/2406.10870)|null|
 |**2024-06-15**|**Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data**|Jiahan Zhang et.al.|[2406.10502](http://arxiv.org/abs/2406.10502)|**[link](https://github.com/vanillaer/cpl-icml2024)**|
@@ -569,6 +584,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807](http://arxiv.org/abs/2406.12807)|null|
+|**2024-06-18**|**Model Selection for Causal Modeling in Missing Exposure Problems**|Yuliang Shi et.al.|[2406.12171](http://arxiv.org/abs/2406.12171)|null|
+|**2024-06-18**|**LLMs Are Prone to Fallacies in Causal Inference**|Nitish Joshi et.al.|[2406.12158](http://arxiv.org/abs/2406.12158)|null|
+|**2024-06-17**|**Model-Based Inference and Experimental Design for Interference Using Partial Network Data**|Steven Wilkins Reeves et.al.|[2406.11940](http://arxiv.org/abs/2406.11940)|null|
 |**2024-06-17**|**Standardizing Structural Causal Models**|Weronika Ormaniec et.al.|[2406.11601](http://arxiv.org/abs/2406.11601)|null|
 |**2024-06-17**|**Revisiting Spurious Correlation in Domain Generalization**|Bin Qin et.al.|[2406.11517](http://arxiv.org/abs/2406.11517)|null|
 |**2024-06-18**|**Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**|Jiangmeng Li et.al.|[2406.11501](http://arxiv.org/abs/2406.11501)|null|
@@ -752,6 +771,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843](http://arxiv.org/abs/2406.12843)|null|
+|**2024-06-18**|**Universal Score-based Speech Enhancement with High Content Preservation**|Robin Scheibler et.al.|[2406.12194](http://arxiv.org/abs/2406.12194)|null|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
 |**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|**[link](https://github.com/maayango285/Adversaries-With-Incentives)**|
 |**2024-06-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al.|[2406.11311](http://arxiv.org/abs/2406.11311)|null|
@@ -890,6 +911,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Integrating Representational Gestures into Automatically Generated Embodied Explanations and its Effects on Understanding and Interaction Quality**|Amelie Sophie Robrecht et.al.|[2406.12544](http://arxiv.org/abs/2406.12544)|null|
+|**2024-06-18**|**Cycle-Correspondence Loss: Learning Dense View-Invariant Visual Features from Unlabeled and Unordered RGB Images**|David B. Adrian et.al.|[2406.12441](http://arxiv.org/abs/2406.12441)|null|
+|**2024-06-18**|**Memory Sequence Length of Data Sampling Impacts the Adaptation of Meta-Reinforcement Learning Agents**|Menglong Zhang et.al.|[2406.12359](http://arxiv.org/abs/2406.12359)|null|
 |**2024-06-17**|**Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation**|Alexander Raistrick et.al.|[2406.11824](http://arxiv.org/abs/2406.11824)|null|
 |**2024-06-17**|**Embodied Instruction Following in Unknown Environments**|Zhenyu Wu et.al.|[2406.11818](http://arxiv.org/abs/2406.11818)|null|
 |**2024-06-17**|**FetchBench: A Simulation Benchmark for Robot Fetching**|Beining Han et.al.|[2406.11793](http://arxiv.org/abs/2406.11793)|null|
