@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -20,7 +20,7 @@ layout: default
 |**2024-06-14**|**Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling**|Tianxiang Zhao et.al.|[2406.10425](http://arxiv.org/abs/2406.10425)|null|
 |**2024-06-14**|**Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**|Umberto Michelucci et.al.|[2406.10031](http://arxiv.org/abs/2406.10031)|null|
 |**2024-06-17**|**Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation**|Brunó B. Englert et.al.|[2406.09896](http://arxiv.org/abs/2406.09896)|**[link](https://github.com/tue-mps/vfm-uda)**|
-|**2024-06-14**|**A Unified Data Augmentation Framework for Low-Resource Multi-Domain Dialogue Generation**|Yongkang Liu et.al.|[2406.09881](http://arxiv.org/abs/2406.09881)|null|
+|**2024-06-14**|**A Unified Data Augmentation Framework for Low-Resource Multi-Domain Dialogue Generation**|Yongkang Liu et.al.|[2406.09881](http://arxiv.org/abs/2406.09881)|**[link](https://github.com/misonsky/Amdg)**|
 |**2024-06-13**|**Towards Domain Adaptive Neural Contextual Bandits**|Ziyan Wang et.al.|[2406.09564](http://arxiv.org/abs/2406.09564)|null|
 |**2024-06-13**|**ELF-UA: Efficient Label-Free User Adaptation in Gaze Estimation**|Yong Wu et.al.|[2406.09481](http://arxiv.org/abs/2406.09481)|null|
 |**2024-06-13**|**Efficient Discrepancy Testing for Learning with Distribution Shift**|Gautam Chandrasekaran et.al.|[2406.09373](http://arxiv.org/abs/2406.09373)|null|
@@ -157,7 +157,7 @@ layout: default
 |**2024-06-16**|**First-Order Manifold Data Augmentation for Regression Learning**|Ilya Kaufman et.al.|[2406.10914](http://arxiv.org/abs/2406.10914)|null|
 |**2024-06-15**|**Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models**|Chengzhengxu Li et.al.|[2406.10584](http://arxiv.org/abs/2406.10584)|null|
 |**2024-06-15**|**MALLM-GAN: Multi-Agent Large Language Model as Generative Adversarial Network for Synthesizing Tabular Data**|Yaobin Ling et.al.|[2406.10521](http://arxiv.org/abs/2406.10521)|null|
-|**2024-06-13**|**CLST: Cold-Start Mitigation in Knowledge Tracing by Aligning a Generative Language Model as a Students' Knowledge Tracer**|Heeseok Jung et.al.|[2406.10296](http://arxiv.org/abs/2406.10296)|null|
+|**2024-06-18**|**CLST: Cold-Start Mitigation in Knowledge Tracing by Aligning a Generative Language Model as a Students' Knowledge Tracer**|Heeseok Jung et.al.|[2406.10296](http://arxiv.org/abs/2406.10296)|null|
 |**2024-06-14**|**Enhancing Fake News Detection in Social Media via Label Propagation on Cross-modal Tweet Graph**|Wanqing Zhao et.al.|[2406.09884](http://arxiv.org/abs/2406.09884)|null|
 |**2024-06-14**|**How Does Distribution Matching Help Domain Generalization: An Information-theoretic Analysis**|Yuxin Dong et.al.|[2406.09745](http://arxiv.org/abs/2406.09745)|**[link](https://github.com/yuxin-dong/idm)**|
 |**2024-06-12**|**Pandora: Towards General World Model with Natural Language Actions and Video States**|Jiannan Xiang et.al.|[2406.09455](http://arxiv.org/abs/2406.09455)|null|
@@ -236,22 +236,22 @@ layout: default
 |**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
 |**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823](http://arxiv.org/abs/2406.11823)|**[link](https://github.com/naver-ai/elva)**|
 |**2024-06-17**|**See It from My Perspective: Diagnosing the Western Cultural Bias of Large Vision-Language Models in Image Understanding**|Amith Ananthram et.al.|[2406.11665](http://arxiv.org/abs/2406.11665)|**[link](https://github.com/amith-ananthram/see-it-from-my-perspective)**|
-|**2024-06-17**|**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**|Yue Jiang et.al.|[2406.11451](http://arxiv.org/abs/2406.11451)|null|
+|**2024-06-18**|**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**|Yue Jiang et.al.|[2406.11451](http://arxiv.org/abs/2406.11451)|null|
 |**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331](http://arxiv.org/abs/2406.11331)|null|
 |**2024-06-17**|**GUICourse: From General Vision Language Models to Versatile GUI Agents**|Wentong Chen et.al.|[2406.11317](http://arxiv.org/abs/2406.11317)|**[link](https://github.com/yiye3/guicourse)**|
-|**2024-06-17**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
+|**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
 |**2024-06-17**|**MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models**|Shengkang Wang et.al.|[2406.11288](http://arxiv.org/abs/2406.11288)|null|
 |**2024-06-17**|**Unifying Multimodal Retrieval via Document Screenshot Embedding**|Xueguang Ma et.al.|[2406.11251](http://arxiv.org/abs/2406.11251)|null|
 |**2024-06-17**|**WeatherQA: Can Multimodal Language Models Reason about Severe Weather?**|Chengqian Ma et.al.|[2406.11217](http://arxiv.org/abs/2406.11217)|**[link](https://github.com/chengqianma/weatherqa)**|
-|**2024-06-17**|**SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations**|Sri Harsha Dumpala et.al.|[2406.11171](http://arxiv.org/abs/2406.11171)|null|
+|**2024-06-17**|**SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations**|Sri Harsha Dumpala et.al.|[2406.11171](http://arxiv.org/abs/2406.11171)|**[link](https://github.com/Sri-Harsha/scpp)**|
 |**2024-06-17**|**Few-Shot Recognition via Stage-Wise Augmented Finetuning**|Tian Liu et.al.|[2406.11148](http://arxiv.org/abs/2406.11148)|null|
 |**2024-06-16**|**WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences**|Yujie Lu et.al.|[2406.11069](http://arxiv.org/abs/2406.11069)|null|
 |**2024-06-16**|**FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**|Wenyan Li et.al.|[2406.11030](http://arxiv.org/abs/2406.11030)|null|
 |**2024-06-16**|**Concept-skill Transferability-based Data Selection for Large Vision-Language Models**|Jaewoo Lee et.al.|[2406.10995](http://arxiv.org/abs/2406.10995)|null|
 |**2024-06-16**|**Open-Vocabulary X-ray Prohibited Item Detection via Fine-tuning CLIP**|Shuyang Lin et.al.|[2406.10961](http://arxiv.org/abs/2406.10961)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-16**|**AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models**|Xiyang Wu et.al.|[2406.10900](http://arxiv.org/abs/2406.10900)|null|
-|**2024-06-15**|**Spuriousness-Aware Meta-Learning for Learning Robust Classifiers**|Guangtao Zheng et.al.|[2406.10742](http://arxiv.org/abs/2406.10742)|null|
+|**2024-06-15**|**Spuriousness-Aware Meta-Learning for Learning Robust Classifiers**|Guangtao Zheng et.al.|[2406.10742](http://arxiv.org/abs/2406.10742)|**[link](https://github.com/gtzheng/SPUME)**|
 |**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221](http://arxiv.org/abs/2406.10221)|null|
 |**2024-06-14**|**DevBench: A multimodal developmental benchmark for language learning**|Alvin Wei Ming Tan et.al.|[2406.10215](http://arxiv.org/abs/2406.10215)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
@@ -473,7 +473,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
+|**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
 |**2024-06-16**|**COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection**|Yi Ouyang et.al.|[2406.10870](http://arxiv.org/abs/2406.10870)|null|
 |**2024-06-15**|**Candidate Pseudolabel Learning: Enhancing Vision-Language Models by Prompt Tuning with Unlabeled Data**|Jiahan Zhang et.al.|[2406.10502](http://arxiv.org/abs/2406.10502)|**[link](https://github.com/vanillaer/cpl-icml2024)**|
 |**2024-06-15**|**A Unified Graph Selective Prompt Learning for Graph Neural Networks**|Bo Jiang et.al.|[2406.10498](http://arxiv.org/abs/2406.10498)|null|
@@ -571,7 +571,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Standardizing Structural Causal Models**|Weronika Ormaniec et.al.|[2406.11601](http://arxiv.org/abs/2406.11601)|null|
 |**2024-06-17**|**Revisiting Spurious Correlation in Domain Generalization**|Bin Qin et.al.|[2406.11517](http://arxiv.org/abs/2406.11517)|null|
-|**2024-06-17**|**Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**|Jiangmeng Li et.al.|[2406.11501](http://arxiv.org/abs/2406.11501)|null|
+|**2024-06-18**|**Teleporter Theory: A General and Simple Approach for Modeling Cross-World Counterfactual Causality**|Jiangmeng Li et.al.|[2406.11501](http://arxiv.org/abs/2406.11501)|null|
 |**2024-06-17**|**Interventional Imbalanced Multi-Modal Representation Learning via $β$ -Generalization Front-Door Criterion**|Yi Li et.al.|[2406.11490](http://arxiv.org/abs/2406.11490)|null|
 |**2024-06-17**|**Spillover Detection for Donor Selection in Synthetic Control Models**|Michael O'Riordan et.al.|[2406.11399](http://arxiv.org/abs/2406.11399)|null|
 |**2024-06-17**|**Management Decisions in Manufacturing using Causal Machine Learning -- To Rework, or not to Rework?**|Philipp Schwarz et.al.|[2406.11308](http://arxiv.org/abs/2406.11308)|null|
@@ -583,7 +583,7 @@ layout: default
 |**2024-06-14**|**Causal inference for N-of-1 trials**|Marco Piccininni et.al.|[2406.10360](http://arxiv.org/abs/2406.10360)|null|
 |**2024-06-13**|**Causal Fine-Tuning and Effect Calibration of Non-Causal Predictive Models**|Carlos Fernández-Loría et.al.|[2406.09567](http://arxiv.org/abs/2406.09567)|null|
 |**2024-06-13**|**Investigating potential causes of Sepsis with Bayesian network structure learning**|Bruno Petrungaro et.al.|[2406.09207](http://arxiv.org/abs/2406.09207)|null|
-|**2024-06-13**|**Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency**|Alan Nawzad Amin et.al.|[2406.09177](http://arxiv.org/abs/2406.09177)|**[link](https://github.com/alannawzadamin/dat-graph)**|
+|**2024-06-18**|**Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency**|Alan Nawzad Amin et.al.|[2406.09177](http://arxiv.org/abs/2406.09177)|**[link](https://github.com/alannawzadamin/dat-graph)**|
 |**2024-06-13**|**Covariate balancing with measurement error**|Xialing Wen et.al.|[2406.09163](http://arxiv.org/abs/2406.09163)|null|
 |**2024-06-10**|**Efficiently Deciding Algebraic Equivalence of Bow-Free Acyclic Path Diagrams**|Thijs van Ommen et.al.|[2406.09049](http://arxiv.org/abs/2406.09049)|null|
 |**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$ -functions**|Angela Zhou et.al.|[2406.08697](http://arxiv.org/abs/2406.08697)|null|
@@ -753,7 +753,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
-|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|null|
+|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|**[link](https://github.com/maayango285/Adversaries-With-Incentives)**|
 |**2024-06-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al.|[2406.11311](http://arxiv.org/abs/2406.11311)|null|
 |**2024-06-16**|**Improving Adversarial Robustness via Decoupled Visual Representation Masking**|Decheng Liu et.al.|[2406.10933](http://arxiv.org/abs/2406.10933)|**[link](https://github.com/chenboluo/adversarial-defense)**|
 |**2024-06-16**|**Multi-Scale Accent Modeling with Disentangling for Multi-Speaker Multi-Accent TTS Synthesis**|Xuehao Zhou et.al.|[2406.10844](http://arxiv.org/abs/2406.10844)|null|
@@ -763,7 +763,7 @@ layout: default
 |**2024-06-14**|**Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models**|Changjiang Li et.al.|[2406.09669](http://arxiv.org/abs/2406.09669)|null|
 |**2024-06-13**|**Towards Evaluating the Robustness of Visual State Space Models**|Hashmat Shadab Malik et.al.|[2406.09407](http://arxiv.org/abs/2406.09407)|**[link](https://github.com/hashmatshadab/mambarobustness)**|
 |**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
-|**2024-06-13**|**An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records**|Joakim Edin et.al.|[2406.08958](http://arxiv.org/abs/2406.08958)|null|
+|**2024-06-13**|**An Unsupervised Approach to Achieve Supervised-Level Explainability in Healthcare Records**|Joakim Edin et.al.|[2406.08958](http://arxiv.org/abs/2406.08958)|**[link](https://github.com/JoakimEdin/explainable-medical-coding)**|
 |**2024-06-13**|**Learning Images Across Scales Using Adversarial Training**|Krzysztof Wolski et.al.|[2406.08924](http://arxiv.org/abs/2406.08924)|null|
 |**2024-06-13**|**Robust Information Retrieval**|Yu-An Liu et.al.|[2406.08891](http://arxiv.org/abs/2406.08891)|null|
 |**2024-06-13**|**Improving Adversarial Robustness via Feature Pattern Consistency Constraint**|Jiacong Hu et.al.|[2406.08829](http://arxiv.org/abs/2406.08829)|null|
