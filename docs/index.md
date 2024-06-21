@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -255,7 +255,7 @@ layout: default
 |**2024-06-17**|**MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models**|Shengkang Wang et.al.|[2406.11288](http://arxiv.org/abs/2406.11288)|null|
 |**2024-06-17**|**Unifying Multimodal Retrieval via Document Screenshot Embedding**|Xueguang Ma et.al.|[2406.11251](http://arxiv.org/abs/2406.11251)|null|
 |**2024-06-17**|**WeatherQA: Can Multimodal Language Models Reason about Severe Weather?**|Chengqian Ma et.al.|[2406.11217](http://arxiv.org/abs/2406.11217)|**[link](https://github.com/chengqianma/weatherqa)**|
-|**2024-06-17**|**SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations**|Sri Harsha Dumpala et.al.|[2406.11171](http://arxiv.org/abs/2406.11171)|**[link](https://github.com/Sri-Harsha/scpp)**|
+|**2024-06-19**|**SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations**|Sri Harsha Dumpala et.al.|[2406.11171](http://arxiv.org/abs/2406.11171)|**[link](https://github.com/Sri-Harsha/scpp)**|
 |**2024-06-17**|**Few-Shot Recognition via Stage-Wise Augmented Finetuning**|Tian Liu et.al.|[2406.11148](http://arxiv.org/abs/2406.11148)|null|
 |**2024-06-16**|**WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences**|Yujie Lu et.al.|[2406.11069](http://arxiv.org/abs/2406.11069)|null|
 |**2024-06-16**|**FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture**|Wenyan Li et.al.|[2406.11030](http://arxiv.org/abs/2406.11030)|null|
@@ -502,7 +502,7 @@ layout: default
 |**2024-06-10**|**An Improved Empirical Fisher Approximation for Natural Gradient Descent**|Xiaodong Wu et.al.|[2406.06420](http://arxiv.org/abs/2406.06420)|null|
 |**2024-06-09**|**Do LLMs Exhibit Human-Like Reasoning? Evaluating Theory of Mind in LLMs for Open-Ended Responses**|Maryam Amirizaniani et.al.|[2406.05659](http://arxiv.org/abs/2406.05659)|null|
 |**2024-06-11**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658](http://arxiv.org/abs/2406.05658)|null|
-|**2024-06-08**|**ProG: A Graph Prompt Learning Benchmark**|Chenyi Zi et.al.|[2406.05346](http://arxiv.org/abs/2406.05346)|**[link](https://github.com/sheldonresearch/ProG)**|
+|**2024-06-19**|**ProG: A Graph Prompt Learning Benchmark**|Chenyi Zi et.al.|[2406.05346](http://arxiv.org/abs/2406.05346)|**[link](https://github.com/sheldonresearch/ProG)**|
 |**2024-06-07**|**SuperPos-Prompt: Enhancing Soft Prompt Tuning of Language Models with Superposition of Multi Token Embeddings**|MohammadAli SadraeiJavaeri et.al.|[2406.05279](http://arxiv.org/abs/2406.05279)|null|
 |**2024-06-06**|**PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning**|Tianrong Zhang et.al.|[2406.04478](http://arxiv.org/abs/2406.04478)|null|
 |**2024-06-06**|**Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning**|Amandeep Kumar et.al.|[2406.04413](http://arxiv.org/abs/2406.04413)|**[link](https://github.com/virobo-15/efficient-3d-aware-facial-image-editing)**|
