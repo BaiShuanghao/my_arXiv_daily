@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation**|Shamane Siriwardhana et.al.|[2406.14971](http://arxiv.org/abs/2406.14971)|null|
+|**2024-06-21**|**70B-parameter large language models in Japanese medical question-answering**|Issey Sukeda et.al.|[2406.14882](http://arxiv.org/abs/2406.14882)|null|
+|**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
+|**2024-06-21**|**Word Matters: What Influences Domain Adaptation in Summarization?**|Yinghao Li et.al.|[2406.14828](http://arxiv.org/abs/2406.14828)|null|
+|**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745](http://arxiv.org/abs/2406.14745)|null|
 |**2024-06-20**|**Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach**|Mengcheng Lan et.al.|[2406.14274](http://arxiv.org/abs/2406.14274)|**[link](https://github.com/mc-lan/sp-tcl)**|
 |**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087](http://arxiv.org/abs/2406.14087)|**[link](https://github.com/tanodino/sshda)**|
 |**2024-06-20**|**Improved Remixing Process for Domain Adaptation-Based Speech Enhancement by Mitigating Data Imbalance in Signal-to-Noise Ratio**|Li Li et.al.|[2406.13982](http://arxiv.org/abs/2406.13982)|null|
@@ -173,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Camera-Invariant Meta-Learning Network for Single-Camera-Training Person Re-identification**|Jiangbo Pei et.al.|[2406.14797](http://arxiv.org/abs/2406.14797)|null|
 |**2024-06-20**|**FIESTA: Fourier-Based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**|Kwanseok Oh et.al.|[2406.14308](http://arxiv.org/abs/2406.14308)|null|
 |**2024-06-19**|**Diffusion-based Generative Modeling with Discriminative Guidance for Streamable Speech Enhancement**|Chenda Li et.al.|[2406.13471](http://arxiv.org/abs/2406.13471)|null|
 |**2024-06-18**|**Advancing Cross-Domain Generalizability in Face Anti-Spoofing: Insights, Design, and Metrics**|Hyojin Kim et.al.|[2406.12258](http://arxiv.org/abs/2406.12258)|null|
@@ -259,6 +265,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
+|**2024-06-20**|**ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights**|Gabriel Sarch et.al.|[2406.14596](http://arxiv.org/abs/2406.14596)|null|
 |**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544](http://arxiv.org/abs/2406.14544)|**[link](https://github.com/sparksjoe/prism)**|
 |**2024-06-20**|**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**|Xinyu Fang et.al.|[2406.14515](http://arxiv.org/abs/2406.14515)|**[link](https://github.com/open-compass/vlmevalkit)**|
 |**2024-06-20**|**African or European Swallow? Benchmarking Large Vision-Language Models for Fine-Grained Object Classification**|Gregor Geigle et.al.|[2406.14496](http://arxiv.org/abs/2406.14496)|null|
@@ -526,6 +535,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979](http://arxiv.org/abs/2406.14979)|null|
+|**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
+|**2024-06-21**|**TemPrompt: Multi-Task Prompt Learning for Temporal Relation Extraction in RAG-based Crowdsourcing Systems**|Jing Yang et.al.|[2406.14825](http://arxiv.org/abs/2406.14825)|null|
 |**2024-06-19**|**IntCoOp: Interpretability-Aware Vision-Language Prompt Tuning**|Soumya Suvra Ghosal et.al.|[2406.13683](http://arxiv.org/abs/2406.13683)|null|
 |**2024-06-19**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
 |**2024-06-18**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
@@ -629,6 +641,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Causal Learning in Biomedical Applications**|Petr Ryšavý et.al.|[2406.15189](http://arxiv.org/abs/2406.15189)|null|
+|**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
+|**2024-06-21**|**Do Large Language Models Exhibit Cognitive Dissonance? Studying the Difference Between Revealed Beliefs and Stated Answers**|Manuel Mondal et.al.|[2406.14986](http://arxiv.org/abs/2406.14986)|null|
 |**2024-06-21**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
 |**2024-06-20**|**Causal Inference with Latent Variables: Recent Advances and Future Prospectives**|Yaochen Zhu et.al.|[2406.13966](http://arxiv.org/abs/2406.13966)|null|
 |**2024-06-19**|**Integrating Fuzzy Logic with Causal Inference: Enhancing the Pearl and Neyman-Rubin Methodologies**|Amir Saki et.al.|[2406.13731](http://arxiv.org/abs/2406.13731)|null|
@@ -824,6 +839,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
+|**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093](http://arxiv.org/abs/2406.15093)|**[link](https://github.com/cgcl-codes/eclipse)**|
+|**2024-06-21**|**Contextual Interaction via Primitive-based Adversarial Training For Compositional Zero-shot Learning**|Suyi Li et.al.|[2406.14962](http://arxiv.org/abs/2406.14962)|**[link](https://github.com/lisuyi/pbadv_czsl)**|
+|**2024-06-20**|**Uniform Convergence of Adversarially Robust Classifiers**|Rachel Morris et.al.|[2406.14682](http://arxiv.org/abs/2406.14682)|null|
 |**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232](http://arxiv.org/abs/2406.14232)|null|
 |**2024-06-20**|**Exploring Layerwise Adversarial Robustness Through the Lens of t-SNE**|Inês Valentim et.al.|[2406.14073](http://arxiv.org/abs/2406.14073)|null|
@@ -831,7 +850,7 @@
 |**2024-06-19**|**AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents**|Edoardo Debenedetti et.al.|[2406.13352](http://arxiv.org/abs/2406.13352)|**[link](https://github.com/ethz-spylab/agentdojo)**|
 |**2024-06-19**|**Large-Scale Dataset Pruning in Adversarial Training through Data Importance Extrapolation**|Björn Nieth et.al.|[2406.13283](http://arxiv.org/abs/2406.13283)|null|
 |**2024-06-19**|**Towards Trustworthy Unsupervised Domain Adaptation: A Representation Learning Perspective for Enhancing Robustness, Discrimination, and Generalization**|Jia-Li Yin et.al.|[2406.13180](http://arxiv.org/abs/2406.13180)|null|
-|**2024-06-17**|**ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates**|Fengqing Jiang et.al.|[2406.12935](http://arxiv.org/abs/2406.12935)|null|
+|**2024-06-17**|**ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates**|Fengqing Jiang et.al.|[2406.12935](http://arxiv.org/abs/2406.12935)|**[link](https://github.com/uw-nsl/ChatBug)**|
 |**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843](http://arxiv.org/abs/2406.12843)|null|
 |**2024-06-18**|**Universal Score-based Speech Enhancement with High Content Preservation**|Robin Scheibler et.al.|[2406.12194](http://arxiv.org/abs/2406.12194)|**[link](https://github.com/line/open-universe)**|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
@@ -974,6 +993,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Learning Object Compliance via Young's Modulus from Single Grasps with Camera-Based Tactile Sensors**|Michael Burgess et.al.|[2406.15304](http://arxiv.org/abs/2406.15304)|null|
 |**2024-06-20**|**Semi-Autonomous Mobile Search and Rescue Robot for Radiation Disaster Scenarios**|Simon Schwaiger et.al.|[2406.14385](http://arxiv.org/abs/2406.14385)|null|
 |**2024-06-20**|**Adaptive Robust Controller for handling Unknown Uncertainty of Robotic Manipulators**|Mohamed Abdelwahab et.al.|[2406.14338](http://arxiv.org/abs/2406.14338)|null|
 |**2024-06-20**|**Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation**|Jiaming Zhou et.al.|[2406.14235](http://arxiv.org/abs/2406.14235)|null|
