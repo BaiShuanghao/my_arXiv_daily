@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation**|Jingru Fu et.al.|[2406.16848](http://arxiv.org/abs/2406.16848)|null|
+|**2024-06-24**|**Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting**|Tiange Zhang et.al.|[2406.16422](http://arxiv.org/abs/2406.16422)|**[link](https://github.com/tinkez/fap_cdfsc)**|
+|**2024-06-22**|**Learning When the Concept Shifts: Confounding, Invariance, and Dimension Reduction**|Kulunu Dharmakeerthi et.al.|[2406.15904](http://arxiv.org/abs/2406.15904)|null|
+|**2024-06-18**|**Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**|Yuncheng Hua et.al.|[2406.15490](http://arxiv.org/abs/2406.15490)|null|
 |**2024-06-21**|**Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation**|Shamane Siriwardhana et.al.|[2406.14971](http://arxiv.org/abs/2406.14971)|null|
 |**2024-06-21**|**70B-parameter large language models in Japanese medical question-answering**|Issey Sukeda et.al.|[2406.14882](http://arxiv.org/abs/2406.14882)|null|
 |**2024-06-21**|**MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection**|Zhuoxiao Chen et.al.|[2406.14878](http://arxiv.org/abs/2406.14878)|null|
@@ -20,7 +24,7 @@ layout: default
 |**2024-06-19**|**Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset**|Hongqiu Wang et.al.|[2406.13645](http://arxiv.org/abs/2406.13645)|**[link](https://github.com/whq-xxh/sfada-uwf-slo)**|
 |**2024-06-19**|**In-Context Learning on a Budget: A Case Study in Named Entity Recognition**|Uri Berger et.al.|[2406.13274](http://arxiv.org/abs/2406.13274)|null|
 |**2024-06-19**|**Towards Trustworthy Unsupervised Domain Adaptation: A Representation Learning Perspective for Enhancing Robustness, Discrimination, and Generalization**|Jia-Li Yin et.al.|[2406.13180](http://arxiv.org/abs/2406.13180)|null|
-|**2024-06-17**|**Self-Train Before You Transcribe**|Robert Flynn et.al.|[2406.12937](http://arxiv.org/abs/2406.12937)|null|
+|**2024-06-17**|**Self-Train Before You Transcribe**|Robert Flynn et.al.|[2406.12937](http://arxiv.org/abs/2406.12937)|**[link](https://github.com/robflynnyh/Self-Train-Before-You-Transcribe)**|
 |**2024-06-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2406.12634](http://arxiv.org/abs/2406.12634)|**[link](https://github.com/andreeaiana/nase)**|
 |**2024-06-18**|**Unsupervised Online Continual Learning for Automatic Speech Recognition**|Steven Vander Eeckt et.al.|[2406.12503](http://arxiv.org/abs/2406.12503)|**[link](https://github.com/stevenvdeeckt/unsupervised-ocl-for-asr)**|
 |**2024-06-18**|**A Compass for Navigating the World of Sentence Embeddings for the Telecom Domain**|Sujoy Roychowdhury et.al.|[2406.12336](http://arxiv.org/abs/2406.12336)|null|
@@ -167,6 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**PathoWAve: A Deep Learning-based Weight Averaging Method for Improving Domain Generalization in Histopathology Images**|Parastoo Sotoudeh Sharifi et.al.|[2406.15685](http://arxiv.org/abs/2406.15685)|**[link](https://github.com/parastoosotoudeh/pathowave)**|
 |**2024-06-21**|**Camera-Invariant Meta-Learning Network for Single-Camera-Training Person Re-identification**|Jiangbo Pei et.al.|[2406.14797](http://arxiv.org/abs/2406.14797)|null|
 |**2024-06-20**|**FIESTA: Fourier-Based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**|Kwanseok Oh et.al.|[2406.14308](http://arxiv.org/abs/2406.14308)|null|
 |**2024-06-19**|**Diffusion-based Generative Modeling with Discriminative Guidance for Streamable Speech Enhancement**|Chenda Li et.al.|[2406.13471](http://arxiv.org/abs/2406.13471)|null|
@@ -252,6 +257,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
+|**2024-06-24**|**Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration**|Yujin Baek et.al.|[2406.16469](http://arxiv.org/abs/2406.16469)|null|
+|**2024-06-24**|**Evaluating and Analyzing Relationship Hallucinations in LVLMs**|Mingrui Wu et.al.|[2406.16449](http://arxiv.org/abs/2406.16449)|null|
+|**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384](http://arxiv.org/abs/2406.16384)|null|
+|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320](http://arxiv.org/abs/2406.16320)|null|
+|**2024-06-23**|**Review of Zero-Shot and Few-Shot AI Algorithms in The Medical Domain**|Maged Badawi et.al.|[2406.16143](http://arxiv.org/abs/2406.16143)|null|
+|**2024-06-22**|**TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM**|Wenxue Li et.al.|[2406.15764](http://arxiv.org/abs/2406.15764)|null|
+|**2024-06-21**|**Open-vocabulary Pick and Place via Patch-level Semantic Maps**|Mingxi Jia et.al.|[2406.15677](http://arxiv.org/abs/2406.15677)|null|
 |**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
 |**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
 |**2024-06-20**|**ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights**|Gabriel Sarch et.al.|[2406.14596](http://arxiv.org/abs/2406.14596)|null|
@@ -520,11 +534,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Adversarial Contrastive Decoding: Boosting Safety Alignment of Large Language Models via Opposite Prompt Optimization**|Zhengyue Zhao et.al.|[2406.16743](http://arxiv.org/abs/2406.16743)|null|
+|**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641](http://arxiv.org/abs/2406.16641)|null|
 |**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979](http://arxiv.org/abs/2406.14979)|null|
 |**2024-06-21**|**DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection**|Jia Syuen Lim et.al.|[2406.14924](http://arxiv.org/abs/2406.14924)|null|
 |**2024-06-21**|**TemPrompt: Multi-Task Prompt Learning for Temporal Relation Extraction in RAG-based Crowdsourcing Systems**|Jing Yang et.al.|[2406.14825](http://arxiv.org/abs/2406.14825)|null|
 |**2024-06-19**|**IntCoOp: Interpretability-Aware Vision-Language Prompt Tuning**|Soumya Suvra Ghosal et.al.|[2406.13683](http://arxiv.org/abs/2406.13683)|null|
-|**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
+|**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|null|
 |**2024-06-23**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
 |**2024-06-18**|**Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Visual Prompt Learning**|Ruiqi Wu et.al.|[2406.12316](http://arxiv.org/abs/2406.12316)|null|
 |**2024-06-18**|**Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning**|Chenyuan Wu et.al.|[2406.12251](http://arxiv.org/abs/2406.12251)|**[link](https://github.com/wcyno23/shlpt)**|
@@ -624,6 +640,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**CausalFormer: An Interpretable Transformer for Temporal Causal Discovery**|Lingbai Kong et.al.|[2406.16708](http://arxiv.org/abs/2406.16708)|**[link](https://github.com/lingbai-kong/causalformer)**|
+|**2024-06-24**|**CLEAR: Can Language Models Really Understand Causal Graphs?**|Sirui Chen et.al.|[2406.16605](http://arxiv.org/abs/2406.16605)|**[link](https://github.com/opencausalab/clear)**|
+|**2024-06-22**|**Learning When the Concept Shifts: Confounding, Invariance, and Dimension Reduction**|Kulunu Dharmakeerthi et.al.|[2406.15904](http://arxiv.org/abs/2406.15904)|null|
+|**2024-06-21**|**Introducing Moment: A toolkit for semi-definite programming with moment matrices**|Andrew J. P. Garner et.al.|[2406.15559](http://arxiv.org/abs/2406.15559)|null|
+|**2024-06-18**|**Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**|Yuncheng Hua et.al.|[2406.15490](http://arxiv.org/abs/2406.15490)|null|
 |**2024-06-21**|**Causal Learning in Biomedical Applications**|Petr Ryšavý et.al.|[2406.15189](http://arxiv.org/abs/2406.15189)|null|
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
 |**2024-06-21**|**Do Large Language Models Exhibit Cognitive Dissonance? Studying the Difference Between Revealed Beliefs and Stated Answers**|Manuel Mondal et.al.|[2406.14986](http://arxiv.org/abs/2406.14986)|null|
@@ -820,6 +841,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**Towards unlocking the mystery of adversarial fragility of neural networks**|Jingchao Gao et.al.|[2406.16200](http://arxiv.org/abs/2406.16200)|null|
+|**2024-06-21**|**DataFreeShield: Defending Adversarial Attacks without Training Data**|Hyeyoon Lee et.al.|[2406.15635](http://arxiv.org/abs/2406.15635)|null|
+|**2024-06-21**|**Steering Without Side Effects: Improving Post-Deployment Control of Language Models**|Asa Cooper Stickland et.al.|[2406.15518](http://arxiv.org/abs/2406.15518)|**[link](https://github.com/asacooperstickland/kl-then-steer)**|
 |**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
 |**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093](http://arxiv.org/abs/2406.15093)|**[link](https://github.com/cgcl-codes/eclipse)**|
 |**2024-06-21**|**Contextual Interaction via Primitive-based Adversarial Training For Compositional Zero-shot Learning**|Suyi Li et.al.|[2406.14962](http://arxiv.org/abs/2406.14962)|**[link](https://github.com/lisuyi/pbadv_czsl)**|
@@ -972,13 +996,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**LangSuitE: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments**|Zixia Jia et.al.|[2406.16294](http://arxiv.org/abs/2406.16294)|**[link](https://github.com/bigai-nlco/langsuite)**|
+|**2024-06-23**|**Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models**|Tianyi Men et.al.|[2406.16033](http://arxiv.org/abs/2406.16033)|null|
+|**2024-06-21**|**Open-vocabulary Pick and Place via Patch-level Semantic Maps**|Mingxi Jia et.al.|[2406.15677](http://arxiv.org/abs/2406.15677)|null|
 |**2024-06-18**|**Learning Object Compliance via Young's Modulus from Single Grasps with Camera-Based Tactile Sensors**|Michael Burgess et.al.|[2406.15304](http://arxiv.org/abs/2406.15304)|null|
 |**2024-06-20**|**Semi-Autonomous Mobile Search and Rescue Robot for Radiation Disaster Scenarios**|Simon Schwaiger et.al.|[2406.14385](http://arxiv.org/abs/2406.14385)|null|
 |**2024-06-20**|**Adaptive Robust Controller for handling Unknown Uncertainty of Robotic Manipulators**|Mohamed Abdelwahab et.al.|[2406.14338](http://arxiv.org/abs/2406.14338)|null|
 |**2024-06-20**|**Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation**|Jiaming Zhou et.al.|[2406.14235](http://arxiv.org/abs/2406.14235)|null|
 |**2024-06-20**|**Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration**|Haokun Liu et.al.|[2406.14097](http://arxiv.org/abs/2406.14097)|null|
 |**2024-06-20**|**Equivariant Offline Reinforcement Learning**|Arsh Tangri et.al.|[2406.13961](http://arxiv.org/abs/2406.13961)|null|
-|**2024-06-19**|**Tactile Aware Dynamic Obstacle Avoidance in Crowded Environment with Deep Reinforcement Learning**|Yung Chuen Ng et.al.|[2406.13434](http://arxiv.org/abs/2406.13434)|null|
+|**2024-06-19**|**Tactile Aware Dynamic Obstacle Avoidance in Crowded Environment with Deep Reinforcement Learning**|Yung Chuen Ng et.al.|[2406.13434](http://arxiv.org/abs/2406.13434)|**[link](https://github.com/mcx-lab/ros_pybullet_rl2)**|
 |**2024-06-18**|**ABNet: Attention BarrierNet for Safe and Scalable Robot Learning**|Wei Xiao et.al.|[2406.13025](http://arxiv.org/abs/2406.13025)|**[link](https://github.com/Weixy21/ABNet)**|
 |**2024-06-18**|**Integrating Representational Gestures into Automatically Generated Embodied Explanations and its Effects on Understanding and Interaction Quality**|Amelie Sophie Robrecht et.al.|[2406.12544](http://arxiv.org/abs/2406.12544)|null|
 |**2024-06-18**|**Cycle-Correspondence Loss: Learning Dense View-Invariant Visual Features from Unlabeled and Unordered RGB Images**|David B. Adrian et.al.|[2406.12441](http://arxiv.org/abs/2406.12441)|null|
