@@ -185,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Scalable and Domain-General Abstractive Proposition Segmentation**|Mohammad Javad Hosseini et.al.|[2406.19803](http://arxiv.org/abs/2406.19803)|null|
 |**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037](http://arxiv.org/abs/2406.18037)|null|
 |**2024-06-26**|**MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**|Francesco Di Salvo et.al.|[2406.17536](http://arxiv.org/abs/2406.17536)|**[link](https://github.com/francescodisalvo05/medmnistc-api)**|
 |**2024-06-21**|**PathoWAve: A Deep Learning-based Weight Averaging Method for Improving Domain Generalization in Histopathology Images**|Parastoo Sotoudeh Sharifi et.al.|[2406.15685](http://arxiv.org/abs/2406.15685)|**[link](https://github.com/parastoosotoudeh/pathowave)**|
@@ -273,6 +274,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973](http://arxiv.org/abs/2406.19973)|null|
+|**2024-06-28**|**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**|Chuanqi Cheng et.al.|[2406.19934](http://arxiv.org/abs/2406.19934)|null|
+|**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905](http://arxiv.org/abs/2406.19905)|**[link](https://github.com/longrongyang/stgc)**|
+|**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
 |**2024-06-27**|**Evidential Concept Embedding Models: Towards Reliable Concept Explanations for Skin Disease Diagnosis**|Yibo Gao et.al.|[2406.19130](http://arxiv.org/abs/2406.19130)|**[link](https://github.com/obiyoag/evi-cem)**|
@@ -568,6 +575,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**LoPT: Low-Rank Prompt Tuning for Parameter Efficient Language Models**|Shouchang Guo et.al.|[2406.19486](http://arxiv.org/abs/2406.19486)|null|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
 |**2024-06-26**|**Selective Prompting Tuning for Personalized Conversations with LLMs**|Qiushi Huang et.al.|[2406.18187](http://arxiv.org/abs/2406.18187)|**[link](https://github.com/hqsiswiliam/SPT)**|
 |**2024-06-27**|**Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection**|Jialun Pei et.al.|[2406.17858](http://arxiv.org/abs/2406.17858)|**[link](https://github.com/PJLallen/D2GPLand)**|
@@ -679,6 +687,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**The Computational Curse of Big Data for Bayesian Additive Regression Trees: A Hitting Time Analysis**|Yan Shuo Tan et.al.|[2406.19958](http://arxiv.org/abs/2406.19958)|null|
+|**2024-06-28**|**Geodesic Causal Inference**|Daisuke Kurisu et.al.|[2406.19604](http://arxiv.org/abs/2406.19604)|null|
+|**2024-06-27**|**On Counterfactual Interventions in Vector Autoregressive Models**|Kurt Butler et.al.|[2406.19573](http://arxiv.org/abs/2406.19573)|null|
+|**2024-06-27**|**Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure**|Christine W Bang et.al.|[2406.19503](http://arxiv.org/abs/2406.19503)|null|
+|**2024-06-27**|**Development and Evaluation of a Retrieval-Augmented Generation Tool for Creating SAPPhIRE Models of Artificial Systems**|Anubhab Majumder et.al.|[2406.19493](http://arxiv.org/abs/2406.19493)|null|
+|**2024-06-26**|**Price-Wharton Constrained Colliders: Co-Causation or No Causation?**|W. M. Stuckey et.al.|[2406.19419](http://arxiv.org/abs/2406.19419)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
 |**2024-06-27**|**Credit Ratings: Heterogeneous Effect on Capital Structure**|Helmut Wasserbacher et.al.|[2406.18936](http://arxiv.org/abs/2406.18936)|null|
 |**2024-06-27**|**From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions**|Trenton Chang et.al.|[2406.18865](http://arxiv.org/abs/2406.18865)|**[link](https://github.com/mld3/dcem)**|
@@ -887,6 +901,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
+|**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807](http://arxiv.org/abs/2406.19807)|null|
+|**2024-06-28**|**AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation**|Guanghao Zhu et.al.|[2406.19649](http://arxiv.org/abs/2406.19649)|null|
+|**2024-06-28**|**Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness**|Erh-Chung Chen et.al.|[2406.19622](http://arxiv.org/abs/2406.19622)|null|
 |**2024-06-26**|**Detecting Brittle Decisions for Free: Leveraging Margin Consistency in Deep Robust Classifiers**|Jonas Ngnawé et.al.|[2406.18451](http://arxiv.org/abs/2406.18451)|**[link](https://github.com/ngnawejonas/margin-consistency)**|
 |**2024-06-25**|**Treatment of Statistical Estimation Problems in Randomized Smoothing for Adversarial Robustness**|Vaclav Voracek et.al.|[2406.17830](http://arxiv.org/abs/2406.17830)|null|
 |**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606](http://arxiv.org/abs/2406.17606)|null|
@@ -1047,6 +1065,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Exploring 6G Potential for Industrial Digital Twinning and Swarm Intelligence in Obstacle-Rich**|Siyu Yuan et.al.|[2406.19930](http://arxiv.org/abs/2406.19930)|null|
+|**2024-06-27**|**ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data**|Zeyi Liu et.al.|[2406.19464](http://arxiv.org/abs/2406.19464)|null|
 |**2024-06-27**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-27**|**Tools Fail: Detecting Silent Errors in Faulty Tools**|Jimin Sun et.al.|[2406.19228](http://arxiv.org/abs/2406.19228)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
