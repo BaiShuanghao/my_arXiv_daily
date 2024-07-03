@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
+|**2024-07-02**|**Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2407.02182](http://arxiv.org/abs/2407.02182)|**[link](https://github.com/yihong-97/oass)**|
+|**2024-07-02**|**Towards Training Music Taggers on Synthetic Data**|Nadine Kroher et.al.|[2407.02156](http://arxiv.org/abs/2407.02156)|null|
+|**2024-07-02**|**Core Knowledge Learning Framework for Graph Adaptation and Scalability Learning**|Bowen Zhang et.al.|[2407.01886](http://arxiv.org/abs/2407.01886)|null|
+|**2024-07-01**|**CLIP the Divergence: Language-guided Unsupervised Domain Adaptation**|Jinjing Zhu et.al.|[2407.01842](http://arxiv.org/abs/2407.01842)|null|
+|**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518](http://arxiv.org/abs/2407.01518)|**[link](https://github.com/donghao51/moosa)**|
+|**2024-07-01**|**TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation**|André Sacilotti et.al.|[2407.01375](http://arxiv.org/abs/2407.01375)|null|
+|**2024-07-01**|**Binary Losses for Density Ratio Estimation**|Werner Zellinger et.al.|[2407.01371](http://arxiv.org/abs/2407.01371)|null|
+|**2024-07-01**|**Gradient-based Class Weighting for Unsupervised Domain Adaptation in Dense Prediction Visual Tasks**|Roberto Alcover-Couso et.al.|[2407.01327](http://arxiv.org/abs/2407.01327)|null|
+|**2024-07-01**|**Deep Domain Specialisation for single-model multi-domain learning to rank**|Paul Missault et.al.|[2407.01069](http://arxiv.org/abs/2407.01069)|null|
 |**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/abs/2406.19362)|null|
 |**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225](http://arxiv.org/abs/2406.19225)|null|
 |**2024-06-27**|**Towards Reducing Data Acquisition and Labeling for Defect Detection using Simulated Data**|Lukas Malte Kemeter et.al.|[2406.19175](http://arxiv.org/abs/2406.19175)|null|
@@ -185,6 +195,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
+|**2024-07-01**|**Invariant Correlation of Representation with Label**|Gaojie Jin et.al.|[2407.01749](http://arxiv.org/abs/2407.01749)|null|
+|**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518](http://arxiv.org/abs/2407.01518)|**[link](https://github.com/donghao51/moosa)**|
+|**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
+|**2024-06-30**|**Less Forgetting for Better Generalization: Exploring Continual-learning Fine-tuning Methods for Speech Self-supervised Representations**|Salah Zaiem et.al.|[2407.00756](http://arxiv.org/abs/2407.00756)|null|
+|**2024-06-30**|**ASPS: Augmented Segment Anything Model for Polyp Segmentation**|Huiqian Li et.al.|[2407.00718](http://arxiv.org/abs/2407.00718)|null|
+|**2024-06-29**|**FMSG-JLESS Submission for DCASE 2024 Task4 on Sound Event Detection with Heterogeneous Training Dataset and Potentially Missing Labels**|Yang Xiao et.al.|[2407.00291](http://arxiv.org/abs/2407.00291)|null|
 |**2024-06-28**|**Scalable and Domain-General Abstractive Proposition Segmentation**|Mohammad Javad Hosseini et.al.|[2406.19803](http://arxiv.org/abs/2406.19803)|null|
 |**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037](http://arxiv.org/abs/2406.18037)|null|
 |**2024-06-26**|**MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**|Francesco Di Salvo et.al.|[2406.17536](http://arxiv.org/abs/2406.17536)|**[link](https://github.com/francescodisalvo05/medmnistc-api)**|
@@ -274,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
+|**2024-07-02**|**Why do LLaVA Vision-Language Models Reply to Images in English?**|Musashi Hinck et.al.|[2407.02333](http://arxiv.org/abs/2407.02333)|null|
+|**2024-07-02**|**Multi-Modal Video Dialog State Tracking in the Wild**|Adnen Abdessaied et.al.|[2407.02218](http://arxiv.org/abs/2407.02218)|null|
+|**2024-07-02**|**BiasDora: Exploring Hidden Biased Associations in Vision-Language Models**|Chahat Raj et.al.|[2407.02066](http://arxiv.org/abs/2407.02066)|**[link](https://github.com/chahatraj/BiasDora)**|
+|**2024-07-02**|**Fake News Detection and Manipulation Reasoning via Large Vision-Language Models**|Ruihan Jin et.al.|[2407.02042](http://arxiv.org/abs/2407.02042)|null|
+|**2024-07-02**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Marani Badr-Eddine et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
+|**2024-07-02**|**SADL: An Effective In-Context Learning Method for Compositional Visual QA**|Long Hoang Dang et.al.|[2407.01983](http://arxiv.org/abs/2407.01983)|null|
+|**2024-07-02**|**VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for VLMs**|Qiucheng Wu et.al.|[2407.01863](http://arxiv.org/abs/2407.01863)|**[link](https://github.com/ucsb-nlp-chang/visual-spatial-planning)**|
+|**2024-07-01**|**CLIP the Divergence: Language-guided Unsupervised Domain Adaptation**|Jinjing Zhu et.al.|[2407.01842](http://arxiv.org/abs/2407.01842)|null|
+|**2024-07-01**|**μ-Bench: A Vision-Language Benchmark for Microscopy Understanding**|Alejandro Lozano et.al.|[2407.01791](http://arxiv.org/abs/2407.01791)|null|
+|**2024-07-01**|**MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations**|Yubo Ma et.al.|[2407.01523](http://arxiv.org/abs/2407.01523)|null|
+|**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
+|**2024-07-01**|**CPT: Consistent Proxy Tuning for Black-box Optimization**|Yuanyang He et.al.|[2407.01155](http://arxiv.org/abs/2407.01155)|**[link](https://github.com/chunmeifeng/cpt)**|
+|**2024-07-01**|**Eliminating Position Bias of Language Models: A Mechanistic Approach**|Ziqi Wang et.al.|[2407.01100](http://arxiv.org/abs/2407.01100)|null|
+|**2024-07-01**|**CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation**|Yuxuan Wang et.al.|[2407.01081](http://arxiv.org/abs/2407.01081)|null|
+|**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
+|**2024-06-30**|**GenderBias-\emph{VL}: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing**|Yisong Xiao et.al.|[2407.00600](http://arxiv.org/abs/2407.00600)|null|
+|**2024-06-30**|**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models**|Weihong Zhong et.al.|[2407.00569](http://arxiv.org/abs/2407.00569)|null|
+|**2024-06-30**|**Explaining Chest X-ray Pathology Models using Textual Concepts**|Vijay Sadashivaiah et.al.|[2407.00557](http://arxiv.org/abs/2407.00557)|null|
+|**2024-06-30**|**Revisiting Vision-Language Features Adaptation and Inconsistency for Social Media Popularity Prediction**|Chih-Chung Hsu et.al.|[2407.00556](http://arxiv.org/abs/2407.00556)|null|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
 |**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973](http://arxiv.org/abs/2406.19973)|null|
@@ -575,6 +612,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
+|**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|null|
 |**2024-06-27**|**LoPT: Low-Rank Prompt Tuning for Parameter Efficient Language Models**|Shouchang Guo et.al.|[2406.19486](http://arxiv.org/abs/2406.19486)|null|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
 |**2024-06-26**|**Selective Prompting Tuning for Personalized Conversations with LLMs**|Qiushi Huang et.al.|[2406.18187](http://arxiv.org/abs/2406.18187)|**[link](https://github.com/hqsiswiliam/SPT)**|
@@ -687,6 +726,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**CausalPrism: A Visual Analytics Approach for Subgroup-based Causal Heterogeneity Exploration**|Jiehui Zhou et.al.|[2407.01893](http://arxiv.org/abs/2407.01893)|null|
+|**2024-07-02**|**Spatio-Temporal Graphical Counterfactuals: An Overview**|Mingyu Kang et.al.|[2407.01875](http://arxiv.org/abs/2407.01875)|null|
+|**2024-07-01**|**Exploring causal effects of hormone- and radio-treatments in an observational study of breast cancer using copula-based semi-competing risks models**|Tonghui Yu et.al.|[2407.01770](http://arxiv.org/abs/2407.01770)|null|
+|**2024-07-01**|**Data fusion for efficiency gain in ATE estimation: A practical review with simulations**|Xi Lin et.al.|[2407.01186](http://arxiv.org/abs/2407.01186)|null|
+|**2024-07-01**|**CURLS: Causal Rule Learning for Subgroups with Significant Treatment Effect**|Jiehui Zhou et.al.|[2407.01004](http://arxiv.org/abs/2407.01004)|null|
+|**2024-06-29**|**Interpret the estimand framework from a causal inference perspective**|Jinghong Zeng et.al.|[2407.00292](http://arxiv.org/abs/2407.00292)|null|
+|**2024-06-29**|**Minimum Reduced-Order Models via Causal Inference**|Nan Chen et.al.|[2407.00271](http://arxiv.org/abs/2407.00271)|null|
+|**2024-06-28**|**A Calibrated Sensitivity Analysis for Weighted Causal Decompositions**|Andy Shen et.al.|[2407.00139](http://arxiv.org/abs/2407.00139)|null|
 |**2024-06-28**|**The Computational Curse of Big Data for Bayesian Additive Regression Trees: A Hitting Time Analysis**|Yan Shuo Tan et.al.|[2406.19958](http://arxiv.org/abs/2406.19958)|null|
 |**2024-06-28**|**Geodesic Causal Inference**|Daisuke Kurisu et.al.|[2406.19604](http://arxiv.org/abs/2406.19604)|null|
 |**2024-06-27**|**On Counterfactual Interventions in Vector Autoregressive Models**|Kurt Butler et.al.|[2406.19573](http://arxiv.org/abs/2406.19573)|null|
@@ -901,6 +948,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
+|**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
+|**2024-06-30**|**FLY-TTS: Fast, Lightweight and High-Quality End-to-End Text-to-Speech Synthesis**|Yinlin Guo et.al.|[2407.00753](http://arxiv.org/abs/2407.00753)|null|
+|**2024-06-28**|**DiffuseDef: Improved Robustness to Adversarial Attacks**|Zhenhao Li et.al.|[2407.00248](http://arxiv.org/abs/2407.00248)|null|
 |**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
 |**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807](http://arxiv.org/abs/2406.19807)|null|
 |**2024-06-28**|**AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation**|Guanghao Zhu et.al.|[2406.19649](http://arxiv.org/abs/2406.19649)|null|
@@ -1065,6 +1116,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Real Time Collision Avoidance with GPU-Computed Distance Maps**|Wendwosen Bellete Bedada et.al.|[2407.02363](http://arxiv.org/abs/2407.02363)|null|
+|**2024-07-02**|**LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance**|Wenhao Yu et.al.|[2407.01950](http://arxiv.org/abs/2407.01950)|null|
+|**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903](http://arxiv.org/abs/2407.01903)|null|
+|**2024-07-02**|**Autonomous Ground Navigation in Highly Constrained Spaces: Lessons learned from The 3rd BARN Challenge at ICRA 2024**|Xuesu Xiao et.al.|[2407.01862](http://arxiv.org/abs/2407.01862)|null|
+|**2024-07-01**|**Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents**|Mehdi Arjmand et.al.|[2407.01824](http://arxiv.org/abs/2407.01824)|null|
+|**2024-07-01**|**Enabling Tactile Feedback for Robotic Strawberry Handling using AST Skin**|Vishnu Rajendran et.al.|[2407.01739](http://arxiv.org/abs/2407.01739)|null|
+|**2024-07-01**|**EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**|Jingyun Yang et.al.|[2407.01479](http://arxiv.org/abs/2407.01479)|null|
+|**2024-07-01**|**RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing**|Bo Ai et.al.|[2407.01418](http://arxiv.org/abs/2407.01418)|null|
+|**2024-06-30**|**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**|Pengying Wu et.al.|[2407.00632](http://arxiv.org/abs/2407.00632)|null|
+|**2024-06-29**|**KOROL: Learning Visualizable Object Feature with Koopman Operator Rollout for Manipulation**|Hongyi Chen et.al.|[2407.00548](http://arxiv.org/abs/2407.00548)|null|
+|**2024-06-29**|**Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation**|Hang Li et.al.|[2407.00451](http://arxiv.org/abs/2407.00451)|null|
+|**2024-06-29**|**On the approximability of graph visibility problems**|Davide Bilò et.al.|[2407.00409](http://arxiv.org/abs/2407.00409)|null|
+|**2024-07-02**|**Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition**|Shengcheng Luo et.al.|[2407.00299](http://arxiv.org/abs/2407.00299)|null|
 |**2024-07-02**|**Exploring 6G Potential for Industrial Digital Twinning and Swarm Intelligence in Obstacle-Rich Environments**|Siyu Yuan et.al.|[2406.19930](http://arxiv.org/abs/2406.19930)|null|
 |**2024-06-27**|**ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data**|Zeyi Liu et.al.|[2406.19464](http://arxiv.org/abs/2406.19464)|null|
 |**2024-06-27**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
