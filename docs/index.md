@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -287,10 +287,10 @@ layout: default
 |**2024-06-28**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915](http://arxiv.org/abs/2406.18915)|null|
 |**2024-06-27**|**Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models**|Yicheng Xu et.al.|[2406.18868](http://arxiv.org/abs/2406.18868)|null|
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849](http://arxiv.org/abs/2406.18849)|**[link](https://github.com/benchmark-dysca/dysca)**|
-|**2024-06-28**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
+|**2024-07-02**|**Revisiting Backdoor Attacks against Large Vision-Language Models**|Siyuan Liang et.al.|[2406.18844](http://arxiv.org/abs/2406.18844)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
-|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
-|**2024-06-26**|**Towards Open-World Grasping with Large Vision-Language Models**|Georgios Tziafas et.al.|[2406.18722](http://arxiv.org/abs/2406.18722)|null|
+|**2024-07-01**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
+|**2024-07-01**|**Towards Open-World Grasping with Large Vision-Language Models**|Georgios Tziafas et.al.|[2406.18722](http://arxiv.org/abs/2406.18722)|null|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
 |**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|**[link](https://github.com/qilaizhang/diffusion-ffpe)**|
 |**2024-06-26**|**Multimodal foundation world models for generalist embodied agents**|Pietro Mazzaglia et.al.|[2406.18043](http://arxiv.org/abs/2406.18043)|null|
@@ -707,7 +707,7 @@ layout: default
 |**2024-06-18**|**Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**|Yuncheng Hua et.al.|[2406.15490](http://arxiv.org/abs/2406.15490)|null|
 |**2024-06-21**|**Causal Learning in Biomedical Applications**|Petr Ryšavý et.al.|[2406.15189](http://arxiv.org/abs/2406.15189)|**[link](https://github.com/petrrysavy/krebsdynotears)**|
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
-|**2024-06-21**|**Do Large Language Models Exhibit Cognitive Dissonance? Studying the Difference Between Revealed Beliefs and Stated Answers**|Manuel Mondal et.al.|[2406.14986](http://arxiv.org/abs/2406.14986)|null|
+|**2024-07-02**|**Do Large Language Models Exhibit Cognitive Dissonance? Studying the Difference Between Revealed Beliefs and Stated Answers**|Manuel Mondal et.al.|[2406.14986](http://arxiv.org/abs/2406.14986)|null|
 |**2024-06-27**|**REVEAL-IT: REinforcement learning with Visibility of Evolving Agent poLicy for InTerpretability**|Shuang Ao et.al.|[2406.14214](http://arxiv.org/abs/2406.14214)|**[link](https://github.com/cruiseresearchgroup/reveal-it)**|
 |**2024-06-20**|**Causal Inference with Latent Variables: Recent Advances and Future Prospectives**|Yaochen Zhu et.al.|[2406.13966](http://arxiv.org/abs/2406.13966)|null|
 |**2024-06-19**|**Integrating Fuzzy Logic with Causal Inference: Enhancing the Pearl and Neyman-Rubin Methodologies**|Amir Saki et.al.|[2406.13731](http://arxiv.org/abs/2406.13731)|null|
@@ -1065,14 +1065,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-28**|**Exploring 6G Potential for Industrial Digital Twinning and Swarm Intelligence in Obstacle-Rich**|Siyu Yuan et.al.|[2406.19930](http://arxiv.org/abs/2406.19930)|null|
+|**2024-07-02**|**Exploring 6G Potential for Industrial Digital Twinning and Swarm Intelligence in Obstacle-Rich Environments**|Siyu Yuan et.al.|[2406.19930](http://arxiv.org/abs/2406.19930)|null|
 |**2024-06-27**|**ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data**|Zeyi Liu et.al.|[2406.19464](http://arxiv.org/abs/2406.19464)|null|
 |**2024-06-27**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-27**|**Tools Fail: Detecting Silent Errors in Faulty Tools**|Jimin Sun et.al.|[2406.19228](http://arxiv.org/abs/2406.19228)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
 |**2024-06-27**|**RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton**|Fanfan Liu et.al.|[2406.18977](http://arxiv.org/abs/2406.18977)|**[link](https://github.com/liufanfanlff/robouniview)**|
 |**2024-06-28**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915](http://arxiv.org/abs/2406.18915)|null|
-|**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
+|**2024-07-01**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742](http://arxiv.org/abs/2406.18742)|null|
 |**2024-06-26**|**3D-MVP: 3D Multiview Pretraining for Robotic Manipulation**|Shengyi Qian et.al.|[2406.18158](http://arxiv.org/abs/2406.18158)|null|
 |**2024-06-26**|**Multimodal foundation world models for generalist embodied agents**|Pietro Mazzaglia et.al.|[2406.18043](http://arxiv.org/abs/2406.18043)|null|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
