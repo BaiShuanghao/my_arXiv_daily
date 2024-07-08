@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-03**|**An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation**|Zihao Luo et.al.|[2407.02893](http://arxiv.org/abs/2407.02893)|**[link](https://github.com/hilab-git/ugtst)**|
+|**2024-07-04**|**An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation**|Zihao Luo et.al.|[2407.02893](http://arxiv.org/abs/2407.02893)|**[link](https://github.com/hilab-git/ugtst)**|
 |**2024-07-03**|**Multi-Task Domain Adaptation for Language Grounding with 3D Objects**|Penglei Sun et.al.|[2407.02846](http://arxiv.org/abs/2407.02846)|null|
 |**2024-07-03**|**A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**|Jie Shao et.al.|[2407.02835](http://arxiv.org/abs/2407.02835)|null|
 |**2024-07-02**|**ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation**|Chaoqun Hou et.al.|[2407.02542](http://arxiv.org/abs/2407.02542)|null|
@@ -1156,7 +1156,7 @@ layout: default
 |**2024-07-01**|**RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing**|Bo Ai et.al.|[2407.01418](http://arxiv.org/abs/2407.01418)|null|
 |**2024-06-30**|**CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations**|Pengying Wu et.al.|[2407.00632](http://arxiv.org/abs/2407.00632)|null|
 |**2024-06-29**|**KOROL: Learning Visualizable Object Feature with Koopman Operator Rollout for Manipulation**|Hongyi Chen et.al.|[2407.00548](http://arxiv.org/abs/2407.00548)|null|
-|**2024-06-29**|**Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation**|Hang Li et.al.|[2407.00451](http://arxiv.org/abs/2407.00451)|null|
+|**2024-07-04**|**Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation**|Hang Li et.al.|[2407.00451](http://arxiv.org/abs/2407.00451)|null|
 |**2024-06-29**|**On the approximability of graph visibility problems**|Davide Bilò et.al.|[2407.00409](http://arxiv.org/abs/2407.00409)|null|
 |**2024-07-02**|**Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition**|Shengcheng Luo et.al.|[2407.00299](http://arxiv.org/abs/2407.00299)|null|
 |**2024-07-02**|**Exploring 6G Potential for Industrial Digital Twinning and Swarm Intelligence in Obstacle-Rich Environments**|Siyu Yuan et.al.|[2406.19930](http://arxiv.org/abs/2406.19930)|null|
