@@ -18,8 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Written Term Detection Improves Spoken Term Detection**|Bolaji Yusuf et.al.|[2407.04601](http://arxiv.org/abs/2407.04601)|**[link](https://github.com/bolajiy/golden-retriever)**|
+|**2024-07-04**|**Query-Guided Self-Supervised Summarization of Nursing Notes**|Ya Gao et.al.|[2407.04125](http://arxiv.org/abs/2407.04125)|null|
+|**2024-07-04**|**EMPL: A novel Efficient Meta Prompt Learning Framework for Few-shot Unsupervised Domain Adaptation**|Wanqi Yang et.al.|[2407.04066](http://arxiv.org/abs/2407.04066)|null|
+|**2024-07-04**|**Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**|Ruixiao Zhang et.al.|[2407.04061](http://arxiv.org/abs/2407.04061)|null|
+|**2024-07-04**|**Geodesic Optimization for Predictive Shift Adaptation on EEG data**|Apolline Mellot et.al.|[2407.03878](http://arxiv.org/abs/2407.03878)|null|
+|**2024-07-04**|**POSTURE: Pose Guided Unsupervised Domain Adaptation for Human Body Part Segmentation**|Arindam Dutta et.al.|[2407.03549](http://arxiv.org/abs/2407.03549)|null|
+|**2024-07-03**|**The Art of the Steal: Purloining Deep Learning Models Developed for an Ultrasound Scanner to a Competitor Machine**|Ufuk Soylu et.al.|[2407.03512](http://arxiv.org/abs/2407.03512)|null|
+|**2024-07-03**|**Domain-Aware Fine-Tuning of Foundation Models**|Ugur Ali Kaplan et.al.|[2407.03482](http://arxiv.org/abs/2407.03482)|null|
 |**2024-07-04**|**An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation**|Zihao Luo et.al.|[2407.02893](http://arxiv.org/abs/2407.02893)|**[link](https://github.com/hilab-git/ugtst)**|
-|**2024-07-03**|**Multi-Task Domain Adaptation for Language Grounding with 3D Objects**|Penglei Sun et.al.|[2407.02846](http://arxiv.org/abs/2407.02846)|null|
+|**2024-07-05**|**Multi-Task Domain Adaptation for Language Grounding with 3D Objects**|Penglei Sun et.al.|[2407.02846](http://arxiv.org/abs/2407.02846)|null|
 |**2024-07-03**|**A Pairwise DomMix Attentive Adversarial Network for Unsupervised Domain Adaptive Object Detection**|Jie Shao et.al.|[2407.02835](http://arxiv.org/abs/2407.02835)|null|
 |**2024-07-02**|**ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation**|Chaoqun Hou et.al.|[2407.02542](http://arxiv.org/abs/2407.02542)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
@@ -210,11 +218,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**C $^3$ DG: Conditional Domain Generalization for Hyperspectral Imagery Classification with Convergence and Constrained-risk Theories**|Zhe Gao et.al.|[2407.04100](http://arxiv.org/abs/2407.04100)|null|
+|**2024-07-04**|**Fully Fine-tuned CLIP Models are Efficient Few-Shot Learners**|Mushui Liu et.al.|[2407.04003](http://arxiv.org/abs/2407.04003)|null|
+|**2024-07-04**|**Emergent Interpretable Symbols and Content-Style Disentanglement via Variance-Invariance Constraints**|Yuxuan Wu et.al.|[2407.03824](http://arxiv.org/abs/2407.03824)|null|
+|**2024-07-04**|**Mixstyle based Domain Generalization for Sound Event Detection with Heterogeneous Training Data**|Yang Xiao et.al.|[2407.03654](http://arxiv.org/abs/2407.03654)|null|
+|**2024-07-04**|**Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization**|Mehrdad Noori et.al.|[2407.03588](http://arxiv.org/abs/2407.03588)|**[link](https://github.com/mehrdad-noori/fds)**|
 |**2024-07-03**|**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**|Marco Mistretta et.al.|[2407.03056](http://arxiv.org/abs/2407.03056)|**[link](https://github.com/miccunifi/kdpl)**|
 |**2024-07-03**|**Domain-independent detection of known anomalies**|Jonas Bühler et.al.|[2407.02910](http://arxiv.org/abs/2407.02910)|null|
 |**2024-07-03**|**Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization**|Sebastian Doerrich et.al.|[2407.02900](http://arxiv.org/abs/2407.02900)|**[link](https://github.com/sdoerrich97/vits-are-generative-models)**|
 |**2024-07-02**|**Domain Generalizable Knowledge Tracing via Concept Aggregation and Relation-Based Attention**|Yuquan Xie et.al.|[2407.02547](http://arxiv.org/abs/2407.02547)|null|
-|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
+|**2024-07-05**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
 |**2024-07-01**|**Invariant Correlation of Representation with Label**|Gaojie Jin et.al.|[2407.01749](http://arxiv.org/abs/2407.01749)|null|
 |**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518](http://arxiv.org/abs/2407.01518)|**[link](https://github.com/donghao51/moosa)**|
 |**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
@@ -312,6 +325,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|null|
+|**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
+|**2024-07-05**|**Smart Vision-Language Reasoners**|Denisa Roberts et.al.|[2407.04212](http://arxiv.org/abs/2407.04212)|**[link](https://github.com/smarter-vlm/smarter)**|
+|**2024-07-04**|**VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation**|I-Chun Arthur Liu et.al.|[2407.04152](http://arxiv.org/abs/2407.04152)|null|
+|**2024-07-04**|**MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis**|Asma Alkhaldi et.al.|[2407.04106](http://arxiv.org/abs/2407.04106)|null|
+|**2024-07-04**|**Fully Fine-tuned CLIP Models are Efficient Few-Shot Learners**|Mushui Liu et.al.|[2407.04003](http://arxiv.org/abs/2407.04003)|null|
+|**2024-07-04**|**Concept Bottleneck Models Without Predefined Concepts**|Simon Schrodi et.al.|[2407.03921](http://arxiv.org/abs/2407.03921)|null|
+|**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788](http://arxiv.org/abs/2407.03788)|null|
+|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
+|**2024-07-04**|**Lateralization LoRA: Interleaved Instruction Tuning with Modality-Specialized Adaptations**|Zhiyang Xu et.al.|[2407.03604](http://arxiv.org/abs/2407.03604)|null|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
 |**2024-07-03**|**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**|Marco Mistretta et.al.|[2407.03056](http://arxiv.org/abs/2407.03056)|**[link](https://github.com/miccunifi/kdpl)**|
@@ -647,6 +670,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
+|**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
+|**2024-07-04**|**EMPL: A novel Efficient Meta Prompt Learning Framework for Few-shot Unsupervised Domain Adaptation**|Wanqi Yang et.al.|[2407.04066](http://arxiv.org/abs/2407.04066)|null|
+|**2024-07-04**|**Fully Fine-tuned CLIP Models are Efficient Few-Shot Learners**|Mushui Liu et.al.|[2407.04003](http://arxiv.org/abs/2407.04003)|null|
+|**2024-07-03**|**Soft Begging: Modular and Efficient Shielding of LLMs against Prompt Injection and Jailbreaking based on Prompt Tuning**|Simon Ostermann et.al.|[2407.03391](http://arxiv.org/abs/2407.03391)|null|
 |**2024-07-03**|**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**|Marco Mistretta et.al.|[2407.03056](http://arxiv.org/abs/2407.03056)|**[link](https://github.com/miccunifi/kdpl)**|
 |**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
 |**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|null|
@@ -989,6 +1017,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
+|**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
+|**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
+|**2024-07-04**|**WANCO: Weak Adversarial Networks for Constrained Optimization problems**|Gang Bao et.al.|[2407.03647](http://arxiv.org/abs/2407.03647)|null|
 |**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
 |**2024-07-03**|**$L_p$ -norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115](http://arxiv.org/abs/2407.03115)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
@@ -1161,6 +1193,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
+|**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384](http://arxiv.org/abs/2407.04384)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
+|**2024-07-05**|**Autoverse: An Evolvable Game Langugage for Learning Robust Embodied Agents**|Sam Earle et.al.|[2407.04221](http://arxiv.org/abs/2407.04221)|null|
+|**2024-07-04**|**Investigating the Role of Instruction Variety and Task Difficulty in Robotic Manipulation Tasks**|Amit Parekh et.al.|[2407.03967](http://arxiv.org/abs/2407.03967)|**[link](https://github.com/amitkparekh/cogelot)**|
+|**2024-07-03**|**OrbitGrasp: $SE(3)$ -Equivariant Grasp Learning**|Boce Hu et.al.|[2407.03531](http://arxiv.org/abs/2407.03531)|null|
 |**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122](http://arxiv.org/abs/2407.03122)|null|
 |**2024-07-03**|**NLP Sampling: Combining MCMC and NLP Methods for Diverse Constrained Sampling**|Marc Toussaint et.al.|[2407.03035](http://arxiv.org/abs/2407.03035)|null|
