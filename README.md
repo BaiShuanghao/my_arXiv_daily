@@ -18,7 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084](http://arxiv.org/abs/2407.06084)|null|
+|**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
+|**2024-07-09**|**D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms**|Tajamul Ashraf et.al.|[2407.06585](http://arxiv.org/abs/2407.06585)|null|
+|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084](http://arxiv.org/abs/2407.06084)|**[link](https://github.com/idejie/3DSyn)**|
 |**2024-07-08**|**Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts**|Puzuo Wang et.al.|[2407.06043](http://arxiv.org/abs/2407.06043)|null|
 |**2024-07-08**|**Weakly Supervised Test-Time Domain Adaptation for Object Detection**|Anh-Dzung Doan et.al.|[2407.05607](http://arxiv.org/abs/2407.05607)|null|
 |**2024-07-07**|**Semantic Segmentation for Real-World and Synthetic Vehicle's Forward-Facing Camera Images**|Tuan T. Nguyen et.al.|[2407.05452](http://arxiv.org/abs/2407.05452)|null|
@@ -224,6 +226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Sketch-Guided Scene Image Generation**|Tianyu Zhang et.al.|[2407.06469](http://arxiv.org/abs/2407.06469)|null|
 |**2024-07-08**|**Enlarging Feature Support Overlap for Domain Generalization**|Yaoyao Zhu et.al.|[2407.05765](http://arxiv.org/abs/2407.05765)|null|
 |**2024-07-06**|**A hybrid upwind scheme for two-phase flow in fractured porous media**|Enrico Ballini et.al.|[2407.05049](http://arxiv.org/abs/2407.05049)|null|
 |**2024-07-04**|**C $^3$ DG: Conditional Domain Generalization for Hyperspectral Imagery Classification with Convergence and Constrained-risk Theories**|Zhe Gao et.al.|[2407.04100](http://arxiv.org/abs/2407.04100)|null|
@@ -333,18 +336,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
+|**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
+|**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
+|**2024-07-09**|**Vision language models are blind**|Pooyan Rahmanzadehgervi et.al.|[2407.06581](http://arxiv.org/abs/2407.06581)|null|
+|**2024-07-08**|**A Single Transformer for Scalable Vision-Language Modeling**|Yangyi Chen et.al.|[2407.06438](http://arxiv.org/abs/2407.06438)|**[link](https://github.com/yangyi-chen/solo)**|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192](http://arxiv.org/abs/2407.06192)|null|
-|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177](http://arxiv.org/abs/2407.06177)|null|
 |**2024-07-08**|**Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**|Aaron Lohner et.al.|[2407.05910](http://arxiv.org/abs/2407.05910)|null|
-|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
+|**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-08**|**OneDiff: A Generalist Model for Image Difference**|Erdong Hu et.al.|[2407.05645](http://arxiv.org/abs/2407.05645)|null|
 |**2024-07-07**|**Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models**|Longxiang Tang et.al.|[2407.05342](http://arxiv.org/abs/2407.05342)|**[link](https://github.com/lloongx/diki)**|
 |**2024-07-07**|**WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks**|Léo Boisvert et.al.|[2407.05291](http://arxiv.org/abs/2407.05291)|**[link](https://github.com/servicenow/workarena)**|
 |**2024-07-07**|**Unlocking Textual and Visual Wisdom: Open-Vocabulary 3D Object Detection Enhanced by Comprehensive Guidance from Text and Image**|Pengkun Jiao et.al.|[2407.05256](http://arxiv.org/abs/2407.05256)|null|
 |**2024-07-06**|**FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding**|Huitong Pan et.al.|[2407.05183](http://arxiv.org/abs/2407.05183)|**[link](https://github.com/jo-pan/flowlearn)**|
 |**2024-07-06**|**RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models**|Peng Xia et.al.|[2407.05131](http://arxiv.org/abs/2407.05131)|**[link](https://github.com/richard-peng-xia/rule)**|
-|**2024-07-06**|**Granular Privacy Control for Geolocation with Vision Language Models**|Ethan Mendes et.al.|[2407.04952](http://arxiv.org/abs/2407.04952)|null|
+|**2024-07-06**|**Granular Privacy Control for Geolocation with Vision Language Models**|Ethan Mendes et.al.|[2407.04952](http://arxiv.org/abs/2407.04952)|**[link](https://github.com/ethanm88/GPTGeoChat)**|
 |**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|null|
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
 |**2024-07-05**|**Smart Vision-Language Reasoners**|Denisa Roberts et.al.|[2407.04212](http://arxiv.org/abs/2407.04212)|**[link](https://github.com/smarter-vlm/smarter)**|
@@ -690,7 +698,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-07**|**Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition**|Zirun Guo et.al.|[2407.05374](http://arxiv.org/abs/2407.05374)|null|
+|**2024-07-09**|**Learn and Don't Forget: Adding a New Language to ASR Foundation Models**|Mengjie Qian et.al.|[2407.06800](http://arxiv.org/abs/2407.06800)|null|
+|**2024-07-07**|**Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition**|Zirun Guo et.al.|[2407.05374](http://arxiv.org/abs/2407.05374)|**[link](https://github.com/zrguo/MPLMM)**|
 |**2024-07-06**|**The Solution for Language-Enhanced Image New Category Discovery**|Haonan Xu et.al.|[2407.04994](http://arxiv.org/abs/2407.04994)|null|
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
@@ -814,8 +823,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Aggregate Bayesian Causal Forests: The ABCs of Flexible Causal Inference for Hierarchically Structured Data**|Dan R. C. Thal et.al.|[2407.07067](http://arxiv.org/abs/2407.07067)|null|
+|**2024-07-09**|**Learning a Distributed Hierarchical Locomotion Controller for Embodied Cooperation**|Chuye Hong et.al.|[2407.06499](http://arxiv.org/abs/2407.06499)|null|
 |**2024-07-08**|**Comparing Causal Inference Methods for Point Exposures with Missing Confounders: A Simulation Study**|Luke Benz et.al.|[2407.06038](http://arxiv.org/abs/2407.06038)|null|
-|**2024-07-08**|**Simulation-based Benchmarking for Causal Structure Learning in Gene Perturbation Experiments**|Luka Kovačević et.al.|[2407.06015](http://arxiv.org/abs/2407.06015)|null|
+|**2024-07-08**|**Simulation-based Benchmarking for Causal Structure Learning in Gene Perturbation Experiments**|Luka Kovačević et.al.|[2407.06015](http://arxiv.org/abs/2407.06015)|**[link](https://github.com/luka-kovacevic/causalregnet)**|
 |**2024-07-08**|**PORCA: Root Cause Analysis with Partially**|Chang Gong et.al.|[2407.05869](http://arxiv.org/abs/2407.05869)|null|
 |**2024-07-08**|**FairPFN: Transformers Can do Counterfactual Fairness**|Jake Robertson et.al.|[2407.05732](http://arxiv.org/abs/2407.05732)|null|
 |**2024-07-08**|**New User Event Prediction Through the Lens of Causal Inference**|Henry Shaowu Yuchi et.al.|[2407.05625](http://arxiv.org/abs/2407.05625)|null|
@@ -1047,7 +1058,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-05**|**A Unified Learn-to-Distort-Data Framework for Privacy-Utility Trade-off in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2407.04751](http://arxiv.org/abs/2407.04751)|null|
+|**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
+|**2024-07-08**|**Shedding More Light on Robust Classifiers under the lens of Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2407.06315](http://arxiv.org/abs/2407.06315)|**[link](https://github.com/omnai-lab/robust-classifiers-under-the-lens-of-ebm)**|
+|**2024-07-09**|**A Unified Learn-to-Distort-Data Framework for Privacy-Utility Trade-off in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2407.04751](http://arxiv.org/abs/2407.04751)|null|
 |**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
@@ -1058,7 +1071,7 @@
 |**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
 |**2024-06-30**|**FLY-TTS: Fast, Lightweight and High-Quality End-to-End Text-to-Speech Synthesis**|Yinlin Guo et.al.|[2407.00753](http://arxiv.org/abs/2407.00753)|null|
 |**2024-06-28**|**DiffuseDef: Improved Robustness to Adversarial Attacks**|Zhenhao Li et.al.|[2407.00248](http://arxiv.org/abs/2407.00248)|null|
-|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
+|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|**[link](https://github.com/dmml-geneva/ksgan)**|
 |**2024-06-28**|**Deceptive Diffusion: Generating Synthetic Adversarial Examples**|Lucas Beerens et.al.|[2406.19807](http://arxiv.org/abs/2406.19807)|null|
 |**2024-06-28**|**AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation**|Guanghao Zhu et.al.|[2406.19649](http://arxiv.org/abs/2406.19649)|null|
 |**2024-06-28**|**Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness**|Erh-Chung Chen et.al.|[2406.19622](http://arxiv.org/abs/2406.19622)|null|
@@ -1224,6 +1237,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
+|**2024-07-09**|**RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios**|Liming Zheng et.al.|[2407.06951](http://arxiv.org/abs/2407.06951)|null|
+|**2024-07-09**|**A Unified Approach to Multi-task Legged Navigation: Temporal Logic Meets Reinforcement Learning**|Jesse Jiang et.al.|[2407.06931](http://arxiv.org/abs/2407.06931)|null|
+|**2024-07-09**|**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**|Yang Liu et.al.|[2407.06886](http://arxiv.org/abs/2407.06886)|**[link](https://github.com/hcplab-sysu/embodied_ai_paper_list)**|
 |**2024-07-08**|**Autonomous Mobile Robot Navigation: Tracking problem**|Salem Ameen et.al.|[2407.06118](http://arxiv.org/abs/2407.06118)|null|
 |**2024-07-08**|**Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation**|Sara Pohland et.al.|[2407.06056](http://arxiv.org/abs/2407.06056)|**[link](https://github.com/sarapohland/stranger-danger)**|
 |**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779](http://arxiv.org/abs/2407.05779)|null|
@@ -1239,7 +1256,7 @@
 |**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122](http://arxiv.org/abs/2407.03122)|null|
 |**2024-07-03**|**NLP Sampling: Combining MCMC and NLP Methods for Diverse Constrained Sampling**|Marc Toussaint et.al.|[2407.03035](http://arxiv.org/abs/2407.03035)|null|
 |**2024-07-03**|**The Shortcomings of Force-from-Motion in Robot Learning**|Elie Aljalbout et.al.|[2407.02904](http://arxiv.org/abs/2407.02904)|null|
-|**2024-07-03**|**PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**|Yilin Cai et.al.|[2407.02745](http://arxiv.org/abs/2407.02745)|null|
+|**2024-07-03**|**PWTO: A Heuristic Approach for Trajectory Optimization in Complex Terrains**|Yilin Cai et.al.|[2407.02745](http://arxiv.org/abs/2407.02745)|**[link](https://github.com/rap-lab-org/public_pwto)**|
 |**2024-07-08**|**Research on Autonomous Robots Navigation based on Reinforcement Learning**|Zixiang Wang et.al.|[2407.02539](http://arxiv.org/abs/2407.02539)|null|
 |**2024-07-02**|**Real Time Collision Avoidance with GPU-Computed Distance Maps**|Wendwosen Bellete Bedada et.al.|[2407.02363](http://arxiv.org/abs/2407.02363)|null|
 |**2024-07-02**|**LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance**|Wenhao Yu et.al.|[2407.01950](http://arxiv.org/abs/2407.01950)|null|
