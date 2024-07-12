@@ -1,4 +1,4 @@
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -223,7 +223,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## DG
 
@@ -336,7 +336,7 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|**[link](https://github.com/znchen666/hdg)**|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## VLM
 
@@ -345,7 +345,7 @@
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
-|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
+|**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
 |**2024-07-10**|**IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model**|Yatai Ji et.al.|[2407.07577](http://arxiv.org/abs/2407.07577)|**[link](https://github.com/jiyt17/ida-vlm)**|
 |**2024-07-10**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
@@ -354,7 +354,7 @@
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
-|**2024-07-09**|**Vision language models are blind**|Pooyan Rahmanzadehgervi et.al.|[2407.06581](http://arxiv.org/abs/2407.06581)|null|
+|**2024-07-11**|**Vision language models are blind**|Pooyan Rahmanzadehgervi et.al.|[2407.06581](http://arxiv.org/abs/2407.06581)|null|
 |**2024-07-08**|**A Single Transformer for Scalable Vision-Language Modeling**|Yangyi Chen et.al.|[2407.06438](http://arxiv.org/abs/2407.06438)|**[link](https://github.com/yangyi-chen/solo)**|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192](http://arxiv.org/abs/2407.06192)|null|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
@@ -707,15 +707,15 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802](http://arxiv.org/abs/2407.07802)|**[link](https://github.com/rosa-paper/rosa)**|
-|**2024-07-10**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
-|**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197](http://arxiv.org/abs/2407.07197)|null|
+|**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
+|**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197](http://arxiv.org/abs/2407.07197)|**[link](https://github.com/moatifbutt/color-peel)**|
 |**2024-07-09**|**Learn and Don't Forget: Adding a New Language to ASR Foundation Models**|Mengjie Qian et.al.|[2407.06800](http://arxiv.org/abs/2407.06800)|null|
 |**2024-07-07**|**Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition**|Zirun Guo et.al.|[2407.05374](http://arxiv.org/abs/2407.05374)|**[link](https://github.com/zrguo/MPLMM)**|
 |**2024-07-06**|**The Solution for Language-Enhanced Image New Category Discovery**|Haonan Xu et.al.|[2407.04994](http://arxiv.org/abs/2407.04994)|null|
@@ -835,7 +835,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -850,7 +850,7 @@
 |**2024-07-08**|**Simulation-based Benchmarking for Causal Structure Learning in Gene Perturbation Experiments**|Luka Kovačević et.al.|[2407.06015](http://arxiv.org/abs/2407.06015)|**[link](https://github.com/luka-kovacevic/causalregnet)**|
 |**2024-07-08**|**PORCA: Root Cause Analysis with Partially**|Chang Gong et.al.|[2407.05869](http://arxiv.org/abs/2407.05869)|null|
 |**2024-07-08**|**FairPFN: Transformers Can do Counterfactual Fairness**|Jake Robertson et.al.|[2407.05732](http://arxiv.org/abs/2407.05732)|null|
-|**2024-07-08**|**New User Event Prediction Through the Lens of Causal Inference**|Henry Shaowu Yuchi et.al.|[2407.05625](http://arxiv.org/abs/2407.05625)|null|
+|**2024-07-10**|**New User Event Prediction Through the Lens of Causal Inference**|Henry Shaowu Yuchi et.al.|[2407.05625](http://arxiv.org/abs/2407.05625)|null|
 |**2024-07-06**|**Scalable Variational Causal Discovery Unconstrained by Acyclicity**|Nu Hoang et.al.|[2407.04992](http://arxiv.org/abs/2407.04992)|null|
 |**2024-07-06**|**Enabling Causal Discovery in Post-Nonlinear Models with Normalizing Flows**|Nu Hoang et.al.|[2407.04980](http://arxiv.org/abs/2407.04980)|null|
 |**2024-07-06**|**Towards Context-Aware Emotion Recognition Debiasing from a Causal Demystification Perspective via De-confounded Training**|Dingkang Yang et.al.|[2407.04963](http://arxiv.org/abs/2407.04963)|null|
@@ -1073,20 +1073,20 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Adversarial
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
-|**2024-07-08**|**Shedding More Light on Robust Classifiers under the lens of Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2407.06315](http://arxiv.org/abs/2407.06315)|**[link](https://github.com/omnai-lab/robust-classifiers-under-the-lens-of-ebm)**|
+|**2024-07-11**|**Shedding More Light on Robust Classifiers under the lens of Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2407.06315](http://arxiv.org/abs/2407.06315)|**[link](https://github.com/omnai-lab/robust-classifiers-under-the-lens-of-ebm)**|
 |**2024-07-09**|**A Unified Learn-to-Distort-Data Framework for Privacy-Utility Trade-off in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2407.04751](http://arxiv.org/abs/2407.04751)|null|
 |**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
 |**2024-07-04**|**WANCO: Weak Adversarial Networks for Constrained Optimization problems**|Gang Bao et.al.|[2407.03647](http://arxiv.org/abs/2407.03647)|null|
-|**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
+|**2024-07-11**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
 |**2024-07-03**|**$L_p$ -norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115](http://arxiv.org/abs/2407.03115)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
 |**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
@@ -1252,7 +1252,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Robotics
 
@@ -1260,7 +1260,7 @@
 |---|---|---|---|---|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868](http://arxiv.org/abs/2407.07868)|null|
-|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788](http://arxiv.org/abs/2407.07788)|null|
+|**2024-07-11**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788](http://arxiv.org/abs/2407.07788)|null|
 |**2024-07-10**|**WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment**|Jiefu Ou et.al.|[2407.07778](http://arxiv.org/abs/2407.07778)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
@@ -1429,5 +1429,5 @@
 |**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-20**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|**[link](https://github.com/irmvlab/diff-ip2d)**|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
