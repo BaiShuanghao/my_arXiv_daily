@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**An Unsupervised Domain Adaptation Method for Locating Manipulated Region in partially fake Audio**|Siding Zeng et.al.|[2407.08239](http://arxiv.org/abs/2407.08239)|null|
 |**2024-07-10**|**S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation**|Qixiang Zhang et.al.|[2407.07763](http://arxiv.org/abs/2407.07763)|null|
 |**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|null|
 |**2024-07-10**|**Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights**|Yan Hao et.al.|[2407.07586](http://arxiv.org/abs/2407.07586)|**[link](https://github.com/epfl-imos/simple-sfod)**|
@@ -229,6 +230,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
+|**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
+|**2024-07-11**|**Feature Diversification and Adaptation for Federated Domain Generalization**|Seunghan Yang et.al.|[2407.08245](http://arxiv.org/abs/2407.08245)|null|
+|**2024-07-11**|**Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors**|Jingyi Yang et.al.|[2407.08243](http://arxiv.org/abs/2407.08243)|null|
 |**2024-07-10**|**S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation**|Qixiang Zhang et.al.|[2407.07763](http://arxiv.org/abs/2407.07763)|null|
 |**2024-07-10**|**Disentangling Masked Autoencoders for Unsupervised Domain Generalization**|An Zhang et.al.|[2407.07544](http://arxiv.org/abs/2407.07544)|**[link](https://github.com/rookiehb/dismae)**|
 |**2024-07-09**|**ConvNLP: Image-based AI Text Detection**|Suriya Prakash Jambunathan et.al.|[2407.07225](http://arxiv.org/abs/2407.07225)|null|
@@ -342,6 +347,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
+|**2024-07-11**|**Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement**|Zijie Yue et.al.|[2407.08507](http://arxiv.org/abs/2407.08507)|null|
+|**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410](http://arxiv.org/abs/2407.08410)|null|
+|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
+|**2024-07-11**|**Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation**|Tong Shao et.al.|[2407.08268](http://arxiv.org/abs/2407.08268)|null|
+|**2024-07-11**|**AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization**|Shixiong Xu et.al.|[2407.08156](http://arxiv.org/abs/2407.08156)|**[link](https://github.com/xsx1001/addressclip)**|
+|**2024-07-11**|**Live Fitness Coaching as a Testbed for Situated Interaction**|Sunny Panchal et.al.|[2407.08101](http://arxiv.org/abs/2407.08101)|null|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Hao-Tien Lewis Chiang et.al.|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
 |**2024-07-10**|**PaliGemma: A versatile 3B VLM for transfer**|Lucas Beyer et.al.|[2407.07726](http://arxiv.org/abs/2407.07726)|null|
@@ -713,6 +728,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802](http://arxiv.org/abs/2407.07802)|**[link](https://github.com/rosa-paper/rosa)**|
 |**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
 |**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197](http://arxiv.org/abs/2407.07197)|**[link](https://github.com/moatifbutt/color-peel)**|
@@ -841,6 +857,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
+|**2024-07-11**|**An Introduction to Causal Discovery**|Martin Huber et.al.|[2407.08602](http://arxiv.org/abs/2407.08602)|null|
+|**2024-07-11**|**Causal inference through multi-stage learning and doubly robust deep neural networks**|Yuqian Zhang et.al.|[2407.08560](http://arxiv.org/abs/2407.08560)|null|
+|**2024-07-10**|**A Critical Review of Causal Reasoning Benchmarks for Large Language Models**|Linying Yang et.al.|[2407.08029](http://arxiv.org/abs/2407.08029)|null|
+|**2024-07-10**|**Identifying macro conditional independencies and macro total effects in summary causal graphs with latent confounding**|Simon Ferreira et.al.|[2407.07934](http://arxiv.org/abs/2407.07934)|null|
+|**2024-07-10**|**Identification and Estimation of the Bi-Directional MR with Some Invalid Instruments**|Feng Xie et.al.|[2407.07933](http://arxiv.org/abs/2407.07933)|null|
 |**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612](http://arxiv.org/abs/2407.07612)|null|
 |**2024-07-10**|**Causal Discovery in Semi-Stationary Time Series**|Shanyun Gao et.al.|[2407.07291](http://arxiv.org/abs/2407.07291)|**[link](https://github.com/causalml-lab/pcmci-omega)**|
 |**2024-07-10**|**Causal Discovery-Driven Change Point Detection in Time Series**|Shanyun Gao et.al.|[2407.07290](http://arxiv.org/abs/2407.07290)|null|
@@ -1079,6 +1101,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**How to beat a Bayesian adversary**|Zihan Ding et.al.|[2407.08678](http://arxiv.org/abs/2407.08678)|null|
+|**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|null|
+|**2024-07-11**|**Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer**|Tahira Shehzadi et.al.|[2407.08460](http://arxiv.org/abs/2407.08460)|null|
+|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
 |**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
 |**2024-07-11**|**Shedding More Light on Robust Classifiers under the lens of Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2407.06315](http://arxiv.org/abs/2407.06315)|**[link](https://github.com/omnai-lab/robust-classifiers-under-the-lens-of-ebm)**|
 |**2024-07-09**|**A Unified Learn-to-Distort-Data Framework for Privacy-Utility Trade-off in Trustworthy Federated Learning**|Xiaojin Zhang et.al.|[2407.04751](http://arxiv.org/abs/2407.04751)|null|
@@ -1086,7 +1112,7 @@
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
 |**2024-07-04**|**WANCO: Weak Adversarial Networks for Constrained Optimization problems**|Gang Bao et.al.|[2407.03647](http://arxiv.org/abs/2407.03647)|null|
-|**2024-07-11**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
+|**2024-07-11**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|**[link](https://github.com/nguyenhongson1902/venomancer)**|
 |**2024-07-03**|**$L_p$ -norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115](http://arxiv.org/abs/2407.03115)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
 |**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
@@ -1258,6 +1284,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726](http://arxiv.org/abs/2407.08726)|null|
+|**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
+|**2024-07-11**|**HACMan++: Spatially-Grounded Motion Primitives for Manipulation**|Bowen Jiang et.al.|[2407.08585](http://arxiv.org/abs/2407.08585)|null|
+|**2024-07-11**|**An Economic Framework for 6-DoF Grasp Detection**|Xiao-Ming Wu et.al.|[2407.08366](http://arxiv.org/abs/2407.08366)|**[link](https://github.com/isee-laboratory/economicgrasp)**|
+|**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|null|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868](http://arxiv.org/abs/2407.07868)|null|
 |**2024-07-11**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788](http://arxiv.org/abs/2407.07788)|null|
