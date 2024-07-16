@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -348,7 +348,7 @@ layout: default
 |**2024-07-11**|**CXR-Agent: Vision-language models for chest X-ray interpretation with uncertainty aware radiology reporting**|Naman Sharma et.al.|[2407.08811](http://arxiv.org/abs/2407.08811)|null|
 |**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
 |**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
-|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-12**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Michał Zawalski et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
 |**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
 |**2024-07-11**|**Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement**|Zijie Yue et.al.|[2407.08507](http://arxiv.org/abs/2407.08507)|null|
 |**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410](http://arxiv.org/abs/2407.08410)|null|
