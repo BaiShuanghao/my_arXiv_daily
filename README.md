@@ -18,12 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Human-Centric Transformer for Domain Adaptive Action Recognition**|Kun-Yu Lin et.al.|[2407.10860](http://arxiv.org/abs/2407.10860)|null|
+|**2024-07-15**|**Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment**|Jinhao Jiang et.al.|[2407.10804](http://arxiv.org/abs/2407.10804)|null|
+|**2024-07-13**|**Sim-to-Real Domain Adaptation for Deformation Classification**|Joel Sol et.al.|[2407.10011](http://arxiv.org/abs/2407.10011)|null|
 |**2024-07-12**|**The Sociolinguistic Foundations of Language Modeling**|Jack Grieve et.al.|[2407.09241](http://arxiv.org/abs/2407.09241)|null|
 |**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|null|
 |**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813](http://arxiv.org/abs/2407.08813)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)**|
 |**2024-07-11**|**An Unsupervised Domain Adaptation Method for Locating Manipulated Region in partially fake Audio**|Siding Zeng et.al.|[2407.08239](http://arxiv.org/abs/2407.08239)|null|
 |**2024-07-10**|**S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation**|Qixiang Zhang et.al.|[2407.07763](http://arxiv.org/abs/2407.07763)|null|
-|**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|**[link](https://github.com/intelligentMachinesLab/few-shot-domain-adaptive-microscopy)**|
+|**2024-07-10**|**Few-Shot Domain Adaptive Object Detection for Microscopic Images**|Sumayya Inayat et.al.|[2407.07633](http://arxiv.org/abs/2407.07633)|null|
 |**2024-07-10**|**Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights**|Yan Hao et.al.|[2407.07586](http://arxiv.org/abs/2407.07586)|**[link](https://github.com/epfl-imos/simple-sfod)**|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
 |**2024-07-09**|**D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms**|Tajamul Ashraf et.al.|[2407.06585](http://arxiv.org/abs/2407.06585)|null|
@@ -233,10 +236,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
+|**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
+|**2024-07-14**|**Multiple data sources and domain generalization learning method for road surface defect classification**|Linh Trinh et.al.|[2407.10197](http://arxiv.org/abs/2407.10197)|null|
 |**2024-07-12**|**Textual Query-Driven Mask Transformer for Domain Generalized Segmentation**|Byeonghyun Pak et.al.|[2407.09033](http://arxiv.org/abs/2407.09033)|null|
 |**2024-07-11**|**DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding**|Jincen Jiang et.al.|[2407.08801](http://arxiv.org/abs/2407.08801)|null|
 |**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
 |**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
+|**2024-07-15**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-11**|**Feature Diversification and Adaptation for Federated Domain Generalization**|Seunghan Yang et.al.|[2407.08245](http://arxiv.org/abs/2407.08245)|null|
 |**2024-07-11**|**Generalized Face Anti-spoofing via Finer Domain Partition and Disentangling Liveness-irrelevant Factors**|Jingyi Yang et.al.|[2407.08243](http://arxiv.org/abs/2407.08243)|null|
 |**2024-07-10**|**S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation**|Qixiang Zhang et.al.|[2407.07763](http://arxiv.org/abs/2407.07763)|null|
@@ -352,6 +359,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
+|**2024-07-15**|**OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer**|Yu Wang et.al.|[2407.10655](http://arxiv.org/abs/2407.10655)|**[link](https://github.com/atten4vis/lw-detr)**|
+|**2024-07-15**|**NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models**|Pranshu Pandya et.al.|[2407.10380](http://arxiv.org/abs/2407.10380)|null|
+|**2024-07-14**|**Affordance-Guided Reinforcement Learning via Visual Prompting**|Olivia Y. Lee et.al.|[2407.10341](http://arxiv.org/abs/2407.10341)|null|
+|**2024-07-13**|**VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation**|Wentao Zhao et.al.|[2407.09829](http://arxiv.org/abs/2407.09829)|null|
+|**2024-07-13**|**3D Weakly Supervised Semantic Segmentation with 2D Vision-Language Guidance**|Xiaoxu Xu et.al.|[2407.09826](http://arxiv.org/abs/2407.09826)|null|
+|**2024-07-13**|**Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning**|Pedro R. A. S. Bassi et.al.|[2407.09788](http://arxiv.org/abs/2407.09788)|null|
+|**2024-07-13**|**Dense Multimodal Alignment for Open-Vocabulary 3D Scene Understanding**|Ruihuang Li et.al.|[2407.09781](http://arxiv.org/abs/2407.09781)|null|
+|**2024-07-13**|**ICCV23 Visual-Dialog Emotion Explanation Challenge: SEU_309 Team Technical Report**|Yixiao Yuan et.al.|[2407.09760](http://arxiv.org/abs/2407.09760)|null|
 |**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073](http://arxiv.org/abs/2407.09073)|null|
 |**2024-07-12**|**Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing**|Jun Zhu et.al.|[2407.09053](http://arxiv.org/abs/2407.09053)|null|
 |**2024-07-12**|**Textual Query-Driven Mask Transformer for Domain Generalized Segmentation**|Byeonghyun Pak et.al.|[2407.09033](http://arxiv.org/abs/2407.09033)|null|
@@ -740,11 +760,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification**|Linhao Qu et.al.|[2407.10814](http://arxiv.org/abs/2407.10814)|null|
+|**2024-07-15**|**Anticipating Future Object Compositions without Forgetting**|Youssef Zahran et.al.|[2407.10723](http://arxiv.org/abs/2407.10723)|null|
+|**2024-07-14**|**Beyond Prompt Learning: Continual Adapter for Efficient Rehearsal-Free Continual Learning**|Xinyuan Gao et.al.|[2407.10281](http://arxiv.org/abs/2407.10281)|null|
+|**2024-07-13**|**Empowering Whisper as a Joint Multi-Talker and Target-Talker Speech Recognition System**|Lingwei Meng et.al.|[2407.09817](http://arxiv.org/abs/2407.09817)|null|
 |**2024-07-12**|**Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media**|Chen Chen et.al.|[2407.09019](http://arxiv.org/abs/2407.09019)|null|
 |**2024-07-12**|**Self-Prompt Tuning: Enable Autonomous Role-Playing in LLMs**|Aobo Kong et.al.|[2407.08995](http://arxiv.org/abs/2407.08995)|null|
 |**2024-07-12**|**Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models**|Ye Liu et.al.|[2407.08967](http://arxiv.org/abs/2407.08967)|**[link](https://github.com/liuyeah/dsare)**|
 |**2024-07-12**|**LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models**|Yabin Zhang et.al.|[2407.08966](http://arxiv.org/abs/2407.08966)|**[link](https://github.com/ybzh/lapt)**|
-|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
+|**2024-07-15**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-10**|**ROSA: Random Subspace Adaptation for Efficient Fine-Tuning**|Marawan Gamal Abdel Hameed et.al.|[2407.07802](http://arxiv.org/abs/2407.07802)|**[link](https://github.com/rosa-paper/rosa)**|
 |**2024-07-11**|**Tuning Vision-Language Models with Candidate Labels by Prompt Alignment**|Zhifang Zhang et.al.|[2407.07638](http://arxiv.org/abs/2407.07638)|null|
 |**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197](http://arxiv.org/abs/2407.07197)|**[link](https://github.com/moatifbutt/color-peel)**|
@@ -873,6 +897,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**Semiparametric Efficient Inference for the Probability of Necessary and Sufficient Causation**|Zhaoqing Tian et.al.|[2407.10185](http://arxiv.org/abs/2407.10185)|null|
+|**2024-07-14**|**Optimal Kernel Choice for Score Function-based Causal Discovery**|Wenjie Wang et.al.|[2407.10132](http://arxiv.org/abs/2407.10132)|null|
+|**2024-07-13**|**Identification of Average Causal Effects in Confounded Additive Noise Models**|Muhammad Qasim Elahi et.al.|[2407.10014](http://arxiv.org/abs/2407.10014)|null|
 |**2024-07-12**|**Graph Neural Network Causal Explanation via Neural Causal Models**|Arman Behnam et.al.|[2407.09378](http://arxiv.org/abs/2407.09378)|**[link](https://github.com/armanbehnam/cxgnn)**|
 |**2024-07-11**|**Maximum Entropy Estimation of Heterogeneous Causal Effects**|Brian Knaeble et.al.|[2407.08862](http://arxiv.org/abs/2407.08862)|null|
 |**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
@@ -886,7 +913,7 @@
 |**2024-07-10**|**Causal Discovery-Driven Change Point Detection in Time Series**|Shanyun Gao et.al.|[2407.07290](http://arxiv.org/abs/2407.07290)|null|
 |**2024-07-09**|**Aggregate Bayesian Causal Forests: The ABCs of Flexible Causal Inference for Hierarchically Structured Data**|Dan R. C. Thal et.al.|[2407.07067](http://arxiv.org/abs/2407.07067)|**[link](https://github.com/mathematica-mpr/bcf-1)**|
 |**2024-07-09**|**Learning a Distributed Hierarchical Locomotion Controller for Embodied Cooperation**|Chuye Hong et.al.|[2407.06499](http://arxiv.org/abs/2407.06499)|null|
-|**2024-07-08**|**Comparing Causal Inference Methods for Point Exposures with Missing Confounders: A Simulation Study**|Luke Benz et.al.|[2407.06038](http://arxiv.org/abs/2407.06038)|null|
+|**2024-07-08**|**Comparing Causal Inference Methods for Point Exposures with Missing Confounders: A Simulation Study**|Luke Benz et.al.|[2407.06038](http://arxiv.org/abs/2407.06038)|**[link](https://github.com/lbenz730/missing_confounder_sims)**|
 |**2024-07-08**|**Simulation-based Benchmarking for Causal Structure Learning in Gene Perturbation Experiments**|Luka Kovačević et.al.|[2407.06015](http://arxiv.org/abs/2407.06015)|**[link](https://github.com/luka-kovacevic/causalregnet)**|
 |**2024-07-12**|**PORCA: Root Cause Analysis with Partially Observed Data**|Chang Gong et.al.|[2407.05869](http://arxiv.org/abs/2407.05869)|null|
 |**2024-07-08**|**FairPFN: Transformers Can do Counterfactual Fairness**|Jake Robertson et.al.|[2407.05732](http://arxiv.org/abs/2407.05732)|null|
@@ -1119,6 +1146,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition**|Xiao Li et.al.|[2407.10918](http://arxiv.org/abs/2407.10918)|null|
+|**2024-07-15**|**Thinking Fast and Slow: Data-Driven Adaptive DeFi Borrow-Lending Protocol**|Mahsa Bastankhah et.al.|[2407.10890](http://arxiv.org/abs/2407.10890)|null|
 |**2024-07-12**|**Deep Adversarial Defense Against Multilevel-Lp Attacks**|Ren Wang et.al.|[2407.09251](http://arxiv.org/abs/2407.09251)|null|
 |**2024-07-12**|**Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off**|Levente Halmosi et.al.|[2407.09150](http://arxiv.org/abs/2407.09150)|**[link](https://github.com/szegedai/robust-segmentation-evaluation)**|
 |**2024-07-12**|**Refusing Safe Prompts for Multi-modal Large Language Models**|Zedian Shao et.al.|[2407.09050](http://arxiv.org/abs/2407.09050)|null|
@@ -1307,6 +1336,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
+|**2024-07-15**|**Visual-tactile manipulation to collect household waste in outdoor**|Julio Castaño-Amorós et.al.|[2407.10606](http://arxiv.org/abs/2407.10606)|null|
+|**2024-07-15**|**Learning Social Cost Functions for Human-Aware Path Planning**|Andrea Eirale et.al.|[2407.10547](http://arxiv.org/abs/2407.10547)|**[link](https://github.com/pic4ser/socialcostfunction)**|
+|**2024-07-14**|**3D Foundation Models Enable Simultaneous Geometry and Pose Estimation of Grasped Objects**|Weiming Zhi et.al.|[2407.10331](http://arxiv.org/abs/2407.10331)|null|
+|**2024-07-14**|**Programming Manipulators by Instructions**|Rafael de la Guardia et.al.|[2407.10133](http://arxiv.org/abs/2407.10133)|null|
+|**2024-07-13**|**DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Pipeline for Multi-Dexterous Robotic Hands**|Zhengshen Zhang et.al.|[2407.09899](http://arxiv.org/abs/2407.09899)|null|
+|**2024-07-13**|**VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation**|Wentao Zhao et.al.|[2407.09829](http://arxiv.org/abs/2407.09829)|null|
 |**2024-07-11**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726](http://arxiv.org/abs/2407.08726)|null|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**HACMan++: Spatially-Grounded Motion Primitives for Manipulation**|Bowen Jiang et.al.|[2407.08585](http://arxiv.org/abs/2407.08585)|null|
