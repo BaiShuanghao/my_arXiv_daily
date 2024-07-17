@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -1136,7 +1136,7 @@ layout: default
 |**2024-07-11**|**HO-FMN: Hyperparameter Optimization for Fast Minimum-Norm Attacks**|Raffaele Mura et.al.|[2407.08806](http://arxiv.org/abs/2407.08806)|**[link](https://github.com/pralab/HO-FMN)**|
 |**2024-07-11**|**How to beat a Bayesian adversary**|Zihan Ding et.al.|[2407.08678](http://arxiv.org/abs/2407.08678)|null|
 |**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|**[link](https://github.com/yihanz3/evaadsaliency)**|
-|**2024-07-11**|**Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer**|Tahira Shehzadi et.al.|[2407.08460](http://arxiv.org/abs/2407.08460)|null|
+|**2024-07-16**|**Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer**|Tahira Shehzadi et.al.|[2407.08460](http://arxiv.org/abs/2407.08460)|null|
 |**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
 |**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
 |**2024-07-11**|**Shedding More Light on Robust Classifiers under the lens of Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2407.06315](http://arxiv.org/abs/2407.06315)|**[link](https://github.com/omnai-lab/robust-classifiers-under-the-lens-of-ebm)**|
