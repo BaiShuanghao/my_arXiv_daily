@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -1365,7 +1365,7 @@ layout: default
 |**2024-07-11**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788](http://arxiv.org/abs/2407.07788)|null|
 |**2024-07-10**|**WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment**|Jiefu Ou et.al.|[2407.07778](http://arxiv.org/abs/2407.07778)|null|
 |**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
-|**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
+|**2024-07-17**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
 |**2024-07-09**|**RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios**|Liming Zheng et.al.|[2407.06951](http://arxiv.org/abs/2407.06951)|**[link](https://github.com/notfoundthisperson/robocas-v0)**|
 |**2024-07-09**|**A Unified Approach to Multi-task Legged Navigation: Temporal Logic Meets Reinforcement Learning**|Jesse Jiang et.al.|[2407.06931](http://arxiv.org/abs/2407.06931)|null|
 |**2024-07-12**|**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**|Yang Liu et.al.|[2407.06886](http://arxiv.org/abs/2407.06886)|**[link](https://github.com/hcplab-sysu/embodied_ai_paper_list)**|
