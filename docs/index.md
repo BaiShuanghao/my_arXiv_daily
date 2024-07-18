@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782](http://arxiv.org/abs/2407.12782)|null|
+|**2024-07-17**|**Calibrated Diverse Ensemble Entropy Minimization for Robust Test-Time Adaptation in Prostate Cancer Detection**|Mahdi Gilany et.al.|[2407.12697](http://arxiv.org/abs/2407.12697)|null|
+|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658](http://arxiv.org/abs/2407.12658)|null|
+|**2024-07-17**|**Privacy-Preserving Adaptive Re-Identification without Image Transfer**|Hamza Rami et.al.|[2407.12589](http://arxiv.org/abs/2407.12589)|**[link](https://github.com/ramiMMhamza/Fed-Protoid)**|
+|**2024-07-16**|**AFIDAF: Alternating Fourier and Image Domain Adaptive Filters as an Efficient Alternative to Attention in ViTs**|Yunling Zheng et.al.|[2407.12217](http://arxiv.org/abs/2407.12217)|null|
+|**2024-07-16**|**Monocular pose estimation of articulated surgical instruments in open surgery**|Robert Spektor et.al.|[2407.12138](http://arxiv.org/abs/2407.12138)|null|
 |**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation**|Yanis Lalou et.al.|[2407.11676](http://arxiv.org/abs/2407.11676)|**[link](https://github.com/scikit-adaptation/skada-bench)**|
 |**2024-07-16**|**Dataset Dictionary Learning in a Wasserstein Space for Federated Domain Adaptation**|Eduardo Fernandes Montesuma et.al.|[2407.11647](http://arxiv.org/abs/2407.11647)|null|
 |**2024-07-16**|**AdaptEval: Evaluating Large Language Models on Domain Adaptation for Text Summarization**|Anum Afzal et.al.|[2407.11591](http://arxiv.org/abs/2407.11591)|null|
@@ -230,6 +236,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Semantic-Aware Representation of Multi-Modal Data for Data Ingress: A Literature Review**|Pierre Lamart et.al.|[2407.12438](http://arxiv.org/abs/2407.12438)|null|
+|**2024-07-16**|**Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for Molecular Graph Classification**|Jakub Adamczyk et.al.|[2407.12136](http://arxiv.org/abs/2407.12136)|null|
 |**2024-07-16**|**The Devil is in the Statistics: Mitigating and Exploiting Statistics Difference for Generalizable Semi-supervised Medical Image Segmentation**|Muyang Qiu et.al.|[2407.11356](http://arxiv.org/abs/2407.11356)|**[link](https://github.com/qiumuyang/siab)**|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
 |**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
@@ -352,6 +360,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
+|**2024-07-17**|**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**|Gengze Zhou et.al.|[2407.12366](http://arxiv.org/abs/2407.12366)|**[link](https://github.com/gengzezhou/navgpt-2)**|
+|**2024-07-17**|**VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions**|Seokha Moon et.al.|[2407.12345](http://arxiv.org/abs/2407.12345)|null|
+|**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315](http://arxiv.org/abs/2407.12315)|null|
+|**2024-07-17**|**VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation**|Zhen Qu et.al.|[2407.12276](http://arxiv.org/abs/2407.12276)|null|
+|**2024-07-16**|**LiteGPT: Large Vision-Language Model for Joint Chest X-ray Localization and Classification Task**|Khai Le-Duc et.al.|[2407.12064](http://arxiv.org/abs/2407.12064)|**[link](https://github.com/leduckhai/litegpt)**|
 |**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
 |**2024-07-16**|**VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models**|Haodong Duan et.al.|[2407.11691](http://arxiv.org/abs/2407.11691)|**[link](https://github.com/open-compass/vlmevalkit)**|
 |**2024-07-16**|**FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models**|Pengxiang Li et.al.|[2407.11522](http://arxiv.org/abs/2407.11522)|null|
@@ -761,6 +775,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616](http://arxiv.org/abs/2407.12616)|null|
+|**2024-07-17**|**Application of Prompt Learning Models in Identifying the Collaborative Problem Solving Skills in an Online Task**|Mengxiao Zhu et.al.|[2407.12487](http://arxiv.org/abs/2407.12487)|null|
+|**2024-07-17**|**A foundation model approach to guide antimicrobial peptide design in the era of artificial intelligence driven scientific discovery**|Jike Wang et.al.|[2407.12296](http://arxiv.org/abs/2407.12296)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573](http://arxiv.org/abs/2407.11573)|null|
 |**2024-07-16**|**Reasoning with Large Language Models, a Survey**|Aske Plaat et.al.|[2407.11511](http://arxiv.org/abs/2407.11511)|null|
 |**2024-07-16**|**SDPT: Synchronous Dual Prompt Tuning for Fusion-based Visual-Language Pre-trained Models**|Yang Zhou et.al.|[2407.11414](http://arxiv.org/abs/2407.11414)|**[link](https://github.com/wuyongjiancode/sdpt)**|
@@ -900,6 +917,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**On the Complexity of Identification in Linear Structural Causal Models**|Julian Dörfler et.al.|[2407.12528](http://arxiv.org/abs/2407.12528)|null|
+|**2024-07-17**|**Variable-Agnostic Causal Exploration for Reinforcement Learning**|Minh Hoang Nguyen et.al.|[2407.12437](http://arxiv.org/abs/2407.12437)|null|
+|**2024-07-17**|**COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data**|Ting-Yun Ou et.al.|[2407.12254](http://arxiv.org/abs/2407.12254)|null|
 |**2024-07-16**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|null|
 |**2024-07-16**|**Discovery and inference of possibly bi-directional causal relationships with invalid instrumental variables**|Wei Li et.al.|[2407.11646](http://arxiv.org/abs/2407.11646)|null|
 |**2024-07-12**|**Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**|Kim Hammar et.al.|[2407.11070](http://arxiv.org/abs/2407.11070)|null|
@@ -1151,6 +1171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782](http://arxiv.org/abs/2407.12782)|null|
+|**2024-07-17**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
+|**2024-07-17**|**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**|Zhaoxin Wang et.al.|[2407.12443](http://arxiv.org/abs/2407.12443)|null|
 |**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969](http://arxiv.org/abs/2407.11969)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
 |**2024-07-16**|**Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows**|Hyemin Gu et.al.|[2407.11901](http://arxiv.org/abs/2407.11901)|null|
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844](http://arxiv.org/abs/2407.11844)|null|
@@ -1346,6 +1369,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**|Gengze Zhou et.al.|[2407.12366](http://arxiv.org/abs/2407.12366)|**[link](https://github.com/gengzezhou/navgpt-2)**|
+|**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
+|**2024-07-17**|**VEON: Vocabulary-Enhanced Occupancy Prediction**|Jilai Zheng et.al.|[2407.12294](http://arxiv.org/abs/2407.12294)|null|
 |**2024-07-16**|**Adaptive Environment-Aware Robotic Arm Reaching Based on a Bio-Inspired Neurodynamical Computational Framework**|Dimitrios Chatziparaschis et.al.|[2407.11377](http://arxiv.org/abs/2407.11377)|null|
 |**2024-07-16**|**Disentangled Acoustic Fields For Multimodal Physical Scene Understanding**|Jie Yin et.al.|[2407.11333](http://arxiv.org/abs/2407.11333)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
