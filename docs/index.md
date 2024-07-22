@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -16,7 +16,7 @@ layout: default
 |**2024-07-18**|**Unsupervised Domain Adaptive Lane Detection via Contextual Contrast and Aggregation**|Kunyang Zhou et.al.|[2407.13328](http://arxiv.org/abs/2407.13328)|null|
 |**2024-07-18**|**Fully Test-Time rPPG Estimation via Synthetic Signal-Guided Feature Learning**|Pei-Kai Huang et.al.|[2407.13322](http://arxiv.org/abs/2407.13322)|null|
 |**2024-07-15**|**Evaluation of RAG Metrics for Question Answering in the Telecom Domain**|Sujoy Roychowdhury et.al.|[2407.12873](http://arxiv.org/abs/2407.12873)|null|
-|**2024-07-14**|**Revisiting Adaptive Cellular Recognition Under Domain Shifts: A Contextual Correspondence View**|Jianan Fan et.al.|[2407.12870](http://arxiv.org/abs/2407.12870)|null|
+|**2024-07-19**|**Revisiting Adaptive Cellular Recognition Under Domain Shifts: A Contextual Correspondence View**|Jianan Fan et.al.|[2407.12870](http://arxiv.org/abs/2407.12870)|null|
 |**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782](http://arxiv.org/abs/2407.12782)|null|
 |**2024-07-17**|**Calibrated Diverse Ensemble Entropy Minimization for Robust Test-Time Adaptation in Prostate Cancer Detection**|Mahdi Gilany et.al.|[2407.12697](http://arxiv.org/abs/2407.12697)|null|
 |**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658](http://arxiv.org/abs/2407.12658)|null|
@@ -1200,7 +1200,7 @@ layout: default
 |**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782](http://arxiv.org/abs/2407.12782)|null|
 |**2024-07-18**|**Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks**|Antoni Kowalczuk et.al.|[2407.12588](http://arxiv.org/abs/2407.12588)|**[link](https://github.com/layer6ai-labs/ssl-robustness)**|
 |**2024-07-17**|**Preventing Catastrophic Overfitting in Fast Adversarial Training: A Bi-level Optimization Perspective**|Zhaoxin Wang et.al.|[2407.12443](http://arxiv.org/abs/2407.12443)|null|
-|**2024-07-16**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969](http://arxiv.org/abs/2407.11969)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
+|**2024-07-19**|**Does Refusal Training in LLMs Generalize to the Past Tense?**|Maksym Andriushchenko et.al.|[2407.11969](http://arxiv.org/abs/2407.11969)|**[link](https://github.com/tml-epfl/llm-past-tense)**|
 |**2024-07-16**|**Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows**|Hyemin Gu et.al.|[2407.11901](http://arxiv.org/abs/2407.11901)|null|
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844](http://arxiv.org/abs/2407.11844)|null|
 |**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764](http://arxiv.org/abs/2407.11764)|null|
