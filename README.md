@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors**|Zhuo Chen et.al.|[2407.14380](http://arxiv.org/abs/2407.14380)|null|
+|**2024-07-19**|**Multi-Source and Test-Time Domain Adaptation on Multivariate Signals using Spatio-Temporal Monge Alignment**|Théo Gnassounou et.al.|[2407.14303](http://arxiv.org/abs/2407.14303)|null|
+|**2024-07-19**|**Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference**|Chao Min et.al.|[2407.14214](http://arxiv.org/abs/2407.14214)|null|
+|**2024-07-19**|**Memory-Efficient Pseudo-Labeling for Online Source-Free Universal Domain Adaptation using a Gaussian Mixture Model**|Pascal Schlachter et.al.|[2407.14208](http://arxiv.org/abs/2407.14208)|**[link](https://github.com/pascalschlachter/gmm)**|
+|**2024-07-19**|**MC-PanDA: Mask Confidence for Panoptic Domain Adaptation**|Ivan Martinović et.al.|[2407.14110](http://arxiv.org/abs/2407.14110)|**[link](https://github.com/helen1c/mc-panda)**|
+|**2024-07-18**|**Improving Malware Detection with Adversarial Domain Adaptation and Control Flow Graphs**|Adrian Shuai Li et.al.|[2407.13918](http://arxiv.org/abs/2407.13918)|null|
 |**2024-07-18**|**Training-Free Model Merging for Multi-target Domain Adaptation**|Wenyi Li et.al.|[2407.13771](http://arxiv.org/abs/2407.13771)|null|
 |**2024-07-18**|**CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications**|Mirza Masfiqur Rahman et.al.|[2407.13742](http://arxiv.org/abs/2407.13742)|null|
 |**2024-07-18**|**Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**|Ilhoon Yoon et.al.|[2407.13524](http://arxiv.org/abs/2407.13524)|**[link](https://github.com/junia3/lpld)**|
@@ -255,6 +261,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153](http://arxiv.org/abs/2407.14153)|null|
+|**2024-07-19**|**RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering**|Rujun Han et.al.|[2407.13998](http://arxiv.org/abs/2407.13998)|**[link](https://github.com/awslabs/rag-qa-arena)**|
+|**2024-07-19**|**Double Gradient Reversal Network for Single-Source Domain Generalization in Multi-mode Fault Diagnosis**|Guangqiang Li et.al.|[2407.13978](http://arxiv.org/abs/2407.13978)|null|
+|**2024-07-18**|**CoAPT: Context Attribute words for Prompt Tuning**|Gun Lee et.al.|[2407.13808](http://arxiv.org/abs/2407.13808)|null|
 |**2024-07-18**|**Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management**|Yoontae Hwang et.al.|[2407.13751](http://arxiv.org/abs/2407.13751)|null|
 |**2024-07-18**|**CycleMix: Mixing Source Domains for Domain Generalization in Style-Dependent Data**|Aristotelis Ballas et.al.|[2407.13421](http://arxiv.org/abs/2407.13421)|**[link](https://github.com/aristotelisballas/cyclemix)**|
 |**2024-07-18**|**GDDS: A Single Domain Generalized Defect Detection Frame of Open World Scenario using Gather and Distribute Domain-shift Suppression Network**|Haiyong Chen et.al.|[2407.13417](http://arxiv.org/abs/2407.13417)|null|
@@ -385,6 +395,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**DEAL: Disentangle and Localize Concept-level Explanations for VLMs**|Tang Li et.al.|[2407.14412](http://arxiv.org/abs/2407.14412)|null|
+|**2024-07-19**|**Multimodal Misinformation Detection using Large Vision-Language Models**|Sahar Tahmasebi et.al.|[2407.14321](http://arxiv.org/abs/2407.14321)|null|
+|**2024-07-19**|**Words2Contact: Identifying Support Contacts from Verbal Instructions Using Foundation Models**|Dionis Totsila et.al.|[2407.14229](http://arxiv.org/abs/2407.14229)|null|
+|**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177](http://arxiv.org/abs/2407.14177)|null|
+|**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146](http://arxiv.org/abs/2407.14146)|null|
+|**2024-07-19**|**Multi-modal Relation Distillation for Unified 3D Representation Learning**|Huiqun Wang et.al.|[2407.14007](http://arxiv.org/abs/2407.14007)|null|
+|**2024-07-18**|**Simultaneous Localization and Affordance Prediction for Tasks in Egocentric Video**|Zachary Chavis et.al.|[2407.13856](http://arxiv.org/abs/2407.13856)|null|
+|**2024-07-18**|**Which objects help me to act effectively? Reasoning about physically-grounded affordances**|Anne Kemmeren et.al.|[2407.13811](http://arxiv.org/abs/2407.13811)|null|
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
 |**2024-07-18**|**Affordance Perception by a Knowledge-Guided Vision-Language Model with Efficient Error Correction**|Gertjan Burghouts et.al.|[2407.13368](http://arxiv.org/abs/2407.13368)|null|
 |**2024-07-17**|**R+X: Retrieval and Execution from Everyday Human Videos**|Georgios Papagiannis et.al.|[2407.12957](http://arxiv.org/abs/2407.12957)|null|
@@ -805,6 +823,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Continual Distillation Learning**|Qifan Zhang et.al.|[2407.13911](http://arxiv.org/abs/2407.13911)|null|
+|**2024-07-18**|**CoAPT: Context Attribute words for Prompt Tuning**|Gun Lee et.al.|[2407.13808](http://arxiv.org/abs/2407.13808)|null|
 |**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
 |**2024-07-18**|**Robust Calibration of Large Vision-Language Adapters**|Balamurali Murugesan et.al.|[2407.13588](http://arxiv.org/abs/2407.13588)|**[link](https://github.com/Bala93/CLIPCalib)**|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108](http://arxiv.org/abs/2407.13108)|null|
@@ -953,6 +973,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**Causal Inference with Complex Treatments: A Survey**|Yingrong Wang et.al.|[2407.14022](http://arxiv.org/abs/2407.14022)|**[link](https://github.com/causal-machine-learning-lab/mlbt)**|
+|**2024-07-18**|**PRAGyan -- Connecting the Dots in Tweets**|Rahul Ravi et.al.|[2407.13909](http://arxiv.org/abs/2407.13909)|null|
 |**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765](http://arxiv.org/abs/2407.13765)|null|
 |**2024-07-18**|**Topological Analysis of Seizure-Induced Changes in Brain Hierarchy Through Effective Connectivity**|Anass B. El-Yaagoubi et.al.|[2407.13514](http://arxiv.org/abs/2407.13514)|null|
 |**2024-07-18**|**Sortability of Time Series Data**|Christopher Lohse et.al.|[2407.13313](http://arxiv.org/abs/2407.13313)|null|
@@ -1213,6 +1236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Double Gradient Reversal Network for Single-Source Domain Generalization in Multi-mode Fault Diagnosis**|Guangqiang Li et.al.|[2407.13978](http://arxiv.org/abs/2407.13978)|null|
 |**2024-07-18**|**Beyond Dropout: Robust Convolutional Neural Networks Based on Local Feature Masking**|Yunpeng Gong et.al.|[2407.13646](http://arxiv.org/abs/2407.13646)|null|
 |**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
 |**2024-07-18**|**VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models**|Yanling Lin et.al.|[2407.13533](http://arxiv.org/abs/2407.13533)|null|
@@ -1416,6 +1440,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments**|Yunfan Gao et.al.|[2407.14220](http://arxiv.org/abs/2407.14220)|null|
 |**2024-07-18**|**The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations**|Jan Ole von Hartz et.al.|[2407.13432](http://arxiv.org/abs/2407.13432)|null|
 |**2024-07-18**|**Exploring Robot Trajectory Planning -- A Comparative Analysis of Algorithms And Software Implementations in Dynamic Environments**|Arunabh Bora et.al.|[2407.13330](http://arxiv.org/abs/2407.13330)|null|
 |**2024-07-17**|**Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**|Minjae Cho et.al.|[2407.13006](http://arxiv.org/abs/2407.13006)|null|
