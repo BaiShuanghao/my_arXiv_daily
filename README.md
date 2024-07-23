@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
+|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-22**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
+|**2024-07-22**|**YOLO-pdd: A Novel Multi-scale PCB Defect Detection Method Using Deep Representations with Sequential Images**|Bowen Liu et.al.|[2407.15427](http://arxiv.org/abs/2407.15427)|null|
+|**2024-07-22**|**Is user feedback always informative? Retrieval Latent Defending for Semi-Supervised Domain Adaptation without Source Data**|Junha Song et.al.|[2407.15383](http://arxiv.org/abs/2407.15383)|null|
+|**2024-07-21**|**Rethinking Domain Adaptation and Generalization in the Era of CLIP**|Ruoyu Feng et.al.|[2407.15173](http://arxiv.org/abs/2407.15173)|null|
+|**2024-07-20**|**Non-Reference Quality Assessment for Medical Imaging: Application to Synthetic Brain MRIs**|Karl Van Eeden Risager et.al.|[2407.14994](http://arxiv.org/abs/2407.14994)|null|
 |**2024-07-19**|**Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors**|Zhuo Chen et.al.|[2407.14380](http://arxiv.org/abs/2407.14380)|null|
 |**2024-07-19**|**Multi-Source and Test-Time Domain Adaptation on Multivariate Signals using Spatio-Temporal Monge Alignment**|Théo Gnassounou et.al.|[2407.14303](http://arxiv.org/abs/2407.14303)|null|
 |**2024-07-19**|**Domain Adaptation for Industrial Time-series Forecasting via Counterfactual Inference**|Chao Min et.al.|[2407.14214](http://arxiv.org/abs/2407.14214)|null|
@@ -261,6 +268,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-21**|**TADA: Temporal Adversarial Data Augmentation for Time Series Data**|Byeong Tak Lee et.al.|[2407.15174](http://arxiv.org/abs/2407.15174)|null|
+|**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
+|**2024-07-20**|**RoIPoly: Vectorized Building Outline Extraction Using Vertex and Logit Embeddings**|Weiqin Jiao et.al.|[2407.14920](http://arxiv.org/abs/2407.14920)|null|
+|**2024-07-20**|**FedPartWhole: Federated domain generalization via consistent part-whole hierarchies**|Ahmed Radwan et.al.|[2407.14792](http://arxiv.org/abs/2407.14792)|null|
+|**2024-07-20**|**Universal Medical Imaging Model for Domain Generalization with Data Privacy**|Ahmed Radwan et.al.|[2407.14719](http://arxiv.org/abs/2407.14719)|null|
 |**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153](http://arxiv.org/abs/2407.14153)|null|
 |**2024-07-19**|**RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering**|Rujun Han et.al.|[2407.13998](http://arxiv.org/abs/2407.13998)|**[link](https://github.com/awslabs/rag-qa-arena)**|
 |**2024-07-19**|**Double Gradient Reversal Network for Single-Source Domain Generalization in Multi-mode Fault Diagnosis**|Guangqiang Li et.al.|[2407.13978](http://arxiv.org/abs/2407.13978)|null|
@@ -395,6 +407,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795](http://arxiv.org/abs/2407.15795)|**[link](https://github.com/caoyunkang/adaclip)**|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
+|**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
+|**2024-07-22**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/abs/2407.15728)|null|
+|**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|null|
+|**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
+|**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350](http://arxiv.org/abs/2407.15350)|null|
+|**2024-07-21**|**Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective**|Mariya Hendriksen et.al.|[2407.15239](http://arxiv.org/abs/2407.15239)|null|
+|**2024-07-21**|**When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?**|Rylan Schaeffer et.al.|[2407.15211](http://arxiv.org/abs/2407.15211)|null|
+|**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|null|
+|**2024-07-20**|**Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models**|Md Zarif Hossain et.al.|[2407.14971](http://arxiv.org/abs/2407.14971)|null|
+|**2024-07-20**|**Falcon2-11B Technical Report**|Quentin Malartic et.al.|[2407.14885](http://arxiv.org/abs/2407.14885)|null|
+|**2024-07-20**|**Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts**|Yanting Yang et.al.|[2407.14872](http://arxiv.org/abs/2407.14872)|null|
+|**2024-07-20**|**Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators**|Harsh Lunia et.al.|[2407.14834](http://arxiv.org/abs/2407.14834)|null|
 |**2024-07-19**|**DEAL: Disentangle and Localize Concept-level Explanations for VLMs**|Tang Li et.al.|[2407.14412](http://arxiv.org/abs/2407.14412)|null|
 |**2024-07-19**|**Multimodal Misinformation Detection using Large Vision-Language Models**|Sahar Tahmasebi et.al.|[2407.14321](http://arxiv.org/abs/2407.14321)|null|
 |**2024-07-19**|**Words2Contact: Identifying Support Contacts from Verbal Instructions Using Foundation Models**|Dionis Totsila et.al.|[2407.14229](http://arxiv.org/abs/2407.14229)|null|
@@ -823,9 +850,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning**|Chunzhen Jin et.al.|[2407.15556](http://arxiv.org/abs/2407.15556)|null|
+|**2024-07-22**|**UF-HOBI at "Discharge Me!": A Hybrid Solution for Discharge Summary Generation Through Prompt-based Tuning of GatorTronGPT Models**|Mengxian Lyu et.al.|[2407.15359](http://arxiv.org/abs/2407.15359)|null|
+|**2024-07-21**|**Navigation Instruction Generation with BEV Perception and Large Language Models**|Sheng Fan et.al.|[2407.15087](http://arxiv.org/abs/2407.15087)|**[link](https://github.com/fanscy/bevinstructor)**|
+|**2024-07-20**|**Decoupled Prompt-Adapter Tuning for Continual Activity Recognition**|Di Fu et.al.|[2407.14811](http://arxiv.org/abs/2407.14811)|null|
+|**2024-07-20**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733](http://arxiv.org/abs/2407.14733)|**[link](https://github.com/youseob/pin)**|
 |**2024-07-18**|**Continual Distillation Learning**|Qifan Zhang et.al.|[2407.13911](http://arxiv.org/abs/2407.13911)|null|
 |**2024-07-18**|**CoAPT: Context Attribute words for Prompt Tuning**|Gun Lee et.al.|[2407.13808](http://arxiv.org/abs/2407.13808)|null|
-|**2024-07-20**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
+|**2024-07-20**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|**[link](https://github.com/wivizhang/earthmarker)**|
 |**2024-07-18**|**Robust Calibration of Large Vision-Language Adapters**|Balamurali Murugesan et.al.|[2407.13588](http://arxiv.org/abs/2407.13588)|**[link](https://github.com/Bala93/CLIPCalib)**|
 |**2024-07-18**|**UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt**|Xin Li et.al.|[2407.13108](http://arxiv.org/abs/2407.13108)|null|
 |**2024-07-18**|**Krait: A Backdoor Attack Against Graph Prompt Tuning**|Ying Song et.al.|[2407.13068](http://arxiv.org/abs/2407.13068)|null|
@@ -973,6 +1006,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Replicable Bandits for Digital Health Interventions**|Kelly W. Zhang et.al.|[2407.15377](http://arxiv.org/abs/2407.15377)|null|
+|**2024-07-21**|**A Spatio-Temporal Approach with Self-Corrective Causal Inference for Flight Delay Prediction**|Qihui Zhu et.al.|[2407.15185](http://arxiv.org/abs/2407.15185)|null|
+|**2024-07-21**|**Multi-Agent Causal Discovery Using Large Language Models**|Hao Duong Le et.al.|[2407.15073](http://arxiv.org/abs/2407.15073)|null|
+|**2024-07-19**|**Generalizing and transporting causal inferences from randomized trials in the presence of trial engagement effects**|Lawson Ung et.al.|[2407.14703](http://arxiv.org/abs/2407.14703)|null|
 |**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
 |**2024-07-19**|**Causal Inference with Complex Treatments: A Survey**|Yingrong Wang et.al.|[2407.14022](http://arxiv.org/abs/2407.14022)|**[link](https://github.com/causal-machine-learning-lab/mlbt)**|
 |**2024-07-18**|**PRAGyan -- Connecting the Dots in Tweets**|Rahul Ravi et.al.|[2407.13909](http://arxiv.org/abs/2407.13909)|null|
@@ -985,7 +1022,7 @@
 |**2024-07-17**|**COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data**|Ting-Yun Ou et.al.|[2407.12254](http://arxiv.org/abs/2407.12254)|null|
 |**2024-07-16**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|null|
 |**2024-07-16**|**Discovery and inference of possibly bi-directional causal relationships with invalid instrumental variables**|Wei Li et.al.|[2407.11646](http://arxiv.org/abs/2407.11646)|null|
-|**2024-07-12**|**Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**|Kim Hammar et.al.|[2407.11070](http://arxiv.org/abs/2407.11070)|null|
+|**2024-07-22**|**Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**|Kim Hammar et.al.|[2407.11070](http://arxiv.org/abs/2407.11070)|null|
 |**2024-07-10**|**Industrial-Grade Time-Dependent Counterfactual Root Cause Analysis through the Unanticipated Point of Incipient Failure: a Proof of Concept**|Alexandre Trilla et.al.|[2407.11056](http://arxiv.org/abs/2407.11056)|null|
 |**2024-07-14**|**Semiparametric Efficient Inference for the Probability of Necessary and Sufficient Causation**|Zhaoqing Tian et.al.|[2407.10185](http://arxiv.org/abs/2407.10185)|null|
 |**2024-07-14**|**Optimal Kernel Choice for Score Function-based Causal Discovery**|Wenjie Wang et.al.|[2407.10132](http://arxiv.org/abs/2407.10132)|null|
@@ -1236,6 +1273,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|null|
+|**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
+|**2024-07-19**|**Data Poisoning: An Overlooked Threat to Power Grid Resilience**|Nora Agah et.al.|[2407.14684](http://arxiv.org/abs/2407.14684)|null|
 |**2024-07-19**|**Double Gradient Reversal Network for Single-Source Domain Generalization in Multi-mode Fault Diagnosis**|Guangqiang Li et.al.|[2407.13978](http://arxiv.org/abs/2407.13978)|null|
 |**2024-07-18**|**Beyond Dropout: Robust Convolutional Neural Networks Based on Local Feature Masking**|Yunpeng Gong et.al.|[2407.13646](http://arxiv.org/abs/2407.13646)|null|
 |**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
@@ -1440,6 +1480,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Offline Imitation Learning Through Graph Search and Retrieval**|Zhao-Heng Yin et.al.|[2407.15403](http://arxiv.org/abs/2407.15403)|null|
+|**2024-07-21**|**Navigation Instruction Generation with BEV Perception and Large Language Models**|Sheng Fan et.al.|[2407.15087](http://arxiv.org/abs/2407.15087)|**[link](https://github.com/fanscy/bevinstructor)**|
+|**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|null|
+|**2024-07-20**|**DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**|Xinyu Xu et.al.|[2407.14758](http://arxiv.org/abs/2407.14758)|null|
 |**2024-07-19**|**Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments**|Yunfan Gao et.al.|[2407.14220](http://arxiv.org/abs/2407.14220)|null|
 |**2024-07-18**|**The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations**|Jan Ole von Hartz et.al.|[2407.13432](http://arxiv.org/abs/2407.13432)|null|
 |**2024-07-18**|**Exploring Robot Trajectory Planning -- A Comparative Analysis of Algorithms And Software Implementations in Dynamic Environments**|Arunabh Bora et.al.|[2407.13330](http://arxiv.org/abs/2407.13330)|null|
