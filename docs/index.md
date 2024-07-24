@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**ToDER: Towards Colonoscopy Depth Estimation and Reconstruction with Geometry Constraint Adaptation**|Zhenhua Wu et.al.|[2407.16508](http://arxiv.org/abs/2407.16508)|null|
+|**2024-07-23**|**Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection**|Trinh Le Ba Khanh et.al.|[2407.16497](http://arxiv.org/abs/2407.16497)|**[link](https://github.com/lbktrinh/DRU)**|
+|**2024-07-23**|**EIANet: A Novel Domain Adaptation Approach to Maximize Class Distinction with Neural Collapse Principles**|Zicheng Pan et.al.|[2407.16189](http://arxiv.org/abs/2407.16189)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-23**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
 |**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
@@ -394,6 +397,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
+|**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
+|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
+|**2024-07-22**|**Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning**|Jingchen Sun et.al.|[2407.15894](http://arxiv.org/abs/2407.15894)|null|
 |**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795](http://arxiv.org/abs/2407.15795)|**[link](https://github.com/caoyunkang/adaclip)**|
 |**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
 |**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
@@ -835,6 +842,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
+|**2024-07-22**|**Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning**|Jingchen Sun et.al.|[2407.15894](http://arxiv.org/abs/2407.15894)|null|
 |**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
 |**2024-07-22**|**SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning**|Chunzhen Jin et.al.|[2407.15556](http://arxiv.org/abs/2407.15556)|null|
 |**2024-07-22**|**UF-HOBI at "Discharge Me!": A Hybrid Solution for Discharge Summary Generation Through Prompt-based Tuning of GatorTronGPT Models**|Mengxian Lyu et.al.|[2407.15359](http://arxiv.org/abs/2407.15359)|null|
@@ -989,6 +998,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Efficient Discovery of Actual Causality using Abstraction-Refinement**|Arshia Rafieioskouei et.al.|[2407.16629](http://arxiv.org/abs/2407.16629)|null|
+|**2024-07-23**|**Anwendung von Causal-Discovery-Algorithmen zur Root-Cause-Analyse in der Fahrzeugmontage**|Lucas Possner et.al.|[2407.16388](http://arxiv.org/abs/2407.16388)|null|
 |**2024-07-22**|**Replicable Bandits for Digital Health Interventions**|Kelly W. Zhang et.al.|[2407.15377](http://arxiv.org/abs/2407.15377)|null|
 |**2024-07-21**|**A Spatio-Temporal Approach with Self-Corrective Causal Inference for Flight Delay Prediction**|Qihui Zhu et.al.|[2407.15185](http://arxiv.org/abs/2407.15185)|null|
 |**2024-07-21**|**Multi-Agent Causal Discovery Using Large Language Models**|Hao Duong Le et.al.|[2407.15073](http://arxiv.org/abs/2407.15073)|null|
@@ -1254,6 +1265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Revisiting the Robust Alignment of Circuit Breakers**|Leo Schwinn et.al.|[2407.15902](http://arxiv.org/abs/2407.15902)|null|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|null|
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
 |**2024-07-19**|**Data Poisoning: An Overlooked Threat to Power Grid Resilience**|Nora Agah et.al.|[2407.14684](http://arxiv.org/abs/2407.14684)|null|
@@ -1459,12 +1471,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
+|**2024-07-23**|**Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence Modeling Approach for Lifelong Learning**|Yujian Dong et.al.|[2407.16306](http://arxiv.org/abs/2407.16306)|null|
 |**2024-07-22**|**Offline Imitation Learning Through Graph Search and Retrieval**|Zhao-Heng Yin et.al.|[2407.15403](http://arxiv.org/abs/2407.15403)|null|
 |**2024-07-21**|**Navigation Instruction Generation with BEV Perception and Large Language Models**|Sheng Fan et.al.|[2407.15087](http://arxiv.org/abs/2407.15087)|**[link](https://github.com/fanscy/bevinstructor)**|
 |**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|null|
 |**2024-07-20**|**DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**|Xinyu Xu et.al.|[2407.14758](http://arxiv.org/abs/2407.14758)|null|
 |**2024-07-19**|**Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments**|Yunfan Gao et.al.|[2407.14220](http://arxiv.org/abs/2407.14220)|null|
-|**2024-07-18**|**The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations**|Jan Ole von Hartz et.al.|[2407.13432](http://arxiv.org/abs/2407.13432)|null|
+|**2024-07-18**|**The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations**|Jan Ole von Hartz et.al.|[2407.13432](http://arxiv.org/abs/2407.13432)|**[link](https://github.com/robot-learning-freiburg/TAPAS)**|
 |**2024-07-18**|**Exploring Robot Trajectory Planning -- A Comparative Analysis of Algorithms And Software Implementations in Dynamic Environments**|Arunabh Bora et.al.|[2407.13330](http://arxiv.org/abs/2407.13330)|null|
 |**2024-07-17**|**Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**|Minjae Cho et.al.|[2407.13006](http://arxiv.org/abs/2407.13006)|null|
 |**2024-07-17**|**Robotic Arm Manipulation with Inverse Reinforcement Learning & TD-MPC**|Md Shoyib Hassan et.al.|[2407.12941](http://arxiv.org/abs/2407.12941)|null|
