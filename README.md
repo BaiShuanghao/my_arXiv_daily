@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence**|Mengyao Lyu et.al.|[2407.18899](http://arxiv.org/abs/2407.18899)|null|
+|**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
 |**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
 |**2024-07-25**|**Speed-enhanced Subdomain Adaptation Regression for Long-term Stable Neural Decoding in Brain-computer Interfaces**|Jiyu Wei et.al.|[2407.17758](http://arxiv.org/abs/2407.17758)|null|
 |**2024-07-24**|**AHMF: Adaptive Hybrid-Memory-Fusion Model for Driver Attention Prediction**|Dongyang Xu et.al.|[2407.17442](http://arxiv.org/abs/2407.17442)|null|
@@ -278,6 +280,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation**|Jingjun Yi et.al.|[2407.18568](http://arxiv.org/abs/2407.18568)|null|
+|**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
+|**2024-07-25**|**Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift**|Gina Wong et.al.|[2407.18428](http://arxiv.org/abs/2407.18428)|**[link](https://github.com/ginawong/weighted_risk_invariance)**|
 |**2024-07-25**|**Domain Generalized Recaptured Screen Image Identification Using SWIN Transformer**|Preeti Mehta et.al.|[2407.17170](http://arxiv.org/abs/2407.17170)|null|
 |**2024-07-21**|**TADA: Temporal Adversarial Data Augmentation for Time Series Data**|Byeong Tak Lee et.al.|[2407.15174](http://arxiv.org/abs/2407.15174)|null|
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
@@ -418,6 +423,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
+|**2024-07-25**|**UOUO: Uncontextualized Uncommon Objects for Measuring Knowledge Horizons of Vision Language Models**|Xinyu Pi et.al.|[2407.18391](http://arxiv.org/abs/2407.18391)|null|
 |**2024-07-25**|**$\mathbb{X}$ -Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs**|Vlad Sobal et.al.|[2407.18134](http://arxiv.org/abs/2407.18134)|null|
 |**2024-07-25**|**Efficient Inference of Vision Instruction-Following Models with Elastic Cache**|Zuyan Liu et.al.|[2407.18121](http://arxiv.org/abs/2407.18121)|**[link](https://github.com/liuzuyan/elasticcache)**|
 |**2024-07-25**|**Cost-effective Instruction Learning for Pathology Vision and Language Analysis**|Kaitao Chen et.al.|[2407.17734](http://arxiv.org/abs/2407.17734)|**[link](https://github.com/jlinekai/clover)**|
@@ -871,6 +878,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|null|
 |**2024-07-23**|**Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions**|Kai Liu et.al.|[2407.16725](http://arxiv.org/abs/2407.16725)|null|
 |**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
 |**2024-07-24**|**Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning**|Jingchen Sun et.al.|[2407.15894](http://arxiv.org/abs/2407.15894)|null|
@@ -1030,6 +1038,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Score matching through the roof: linear, nonlinear, and latent variables causal discovery**|Francesco Montagna et.al.|[2407.18755](http://arxiv.org/abs/2407.18755)|null|
+|**2024-07-26**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
+|**2024-07-26**|**Integration of Structural Equation Modeling and Bayesian Networks in the Context of Causal Inference: A Case Study on Personal Positive Youth Development**|Edgar Benitez et.al.|[2407.18612](http://arxiv.org/abs/2407.18612)|null|
+|**2024-07-26**|**Using GPT-4 to guide causal machine learning**|Anthony C. Constantinou et.al.|[2407.18607](http://arxiv.org/abs/2407.18607)|null|
 |**2024-07-25**|**C2P: Featuring Large Language Models with Causal Reasoning**|Abdolmahdi Bagheri et.al.|[2407.18069](http://arxiv.org/abs/2407.18069)|null|
 |**2024-07-24**|**Causal estimands and identification of time-varying effects in non-stationary time series from N-of-1 mobile device data**|Xiaoxuan Cai et.al.|[2407.17666](http://arxiv.org/abs/2407.17666)|null|
 |**2024-07-24**|**Causal modelling without counterfactuals and individualised effects**|Benedikt Höltgen et.al.|[2407.17385](http://arxiv.org/abs/2407.17385)|null|
@@ -1306,6 +1318,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
+|**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
 |**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
 |**2024-07-22**|**Revisiting the Robust Alignment of Circuit Breakers**|Leo Schwinn et.al.|[2407.15902](http://arxiv.org/abs/2407.15902)|**[link](https://github.com/schwinnl/circuit-breakers-eval)**|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
@@ -1515,6 +1529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications**|Ettore Sani et.al.|[2407.18535](http://arxiv.org/abs/2407.18535)|null|
 |**2024-07-25**|**Goal Estimation-based Adaptive Shared Control for Brain-Machine Interfaces Remote Robot Navigation**|Tomoka Muraoka et.al.|[2407.17936](http://arxiv.org/abs/2407.17936)|null|
 |**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
 |**2024-07-23**|**Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence Modeling Approach for Lifelong Learning**|Yujian Dong et.al.|[2407.16306](http://arxiv.org/abs/2407.16306)|**[link](https://github.com/ancorasir/decisionrwkv)**|
