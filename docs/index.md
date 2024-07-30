@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
+|**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853](http://arxiv.org/abs/2407.19853)|null|
+|**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo et.al.|[2407.19584](http://arxiv.org/abs/2407.19584)|null|
+|**2024-07-28**|**Improving Domain Adaptation Through Class Aware Frequency Transformation**|Vikash Kumar et.al.|[2407.19551](http://arxiv.org/abs/2407.19551)|null|
+|**2024-07-28**|**Progressive Domain Adaptation for Thermal Infrared Object Tracking**|Qiao Li et.al.|[2407.19430](http://arxiv.org/abs/2407.19430)|null|
+|**2024-07-28**|**Domain Adaptive Lung Nodule Detection in X-ray Image**|Haifeng Zhao et.al.|[2407.19397](http://arxiv.org/abs/2407.19397)|null|
+|**2024-07-28**|**Seamless Website Fingerprinting in Multiple Environments**|Chuxu Song et.al.|[2407.19365](http://arxiv.org/abs/2407.19365)|null|
+|**2024-07-27**|**Can Modifying Data Address Graph Domain Adaptation?**|Renhong Huang et.al.|[2407.19311](http://arxiv.org/abs/2407.19311)|null|
 |**2024-07-26**|**Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence**|Mengyao Lyu et.al.|[2407.18899](http://arxiv.org/abs/2407.18899)|null|
 |**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
 |**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
@@ -269,6 +277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
+|**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
 |**2024-07-29**|**Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation**|Jingjun Yi et.al.|[2407.18568](http://arxiv.org/abs/2407.18568)|null|
 |**2024-07-26**|**Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers**|Longkun Zou et.al.|[2407.18534](http://arxiv.org/abs/2407.18534)|**[link](https://github.com/zou-longkun/rpd)**|
 |**2024-07-25**|**Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift**|Gina Wong et.al.|[2407.18428](http://arxiv.org/abs/2407.18428)|**[link](https://github.com/ginawong/weighted_risk_invariance)**|
@@ -410,6 +420,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
+|**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849](http://arxiv.org/abs/2407.19849)|null|
+|**2024-07-29**|**Harnessing Large Vision and Language Models in Agriculture: A Review**|Hongyan Zhu et.al.|[2407.19679](http://arxiv.org/abs/2407.19679)|null|
+|**2024-07-27**|**GP-VLS: A general-purpose vision language model for surgery**|Samuel Schmidgall et.al.|[2407.19305](http://arxiv.org/abs/2407.19305)|null|
+|**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|null|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
 |**2024-07-25**|**UOUO: Uncontextualized Uncommon Objects for Measuring Knowledge Horizons of Vision Language Models**|Xinyu Pi et.al.|[2407.18391](http://arxiv.org/abs/2407.18391)|null|
 |**2024-07-25**|**$\mathbb{X}$ -Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs**|Vlad Sobal et.al.|[2407.18134](http://arxiv.org/abs/2407.18134)|null|
@@ -863,6 +878,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674](http://arxiv.org/abs/2407.19674)|null|
+|**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-26**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|null|
 |**2024-07-23**|**Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions**|Kai Liu et.al.|[2407.16725](http://arxiv.org/abs/2407.16725)|null|
 |**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
@@ -1021,6 +1038,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?**|Tao Feng et.al.|[2407.19638](http://arxiv.org/abs/2407.19638)|null|
+|**2024-07-28**|**Causal Discovery in Linear Models with Unobserved Variables and Measurement Error**|Yuqin Yang et.al.|[2407.19426](http://arxiv.org/abs/2407.19426)|null|
+|**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118](http://arxiv.org/abs/2407.19118)|null|
+|**2024-07-26**|**Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning**|Bobby Chen et.al.|[2407.19078](http://arxiv.org/abs/2407.19078)|null|
 |**2024-07-26**|**Score matching through the roof: linear, nonlinear, and latent variables causal discovery**|Francesco Montagna et.al.|[2407.18755](http://arxiv.org/abs/2407.18755)|null|
 |**2024-07-29**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
 |**2024-07-26**|**Integration of Structural Equation Modeling and Bayesian Networks in the Context of Causal Inference: A Case Study on Personal Positive Youth Development**|Edgar Benitez et.al.|[2407.18612](http://arxiv.org/abs/2407.18612)|null|
@@ -1299,6 +1320,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
+|**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
+|**2024-07-28**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
+|**2024-07-28**|**Exploring the Adversarial Robustness of CLIP for AI-generated Image Detection**|Vincenzo De Rosa et.al.|[2407.19553](http://arxiv.org/abs/2407.19553)|null|
+|**2024-07-28**|**Robust Fast Adaptation from Adversarially Explicit Task Distribution Generation**|Cheems Wang et.al.|[2407.19523](http://arxiv.org/abs/2407.19523)|null|
+|**2024-07-26**|**VIMs: Virtual Immunohistochemistry Multiplex staining via Text-to-Stain Diffusion Trained on Uniplex Stains**|Shikha Dubey et.al.|[2407.19113](http://arxiv.org/abs/2407.19113)|null|
 |**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
 |**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
 |**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
@@ -1508,6 +1535,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Language-Conditioned Offline RL for Multi-Robot Navigation**|Steven Morad et.al.|[2407.20164](http://arxiv.org/abs/2407.20164)|null|
+|**2024-07-29**|**Neural Control Barrier Functions for Safe Navigation**|Marvin Harms et.al.|[2407.19907](http://arxiv.org/abs/2407.19907)|null|
 |**2024-07-26**|**Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications**|Ettore Sani et.al.|[2407.18535](http://arxiv.org/abs/2407.18535)|null|
 |**2024-07-25**|**Goal Estimation-based Adaptive Shared Control for Brain-Machine Interfaces Remote Robot Navigation**|Tomoka Muraoka et.al.|[2407.17936](http://arxiv.org/abs/2407.17936)|null|
 |**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
