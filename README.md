@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818](http://arxiv.org/abs/2407.20818)|null|
+|**2024-07-29**|**Domain Adaptable Prescriptive AI Agent for Enterprise**|Piero Orderique et.al.|[2407.20447](http://arxiv.org/abs/2407.20447)|null|
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
 |**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853](http://arxiv.org/abs/2407.19853)|null|
 |**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo et.al.|[2407.19584](http://arxiv.org/abs/2407.19584)|null|
@@ -433,9 +435,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001](http://arxiv.org/abs/2407.21001)|null|
+|**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
+|**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
+|**2024-07-30**|**OmniBal: Towards Fast Instruct-tuning for Vision-Language Models via Omniverse Computation Balance**|Yongqiang Yao et.al.|[2407.20761](http://arxiv.org/abs/2407.20761)|**[link](https://github.com/modeltc/omnibal)**|
+|**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/abs/2407.20756)|**[link](https://github.com/starriver030515/synthvlm)**|
+|**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/abs/2407.20635)|null|
 |**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
 |**2024-07-29**|**Normality Addition via Normality Detection in Industrial Image Anomaly Detection Models**|Jihun Yi et.al.|[2407.19849](http://arxiv.org/abs/2407.19849)|null|
 |**2024-07-29**|**Harnessing Large Vision and Language Models in Agriculture: A Review**|Hongyan Zhu et.al.|[2407.19679](http://arxiv.org/abs/2407.19679)|null|
+|**2024-07-30**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674](http://arxiv.org/abs/2407.19674)|null|
 |**2024-07-27**|**GP-VLS: A general-purpose vision language model for surgery**|Samuel Schmidgall et.al.|[2407.19305](http://arxiv.org/abs/2407.19305)|null|
 |**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|null|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
@@ -893,6 +903,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**PIP: Prototypes-Injected Prompt for Federated Class Incremental Learning**|Muhammad Anwar Ma'sum et.al.|[2407.20705](http://arxiv.org/abs/2407.20705)|**[link](https://github.com/anwarmaxsum/pip)**|
+|**2024-07-30**|**Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks**|Hunmin Yang et.al.|[2407.20657](http://arxiv.org/abs/2407.20657)|null|
+|**2024-07-30**|**Image Re-Identification: Where Self-supervision Meets Vision-Language Learning**|Bin Wang et.al.|[2407.20647](http://arxiv.org/abs/2407.20647)|**[link](https://github.com/binwanggzhu/svll-reid)**|
 |**2024-07-30**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674](http://arxiv.org/abs/2407.19674)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-26**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|null|
@@ -1055,6 +1068,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept**|Alexandre Trilla et.al.|[2407.20700](http://arxiv.org/abs/2407.20700)|null|
+|**2024-07-30**|**Detecting Causality in the Frequency Domain with Cross-Mapping Coherence**|Zsigmond Benkő et.al.|[2407.20694](http://arxiv.org/abs/2407.20694)|null|
+|**2024-07-29**|**Domain Adaptable Prescriptive AI Agent for Enterprise**|Piero Orderique et.al.|[2407.20447](http://arxiv.org/abs/2407.20447)|null|
 |**2024-07-29**|**From Pre-training Corpora to Large Language Models: What Factors Influence LLM Performance in Causal Discovery Tasks?**|Tao Feng et.al.|[2407.19638](http://arxiv.org/abs/2407.19638)|null|
 |**2024-07-28**|**Causal Discovery in Linear Models with Unobserved Variables and Measurement Error**|Yuqin Yang et.al.|[2407.19426](http://arxiv.org/abs/2407.19426)|null|
 |**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118](http://arxiv.org/abs/2407.19118)|null|
@@ -1339,6 +1355,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
+|**2024-07-30**|**Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**|Yujie Yang et.al.|[2407.20532](http://arxiv.org/abs/2407.20532)|null|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
 |**2024-07-30**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
@@ -1556,6 +1574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
 |**2024-07-29**|**Language-Conditioned Offline RL for Multi-Robot Navigation**|Steven Morad et.al.|[2407.20164](http://arxiv.org/abs/2407.20164)|null|
 |**2024-07-29**|**Neural Control Barrier Functions for Safe Navigation**|Marvin Harms et.al.|[2407.19907](http://arxiv.org/abs/2407.19907)|null|
 |**2024-07-26**|**Improving the ROS 2 Navigation Stack with Real-Time Local Costmap Updates for Agricultural Applications**|Ettore Sani et.al.|[2407.18535](http://arxiv.org/abs/2407.18535)|null|
