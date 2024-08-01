@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -1337,7 +1337,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
-|**2024-07-30**|**Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**|Yujie Yang et.al.|[2407.20532](http://arxiv.org/abs/2407.20532)|null|
+|**2024-07-31**|**Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**|Yujie Yang et.al.|[2407.20532](http://arxiv.org/abs/2407.20532)|null|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
 |**2024-07-30**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
