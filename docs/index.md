@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Gradient Harmonization in Unsupervised Domain Adaptation**|Fuxiang Huang et.al.|[2408.00288](http://arxiv.org/abs/2408.00288)|null|
 |**2024-08-01**|**Wireless Communications in Doubly Selective Channels with Domain Adaptivity**|J. Andrew Zhang et.al.|[2407.21514](http://arxiv.org/abs/2407.21514)|null|
 |**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|null|
 |**2024-07-26**|**Using Large Language Models for the Interpretation of Building Regulations**|Stefan Fuchs et.al.|[2407.21060](http://arxiv.org/abs/2407.21060)|null|
@@ -282,6 +283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
 |**2024-07-31**|**Model Attribution in Machine-Generated Disinformation: A Domain Generalization Approach with Supervised Contrastive Learning**|Alimohammad Beigi et.al.|[2407.21264](http://arxiv.org/abs/2407.21264)|null|
 |**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
 |**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
@@ -426,6 +428,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
+|**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672](http://arxiv.org/abs/2408.00672)|null|
+|**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620](http://arxiv.org/abs/2408.00620)|null|
+|**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555](http://arxiv.org/abs/2408.00555)|null|
+|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550](http://arxiv.org/abs/2408.00550)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation**|Rakshith Subramanyam et.al.|[2408.00331](http://arxiv.org/abs/2408.00331)|null|
+|**2024-08-01**|**OmniParser for Pure Vision Based GUI Agent**|Yadong Lu et.al.|[2408.00203](http://arxiv.org/abs/2408.00203)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
@@ -1069,6 +1079,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
+|**2024-08-01**|**Unsupervised Pairwise Causal Discovery on Heterogeneous Data using Mutual Information Measures**|Alexandre Trilla et.al.|[2408.00399](http://arxiv.org/abs/2408.00399)|null|
+|**2024-08-01**|**Bayesian Synthetic Control Methods with Spillover Effects: Estimating the Economic Cost of the 2011 Sudan Split**|Shosei Sakaguchi et.al.|[2408.00291](http://arxiv.org/abs/2408.00291)|null|
+|**2024-07-31**|**Methodological Foundations of Modern Causal Inference in Social Science Research**|Guanghui Pan et.al.|[2408.00032](http://arxiv.org/abs/2408.00032)|null|
 |**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 |**2024-07-30**|**Potential weights and implicit causal designs in linear regression**|Jiafeng Chen et.al.|[2407.21119](http://arxiv.org/abs/2407.21119)|null|
 |**2024-07-30**|**Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept**|Alexandre Trilla et.al.|[2407.20700](http://arxiv.org/abs/2407.20700)|null|
@@ -1356,6 +1370,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**OTAD: An Optimal Transport-Induced Robust Model for Agnostic Adversarial Attack**|Kuo Gai et.al.|[2408.00329](http://arxiv.org/abs/2408.00329)|null|
+|**2024-07-31**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**Big Cooperative Learning**|Yulai Cong et.al.|[2407.21319](http://arxiv.org/abs/2407.21319)|null|
 |**2024-07-30**|**AI Safety in Practice: Enhancing Adversarial Robustness in Multimodal Image Captioning**|Maisha Binte Rashid et.al.|[2407.21174](http://arxiv.org/abs/2407.21174)|null|
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
