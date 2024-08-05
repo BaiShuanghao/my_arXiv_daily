@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -20,7 +20,7 @@ layout: default
 |**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo et.al.|[2407.19584](http://arxiv.org/abs/2407.19584)|null|
 |**2024-07-28**|**Improving Domain Adaptation Through Class Aware Frequency Transformation**|Vikash Kumar et.al.|[2407.19551](http://arxiv.org/abs/2407.19551)|null|
 |**2024-07-28**|**Progressive Domain Adaptation for Thermal Infrared Object Tracking**|Qiao Li et.al.|[2407.19430](http://arxiv.org/abs/2407.19430)|null|
-|**2024-07-28**|**Domain Adaptive Lung Nodule Detection in X-ray Image**|Haifeng Zhao et.al.|[2407.19397](http://arxiv.org/abs/2407.19397)|null|
+|**2024-08-02**|**Domain Adaptive Lung Nodule Detection in X-ray Image**|Haifeng Zhao et.al.|[2407.19397](http://arxiv.org/abs/2407.19397)|null|
 |**2024-07-28**|**Seamless Website Fingerprinting in Multiple Environments**|Chuxu Song et.al.|[2407.19365](http://arxiv.org/abs/2407.19365)|null|
 |**2024-07-27**|**Can Modifying Data Address Graph Domain Adaptation?**|Renhong Huang et.al.|[2407.19311](http://arxiv.org/abs/2407.19311)|null|
 |**2024-07-26**|**Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence**|Mengyao Lyu et.al.|[2407.18899](http://arxiv.org/abs/2407.18899)|null|
@@ -1371,7 +1371,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-01**|**OTAD: An Optimal Transport-Induced Robust Model for Agnostic Adversarial Attack**|Kuo Gai et.al.|[2408.00329](http://arxiv.org/abs/2408.00329)|null|
-|**2024-07-31**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
+|**2024-08-02**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**Big Cooperative Learning**|Yulai Cong et.al.|[2407.21319](http://arxiv.org/abs/2407.21319)|null|
 |**2024-07-30**|**AI Safety in Practice: Enhancing Adversarial Robustness in Multimodal Image Captioning**|Maisha Binte Rashid et.al.|[2407.21174](http://arxiv.org/abs/2407.21174)|null|
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
@@ -1385,7 +1385,7 @@ layout: default
 |**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
 |**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
 |**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
-|**2024-07-22**|**Revisiting the Robust Alignment of Circuit Breakers**|Leo Schwinn et.al.|[2407.15902](http://arxiv.org/abs/2407.15902)|**[link](https://github.com/schwinnl/circuit-breakers-eval)**|
+|**2024-08-02**|**Revisiting the Robust Alignment of Circuit Breakers**|Leo Schwinn et.al.|[2407.15902](http://arxiv.org/abs/2407.15902)|**[link](https://github.com/schwinnl/circuit-breakers-eval)**|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
 |**2024-07-19**|**Data Poisoning: An Overlooked Threat to Power Grid Resilience**|Nora Agah et.al.|[2407.14684](http://arxiv.org/abs/2407.14684)|null|
