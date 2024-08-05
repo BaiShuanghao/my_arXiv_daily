@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Domain Adaptation-Enhanced Searchlight: Enabling brain decoding from visual perception to mental imagery**|Alexander Olza et.al.|[2408.01163](http://arxiv.org/abs/2408.01163)|null|
+|**2024-08-02**|**Prototypical Partial Optimal Transport for Universal Domain Adaptation**|Yucheng Yang et.al.|[2408.01089](http://arxiv.org/abs/2408.01089)|null|
 |**2024-08-01**|**Gradient Harmonization in Unsupervised Domain Adaptation**|Fuxiang Huang et.al.|[2408.00288](http://arxiv.org/abs/2408.00288)|null|
 |**2024-08-01**|**Wireless Communications in Doubly Selective Channels with Domain Adaptivity**|J. Andrew Zhang et.al.|[2407.21514](http://arxiv.org/abs/2407.21514)|null|
 |**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|null|
@@ -441,6 +443,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation**|Jheng-Hong Yang et.al.|[2408.01363](http://arxiv.org/abs/2408.01363)|null|
+|**2024-08-02**|**The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models**|Simone Caldarella et.al.|[2408.01228](http://arxiv.org/abs/2408.01228)|null|
+|**2024-08-01**|**Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)**|Bin Han et.al.|[2408.00932](http://arxiv.org/abs/2408.00932)|null|
 |**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744](http://arxiv.org/abs/2408.00744)|null|
 |**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672](http://arxiv.org/abs/2408.00672)|null|
 |**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620](http://arxiv.org/abs/2408.00620)|null|
@@ -927,6 +932,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer**|Robert Belanec et.al.|[2408.01119](http://arxiv.org/abs/2408.01119)|null|
+|**2024-08-02**|**Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration**|Donwon Park et.al.|[2408.01099](http://arxiv.org/abs/2408.01099)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
 |**2024-07-31**|**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models**|Mingrui Wu et.al.|[2407.21534](http://arxiv.org/abs/2407.21534)|null|
 |**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328](http://arxiv.org/abs/2407.21328)|null|
@@ -1612,6 +1619,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**|Ruoxuan Feng et.al.|[2408.01366](http://arxiv.org/abs/2408.01366)|null|
+|**2024-08-02**|**Occasionally Observed Piecewise-deterministic Markov Processes**|Marissa Gee et.al.|[2408.01335](http://arxiv.org/abs/2408.01335)|null|
+|**2024-08-02**|**Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation**|Jan Brüdigam et.al.|[2408.01258](http://arxiv.org/abs/2408.01258)|null|
 |**2024-07-31**|**Social Learning through Interactions with Other Agents: A Survey**|Dylan hillier et.al.|[2407.21713](http://arxiv.org/abs/2407.21713)|null|
 |**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|**[link](https://github.com/enyen/NewStableTactileGrasp)**|
 |**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
