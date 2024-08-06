@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
+|**2024-08-05**|**SNFinLLM: Systematic and Nuanced Financial Domain Adaptation of Chinese Large Language Models**|Shujuan Zhao et.al.|[2408.02302](http://arxiv.org/abs/2408.02302)|null|
+|**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
+|**2024-08-05**|**Unsupervised Domain Adaption Harnessing Vision-Language Pre-training**|Wenlve Zhou et.al.|[2408.02192](http://arxiv.org/abs/2408.02192)|null|
+|**2024-08-04**|**Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation**|Ye Du et.al.|[2408.02039](http://arxiv.org/abs/2408.02039)|null|
 |**2024-08-02**|**Domain Adaptation-Enhanced Searchlight: Enabling brain decoding from visual perception to mental imagery**|Alexander Olza et.al.|[2408.01163](http://arxiv.org/abs/2408.01163)|null|
 |**2024-08-02**|**Prototypical Partial Optimal Transport for Universal Domain Adaptation**|Yucheng Yang et.al.|[2408.01089](http://arxiv.org/abs/2408.01089)|null|
 |**2024-08-01**|**Gradient Harmonization in Unsupervised Domain Adaptation**|Fuxiang Huang et.al.|[2408.00288](http://arxiv.org/abs/2408.00288)|null|
@@ -430,6 +435,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments**|Daeun Song et.al.|[2408.02454](http://arxiv.org/abs/2408.02454)|null|
+|**2024-08-05**|**Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs**|Jeongkee Lim et.al.|[2408.02261](http://arxiv.org/abs/2408.02261)|null|
+|**2024-08-05**|**Evaluating Vision-Language Models for Zero-Shot Detection, Classification, and Association of Motorcycles, Passengers, and Helmets**|Lucas Choi et.al.|[2408.02244](http://arxiv.org/abs/2408.02244)|null|
+|**2024-08-05**|**REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models**|Agneet Chatterjee et.al.|[2408.02231](http://arxiv.org/abs/2408.02231)|null|
+|**2024-08-04**|**Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models**|Fushuo Huo et.al.|[2408.02032](http://arxiv.org/abs/2408.02032)|null|
+|**2024-08-04**|**AdaCBM: An Adaptive Concept Bottleneck Model for Explainable and Accurate Diagnosis**|Townim F. Chowdhury et.al.|[2408.02001](http://arxiv.org/abs/2408.02001)|null|
+|**2024-08-04**|**Dataset Scale and Societal Consistency Mediate Facial Impression Bias in Vision-Language AI**|Robert Wolfe et.al.|[2408.01959](http://arxiv.org/abs/2408.01959)|null|
+|**2024-08-04**|**Visual Grounding for Object-Level Generalization in Reinforcement Learning**|Haobin Jiang et.al.|[2408.01942](http://arxiv.org/abs/2408.01942)|null|
+|**2024-08-03**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
+|**2024-08-03**|**Multi-Frame Vision-Language Model for Long-form Reasoning in Driver Behavior Analysis**|Hiroshi Takato et.al.|[2408.01682](http://arxiv.org/abs/2408.01682)|null|
 |**2024-08-02**|**Toward Automatic Relevance Judgment using Vision--Language Models for Image--Text Retrieval Evaluation**|Jheng-Hong Yang et.al.|[2408.01363](http://arxiv.org/abs/2408.01363)|null|
 |**2024-08-02**|**The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models**|Simone Caldarella et.al.|[2408.01228](http://arxiv.org/abs/2408.01228)|null|
 |**2024-08-01**|**Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)**|Bin Han et.al.|[2408.00932](http://arxiv.org/abs/2408.00932)|null|
@@ -917,6 +932,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|null|
+|**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426](http://arxiv.org/abs/2408.02426)|null|
+|**2024-08-05**|**A Multi-Source Heterogeneous Knowledge Injected Prompt Learning Method for Legal Charge Prediction**|Jingyun Sun et.al.|[2408.02233](http://arxiv.org/abs/2408.02233)|null|
+|**2024-08-04**|**Recent Advances in Multi-Choice Machine Reading Comprehension: A Survey on Methods and Datasets**|Shima Foolad et.al.|[2408.02114](http://arxiv.org/abs/2408.02114)|null|
+|**2024-08-04**|**AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning**|Xin Wang et.al.|[2408.01978](http://arxiv.org/abs/2408.01978)|null|
 |**2024-08-02**|**Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer**|Robert Belanec et.al.|[2408.01119](http://arxiv.org/abs/2408.01119)|null|
 |**2024-08-02**|**Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration**|Donwon Park et.al.|[2408.01099](http://arxiv.org/abs/2408.01099)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
@@ -1086,6 +1106,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|null|
+|**2024-08-04**|**A Multi-class Ride-hailing Service Subsidy System Utilizing Deep Causal Networks**|Zhe Yu et.al.|[2408.02065](http://arxiv.org/abs/2408.02065)|null|
+|**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|null|
 |**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
 |**2024-08-01**|**Unsupervised Pairwise Causal Discovery on Heterogeneous Data using Mutual Information Measures**|Alexandre Trilla et.al.|[2408.00399](http://arxiv.org/abs/2408.00399)|null|
 |**2024-08-01**|**Bayesian Synthetic Control Methods with Spillover Effects: Estimating the Economic Cost of the 2011 Sudan Split**|Shosei Sakaguchi et.al.|[2408.00291](http://arxiv.org/abs/2408.00291)|null|
@@ -1377,6 +1400,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation**|Ye Du et.al.|[2408.02039](http://arxiv.org/abs/2408.02039)|null|
+|**2024-08-04**|**Label Augmentation for Neural Networks Robustness**|Fatemeh Amerehi et.al.|[2408.01977](http://arxiv.org/abs/2408.01977)|null|
+|**2024-08-04**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
+|**2024-08-03**|**Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers**|Weijie Zheng et.al.|[2408.01705](http://arxiv.org/abs/2408.01705)|null|
+|**2024-08-02**|**Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics**|Alexander Gushchin et.al.|[2408.01541](http://arxiv.org/abs/2408.01541)|null|
 |**2024-08-01**|**OTAD: An Optimal Transport-Induced Robust Model for Agnostic Adversarial Attack**|Kuo Gai et.al.|[2408.00329](http://arxiv.org/abs/2408.00329)|null|
 |**2024-08-02**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**Big Cooperative Learning**|Yulai Cong et.al.|[2407.21319](http://arxiv.org/abs/2407.21319)|null|
@@ -1598,6 +1626,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
+|**2024-08-04**|**EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning**|Yue Chen et.al.|[2408.01953](http://arxiv.org/abs/2408.01953)|null|
+|**2024-08-03**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
+|**2024-08-03**|**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**|Xingpeng Sun et.al.|[2408.01867](http://arxiv.org/abs/2408.01867)|null|
+|**2024-08-02**|**Robot-Enabled Machine Learning-Based Diagnosis of Gastric Cancer Polyps Using Partial Surface Tactile Imaging**|Siddhartha Kapuria et.al.|[2408.01554](http://arxiv.org/abs/2408.01554)|null|
 |**2024-08-02**|**Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**|Ruoxuan Feng et.al.|[2408.01366](http://arxiv.org/abs/2408.01366)|null|
 |**2024-08-02**|**Occasionally Observed Piecewise-deterministic Markov Processes**|Marissa Gee et.al.|[2408.01335](http://arxiv.org/abs/2408.01335)|null|
 |**2024-08-02**|**Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation**|Jan Brüdigam et.al.|[2408.01258](http://arxiv.org/abs/2408.01258)|null|
