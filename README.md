@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
@@ -303,6 +304,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
+|**2024-08-07**|**InPer: Whole-Process Domain Generalization via Causal Intervention and Perturbation**|Luyao Tang et.al.|[2408.03608](http://arxiv.org/abs/2408.03608)|null|
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
 |**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|**[link](https://github.com/sfu-mial/lesionelevation)**|
@@ -453,6 +456,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
+|**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
+|**2024-08-07**|**Teach CLIP to Develop a Number Sense for Ordinal Regression**|Yao Du et.al.|[2408.03574](http://arxiv.org/abs/2408.03574)|null|
+|**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554](http://arxiv.org/abs/2408.03554)|null|
+|**2024-08-06**|**GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**|Pengcheng Chen et.al.|[2408.03361](http://arxiv.org/abs/2408.03361)|null|
 |**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|
 |**2024-08-05**|**Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services**|Shaopeng Fu et.al.|[2408.02814](http://arxiv.org/abs/2408.02814)|null|
 |**2024-08-05**|**MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**|Fanqing Meng et.al.|[2408.02718](http://arxiv.org/abs/2408.02718)|null|
@@ -972,7 +981,7 @@
 |**2024-07-30**|**Image Re-Identification: Where Self-supervision Meets Vision-Language Learning**|Bin Wang et.al.|[2407.20647](http://arxiv.org/abs/2407.20647)|**[link](https://github.com/binwanggzhu/svll-reid)**|
 |**2024-08-07**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674](http://arxiv.org/abs/2407.19674)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
-|**2024-08-07**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|null|
+|**2024-08-07**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|**[link](https://github.com/yu-gi-oh-leilei/trm-ml)**|
 |**2024-07-23**|**Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions**|Kai Liu et.al.|[2407.16725](http://arxiv.org/abs/2407.16725)|null|
 |**2024-07-22**|**Test-Time Low Rank Adaptation via Confidence Maximization for Zero-Shot Generalization of Vision-Language Models**|Raza Imam et.al.|[2407.15913](http://arxiv.org/abs/2407.15913)|null|
 |**2024-07-24**|**Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning**|Jingchen Sun et.al.|[2407.15894](http://arxiv.org/abs/2407.15894)|null|
@@ -1429,6 +1438,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-06**|**Simple Perturbations Subvert Ethereum Phishing Transactions Detection: An Empirical Analysis**|Ahod Alghureid et.al.|[2408.03441](http://arxiv.org/abs/2408.03441)|null|
 |**2024-08-06**|**Adversarial Robustness of Open-source Text Classification Models and Fine-Tuning Chains**|Hao Qin et.al.|[2408.02963](http://arxiv.org/abs/2408.02963)|null|
 |**2024-08-05**|**RCDM: Enabling Robustness for Conditional Diffusion Model**|Weifeng Xu et.al.|[2408.02710](http://arxiv.org/abs/2408.02710)|null|
 |**2024-08-04**|**Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation**|Ye Du et.al.|[2408.02039](http://arxiv.org/abs/2408.02039)|null|
@@ -1659,6 +1671,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Navigating the Human Maze: Real-Time Robot Pathfinding with Generative Imitation Learning**|Martin Moder et.al.|[2408.03807](http://arxiv.org/abs/2408.03807)|null|
+|**2024-08-07**|**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**|Wenxiao Zhang et.al.|[2408.03515](http://arxiv.org/abs/2408.03515)|null|
 |**2024-08-06**|**Adaptive-Sliding Mode Trajectory Control of Robot Manipulators with Uncertainties**|Mustafa M. Mustafa et.al.|[2408.03102](http://arxiv.org/abs/2408.03102)|null|
 |**2024-08-06**|**Dedicated Nonlinear Control of Robot Manipulators in the Presence of External Vibration and Uncertain Payload**|Mustafa M. Mustafa et.al.|[2408.03098](http://arxiv.org/abs/2408.03098)|null|
 |**2024-08-06**|**KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance**|Jingxian Lu et.al.|[2408.02912](http://arxiv.org/abs/2408.02912)|null|
