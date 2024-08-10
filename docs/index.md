@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.09
+## Updated on 2024.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -21,7 +21,7 @@ layout: default
 |**2024-08-02**|**Prototypical Partial Optimal Transport for Universal Domain Adaptation**|Yucheng Yang et.al.|[2408.01089](http://arxiv.org/abs/2408.01089)|null|
 |**2024-08-01**|**Gradient Harmonization in Unsupervised Domain Adaptation**|Fuxiang Huang et.al.|[2408.00288](http://arxiv.org/abs/2408.00288)|null|
 |**2024-08-01**|**Wireless Communications in Doubly Selective Channels with Domain Adaptivity**|J. Andrew Zhang et.al.|[2407.21514](http://arxiv.org/abs/2407.21514)|null|
-|**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|null|
+|**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|**[link](https://github.com/a-abedi/euda)**|
 |**2024-07-26**|**Using Large Language Models for the Interpretation of Building Regulations**|Stefan Fuchs et.al.|[2407.21060](http://arxiv.org/abs/2407.21060)|null|
 |**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818](http://arxiv.org/abs/2407.20818)|null|
 |**2024-07-29**|**Domain Adaptable Prescriptive AI Agent for Enterprise**|Piero Orderique et.al.|[2407.20447](http://arxiv.org/abs/2407.20447)|null|
