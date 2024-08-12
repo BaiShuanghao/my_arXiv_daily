@@ -484,7 +484,7 @@
 |**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672](http://arxiv.org/abs/2408.00672)|null|
 |**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620](http://arxiv.org/abs/2408.00620)|null|
 |**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555](http://arxiv.org/abs/2408.00555)|null|
-|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550](http://arxiv.org/abs/2408.00550)|null|
+|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550](http://arxiv.org/abs/2408.00550)|**[link](https://github.com/ssmisya/mhr)**|
 |**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
 |**2024-08-01**|**DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation**|Rakshith Subramanyam et.al.|[2408.00331](http://arxiv.org/abs/2408.00331)|null|
 |**2024-08-01**|**OmniParser for Pure Vision Based GUI Agent**|Yadong Lu et.al.|[2408.00203](http://arxiv.org/abs/2408.00203)|null|
@@ -494,7 +494,7 @@
 |**2024-07-31**|**Open-Vocabulary Audio-Visual Semantic Segmentation**|Ruohao Guo et.al.|[2407.21721](http://arxiv.org/abs/2407.21721)|null|
 |**2024-08-01**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
-|**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|null|
+|**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|**[link](https://github.com/laitifranz/Prompt2Guard)**|
 |**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
 |**2024-07-31**|**Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering**|Danfeng Guo et.al.|[2407.21368](http://arxiv.org/abs/2407.21368)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293](http://arxiv.org/abs/2407.21293)|null|
@@ -1190,7 +1190,7 @@
 |**2024-07-17**|**On the Complexity of Identification in Linear Structural Causal Models**|Julian Dörfler et.al.|[2407.12528](http://arxiv.org/abs/2407.12528)|null|
 |**2024-07-17**|**Variable-Agnostic Causal Exploration for Reinforcement Learning**|Minh Hoang Nguyen et.al.|[2407.12437](http://arxiv.org/abs/2407.12437)|null|
 |**2024-07-17**|**COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data**|Ting-Yun Ou et.al.|[2407.12254](http://arxiv.org/abs/2407.12254)|null|
-|**2024-07-24**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|null|
+|**2024-07-24**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|**[link](https://github.com/cjerzak/causalimages-software)**|
 |**2024-07-16**|**Discovery and inference of possibly bi-directional causal relationships with invalid instrumental variables**|Wei Li et.al.|[2407.11646](http://arxiv.org/abs/2407.11646)|null|
 |**2024-07-22**|**Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search**|Kim Hammar et.al.|[2407.11070](http://arxiv.org/abs/2407.11070)|null|
 |**2024-07-10**|**Industrial-Grade Time-Dependent Counterfactual Root Cause Analysis through the Unanticipated Point of Incipient Failure: a Proof of Concept**|Alexandre Trilla et.al.|[2407.11056](http://arxiv.org/abs/2407.11056)|**[link](https://github.com/atrilla/ci4ts)**|
