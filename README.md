@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
 |**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
@@ -304,6 +305,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949](http://arxiv.org/abs/2408.04949)|**[link](https://github.com/gianlucarloni/crocodile)**|
 |**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114](http://arxiv.org/abs/2408.04114)|null|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
 |**2024-08-07**|**InPer: Whole-Process Domain Generalization via Causal Intervention and Perturbation**|Luyao Tang et.al.|[2408.03608](http://arxiv.org/abs/2408.03608)|null|
@@ -457,6 +459,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Hyperbolic Learning with Multimodal Large Language Models**|Paolo Mandica et.al.|[2408.05097](http://arxiv.org/abs/2408.05097)|null|
+|**2024-08-09**|**Avoid Wasted Annotation Costs in Open-set Active Learning with Pre-trained Vision-Language Model**|Jaehyuk Heo et.al.|[2408.04917](http://arxiv.org/abs/2408.04917)|null|
+|**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[2408.04821](http://arxiv.org/abs/2408.04821)|null|
+|**2024-08-09**|**UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling**|Haider Al-Tahan et.al.|[2408.04810](http://arxiv.org/abs/2408.04810)|**[link](https://github.com/facebookresearch/unibench)**|
+|**2024-08-07**|**Prompt and Prejudice**|Lorenzo Berlincioni et.al.|[2408.04671](http://arxiv.org/abs/2408.04671)|null|
+|**2024-08-06**|**Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)**|Avshalom Manevich et.al.|[2408.04664](http://arxiv.org/abs/2408.04664)|null|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102](http://arxiv.org/abs/2408.04102)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
 |**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
@@ -966,6 +974,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**|Yiqun Zhang et.al.|[2408.04638](http://arxiv.org/abs/2408.04638)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](http://arxiv.org/abs/2408.03195)|null|
 |**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|**[link](https://github.com/ltttpku/cmmp)**|
 |**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426](http://arxiv.org/abs/2408.02426)|**[link](https://github.com/yijinhuang/fpt)**|
@@ -1143,6 +1152,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding**|Daniela Schkoda et.al.|[2408.04907](http://arxiv.org/abs/2408.04907)|**[link](https://github.com/danielaschkoda/relvlingam)**|
+|**2024-08-09**|**Interventional Causal Structure Discovery over Graphical Models with Convergence and Optimality Guarantees**|Qiu Chengbo et.al.|[2408.04819](http://arxiv.org/abs/2408.04819)|null|
+|**2024-08-09**|**A Density Ratio Super Learner**|Wencheng Wu et.al.|[2408.04796](http://arxiv.org/abs/2408.04796)|null|
 |**2024-08-08**|**Difference-in-Differences for Health Policy and Practice: A Review of Modern Methods**|Shuo Feng et.al.|[2408.04617](http://arxiv.org/abs/2408.04617)|null|
 |**2024-08-08**|**Causal Inference in Social Platforms Under Approximate Interference Networks**|Yiming Jiang et.al.|[2408.04441](http://arxiv.org/abs/2408.04441)|null|
 |**2024-08-08**|**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**|Dongqi Fu et.al.|[2408.04254](http://arxiv.org/abs/2408.04254)|null|
@@ -1443,6 +1455,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Modeling Electromagnetic Signal Injection Attacks on Camera-based Smart Systems: Applications and Mitigation**|Youqian Zhang et.al.|[2408.05124](http://arxiv.org/abs/2408.05124)|null|
+|**2024-08-09**|**Pay Attention To Mean Fields For Point Cloud Generation**|Benno Käch et.al.|[2408.04997](http://arxiv.org/abs/2408.04997)|null|
+|**2024-08-09**|**XNN: Paradigm Shift in Mitigating Identity Leakage within Cloud-Enabled Deep Learning**|Kaixin Liu et.al.|[2408.04974](http://arxiv.org/abs/2408.04974)|null|
+|**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839](http://arxiv.org/abs/2408.04839)|null|
 |**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
@@ -1678,6 +1694,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
+|**2024-08-08**|**DiPGrasp: Parallel Local Searching for Efficient Differentiable Grasp Planning**|Wenqiang Xu et.al.|[2408.04738](http://arxiv.org/abs/2408.04738)|null|
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-07**|**Force-Motion Control For A Six Degree-Of-Freedom Robotic Manipulator**|Sagar Ojha et.al.|[2408.04106](http://arxiv.org/abs/2408.04106)|null|
 |**2024-08-07**|**The $k$ -distance mutual-visibility problem in graphs**|M. Cera et.al.|[2408.03976](http://arxiv.org/abs/2408.03976)|null|
