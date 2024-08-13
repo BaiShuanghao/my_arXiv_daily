@@ -1,4 +1,4 @@
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -299,7 +299,7 @@
 |**2024-04-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al.|[2404.15252](http://arxiv.org/abs/2404.15252)|null|
 |**2024-04-24**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al.|[2404.14956](http://arxiv.org/abs/2404.14956)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## DG
 
@@ -453,7 +453,7 @@
 |**2024-04-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al.|[2404.09011](http://arxiv.org/abs/2404.09011)|**[link](https://github.com/znchen666/hdg)**|
 |**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## VLM
 
@@ -968,7 +968,7 @@
 |**2024-04-24**|**Improving Multi-label Recognition using Class Co-Occurrence Probabilities**|Samyak Rawlekar et.al.|[2404.16193](http://arxiv.org/abs/2404.16193)|null|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192](http://arxiv.org/abs/2404.16192)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Prompt
 
@@ -1146,7 +1146,7 @@
 |**2024-04-17**|**Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach**|Mir Rayat Imtiaz Hossain et.al.|[2404.11732](http://arxiv.org/abs/2404.11732)|null|
 |**2024-04-23**|**Single-temporal Supervised Remote Change Detection for Domain Generalization**|Qiangang Du et.al.|[2404.11326](http://arxiv.org/abs/2404.11326)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1449,7 +1449,7 @@
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1459,7 +1459,7 @@
 |**2024-08-09**|**Pay Attention To Mean Fields For Point Cloud Generation**|Benno Käch et.al.|[2408.04997](http://arxiv.org/abs/2408.04997)|null|
 |**2024-08-09**|**XNN: Paradigm Shift in Mitigating Identity Leakage within Cloud-Enabled Deep Learning**|Kaixin Liu et.al.|[2408.04974](http://arxiv.org/abs/2408.04974)|null|
 |**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839](http://arxiv.org/abs/2408.04839)|null|
-|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-08-09**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
@@ -1688,7 +1688,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Robotics
 
@@ -1707,7 +1707,7 @@
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-07**|**EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning**|Yue Chen et.al.|[2408.01953](http://arxiv.org/abs/2408.01953)|null|
-|**2024-08-03**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
+|**2024-08-11**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
 |**2024-08-03**|**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**|Xingpeng Sun et.al.|[2408.01867](http://arxiv.org/abs/2408.01867)|null|
 |**2024-08-02**|**Robot-Enabled Machine Learning-Based Diagnosis of Gastric Cancer Polyps Using Partial Surface Tactile Imaging**|Siddhartha Kapuria et.al.|[2408.01554](http://arxiv.org/abs/2408.01554)|null|
 |**2024-08-02**|**Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**|Ruoxuan Feng et.al.|[2408.01366](http://arxiv.org/abs/2408.01366)|null|
@@ -1920,5 +1920,5 @@
 |**2024-05-14**|**Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-20**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|**[link](https://github.com/irmvlab/diff-ip2d)**|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 

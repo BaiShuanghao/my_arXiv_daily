@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DA
@@ -1440,7 +1440,7 @@ layout: default
 |**2024-08-09**|**Pay Attention To Mean Fields For Point Cloud Generation**|Benno Käch et.al.|[2408.04997](http://arxiv.org/abs/2408.04997)|null|
 |**2024-08-09**|**XNN: Paradigm Shift in Mitigating Identity Leakage within Cloud-Enabled Deep Learning**|Kaixin Liu et.al.|[2408.04974](http://arxiv.org/abs/2408.04974)|null|
 |**2024-08-09**|**Adversarially Robust Industrial Anomaly Detection Through Diffusion Model**|Yuanpu Cao et.al.|[2408.04839](http://arxiv.org/abs/2408.04839)|null|
-|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-08-09**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-07**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
@@ -1686,7 +1686,7 @@ layout: default
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-07**|**EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning**|Yue Chen et.al.|[2408.01953](http://arxiv.org/abs/2408.01953)|null|
-|**2024-08-03**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
+|**2024-08-11**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
 |**2024-08-03**|**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**|Xingpeng Sun et.al.|[2408.01867](http://arxiv.org/abs/2408.01867)|null|
 |**2024-08-02**|**Robot-Enabled Machine Learning-Based Diagnosis of Gastric Cancer Polyps Using Partial Surface Tactile Imaging**|Siddhartha Kapuria et.al.|[2408.01554](http://arxiv.org/abs/2408.01554)|null|
 |**2024-08-02**|**Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation**|Ruoxuan Feng et.al.|[2408.01366](http://arxiv.org/abs/2408.01366)|null|
