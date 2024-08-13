@@ -18,9 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
+|**2024-08-11**|**RTF-Q: Unsupervised domain adaptation based retraining-free quantization network**|Nanyang Du et.al.|[2408.05752](http://arxiv.org/abs/2408.05752)|null|
 |**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
 |**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
-|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|**[link](https://github.com/gungui98/echo-free)**|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
 |**2024-08-05**|**SNFinLLM: Systematic and Nuanced Financial Domain Adaptation of Chinese Large Language Models**|Shujuan Zhao et.al.|[2408.02302](http://arxiv.org/abs/2408.02302)|null|
@@ -305,8 +307,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170](http://arxiv.org/abs/2408.06170)|null|
+|**2024-08-11**|**Robust Domain Generalization for Multi-modal Object Recognition**|Yuxin Qiao et.al.|[2408.05831](http://arxiv.org/abs/2408.05831)|null|
 |**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949](http://arxiv.org/abs/2408.04949)|**[link](https://github.com/gianlucarloni/crocodile)**|
-|**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114](http://arxiv.org/abs/2408.04114)|null|
+|**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114](http://arxiv.org/abs/2408.04114)|**[link](https://github.com/raunak-agarwal/factual-consistency-eval)**|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
 |**2024-08-07**|**InPer: Whole-Process Domain Generalization via Causal Intervention and Perturbation**|Luyao Tang et.al.|[2408.03608](http://arxiv.org/abs/2408.03608)|null|
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
@@ -459,6 +463,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
+|**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
+|**2024-08-12**|**Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts**|Peng Wu et.al.|[2408.05905](http://arxiv.org/abs/2408.05905)|null|
+|**2024-08-12**|**GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models**|Zixuan Wu et.al.|[2408.05894](http://arxiv.org/abs/2408.05894)|null|
+|**2024-08-11**|**Efficient Test-Time Prompt Tuning for Vision-Language Models**|Yuhan Zhu et.al.|[2408.05775](http://arxiv.org/abs/2408.05775)|null|
+|**2024-08-11**|**Reference-free Hallucination Detection for Large Vision-Language Models**|Qing Li et.al.|[2408.05767](http://arxiv.org/abs/2408.05767)|null|
+|**2024-08-11**|**Decoder Pre-Training with only Text for Scene Text Recognition**|Shuai Zhao et.al.|[2408.05706](http://arxiv.org/abs/2408.05706)|**[link](https://github.com/topdu/openocr)**|
+|**2024-08-08**|**Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness**|Stanislav Fort et.al.|[2408.05446](http://arxiv.org/abs/2408.05446)|null|
 |**2024-08-09**|**Hyperbolic Learning with Multimodal Large Language Models**|Paolo Mandica et.al.|[2408.05097](http://arxiv.org/abs/2408.05097)|null|
 |**2024-08-09**|**Avoid Wasted Annotation Costs in Open-set Active Learning with Pre-trained Vision-Language Model**|Jaehyuk Heo et.al.|[2408.04917](http://arxiv.org/abs/2408.04917)|null|
 |**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[2408.04821](http://arxiv.org/abs/2408.04821)|null|
@@ -469,7 +482,7 @@
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
 |**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834](http://arxiv.org/abs/2408.03834)|null|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
-|**2024-08-07**|**Teach CLIP to Develop a Number Sense for Ordinal Regression**|Yao Du et.al.|[2408.03574](http://arxiv.org/abs/2408.03574)|null|
+|**2024-08-07**|**Teach CLIP to Develop a Number Sense for Ordinal Regression**|Yao Du et.al.|[2408.03574](http://arxiv.org/abs/2408.03574)|**[link](https://github.com/xmed-lab/numclip)**|
 |**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554](http://arxiv.org/abs/2408.03554)|null|
 |**2024-08-09**|**GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**|Pengcheng Chen et.al.|[2408.03361](http://arxiv.org/abs/2408.03361)|null|
 |**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|
@@ -974,6 +987,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974](http://arxiv.org/abs/2408.05974)|**[link](https://github.com/soberguo/hoigen)**|
+|**2024-08-11**|**Efficient Test-Time Prompt Tuning for Vision-Language Models**|Yuhan Zhu et.al.|[2408.05775](http://arxiv.org/abs/2408.05775)|null|
 |**2024-07-30**|**Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**|Yiqun Zhang et.al.|[2408.04638](http://arxiv.org/abs/2408.04638)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](http://arxiv.org/abs/2408.03195)|null|
 |**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|**[link](https://github.com/ltttpku/cmmp)**|
@@ -984,8 +999,8 @@
 |**2024-08-02**|**Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer**|Robert Belanec et.al.|[2408.01119](http://arxiv.org/abs/2408.01119)|null|
 |**2024-08-02**|**Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration**|Donwon Park et.al.|[2408.01099](http://arxiv.org/abs/2408.01099)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
-|**2024-07-31**|**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models**|Mingrui Wu et.al.|[2407.21534](http://arxiv.org/abs/2407.21534)|null|
-|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328](http://arxiv.org/abs/2407.21328)|null|
+|**2024-07-31**|**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models**|Mingrui Wu et.al.|[2407.21534](http://arxiv.org/abs/2407.21534)|**[link](https://github.com/mrwu-mac/controlmllm)**|
+|**2024-07-31**|**Knowledge-Guided Prompt Learning for Lifespan Brain MR Image Segmentation**|Lin Teng et.al.|[2407.21328](http://arxiv.org/abs/2407.21328)|**[link](https://github.com/tl9792/kgpl)**|
 |**2024-07-21**|**Towards Automated Data Sciences with Natural Language and SageCopilot: Practices and Lessons Learned**|Yuan Liao et.al.|[2407.21040](http://arxiv.org/abs/2407.21040)|null|
 |**2024-07-30**|**PIP: Prototypes-Injected Prompt for Federated Class Incremental Learning**|Muhammad Anwar Ma'sum et.al.|[2407.20705](http://arxiv.org/abs/2407.20705)|**[link](https://github.com/anwarmaxsum/pip)**|
 |**2024-07-30**|**Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks**|Hunmin Yang et.al.|[2407.20657](http://arxiv.org/abs/2407.20657)|null|
@@ -1152,6 +1167,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Extreme-based causal effect learning with endogenous exposures and a light-tailed error**|Ruoyu Wang et.al.|[2408.06211](http://arxiv.org/abs/2408.06211)|null|
+|**2024-08-12**|**Identifying Total Causal Effects in Linear Models under Partial Homoscedasticity**|David Strieder et.al.|[2408.06046](http://arxiv.org/abs/2408.06046)|null|
+|**2024-08-11**|**Root Cause Attribution of Delivery Risks via Causal Discovery with Reinforcement Learning**|Shi Bo et.al.|[2408.05860](http://arxiv.org/abs/2408.05860)|null|
+|**2024-08-10**|**Controlling for discrete unmeasured confounding in nonlinear causal models**|Patrick Burauel et.al.|[2408.05647](http://arxiv.org/abs/2408.05647)|null|
+|**2024-08-10**|**Dynamical causality under invisible confounders**|Jinling Yan et.al.|[2408.05584](http://arxiv.org/abs/2408.05584)|null|
+|**2024-08-10**|**Generalized Encouragement-Based Instrumental Variables for Counterfactual Regression**|Anpeng Wu et.al.|[2408.05428](http://arxiv.org/abs/2408.05428)|null|
+|**2024-08-09**|**Debiased Estimating Equation Method for Versatile and Efficient Mendelian Randomization Using Large Numbers of Correlated Weak and Invalid Instruments**|Ruoyu Wang et.al.|[2408.05386](http://arxiv.org/abs/2408.05386)|null|
 |**2024-08-09**|**Causal Discovery of Linear Non-Gaussian Causal Models with Unobserved Confounding**|Daniela Schkoda et.al.|[2408.04907](http://arxiv.org/abs/2408.04907)|**[link](https://github.com/danielaschkoda/relvlingam)**|
 |**2024-08-09**|**Interventional Causal Structure Discovery over Graphical Models with Convergence and Optimality Guarantees**|Qiu Chengbo et.al.|[2408.04819](http://arxiv.org/abs/2408.04819)|null|
 |**2024-08-09**|**A Density Ratio Super Learner**|Wencheng Wu et.al.|[2408.04796](http://arxiv.org/abs/2408.04796)|null|
@@ -1166,7 +1188,7 @@
 |**2024-08-01**|**Unsupervised Pairwise Causal Discovery on Heterogeneous Data using Mutual Information Measures**|Alexandre Trilla et.al.|[2408.00399](http://arxiv.org/abs/2408.00399)|null|
 |**2024-08-01**|**Bayesian Synthetic Control Methods with Spillover Effects: Estimating the Economic Cost of the 2011 Sudan Split**|Shosei Sakaguchi et.al.|[2408.00291](http://arxiv.org/abs/2408.00291)|null|
 |**2024-07-31**|**Methodological Foundations of Modern Causal Inference in Social Science Research**|Guanghui Pan et.al.|[2408.00032](http://arxiv.org/abs/2408.00032)|null|
-|**2024-08-06**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
+|**2024-08-12**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 |**2024-07-30**|**Potential weights and implicit causal designs in linear regression**|Jiafeng Chen et.al.|[2407.21119](http://arxiv.org/abs/2407.21119)|null|
 |**2024-07-30**|**Industrial-Grade Smart Troubleshooting through Causal Technical Language Processing: a Proof of Concept**|Alexandre Trilla et.al.|[2407.20700](http://arxiv.org/abs/2407.20700)|null|
 |**2024-07-30**|**Detecting Causality in the Frequency Domain with Cross-Mapping Coherence**|Zsigmond Benkő et.al.|[2407.20694](http://arxiv.org/abs/2407.20694)|null|
@@ -1455,6 +1477,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment**|Kejia Zhang et.al.|[2408.06079](http://arxiv.org/abs/2408.06079)|null|
+|**2024-08-12**|**Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information**|Mingkun Zhang et.al.|[2408.05900](http://arxiv.org/abs/2408.05900)|null|
+|**2024-08-10**|**MABR: A Multilayer Adversarial Bias Removal Approach Without Prior Bias Knowledge**|Maxwell J. Yin et.al.|[2408.05497](http://arxiv.org/abs/2408.05497)|null|
+|**2024-08-08**|**Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness**|Stanislav Fort et.al.|[2408.05446](http://arxiv.org/abs/2408.05446)|null|
 |**2024-08-09**|**Modeling Electromagnetic Signal Injection Attacks on Camera-based Smart Systems: Applications and Mitigation**|Youqian Zhang et.al.|[2408.05124](http://arxiv.org/abs/2408.05124)|null|
 |**2024-08-09**|**Pay Attention To Mean Fields For Point Cloud Generation**|Benno Käch et.al.|[2408.04997](http://arxiv.org/abs/2408.04997)|null|
 |**2024-08-09**|**XNN: Paradigm Shift in Mitigating Identity Leakage within Cloud-Enabled Deep Learning**|Kaixin Liu et.al.|[2408.04974](http://arxiv.org/abs/2408.04974)|null|
@@ -1694,6 +1720,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
+|**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
+|**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
 |**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
 |**2024-08-08**|**DiPGrasp: Parallel Local Searching for Efficient Differentiable Grasp Planning**|Wenqiang Xu et.al.|[2408.04738](http://arxiv.org/abs/2408.04738)|null|
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
