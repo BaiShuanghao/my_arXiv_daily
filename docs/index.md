@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects**|Wanze Li et.al.|[2408.06734](http://arxiv.org/abs/2408.06734)|null|
 |**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
 |**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
 |**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
@@ -17,7 +18,7 @@ layout: default
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-07**|**Force-Motion Control For A Six Degree-Of-Freedom Robotic Manipulator**|Sagar Ojha et.al.|[2408.04106](http://arxiv.org/abs/2408.04106)|null|
 |**2024-08-07**|**The $k$ -distance mutual-visibility problem in graphs**|M. Cera et.al.|[2408.03976](http://arxiv.org/abs/2408.03976)|null|
-|**2024-08-07**|**Navigating the Human Maze: Real-Time Robot Pathfinding with Generative Imitation Learning**|Martin Moder et.al.|[2408.03807](http://arxiv.org/abs/2408.03807)|null|
+|**2024-08-07**|**Navigating the Human Maze: Real-Time Robot Pathfinding with Generative Imitation Learning**|Martin Moder et.al.|[2408.03807](http://arxiv.org/abs/2408.03807)|**[link](https://github.com/Mirorrn/Navigating-the-Human-Maze)**|
 |**2024-08-07**|**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**|Wenxiao Zhang et.al.|[2408.03515](http://arxiv.org/abs/2408.03515)|null|
 |**2024-08-07**|**Grasp Failure Constraints for Fast and Reliable Pick-and-Place Using Multi-Suction-Cup Grippers**|Jee-eun Lee et.al.|[2408.03498](http://arxiv.org/abs/2408.03498)|null|
 |**2024-08-06**|**LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**|Jinyu Zhang et.al.|[2408.03238](http://arxiv.org/abs/2408.03238)|null|
@@ -34,6 +35,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**COD: Learning Conditional Invariant Representation for Domain Adaptation Regression**|Hao-Ran Yang et.al.|[2408.06638](http://arxiv.org/abs/2408.06638)|null|
+|**2024-08-12**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
 |**2024-08-11**|**RTF-Q: Unsupervised domain adaptation based retraining-free quantization network**|Nanyang Du et.al.|[2408.05752](http://arxiv.org/abs/2408.05752)|null|
 |**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
@@ -84,6 +88,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
+|**2024-08-13**|**Response Wide Shut: Surprising Observations in Basic Vision Language Model Capabilities**|Shivam Chandhok et.al.|[2408.06721](http://arxiv.org/abs/2408.06721)|null|
+|**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631](http://arxiv.org/abs/2408.06631)|null|
+|**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 |**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
 |**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
@@ -109,6 +117,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
+|**2024-08-13**|**Prompt Tuning as User Inherent Profile Inference Machine**|Yusheng Lu et.al.|[2408.06577](http://arxiv.org/abs/2408.06577)|null|
 |**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974](http://arxiv.org/abs/2408.05974)|**[link](https://github.com/soberguo/hoigen)**|
 |**2024-08-11**|**Efficient Test-Time Prompt Tuning for Vision-Language Models**|Yuhan Zhu et.al.|[2408.05775](http://arxiv.org/abs/2408.05775)|null|
 |**2024-07-30**|**Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**|Yiqun Zhang et.al.|[2408.04638](http://arxiv.org/abs/2408.04638)|null|
@@ -134,6 +144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849](http://arxiv.org/abs/2408.06849)|**[link](https://github.com/kairong-han/causal_agent)**|
+|**2024-08-12**|**Causal Graph Aided Causal Discovery in an Observational Aneurysmal Subarachnoid Hemorrhage Study**|Carlo Berzuini et.al.|[2408.06464](http://arxiv.org/abs/2408.06464)|null|
 |**2024-08-12**|**Extreme-based causal effect learning with endogenous exposures and a light-tailed error**|Ruoyu Wang et.al.|[2408.06211](http://arxiv.org/abs/2408.06211)|null|
 |**2024-08-12**|**Identifying Total Causal Effects in Linear Models under Partial Homoscedasticity**|David Strieder et.al.|[2408.06046](http://arxiv.org/abs/2408.06046)|null|
 |**2024-08-11**|**Root Cause Attribution of Delivery Risks via Causal Discovery with Reinforcement Learning**|Shi Bo et.al.|[2408.05860](http://arxiv.org/abs/2408.05860)|null|
