@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
+|**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-08-13**|**Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects**|Wanze Li et.al.|[2408.06734](http://arxiv.org/abs/2408.06734)|null|
 |**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
 |**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
@@ -35,6 +37,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation**|Juepeng Zheng et.al.|[2408.07527](http://arxiv.org/abs/2408.07527)|null|
+|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|null|
+|**2024-08-05**|**DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning**|Dino Ienco et.al.|[2408.07080](http://arxiv.org/abs/2408.07080)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**COD: Learning Conditional Invariant Representation for Domain Adaptation Regression**|Hao-Ran Yang et.al.|[2408.06638](http://arxiv.org/abs/2408.06638)|null|
 |**2024-08-12**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
@@ -88,6 +93,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
+|**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
 |**2024-08-13**|**Response Wide Shut: Surprising Observations in Basic Vision Language Model Capabilities**|Shivam Chandhok et.al.|[2408.06721](http://arxiv.org/abs/2408.06721)|null|
 |**2024-08-13**|**IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning**|Mingning Guo et.al.|[2408.06631](http://arxiv.org/abs/2408.06631)|null|
@@ -117,6 +124,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**|Asif Hanif et.al.|[2408.07440](http://arxiv.org/abs/2408.07440)|**[link](https://github.com/asif-hanif/baple)**|
+|**2024-08-14**|**ProCom: A Few-shot Targeted Community Detection Algorithm**|Xixi Wu et.al.|[2408.07369](http://arxiv.org/abs/2408.07369)|null|
 |**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
 |**2024-08-13**|**Prompt Tuning as User Inherent Profile Inference Machine**|Yusheng Lu et.al.|[2408.06577](http://arxiv.org/abs/2408.06577)|null|
 |**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974](http://arxiv.org/abs/2408.05974)|**[link](https://github.com/soberguo/hoigen)**|
@@ -144,6 +153,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Crossover Designs in Software Engineering Experiments: Review of the State of Analysis**|Julian Frattini et.al.|[2408.07594](http://arxiv.org/abs/2408.07594)|null|
+|**2024-08-14**|**A General Framework for Constraint-based Causal Learning**|Kai Z. Teh et.al.|[2408.07575](http://arxiv.org/abs/2408.07575)|null|
+|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|null|
+|**2024-08-14**|**Variant Specific Treatment Effects with Applications in Vaccine Studies**|Gellert Perenyi et.al.|[2408.07560](http://arxiv.org/abs/2408.07560)|null|
+|**2024-08-14**|**$χ$ SPN: Characteristic Interventional Sum-Product Networks for Causal Inference in Hybrid Domains**|Harsh Poonia et.al.|[2408.07545](http://arxiv.org/abs/2408.07545)|null|
 |**2024-08-13**|**Causal Agent based on Large Language Model**|Kairong Han et.al.|[2408.06849](http://arxiv.org/abs/2408.06849)|**[link](https://github.com/kairong-han/causal_agent)**|
 |**2024-08-12**|**Causal Graph Aided Causal Discovery in an Observational Aneurysmal Subarachnoid Hemorrhage Study**|Carlo Berzuini et.al.|[2408.06464](http://arxiv.org/abs/2408.06464)|null|
 |**2024-08-12**|**Extreme-based causal effect learning with endogenous exposures and a light-tailed error**|Ruoyu Wang et.al.|[2408.06211](http://arxiv.org/abs/2408.06211)|null|
@@ -171,6 +185,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases**|Thibault Simonetto et.al.|[2408.07579](http://arxiv.org/abs/2408.07579)|**[link](https://github.com/serval-uni-lu/tabularbench)**|
+|**2024-08-14**|**Kolmogorov-Arnold Networks (KAN) for Time Series Classification and Robust Analysis**|Chang Dong et.al.|[2408.07314](http://arxiv.org/abs/2408.07314)|null|
 |**2024-08-12**|**Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment**|Kejia Zhang et.al.|[2408.06079](http://arxiv.org/abs/2408.06079)|null|
 |**2024-08-12**|**Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information**|Mingkun Zhang et.al.|[2408.05900](http://arxiv.org/abs/2408.05900)|null|
 |**2024-08-10**|**MABR: A Multilayer Adversarial Bias Removal Approach Without Prior Bias Knowledge**|Maxwell J. Yin et.al.|[2408.05497](http://arxiv.org/abs/2408.05497)|null|
