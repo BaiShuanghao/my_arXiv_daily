@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -42,7 +42,7 @@ layout: default
 |**2024-08-05**|**DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning**|Dino Ienco et.al.|[2408.07080](http://arxiv.org/abs/2408.07080)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**COD: Learning Conditional Invariant Representation for Domain Adaptation Regression**|Hao-Ran Yang et.al.|[2408.06638](http://arxiv.org/abs/2408.06638)|null|
-|**2024-08-12**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
+|**2024-08-14**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
 |**2024-08-11**|**RTF-Q: Unsupervised domain adaptation based retraining-free quantization network**|Nanyang Du et.al.|[2408.05752](http://arxiv.org/abs/2408.05752)|null|
 |**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
 |**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|**[link](https://github.com/sfu-mial/lesionelevation)**|
-|**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
+|**2024-08-15**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
 |**2024-08-14**|**Model Attribution in LLM-Generated Disinformation: A Domain Generalization Approach with Supervised Contrastive Learning**|Alimohammad Beigi et.al.|[2407.21264](http://arxiv.org/abs/2407.21264)|null|
 |**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
 |**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
@@ -124,7 +124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**|Asif Hanif et.al.|[2408.07440](http://arxiv.org/abs/2408.07440)|**[link](https://github.com/asif-hanif/baple)**|
+|**2024-08-15**|**BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**|Asif Hanif et.al.|[2408.07440](http://arxiv.org/abs/2408.07440)|**[link](https://github.com/asif-hanif/baple)**|
 |**2024-08-14**|**ProCom: A Few-shot Targeted Community Detection Algorithm**|Xixi Wu et.al.|[2408.07369](http://arxiv.org/abs/2408.07369)|null|
 |**2024-08-13**|**ActPrompt: In-Domain Feature Adaptation via Action Cues for Video Temporal Grounding**|Yubin Wang et.al.|[2408.06622](http://arxiv.org/abs/2408.06622)|null|
 |**2024-08-13**|**Prompt Tuning as User Inherent Profile Inference Machine**|Yusheng Lu et.al.|[2408.06577](http://arxiv.org/abs/2408.06577)|null|
