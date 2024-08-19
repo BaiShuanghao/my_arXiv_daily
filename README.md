@@ -201,9 +201,9 @@
 |**2024-08-08**|**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**|Dongqi Fu et.al.|[2408.04254](http://arxiv.org/abs/2408.04254)|null|
 |**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|null|
 |**2024-08-04**|**A Multi-class Ride-hailing Service Subsidy System Utilizing Deep Causal Networks**|Zhe Yu et.al.|[2408.02065](http://arxiv.org/abs/2408.02065)|null|
-|**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|null|
-|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
-|**2024-08-01**|**Unsupervised Pairwise Causal Discovery on Heterogeneous Data using Mutual Information Measures**|Alexandre Trilla et.al.|[2408.00399](http://arxiv.org/abs/2408.00399)|null|
+|**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|**[link](https://github.com/liuqs111/DNA-SE)**|
+|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|**[link](https://github.com/user683/CausalDiffRec)**|
+|**2024-08-01**|**Unsupervised Pairwise Causal Discovery on Heterogeneous Data using Mutual Information Measures**|Alexandre Trilla et.al.|[2408.00399](http://arxiv.org/abs/2408.00399)|**[link](https://github.com/atrilla/ccia24)**|
 |**2024-08-01**|**Bayesian Synthetic Control Methods with Spillover Effects: Estimating the Economic Cost of the 2011 Sudan Split**|Shosei Sakaguchi et.al.|[2408.00291](http://arxiv.org/abs/2408.00291)|null|
 |**2024-08-12**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 
@@ -234,7 +234,7 @@
 |**2024-08-04**|**Label Augmentation for Neural Networks Robustness**|Fatemeh Amerehi et.al.|[2408.01977](http://arxiv.org/abs/2408.01977)|null|
 |**2024-08-06**|**A Survey and Evaluation of Adversarial Attacks for Object Detection**|Khoi Nguyen Tiet Nguyen et.al.|[2408.01934](http://arxiv.org/abs/2408.01934)|null|
 |**2024-08-03**|**Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers**|Weijie Zheng et.al.|[2408.01705](http://arxiv.org/abs/2408.01705)|null|
-|**2024-08-02**|**Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics**|Alexander Gushchin et.al.|[2408.01541](http://arxiv.org/abs/2408.01541)|null|
+|**2024-08-02**|**Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics**|Alexander Gushchin et.al.|[2408.01541](http://arxiv.org/abs/2408.01541)|**[link](https://github.com/msu-video-group/adversarial-defenses-for-iqa)**|
 
 <p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
