@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -106,7 +106,7 @@ layout: default
 |**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949](http://arxiv.org/abs/2408.04949)|**[link](https://github.com/gianlucarloni/crocodile)**|
 |**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114](http://arxiv.org/abs/2408.04114)|**[link](https://github.com/raunak-agarwal/factual-consistency-eval)**|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
-|**2024-08-07**|**InPer: Whole-Process Domain Generalization via Causal Intervention and Perturbation**|Luyao Tang et.al.|[2408.03608](http://arxiv.org/abs/2408.03608)|null|
+|**2024-08-22**|**Mixstyle-Entropy: Domain Generalization with Causal Intervention and Perturbation**|Luyao Tang et.al.|[2408.03608](http://arxiv.org/abs/2408.03608)|null|
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
 |**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|**[link](https://github.com/sfu-mial/lesionelevation)**|
@@ -273,7 +273,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**First line of defense: A robust first layer mitigates adversarial attacks**|Janani Suresh et.al.|[2408.11680](http://arxiv.org/abs/2408.11680)|**[link](https://github.com/janani-suresh-97/first-line-defence)**|
-|**2024-08-21**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
+|**2024-08-22**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
 |**2024-08-20**|**Revisiting Min-Max Optimization Problem in Adversarial Training**|Sina Hajer Ahmadi et.al.|[2408.11218](http://arxiv.org/abs/2408.11218)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
@@ -281,7 +281,7 @@ layout: default
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
 |**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
-|**2024-08-19**|**Regularization for Adversarial Robust Learning**|Jie Wang et.al.|[2408.09672](http://arxiv.org/abs/2408.09672)|null|
+|**2024-08-22**|**Regularization for Adversarial Robust Learning**|Jie Wang et.al.|[2408.09672](http://arxiv.org/abs/2408.09672)|null|
 |**2024-08-17**|**PADetBench: Towards Benchmarking Physical Attacks against Object Detection**|Jiawei Lian et.al.|[2408.09181](http://arxiv.org/abs/2408.09181)|**[link](https://github.com/jiaweilian/benchmarking_physical_attack)**|
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
