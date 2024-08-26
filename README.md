@@ -1,4 +1,4 @@
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513](http://arxiv.org/abs/2408.12513)|null|
-|**2024-08-22**|**Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning**|Anran Zhang et.al.|[2408.12285](http://arxiv.org/abs/2408.12285)|null|
+|**2024-08-23**|**Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning**|Anran Zhang et.al.|[2408.12285](http://arxiv.org/abs/2408.12285)|null|
 |**2024-08-22**|**S-EPOA: Overcoming the Indivisibility of Annotations with Skill-Driven Preference-Based Reinforcement Learning**|Ni Mu et.al.|[2408.12130](http://arxiv.org/abs/2408.12130)|null|
 |**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805](http://arxiv.org/abs/2408.11805)|null|
 |**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537](http://arxiv.org/abs/2408.11537)|**[link](https://github.com/rayyoh/ocrm_survey)**|
@@ -63,7 +63,7 @@
 |**2024-08-11**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
 |**2024-08-03**|**TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation**|Xingpeng Sun et.al.|[2408.01867](http://arxiv.org/abs/2408.01867)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## DA
 
@@ -109,7 +109,7 @@
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
 |**2024-07-29**|**Online Multi-Source Domain Adaptation through Gaussian Mixtures and Dataset Dictionary Learning**|Eduardo Fernandes Montesuma et.al.|[2407.19853](http://arxiv.org/abs/2407.19853)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## DG
 
@@ -142,7 +142,7 @@
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
 |**2024-07-20**|**RoIPoly: Vectorized Building Outline Extraction Using Vertex and Logit Embeddings**|Weiqin Jiao et.al.|[2407.14920](http://arxiv.org/abs/2407.14920)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## VLM
 
@@ -150,9 +150,9 @@
 |---|---|---|---|---|
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317](http://arxiv.org/abs/2408.12317)|null|
 |**2024-08-22**|**TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model**|Yuhao Wang et.al.|[2408.12141](http://arxiv.org/abs/2408.12141)|null|
-|**2024-08-22**|**SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models**|Youngjoon Yu et.al.|[2408.12114](http://arxiv.org/abs/2408.12114)|**[link](https://github.com/top-yun/spark)**|
+|**2024-08-23**|**SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models**|Youngjoon Yu et.al.|[2408.12114](http://arxiv.org/abs/2408.12114)|**[link](https://github.com/top-yun/spark)**|
 |**2024-08-22**|**RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data**|Chenglong Wang et.al.|[2408.12109](http://arxiv.org/abs/2408.12109)|null|
-|**2024-08-21**|**DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|null|
+|**2024-08-22**|**DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|**[link](https://github.com/sacrcv/dh-bench)**|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
 |**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|null|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449](http://arxiv.org/abs/2408.11449)|null|
@@ -211,13 +211,13 @@
 |**2024-08-07**|**Teach CLIP to Develop a Number Sense for Ordinal Regression**|Yao Du et.al.|[2408.03574](http://arxiv.org/abs/2408.03574)|**[link](https://github.com/xmed-lab/numclip)**|
 |**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554](http://arxiv.org/abs/2408.03554)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
 |**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|null|
 |**2024-08-21**|**Denoising Pre-Training and Customized Prompt Learning for Efficient Multi-Behavior Sequential Recommendation**|Hao Wang et.al.|[2408.11372](http://arxiv.org/abs/2408.11372)|null|
@@ -253,7 +253,7 @@
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-08-07**|**Text-Region Matching for Multi-Label Image Recognition with Missing Labels**|Leilei Ma et.al.|[2407.18520](http://arxiv.org/abs/2407.18520)|**[link](https://github.com/yu-gi-oh-leilei/trm-ml)**|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -303,7 +303,7 @@
 |**2024-08-01**|**Bayesian Synthetic Control Methods with Spillover Effects: Estimating the Economic Cost of the 2011 Sudan Split**|Shosei Sakaguchi et.al.|[2408.00291](http://arxiv.org/abs/2408.00291)|null|
 |**2024-08-12**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770](http://arxiv.org/abs/2407.21770)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## Adversarial
 
@@ -346,5 +346,5 @@
 |**2024-08-03**|**Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers**|Weijie Zheng et.al.|[2408.01705](http://arxiv.org/abs/2408.01705)|null|
 |**2024-08-02**|**Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics**|Alexander Gushchin et.al.|[2408.01541](http://arxiv.org/abs/2408.01541)|**[link](https://github.com/msu-video-group/adversarial-defenses-for-iqa)**|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
