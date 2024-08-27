@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456](http://arxiv.org/abs/2408.14456)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
+|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|null|
+|**2024-08-26**|**Robot Navigation with Entity-Based Collision Avoidance using Deep Reinforcement Learning**|Yury Kolomeytsev et.al.|[2408.14183](http://arxiv.org/abs/2408.14183)|null|
+|**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
+|**2024-08-25**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
+|**2024-08-25**|**InSpaceType: Dataset and Benchmark for Reconsidering Cross-Space Type Performance in Indoor Monocular Depth**|Cho-Ying Wu et.al.|[2408.13708](http://arxiv.org/abs/2408.13708)|null|
+|**2024-08-23**|**Beyond Winning Strategies: Admissible and Admissible Winning Strategies for Quantitative Reachability Games**|Karan Muvvala et.al.|[2408.13369](http://arxiv.org/abs/2408.13369)|null|
 |**2024-08-23**|**SIMPNet: Spatial-Informed Motion Planning Network**|Davood Soleymanzadeh et.al.|[2408.12831](http://arxiv.org/abs/2408.12831)|null|
 |**2024-08-22**|**Beyond Shortsighted Navigation: Merging Best View Trajectory Planning with Robot Navigation**|Srinath Tankasala et.al.|[2408.12513](http://arxiv.org/abs/2408.12513)|null|
 |**2024-08-23**|**Tactile-Morph Skills: Energy-Based Control Meets Data-Driven Learning**|Anran Zhang et.al.|[2408.12285](http://arxiv.org/abs/2408.12285)|null|
@@ -59,6 +66,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Beyond Few-shot Object Detection: A Detailed Survey**|Vishal Chudasama et.al.|[2408.14249](http://arxiv.org/abs/2408.14249)|null|
+|**2024-08-26**|**Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation**|Yushun Tang et.al.|[2408.13983](http://arxiv.org/abs/2408.13983)|**[link](https://github.com/yushuntang/dpal)**|
+|**2024-08-25**|**Infrared Domain Adaptation with Zero-Shot Quantization**|Burak Sevsay et.al.|[2408.13925](http://arxiv.org/abs/2408.13925)|null|
 |**2024-08-23**|**Localization in Dynamic Indoor MIMO-OFDM Wireless Systems using Domain Adaptation**|Rafail Ismayilov et.al.|[2408.13017](http://arxiv.org/abs/2408.13017)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-22**|**Stochastic Compositional Minimax Optimization with Provable Convergence Guarantees**|Yuyang Deng et.al.|[2408.12505](http://arxiv.org/abs/2408.12505)|null|
@@ -105,6 +115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-24**|**PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model**|Hao Yang et.al.|[2408.13574](http://arxiv.org/abs/2408.13574)|null|
 |**2024-08-23**|**Say No to Freeloader: Protecting Intellectual Property of Your Deep Model**|Lianyu Wang et.al.|[2408.13161](http://arxiv.org/abs/2408.13161)|null|
 |**2024-08-25**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787](http://arxiv.org/abs/2408.11787)|**[link](https://github.com/xq141839/nusegdg)**|
 |**2024-08-20**|**Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval**|Guangyuan Ma et.al.|[2408.10613](http://arxiv.org/abs/2408.10613)|null|
@@ -137,6 +148,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**More Pictures Say More: Visual Intersection Network for Open Set Object Detection**|Bingcheng Dong et.al.|[2408.14032](http://arxiv.org/abs/2408.14032)|null|
+|**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-25**|**Evaluating Attribute Comprehension in Large Vision-Language Models**|Haiwen Zhang et.al.|[2408.13898](http://arxiv.org/abs/2408.13898)|**[link](https://github.com/zhwwwww/attribute-comprehension-of-vlms)**|
 |**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808](http://arxiv.org/abs/2408.12808)|null|
 |**2024-08-23**|**Cap2Sum: Learning to Summarize Videos by Generating Captions**|Cairong Zhao et.al.|[2408.12800](http://arxiv.org/abs/2408.12800)|null|
 |**2024-08-22**|**Building and better understanding vision-language models: insights and future directions**|Hugo Laurençon et.al.|[2408.12637](http://arxiv.org/abs/2408.12637)|null|
@@ -207,6 +223,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
+|**2024-08-24**|**AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples**|Yujin Lee et.al.|[2408.13516](http://arxiv.org/abs/2408.13516)|**[link](https://github.com/yoojlee/anople)**|
 |**2024-08-23**|**Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition**|Ahmad Pouramini et.al.|[2408.13227](http://arxiv.org/abs/2408.13227)|null|
 |**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
@@ -248,6 +267,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185](http://arxiv.org/abs/2408.14185)|null|
+|**2024-08-26**|**Estimating Causal Effects from Learned Causal Networks**|Anna Raichev et.al.|[2408.14101](http://arxiv.org/abs/2408.14101)|null|
+|**2024-08-25**|**Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?**|Luan Pham et.al.|[2408.13729](http://arxiv.org/abs/2408.13729)|null|
+|**2024-08-24**|**Efficient Reinforced DAG Learning without Acyclicity Constraints**|Bao Duong et.al.|[2408.13448](http://arxiv.org/abs/2408.13448)|null|
 |**2024-08-23**|**Multi-Treatment Multi-Task Uplift Modeling for Enhancing User Growth**|Yuxiang Wei et.al.|[2408.12803](http://arxiv.org/abs/2408.12803)|null|
 |**2024-08-22**|**Comparing the cost of violating causal assumptions in Bell experiments: locality, free choice and arrow-of-time**|Pawel Blasiak et.al.|[2408.12740](http://arxiv.org/abs/2408.12740)|null|
 |**2024-08-22**|**Towards Deconfounded Image-Text Matching with Causal Inference**|Wenhui Li et.al.|[2408.12292](http://arxiv.org/abs/2408.12292)|null|
@@ -298,6 +321,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Application of Disentanglement to Map Registration Problem**|Hae Jin Song et.al.|[2408.14152](http://arxiv.org/abs/2408.14152)|null|
+|**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809](http://arxiv.org/abs/2408.13809)|null|
+|**2024-08-24**|**Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach**|Jiwei Guan et.al.|[2408.13461](http://arxiv.org/abs/2408.13461)|null|
+|**2024-08-20**|**Robust Image Classification: Defensive Strategies against FGSM and PGD Adversarial Attacks**|Hetvi Waghela et.al.|[2408.13274](http://arxiv.org/abs/2408.13274)|null|
 |**2024-08-23**|**Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial Attacks**|Zhenyu Liu et.al.|[2408.13102](http://arxiv.org/abs/2408.13102)|null|
 |**2024-08-21**|**First line of defense: A robust first layer mitigates adversarial attacks**|Janani Suresh et.al.|[2408.11680](http://arxiv.org/abs/2408.11680)|**[link](https://github.com/janani-suresh-97/first-line-defence)**|
 |**2024-08-22**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
