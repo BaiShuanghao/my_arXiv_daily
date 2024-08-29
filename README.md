@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Skills Regularized Task Decomposition for Multi-task Offline Reinforcement Learning**|Minjong Yoo et.al.|[2408.15593](http://arxiv.org/abs/2408.15593)|null|
 |**2024-08-27**|**Benchmarking Reinforcement Learning Methods for Dexterous Robotic Manipulation with a Three-Fingered Gripper**|Elizabeth Cutler et.al.|[2408.14747](http://arxiv.org/abs/2408.14747)|null|
 |**2024-08-26**|**Center Direction Network for Grasping Point Localization on Cloths**|Domen Tabernik et.al.|[2408.14456](http://arxiv.org/abs/2408.14456)|**[link](https://github.com/vicoslab/cedirnet-3dof)**|
 |**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|**[link](https://github.com/bytedance/GR-MG)**|
@@ -169,6 +170,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
+|**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626](http://arxiv.org/abs/2408.15626)|null|
+|**2024-08-28**|**Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models**|Wei Chen et.al.|[2408.15518](http://arxiv.org/abs/2408.15518)|null|
+|**2024-08-27**|**Parameter-Efficient Quantized Mixture-of-Experts Meets Vision-Language Instruction Tuning for Semiconductor Electron Micrograph Analysis**|Sakhinana Sagar Srinivas et.al.|[2408.15305](http://arxiv.org/abs/2408.15305)|null|
 |**2024-08-28**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|null|
 |**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
 |**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
@@ -252,7 +257,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961](http://arxiv.org/abs/2408.14961)|null|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
+|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961](http://arxiv.org/abs/2408.14961)|**[link](https://github.com/xlgsyzp/cvpt)**|
 |**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
 |**2024-08-26**|**Towards Graph Prompt Learning: A Survey and Beyond**|Qingqing Long et.al.|[2408.14520](http://arxiv.org/abs/2408.14520)|null|
 |**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512](http://arxiv.org/abs/2408.14512)|null|
@@ -302,11 +308,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|null|
+|**2024-08-28**|**Trading with Time Series Causal Discovery: An Empirical Study**|Ruijie Tang et.al.|[2408.15846](http://arxiv.org/abs/2408.15846)|null|
+|**2024-08-28**|**Adaptive Weighted Random Isolation (AWRI): a simple design to estimate causal effects under network interference**|Changhao Shi et.al.|[2408.15670](http://arxiv.org/abs/2408.15670)|null|
+|**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|**[link](https://github.com/arturofredes/llm-4-cfs-explanation)**|
 |**2024-08-27**|**Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation**|Chan Hsu et.al.|[2408.15055](http://arxiv.org/abs/2408.15055)|null|
 |**2024-08-27**|**Can Transformers Do Enumerative Geometry?**|Baran Hashemi et.al.|[2408.14915](http://arxiv.org/abs/2408.14915)|null|
 |**2024-08-27**|**Differentially Private Estimation of Weighted Average Treatment Effects for Binary Outcomes**|Sharmistha Guha et.al.|[2408.14766](http://arxiv.org/abs/2408.14766)|null|
-|**2024-08-26**|**General targeted machine learning for modern causal mediation analysis**|Richard Liu et.al.|[2408.14620](http://arxiv.org/abs/2408.14620)|null|
+|**2024-08-26**|**General targeted machine learning for modern causal mediation analysis**|Richard Liu et.al.|[2408.14620](http://arxiv.org/abs/2408.14620)|**[link](https://github.com/nt-williams/crumble)**|
 |**2024-08-26**|**Co-factor analysis of citation networks**|Alex Hayes et.al.|[2408.14604](http://arxiv.org/abs/2408.14604)|null|
 |**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185](http://arxiv.org/abs/2408.14185)|null|
 |**2024-08-27**|**Estimating Causal Effects from Learned Causal Networks**|Anna Raichev et.al.|[2408.14101](http://arxiv.org/abs/2408.14101)|null|
@@ -364,6 +372,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
 |**2024-08-27**|**SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks**|Pritam Dash et.al.|[2408.15200](http://arxiv.org/abs/2408.15200)|null|
 |**2024-08-27**|**Adversarial Attacks and Defenses in Multivariate Time-Series Forecasting for Smart and Connected Infrastructures**|Pooja Krishan et.al.|[2408.14875](http://arxiv.org/abs/2408.14875)|null|
 |**2024-08-27**|**Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation**|Bochao Liu et.al.|[2408.14738](http://arxiv.org/abs/2408.14738)|null|
