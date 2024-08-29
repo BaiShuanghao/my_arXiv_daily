@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -154,7 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|null|
+|**2024-08-28**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|null|
 |**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
 |**2024-08-27**|**MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation**|Yuanbing Zhu et.al.|[2408.14776](http://arxiv.org/abs/2408.14776)|null|
 |**2024-08-27**|**RSTeller: Scaling Up Visual Language Modeling in Remote Sensing with Rich Linguistic Semantics from Openly Available Data and Large Language Models**|Junyao Ge et.al.|[2408.14744](http://arxiv.org/abs/2408.14744)|**[link](https://github.com/slytheringe/rsteller)**|
@@ -239,7 +239,7 @@ layout: default
 |**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
 |**2024-08-26**|**Towards Graph Prompt Learning: A Survey and Beyond**|Qingqing Long et.al.|[2408.14520](http://arxiv.org/abs/2408.14520)|null|
 |**2024-08-25**|**LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**|Duo Wang et.al.|[2408.14512](http://arxiv.org/abs/2408.14512)|null|
-|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-28**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Nemesis: Normalizing the Soft-prompt Vectors of Vision-Language Models**|Shuai Fu et.al.|[2408.13979](http://arxiv.org/abs/2408.13979)|**[link](https://github.com/shyfoo/nemesis)**|
 |**2024-08-24**|**AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples**|Yujin Lee et.al.|[2408.13516](http://arxiv.org/abs/2408.13516)|**[link](https://github.com/yoojlee/anople)**|
 |**2024-08-23**|**Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition**|Ahmad Pouramini et.al.|[2408.13227](http://arxiv.org/abs/2408.13227)|null|
