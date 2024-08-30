@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -15,7 +15,7 @@ layout: default
 |**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|**[link](https://github.com/bytedance/GR-MG)**|
 |**2024-08-26**|**Robot Navigation with Entity-Based Collision Avoidance using Deep Reinforcement Learning**|Yury Kolomeytsev et.al.|[2408.14183](http://arxiv.org/abs/2408.14183)|null|
 |**2024-08-26**|**Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning**|Joey Hejna et.al.|[2408.14037](http://arxiv.org/abs/2408.14037)|**[link](https://github.com/jhejna/remix)**|
-|**2024-08-25**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
+|**2024-08-28**|**PhysPart: Physically Plausible Part Completion for Interactable Objects**|Rundong Luo et.al.|[2408.13724](http://arxiv.org/abs/2408.13724)|null|
 |**2024-08-25**|**InSpaceType: Dataset and Benchmark for Reconsidering Cross-Space Type Performance in Indoor Monocular Depth**|Cho-Ying Wu et.al.|[2408.13708](http://arxiv.org/abs/2408.13708)|null|
 |**2024-08-23**|**Beyond Winning Strategies: Admissible and Admissible Winning Strategies for Quantitative Reachability Games**|Karan Muvvala et.al.|[2408.13369](http://arxiv.org/abs/2408.13369)|null|
 |**2024-08-23**|**SIMPNet: Spatial-Informed Motion Planning Network**|Davood Soleymanzadeh et.al.|[2408.12831](http://arxiv.org/abs/2408.12831)|null|
@@ -289,7 +289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-28**|**Trading with Time Series Causal Discovery: An Empirical Study**|Ruijie Tang et.al.|[2408.15846](http://arxiv.org/abs/2408.15846)|null|
+|**2024-08-29**|**Trading with Time Series Causal Discovery: An Empirical Study**|Ruijie Tang et.al.|[2408.15846](http://arxiv.org/abs/2408.15846)|null|
 |**2024-08-28**|**Adaptive Weighted Random Isolation (AWRI): a simple design to estimate causal effects under network interference**|Changhao Shi et.al.|[2408.15670](http://arxiv.org/abs/2408.15670)|null|
 |**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|**[link](https://github.com/arturofredes/llm-4-cfs-explanation)**|
 |**2024-08-27**|**Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation**|Chan Hsu et.al.|[2408.15055](http://arxiv.org/abs/2408.15055)|null|
