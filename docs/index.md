@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -140,7 +140,7 @@ layout: default
 |**2024-08-18**|**Learning Fair Invariant Representations under Covariate and Correlation Shifts Simultaneously**|Dong Li et.al.|[2408.09312](http://arxiv.org/abs/2408.09312)|null|
 |**2024-08-17**|**Cross-Species Data Integration for Enhanced Layer Segmentation in Kidney Pathology**|Junchao Zhu et.al.|[2408.09278](http://arxiv.org/abs/2408.09278)|**[link](https://github.com/hrlblab/layer_segmentation)**|
 |**2024-08-17**|**StylePrompter: Enhancing Domain Generalization with Test-Time Style Priors**|Jiao Zhang et.al.|[2408.09138](http://arxiv.org/abs/2408.09138)|null|
-|**2024-08-12**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170](http://arxiv.org/abs/2408.06170)|null|
+|**2024-09-04**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170](http://arxiv.org/abs/2408.06170)|null|
 |**2024-08-11**|**Robust Domain Generalization for Multi-modal Object Recognition**|Yuxin Qiao et.al.|[2408.05831](http://arxiv.org/abs/2408.05831)|null|
 |**2024-08-09**|**CROCODILE: Causality aids RObustness via COntrastive DIsentangled LEarning**|Gianluca Carloni et.al.|[2408.04949](http://arxiv.org/abs/2408.04949)|**[link](https://github.com/gianlucarloni/crocodile)**|
 |**2024-08-07**|**Zero-shot Factual Consistency Evaluation Across Domains**|Raunak Agarwal et.al.|[2408.04114](http://arxiv.org/abs/2408.04114)|**[link](https://github.com/raunak-agarwal/factual-consistency-eval)**|
@@ -326,7 +326,7 @@ layout: default
 |**2024-08-29**|**Targeted Cause Discovery with Data-Driven Learning**|Jang-Hyun Kim et.al.|[2408.16218](http://arxiv.org/abs/2408.16218)|**[link](https://github.com/snu-mllab/targeted-cause-discovery)**|
 |**2024-08-28**|**Beyond Correlation: Incorporating Counterfactual Guidance to Better Support Exploratory Visual Analysis**|Arran Zeyu Wang et.al.|[2408.16078](http://arxiv.org/abs/2408.16078)|null|
 |**2024-08-28**|**Causal Priors and Their Influence on Judgements of Causality in Visualized Data**|Arran Zeyu Wang et.al.|[2408.16077](http://arxiv.org/abs/2408.16077)|null|
-|**2024-08-28**|**Group Difference in Differences can Identify Effect Heterogeneity in Non-Canonical Settings**|Zach Shahn et.al.|[2408.16039](http://arxiv.org/abs/2408.16039)|null|
+|**2024-09-04**|**Group Difference in Differences can Identify Effect Heterogeneity in Non-Canonical Settings**|Zach Shahn et.al.|[2408.16039](http://arxiv.org/abs/2408.16039)|null|
 |**2024-08-29**|**Trading with Time Series Causal Discovery: An Empirical Study**|Ruijie Tang et.al.|[2408.15846](http://arxiv.org/abs/2408.15846)|null|
 |**2024-08-28**|**Adaptive Weighted Random Isolation (AWRI): a simple design to estimate causal effects under network interference**|Changhao Shi et.al.|[2408.15670](http://arxiv.org/abs/2408.15670)|null|
 |**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|**[link](https://github.com/arturofredes/llm-4-cfs-explanation)**|
@@ -407,7 +407,7 @@ layout: default
 |**2024-08-22**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
 |**2024-08-20**|**Revisiting Min-Max Optimization Problem in Adversarial Training**|Sina Hajer Ahmadi et.al.|[2408.11218](http://arxiv.org/abs/2408.11218)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
-|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
+|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|**[link](https://github.com/dalqattan/sechfl)**|
 |**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
