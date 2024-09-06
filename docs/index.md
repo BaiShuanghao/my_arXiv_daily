@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -381,7 +381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-05**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
 |**2024-09-03**|**Formalizing the causal interpretation in accelerated failure time models with unmeasured heterogeneity**|Mari Brathovde et.al.|[2409.01983](http://arxiv.org/abs/2409.01983)|null|
 |**2024-09-02**|**Estimating Heterogenous Treatment Effects for Survival Data with Doubly Doubly Robust Estimator**|Guanghui Pan et.al.|[2409.01412](http://arxiv.org/abs/2409.01412)|null|
 |**2024-09-02**|**Plasmode simulation for the evaluation of causal inference methods in homophilous social networks**|Vanessa McNealis et.al.|[2409.01316](http://arxiv.org/abs/2409.01316)|null|
