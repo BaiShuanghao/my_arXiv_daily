@@ -140,7 +140,7 @@ layout: default
 |**2024-08-17**|**GoodSAM++: Bridging Domain and Capacity Gaps via Segment Anything Model for Panoramic Semantic Segmentation**|Weiming Zhang et.al.|[2408.09115](http://arxiv.org/abs/2408.09115)|null|
 |**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
 |**2024-08-25**|**Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation**|Juepeng Zheng et.al.|[2408.07527](http://arxiv.org/abs/2408.07527)|null|
-|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|null|
+|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|**[link](https://github.com/bubblybingbong/augmentationsegmentation)**|
 |**2024-08-05**|**DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation and Adversarial Learning**|Dino Ienco et.al.|[2408.07080](http://arxiv.org/abs/2408.07080)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**COD: Learning Conditional Invariant Representation for Domain Adaptation Regression**|Hao-Ran Yang et.al.|[2408.06638](http://arxiv.org/abs/2408.06638)|null|
@@ -148,7 +148,7 @@ layout: default
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
 |**2024-08-11**|**RTF-Q: Unsupervised domain adaptation based retraining-free quantization network**|Nanyang Du et.al.|[2408.05752](http://arxiv.org/abs/2408.05752)|null|
 |**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
-|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|null|
+|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353](http://arxiv.org/abs/2408.03353)|**[link](https://github.com/helloworld1973/DNA-DA)**|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|**[link](https://github.com/gungui98/echo-free)**|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
@@ -196,7 +196,7 @@ layout: default
 |**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](http://arxiv.org/abs/2408.02796)|null|
 |**2024-08-05**|**Lesion Elevation Prediction from Skin Images Improves Diagnosis**|Kumar Abhishek et.al.|[2408.02792](http://arxiv.org/abs/2408.02792)|**[link](https://github.com/sfu-mial/lesionelevation)**|
-|**2024-08-15**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
+|**2024-08-15**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|**[link](https://github.com/asbjrnmunk/amaes)**|
 |**2024-08-14**|**Model Attribution in LLM-Generated Disinformation: A Domain Generalization Approach with Supervised Contrastive Learning**|Alimohammad Beigi et.al.|[2407.21264](http://arxiv.org/abs/2407.21264)|null|
 |**2024-07-29**|**VolDoGer: LLM-assisted Datasets for Domain Generalization in Vision-Language Tasks**|Juhwan Choi et.al.|[2407.19795](http://arxiv.org/abs/2407.19795)|null|
 |**2024-07-27**|**Reducing Spurious Correlation for Federated Domain Generalization**|Shuran Ma et.al.|[2407.19174](http://arxiv.org/abs/2407.19174)|null|
@@ -273,7 +273,7 @@ layout: default
 |**2024-08-22**|**RoVRM: A Robust Visual Reward Model Optimized via Auxiliary Textual Preference Data**|Chenglong Wang et.al.|[2408.12109](http://arxiv.org/abs/2408.12109)|**[link](https://github.com/wangclnlp/vision-llm-alignment)**|
 |**2024-08-22**|**DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|**[link](https://github.com/sacrcv/dh-bench)**|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
-|**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|null|
+|**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|**[link](https://github.com/hanminghao/mscpt)**|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449](http://arxiv.org/abs/2408.11449)|null|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 |**2024-08-21**|**Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework**|Xiao Han et.al.|[2408.11312](http://arxiv.org/abs/2408.11312)|null|
@@ -281,7 +281,7 @@ layout: default
 |**2024-08-21**|**Making Large Vision Language Models to be Good Few-shot Learners**|Fan Liu et.al.|[2408.11297](http://arxiv.org/abs/2408.11297)|null|
 |**2024-08-21**|**Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models**|Yunpu Zhao et.al.|[2408.11261](http://arxiv.org/abs/2408.11261)|null|
 |**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
-|**2024-08-21**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872](http://arxiv.org/abs/2408.10872)|null|
+|**2024-08-21**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872](http://arxiv.org/abs/2408.10872)|**[link](https://github.com/PongNJ/V-RoAst)**|
 |**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|**[link](https://github.com/BBYL9413/TDS-CLIP)**|
 |**2024-08-20**|**MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval**|Haoran Tang et.al.|[2408.10575](http://arxiv.org/abs/2408.10575)|**[link](https://github.com/hrtang22/MUSE)**|
 |**2024-08-19**|**CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs**|Yassine Ouali et.al.|[2408.10433](http://arxiv.org/abs/2408.10433)|null|
@@ -356,7 +356,7 @@ layout: default
 |**2024-08-23**|**Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition**|Ahmad Pouramini et.al.|[2408.13227](http://arxiv.org/abs/2408.13227)|null|
 |**2024-08-30**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
-|**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|null|
+|**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|**[link](https://github.com/hanminghao/mscpt)**|
 |**2024-08-21**|**Denoising Pre-Training and Customized Prompt Learning for Efficient Multi-Behavior Sequential Recommendation**|Hao Wang et.al.|[2408.11372](http://arxiv.org/abs/2408.11372)|null|
 |**2024-08-20**|**Prompt Your Brain: Scaffold Prompt Tuning for Efficient Adaptation of fMRI Pre-trained Model**|Zijian Dong et.al.|[2408.10567](http://arxiv.org/abs/2408.10567)|null|
 |**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
