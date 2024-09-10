@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -233,7 +233,7 @@ layout: default
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
 |**2024-09-03**|**Boosting Vision-Language Models for Histopathology Classification: Predict all at once**|Maxime Zanella et.al.|[2409.01883](http://arxiv.org/abs/2409.01883)|**[link](https://github.com/fereshteshakeri/histo-transclip)**|
-|**2024-09-03**|**Towards Generative Class Prompt Learning for Few-shot Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
+|**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
 |**2024-09-04**|**When Does Visual Prompting Outperform Linear Probing for Vision-Language Models? A Likelihood Perspective**|Hsi-Ai Tsao et.al.|[2409.01821](http://arxiv.org/abs/2409.01821)|**[link](https://github.com/ibm/vp-llr)**|
 |**2024-09-03**|**ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**|Wenlong Huang et.al.|[2409.01652](http://arxiv.org/abs/2409.01652)|null|
 |**2024-09-03**|**Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models**|Shintaro Ozaki et.al.|[2409.01584](http://arxiv.org/abs/2409.01584)|null|
@@ -346,7 +346,7 @@ layout: default
 |**2024-09-05**|**End-to-end Multi-source Visual Prompt Tuning for Survival Analysis in Whole Slide Images**|Zhongwei Qiu et.al.|[2409.03804](http://arxiv.org/abs/2409.03804)|null|
 |**2024-09-03**|**MedUnA: Language guided Unsupervised Adaptation of Vision-Language Models for Medical Image Classification**|Umaima Rahman et.al.|[2409.02729](http://arxiv.org/abs/2409.02729)|null|
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
-|**2024-09-03**|**Towards Generative Class Prompt Learning for Few-shot Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
+|**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
 |**2024-09-02**|**Affordance-based Robot Manipulation with Flow Matching**|Fan Zhang et.al.|[2409.01083](http://arxiv.org/abs/2409.01083)|null|
 |**2024-09-02**|**Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language**|Jeong Hun Yeo et.al.|[2409.00986](http://arxiv.org/abs/2409.00986)|**[link](https://github.com/jeonghun0716/personalized-lip-reading)**|
 |**2024-08-31**|**COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation**|Munish Monga et.al.|[2409.00397](http://arxiv.org/abs/2409.00397)|null|
@@ -489,7 +489,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 |**2024-09-05**|**A practical approach to evaluating the adversarial distance for machine learning classifiers**|Georg Siedel et.al.|[2409.03598](http://arxiv.org/abs/2409.03598)|**[link](https://github.com/georgsiedel/adversarial-distance-estimation)**|
-|**2024-09-04**|**Boosting Certificate Robustness for Time Series Classification with Efficient Self-Ensemble**|Chang Dong et.al.|[2409.02802](http://arxiv.org/abs/2409.02802)|null|
+|**2024-09-09**|**Boosting Certificate Robustness for Time Series Classification with Efficient Self-Ensemble**|Chang Dong et.al.|[2409.02802](http://arxiv.org/abs/2409.02802)|null|
 |**2024-09-03**|**Reassessing Noise Augmentation Methods in the Context of Adversarial Speech**|Karla Pizzi et.al.|[2409.01813](http://arxiv.org/abs/2409.01813)|null|
 |**2024-09-03**|**Dynamic Guidance Adversarial Distillation with Enhanced Teacher Knowledge**|Hyejin Park et.al.|[2409.01627](http://arxiv.org/abs/2409.01627)|**[link](https://github.com/kunsaram01/DGAD)**|
 |**2024-09-02**|**Debiasing Graph Representation Learning based on Information Bottleneck**|Ziyi Zhang et.al.|[2409.01367](http://arxiv.org/abs/2409.01367)|null|
