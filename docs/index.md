@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Autonomous Iterative Motion Learning (AI-MOLE) of a SCARA Robot for Automated Myocardial Injection**|Michael Meindl et.al.|[2409.06361](http://arxiv.org/abs/2409.06361)|null|
+|**2024-09-10**|**Restoration of Reduced Self-Efficacy Caused by Chronic Pain through Manipulated Sensory Discrepancy**|Matti Itkonen et.al.|[2409.06262](http://arxiv.org/abs/2409.06262)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
 |**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|null|
 |**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
@@ -106,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al.|[2409.05809](http://arxiv.org/abs/2409.05809)|null|
 |**2024-09-08**|**Physics-augmented Deep Learning with Adversarial Domain Adaptation: Applications to STM Image Denoising**|Jianxin Xie et.al.|[2409.05118](http://arxiv.org/abs/2409.05118)|null|
 |**2024-09-07**|**Unsupervised Adaptive Normalization**|Bilal Faye et.al.|[2409.04757](http://arxiv.org/abs/2409.04757)|null|
@@ -236,6 +239,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481](http://arxiv.org/abs/2409.06481)|null|
+|**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
+|**2024-09-10**|**INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding**|Ji Ha Jang et.al.|[2409.06210](http://arxiv.org/abs/2409.06210)|null|
+|**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166](http://arxiv.org/abs/2409.06166)|null|
+|**2024-09-09**|**PEERNet: An End-to-End Profiling Tool for Real-Time Networked Robotic Systems**|Aditya Narayanan et.al.|[2409.06078](http://arxiv.org/abs/2409.06078)|null|
 |**2024-09-09**|**DexDiff: Towards Extrinsic Dexterity Manipulation of Ungraspable Objects in Unrestricted Environments**|Chengzhong Ma et.al.|[2409.05493](http://arxiv.org/abs/2409.05493)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
 |**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
@@ -369,6 +377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166](http://arxiv.org/abs/2409.06166)|null|
 |**2024-09-09**|**Enhancing Critical Thinking in Education by means of a Socratic Chatbot**|Lucile Favero et.al.|[2409.05511](http://arxiv.org/abs/2409.05511)|null|
 |**2024-09-09**|**Boosting CLIP Adaptation for Image Quality Assessment via Meta-Prompt Learning and Gradient Regularization**|Xudong Li et.al.|[2409.05381](http://arxiv.org/abs/2409.05381)|null|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
@@ -436,6 +445,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Advancing Causal Inference: A Nonparametric Approach to ATE and CATE Estimation with Continuous Treatments**|Hugo Gobato Souto et.al.|[2409.06593](http://arxiv.org/abs/2409.06593)|null|
+|**2024-09-09**|**Investigating Causal Cues: Strengthening Spoofed Audio Detection with Human-Discernible Linguistic Features**|Zahra Khanjani et.al.|[2409.06033](http://arxiv.org/abs/2409.06033)|null|
 |**2024-09-09**|**K-Fold Causal BART for CATE Estimation**|Hugo Gobato Souto et.al.|[2409.05665](http://arxiv.org/abs/2409.05665)|null|
 |**2024-09-09**|**Latent 3D Brain MRI Counterfactual**|Wei Peng et.al.|[2409.05585](http://arxiv.org/abs/2409.05585)|null|
 |**2024-09-09**|**Optimizing VarLiNGAM for Scalable and Efficient Time Series Causal Discovery**|Ziyang Jiao et.al.|[2409.05500](http://arxiv.org/abs/2409.05500)|null|
@@ -525,6 +536,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
+|**2024-09-10**|**InstructSing: High-Fidelity Singing Voice Generation via Instructing Yourself**|Chang Zeng et.al.|[2409.06330](http://arxiv.org/abs/2409.06330)|null|
+|**2024-09-10**|**LAMP: Learnable Meta-Path Guided Adversarial Contrastive Learning for Heterogeneous Graphs**|Siqing Li et.al.|[2409.06323](http://arxiv.org/abs/2409.06323)|null|
+|**2024-09-10**|**RobustSVC: HuBERT-based Melody Extractor and Adversarial Learning for Robust Singing Voice Conversion**|Wei Chen et.al.|[2409.06237](http://arxiv.org/abs/2409.06237)|null|
 |**2024-09-09**|**Adversarial Attacks on Data Attribution**|Xinhe Wang et.al.|[2409.05657](http://arxiv.org/abs/2409.05657)|null|
 |**2024-09-07**|**Phrase-Level Adversarial Training for Mitigating Bias in Neural Network-based Automatic Essay Scoring**|Haddad Philip et.al.|[2409.04795](http://arxiv.org/abs/2409.04795)|null|
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
