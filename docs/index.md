@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching**|Eugenio Chisari et.al.|[2409.07343](http://arxiv.org/abs/2409.07343)|null|
+|**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|null|
+|**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245](http://arxiv.org/abs/2409.07245)|null|
 |**2024-09-10**|**Autonomous Iterative Motion Learning (AI-MOLE) of a SCARA Robot for Automated Myocardial Injection**|Michael Meindl et.al.|[2409.06361](http://arxiv.org/abs/2409.06361)|null|
 |**2024-09-10**|**Restoration of Reduced Self-Efficacy Caused by Chronic Pain through Manipulated Sensory Discrepancy**|Matti Itkonen et.al.|[2409.06262](http://arxiv.org/abs/2409.06262)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
@@ -108,6 +111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al.|[2409.05809](http://arxiv.org/abs/2409.05809)|null|
 |**2024-09-08**|**Physics-augmented Deep Learning with Adversarial Domain Adaptation: Applications to STM Image Denoising**|Jianxin Xie et.al.|[2409.05118](http://arxiv.org/abs/2409.05118)|null|
@@ -192,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Non-Invasive Glucose Prediction System Enhanced by Mixed Linear Models and Meta-Forests for Domain Generalization**|Yuyang Sun et.al.|[2409.07308](http://arxiv.org/abs/2409.07308)|null|
 |**2024-09-09**|**Predicting Critical Heat Flux with Uncertainty Quantification and Domain Generalization Using Conditional Variational Autoencoders and Deep Neural Networks**|Farah Alsafadi et.al.|[2409.05790](http://arxiv.org/abs/2409.05790)|null|
 |**2024-09-08**|**Deep Generic Representations for Domain-Generalized Anomalous Sound Detection**|Phurich Saengthong et.al.|[2409.05035](http://arxiv.org/abs/2409.05035)|null|
 |**2024-09-07**|**Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis**|Qiang Qiao et.al.|[2409.04768](http://arxiv.org/abs/2409.04768)|**[link](https://github.com/qintianjian-lab/ras4dg)**|
@@ -239,6 +244,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|null|
+|**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048](http://arxiv.org/abs/2409.07048)|null|
+|**2024-09-10**|**ExIQA: Explainable Image Quality Assessment Using Distortion Attributes**|Sepehr Kazemi Ranjbar et.al.|[2409.06853](http://arxiv.org/abs/2409.06853)|null|
+|**2024-09-10**|**DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks**|Amin Karimi Monsefi et.al.|[2409.06809](http://arxiv.org/abs/2409.06809)|**[link](https://github.com/KishoreP1/DetailCLIP)**|
 |**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481](http://arxiv.org/abs/2409.06481)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
 |**2024-09-10**|**INTRA: Interaction Relationship-aware Weakly Supervised Affordance Grounding**|Ji Ha Jang et.al.|[2409.06210](http://arxiv.org/abs/2409.06210)|null|
@@ -377,6 +387,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
+|**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
+|**2024-09-10**|**Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts**|Assefa Seyoum Wahd et.al.|[2409.06821](http://arxiv.org/abs/2409.06821)|null|
 |**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166](http://arxiv.org/abs/2409.06166)|null|
 |**2024-09-09**|**Enhancing Critical Thinking in Education by means of a Socratic Chatbot**|Lucile Favero et.al.|[2409.05511](http://arxiv.org/abs/2409.05511)|null|
 |**2024-09-09**|**Boosting CLIP Adaptation for Image Quality Assessment via Meta-Prompt Learning and Gradient Regularization**|Xudong Li et.al.|[2409.05381](http://arxiv.org/abs/2409.05381)|null|
@@ -445,6 +458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Analysis of Potential Biases and Validity of Studies Using Multiverse Approaches to Assess the Impacts of Government Responses to Epidemics**|Jeremy D. Goldhaber-Fiebert et.al.|[2409.06930](http://arxiv.org/abs/2409.06930)|null|
+|**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797](http://arxiv.org/abs/2409.06797)|null|
 |**2024-09-10**|**Advancing Causal Inference: A Nonparametric Approach to ATE and CATE Estimation with Continuous Treatments**|Hugo Gobato Souto et.al.|[2409.06593](http://arxiv.org/abs/2409.06593)|null|
 |**2024-09-09**|**Investigating Causal Cues: Strengthening Spoofed Audio Detection with Human-Discernible Linguistic Features**|Zahra Khanjani et.al.|[2409.06033](http://arxiv.org/abs/2409.06033)|null|
 |**2024-09-09**|**K-Fold Causal BART for CATE Estimation**|Hugo Gobato Souto et.al.|[2409.05665](http://arxiv.org/abs/2409.05665)|null|
@@ -536,6 +551,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|null|
+|**2024-09-11**|**D-CAPTCHA++: A Study of Resilience of Deepfake CAPTCHA under Transferable Imperceptible Adversarial Attack**|Hong-Hanh Nguyen-Le et.al.|[2409.07390](http://arxiv.org/abs/2409.07390)|null|
+|**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
+|**2024-09-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al.|[2409.06800](http://arxiv.org/abs/2409.06800)|**[link](https://github.com/mlaurelli/amdtl/blob/main/README.md)**|
 |**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
 |**2024-09-10**|**InstructSing: High-Fidelity Singing Voice Generation via Instructing Yourself**|Chang Zeng et.al.|[2409.06330](http://arxiv.org/abs/2409.06330)|null|
 |**2024-09-10**|**LAMP: Learnable Meta-Path Guided Adversarial Contrastive Learning for Heterogeneous Graphs**|Siqing Li et.al.|[2409.06323](http://arxiv.org/abs/2409.06323)|null|
