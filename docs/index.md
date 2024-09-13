@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -118,7 +118,7 @@ layout: default
 |**2024-09-07**|**Unsupervised Adaptive Normalization**|Bilal Faye et.al.|[2409.04757](http://arxiv.org/abs/2409.04757)|null|
 |**2024-09-07**|**Cross-Organ Domain Adaptive Neural Network for Pancreatic Endoscopic Ultrasound Image Segmentation**|ZhiChao Yan et.al.|[2409.04718](http://arxiv.org/abs/2409.04718)|null|
 |**2024-09-06**|**Train Till You Drop: Towards Stable and Robust Source-free Unsupervised 3D Domain Adaptation**|Björn Michele et.al.|[2409.04409](http://arxiv.org/abs/2409.04409)|**[link](https://github.com/valeoai/ttyd)**|
-|**2024-09-06**|**Calibration of Network Confidence for Unsupervised Domain Adaptation Using Estimated Accuracy**|Coby Penso et.al.|[2409.04241](http://arxiv.org/abs/2409.04241)|null|
+|**2024-09-06**|**Calibration of Network Confidence for Unsupervised Domain Adaptation Using Estimated Accuracy**|Coby Penso et.al.|[2409.04241](http://arxiv.org/abs/2409.04241)|**[link](https://github.com/cobypenso/unsupervised-target-domain-calibration)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-09-06**|**FODA-PG for Enhanced Medical Imaging Narrative Generation: Adaptive Differentiation of Normal and Abnormal Attributes**|Kai Shu et.al.|[2409.03947](http://arxiv.org/abs/2409.03947)|null|
 |**2024-09-05**|**Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities**|Wei Lu et.al.|[2409.03444](http://arxiv.org/abs/2409.03444)|**[link](https://github.com/lamm-mit/llm-finetuning)**|
@@ -245,7 +245,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
-|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|null|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048](http://arxiv.org/abs/2409.07048)|null|
 |**2024-09-10**|**ExIQA: Explainable Image Quality Assessment Using Distortion Attributes**|Sepehr Kazemi Ranjbar et.al.|[2409.06853](http://arxiv.org/abs/2409.06853)|null|
 |**2024-09-10**|**DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks**|Amin Karimi Monsefi et.al.|[2409.06809](http://arxiv.org/abs/2409.06809)|**[link](https://github.com/KishoreP1/DetailCLIP)**|
@@ -400,11 +400,11 @@ layout: default
 |**2024-09-05**|**End-to-end Multi-source Visual Prompt Tuning for Survival Analysis in Whole Slide Images**|Zhongwei Qiu et.al.|[2409.03804](http://arxiv.org/abs/2409.03804)|null|
 |**2024-09-03**|**MedUnA: Language guided Unsupervised Adaptation of Vision-Language Models for Medical Image Classification**|Umaima Rahman et.al.|[2409.02729](http://arxiv.org/abs/2409.02729)|null|
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
-|**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
+|**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 |**2024-09-02**|**Affordance-based Robot Manipulation with Flow Matching**|Fan Zhang et.al.|[2409.01083](http://arxiv.org/abs/2409.01083)|null|
 |**2024-09-02**|**Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language**|Jeong Hun Yeo et.al.|[2409.00986](http://arxiv.org/abs/2409.00986)|**[link](https://github.com/jeonghun0716/personalized-lip-reading)**|
 |**2024-08-31**|**COSMo: CLIP Talks on Open-Set Multi-Target Domain Adaptation**|Munish Monga et.al.|[2409.00397](http://arxiv.org/abs/2409.00397)|null|
-|**2024-08-31**|**Aligning Medical Images with General Knowledge from Large Language Models**|Xiao Fang et.al.|[2409.00341](http://arxiv.org/abs/2409.00341)|null|
+|**2024-08-31**|**Aligning Medical Images with General Knowledge from Large Language Models**|Xiao Fang et.al.|[2409.00341](http://arxiv.org/abs/2409.00341)|**[link](https://github.com/xiaofang007/vip)**|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
 |**2024-08-29**|**Adapting Vision-Language Models to Open Classes via Test-Time Prompt Tuning**|Zhengqing Gao et.al.|[2408.16486](http://arxiv.org/abs/2408.16486)|**[link](https://github.com/gaozhengqing/ttpt)**|
@@ -554,7 +554,7 @@ layout: default
 |**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|null|
 |**2024-09-11**|**D-CAPTCHA++: A Study of Resilience of Deepfake CAPTCHA under Transferable Imperceptible Adversarial Attack**|Hong-Hanh Nguyen-Le et.al.|[2409.07390](http://arxiv.org/abs/2409.07390)|null|
 |**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
-|**2024-09-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al.|[2409.06800](http://arxiv.org/abs/2409.06800)|**[link](https://github.com/mlaurelli/amdtl/blob/main/README.md)**|
+|**2024-09-10**|**Adaptive Meta-Domain Transfer Learning (AMDTL): A Novel Approach for Knowledge Transfer in AI**|Michele Laurelli et.al.|[2409.06800](http://arxiv.org/abs/2409.06800)|**[link](https://github.com/mlaurelli/amdtl)**|
 |**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
 |**2024-09-10**|**InstructSing: High-Fidelity Singing Voice Generation via Instructing Yourself**|Chang Zeng et.al.|[2409.06330](http://arxiv.org/abs/2409.06330)|null|
 |**2024-09-10**|**LAMP: Learnable Meta-Path Guided Adversarial Contrastive Learning for Heterogeneous Graphs**|Siqing Li et.al.|[2409.06323](http://arxiv.org/abs/2409.06323)|null|
