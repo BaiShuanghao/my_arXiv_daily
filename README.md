@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926](http://arxiv.org/abs/2409.08926)|null|
+|**2024-09-13**|**SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments**|Zehuan Yu et.al.|[2409.08681](http://arxiv.org/abs/2409.08681)|null|
+|**2024-09-13**|**Intelligent LiDAR Navigation: Leveraging External Information and Semantic Maps with LLM as Copilot**|Fujing Xie et.al.|[2409.08493](http://arxiv.org/abs/2409.08493)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
 |**2024-09-12**|**Composing Option Sequences by Adaptation: Initial Results**|Charles A. Meehan et.al.|[2409.08195](http://arxiv.org/abs/2409.08195)|null|
@@ -127,6 +131,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**DELTA: Dual Consistency Delving with Topological Uncertainty for Active Graph Domain Adaptation**|Pengyun Wang et.al.|[2409.08946](http://arxiv.org/abs/2409.08946)|null|
+|**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926](http://arxiv.org/abs/2409.08926)|null|
+|**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 |**2024-09-12**|**A market resilient data-driven approach to option pricing**|Anindya Goswami et.al.|[2409.08205](http://arxiv.org/abs/2409.08205)|null|
 |**2024-09-12**|**Spatial Adaptation Layer: Interpretable Domain Adaptation For Biosignal Sensor Array Applications**|Joao Pereira et.al.|[2409.08058](http://arxiv.org/abs/2409.08058)|null|
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
@@ -218,6 +225,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Domain-Invariant Representation Learning of Bird Sounds**|Ilyass Moummad et.al.|[2409.08589](http://arxiv.org/abs/2409.08589)|null|
+|**2024-09-13**|**Frequency Tracking Features for Data-Efficient Deep Siren Identification**|Stefano Damiano et.al.|[2409.08587](http://arxiv.org/abs/2409.08587)|null|
 |**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
 |**2024-09-12**|**In-Situ Fine-Tuning of Wildlife Models in IoT-Enabled Camera Traps for Efficient Adaptation**|Mohammad Mehdi Rastikerdar et.al.|[2409.07796](http://arxiv.org/abs/2409.07796)|null|
 |**2024-09-11**|**Non-Invasive Glucose Prediction System Enhanced by Mixed Linear Models and Meta-Forests for Domain Generalization**|Yuyang Sun et.al.|[2409.07308](http://arxiv.org/abs/2409.07308)|null|
@@ -270,6 +279,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Knowledge-Enhanced Facial Expression Recognition with Emotional-to-Neutral Transformation**|Hangyu Li et.al.|[2409.08598](http://arxiv.org/abs/2409.08598)|null|
+|**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
+|**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
+|**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-12**|**ComAlign: Compositional Alignment in Vision-Language Models**|Ali Abdollah et.al.|[2409.08206](http://arxiv.org/abs/2409.08206)|null|
 |**2024-09-12**|**What Makes a Maze Look Like a Maze?**|Joy Hsu et.al.|[2409.08202](http://arxiv.org/abs/2409.08202)|null|
 |**2024-09-12**|**DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?**|Liqiang Jing et.al.|[2409.07703](http://arxiv.org/abs/2409.07703)|**[link](https://github.com/liqiangjing/dsbench)**|
@@ -419,6 +432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
 |**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
 |**2024-09-10**|**Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts**|Assefa Seyoum Wahd et.al.|[2409.06821](http://arxiv.org/abs/2409.06821)|null|
@@ -492,6 +506,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
+|**2024-09-13**|**Regression-based proximal causal inference for right-censored time-to-event data**|Kendrick Li et.al.|[2409.08924](http://arxiv.org/abs/2409.08924)|null|
+|**2024-09-13**|**Causal GNNs: A GNN-Driven Instrumental Variable Approach for Causal Inference in Networks**|Xiaojing Du et.al.|[2409.08544](http://arxiv.org/abs/2409.08544)|null|
 |**2024-09-12**|**Causal inference and racial bias in policing: New estimands and the importance of mobility data**|Zhuochao Huang et.al.|[2409.08059](http://arxiv.org/abs/2409.08059)|null|
 |**2024-09-11**|**Analysis of Potential Biases and Validity of Studies Using Multiverse Approaches to Assess the Impacts of Government Responses to Epidemics**|Jeremy D. Goldhaber-Fiebert et.al.|[2409.06930](http://arxiv.org/abs/2409.06930)|null|
 |**2024-09-10**|**A Liang-Kleeman Causality Analysis based on Linear Inverse Modeling**|Justin Lien et.al.|[2409.06797](http://arxiv.org/abs/2409.06797)|null|
@@ -588,6 +605,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Exploiting Supervised Poison Vulnerability to Strengthen Self-Supervised Defense**|Jeremy Styborski et.al.|[2409.08509](http://arxiv.org/abs/2409.08509)|**[link](https://github.com/JStyborski/VESPR)**|
+|**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372](http://arxiv.org/abs/2409.08372)|null|
 |**2024-09-11**|**A Cost-Aware Approach to Adversarial Robustness in Neural Networks**|Charles Meyers et.al.|[2409.07609](http://arxiv.org/abs/2409.07609)|null|
 |**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|null|
 |**2024-09-11**|**D-CAPTCHA++: A Study of Resilience of Deepfake CAPTCHA under Transferable Imperceptible Adversarial Attack**|Hong-Hanh Nguyen-Le et.al.|[2409.07390](http://arxiv.org/abs/2409.07390)|null|
