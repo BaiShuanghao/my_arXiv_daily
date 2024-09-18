@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195](http://arxiv.org/abs/2409.11195)|null|
+|**2024-09-17**|**Co-Designing Tools and Control Policies for Robust Manipulation**|Yifei Dong et.al.|[2409.11113](http://arxiv.org/abs/2409.11113)|null|
+|**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
+|**2024-09-17**|**RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**|Manthan Patel et.al.|[2409.10940](http://arxiv.org/abs/2409.10940)|null|
+|**2024-09-17**|**DIGIMON: Diagnosis and Mitigation of Sampling Skew for Reinforcement Learning based Meta-Planner in Robot Navigation**|Shiwei Feng et.al.|[2409.10832](http://arxiv.org/abs/2409.10832)|null|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
@@ -142,6 +147,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
+|**2024-09-17**|**Few-Shot Domain Adaptation for Learned Image Compression**|Tianyu Zhang et.al.|[2409.11111](http://arxiv.org/abs/2409.11111)|null|
+|**2024-09-16**|**Benchmarking Sim2Real Gap: High-fidelity Digital Twinning of Agile Manufacturing**|Sunny Katyara et.al.|[2409.10784](http://arxiv.org/abs/2409.10784)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**A Riemannian Approach to Ground Metric Learning for Optimal Transport**|Pratik Jawanpuria et.al.|[2409.10085](http://arxiv.org/abs/2409.10085)|null|
 |**2024-09-15**|**Template-based Multi-Domain Face Recognition**|Anirudh Nanduri et.al.|[2409.09832](http://arxiv.org/abs/2409.09832)|null|
@@ -298,6 +306,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|Gautier Dagan et.al.|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
+|**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**|Sina Malakouti et.al.|[2409.10719](http://arxiv.org/abs/2409.10719)|null|
+|**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|Minyoung Hwang et.al.|[2409.10683](http://arxiv.org/abs/2409.10683)|null|
 |**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488](http://arxiv.org/abs/2409.10488)|null|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
@@ -467,6 +479,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection**|Bo Liu et.al.|[2409.11114](http://arxiv.org/abs/2409.11114)|null|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-14**|**Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI**|Nicholas Pangakis et.al.|[2409.09467](http://arxiv.org/abs/2409.09467)|null|
 |**2024-09-14**|**Real-world Adversarial Defense against Patch Attacks based on Diffusion Model**|Xingxing Wei et.al.|[2409.09406](http://arxiv.org/abs/2409.09406)|null|
@@ -545,6 +558,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Performance of Cross-Validated Targeted Maximum Likelihood Estimation**|Matthew J. Smith et.al.|[2409.11265](http://arxiv.org/abs/2409.11265)|null|
+|**2024-09-17**|**Chasing Shadows: How Implausible Assumptions Skew Our Understanding of Causal Estimands**|Stijn Vansteelandt et.al.|[2409.11162](http://arxiv.org/abs/2409.11162)|null|
 |**2024-09-16**|**Causal Discovery in Recommender Systems: Example and Discussion**|Emanuele Cavenaghi et.al.|[2409.10271](http://arxiv.org/abs/2409.10271)|null|
 |**2024-09-15**|**Causal Inference with Large Language Model: A Survey**|Jing Ma et.al.|[2409.09822](http://arxiv.org/abs/2409.09822)|null|
 |**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
