@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -288,7 +288,7 @@ layout: default
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|Zhixi Cai et.al.|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
 |**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
-|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
 |**2024-09-15**|**FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots**|Bo Peng et.al.|[2409.09845](http://arxiv.org/abs/2409.09845)|null|
 |**2024-09-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al.|[2409.09788](http://arxiv.org/abs/2409.09788)|null|
 |**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|null|
