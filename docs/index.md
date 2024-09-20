@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**A machine learning framework for acoustic reflector mapping**|Usama Saqib et.al.|[2409.12094](http://arxiv.org/abs/2409.12094)|null|
-|**2024-09-18**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
+|**2024-09-19**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
 |**2024-09-18**|**Reactive Collision Avoidance for Safe Agile Navigation**|Alessandro Saviolo et.al.|[2409.11962](http://arxiv.org/abs/2409.11962)|null|
 |**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941](http://arxiv.org/abs/2409.11941)|null|
 |**2024-09-18**|**Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR**|Kelin Li et.al.|[2409.11925](http://arxiv.org/abs/2409.11925)|null|
@@ -319,7 +319,7 @@ layout: default
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|Zhixi Cai et.al.|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
 |**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
-|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-19**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
 |**2024-09-15**|**FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots**|Bo Peng et.al.|[2409.09845](http://arxiv.org/abs/2409.09845)|null|
 |**2024-09-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al.|[2409.09788](http://arxiv.org/abs/2409.09788)|null|
 |**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|null|
@@ -575,7 +575,7 @@ layout: default
 |**2024-09-09**|**Investigating Causal Cues: Strengthening Spoofed Audio Detection with Human-Discernible Linguistic Features**|Zahra Khanjani et.al.|[2409.06033](http://arxiv.org/abs/2409.06033)|null|
 |**2024-09-09**|**K-Fold Causal BART for CATE Estimation**|Hugo Gobato Souto et.al.|[2409.05665](http://arxiv.org/abs/2409.05665)|null|
 |**2024-09-09**|**Latent 3D Brain MRI Counterfactual**|Wei Peng et.al.|[2409.05585](http://arxiv.org/abs/2409.05585)|null|
-|**2024-09-09**|**Optimizing VarLiNGAM for Scalable and Efficient Time Series Causal Discovery**|Ziyang Jiao et.al.|[2409.05500](http://arxiv.org/abs/2409.05500)|null|
+|**2024-09-19**|**Optimizing VarLiNGAM for Scalable and Efficient Time Series Causal Discovery**|Ziyang Jiao et.al.|[2409.05500](http://arxiv.org/abs/2409.05500)|null|
 |**2024-09-09**|**Beyond Flatland: A Geometric Take on Matching Methods for Treatment Effect Estimation**|Melanie F. Pradier et.al.|[2409.05459](http://arxiv.org/abs/2409.05459)|null|
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
