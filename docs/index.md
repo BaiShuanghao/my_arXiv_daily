@@ -36,7 +36,7 @@ layout: default
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926](http://arxiv.org/abs/2409.08926)|null|
 |**2024-09-13**|**SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments**|Zehuan Yu et.al.|[2409.08681](http://arxiv.org/abs/2409.08681)|null|
-|**2024-09-13**|**Intelligent LiDAR Navigation: Leveraging External Information and Semantic Maps with LLM as Copilot**|Fujing Xie et.al.|[2409.08493](http://arxiv.org/abs/2409.08493)|null|
+|**2024-09-13**|**Intelligent LiDAR Navigation: Leveraging External Information and Semantic Maps with LLM as Copilot**|Fujing Xie et.al.|[2409.08493](http://arxiv.org/abs/2409.08493)|**[link](https://github.com/xiexiexiaoxiexie/intelligent-lidar-navigation-llm-as-copilot)**|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
 |**2024-09-12**|**Composing Option Sequences by Adaptation: Initial Results**|Charles A. Meehan et.al.|[2409.08195](http://arxiv.org/abs/2409.08195)|null|
@@ -329,7 +329,7 @@ layout: default
 |**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
 |**2024-09-14**|**Infrared and Visible Image Fusion with Hierarchical Human Perception**|Guang Yang et.al.|[2409.09291](http://arxiv.org/abs/2409.09291)|null|
 |**2024-09-14**|**Visuo-Tactile Zero-Shot Object Recognition with Vision-Language Model**|Shiori Ueda et.al.|[2409.09276](http://arxiv.org/abs/2409.09276)|null|
-|**2024-09-14**|**Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types**|Neelabh Sinha et.al.|[2409.09269](http://arxiv.org/abs/2409.09269)|null|
+|**2024-09-14**|**Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types**|Neelabh Sinha et.al.|[2409.09269](http://arxiv.org/abs/2409.09269)|**[link](https://github.com/neelabhsinha/vlm-selection-tasks-domains-knowledge-type)**|
 |**2024-09-13**|**Knowledge-Enhanced Facial Expression Recognition with Emotional-to-Neutral Transformation**|Hangyu Li et.al.|[2409.08598](http://arxiv.org/abs/2409.08598)|null|
 |**2024-09-13**|**ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning**|Pei Deng et.al.|[2409.08582](http://arxiv.org/abs/2409.08582)|null|
 |**2024-09-13**|**Generalization Boosted Adapter for Open-Vocabulary Segmentation**|Wenhao Xu et.al.|[2409.08468](http://arxiv.org/abs/2409.08468)|null|
@@ -368,7 +368,7 @@ layout: default
 |**2024-09-04**|**Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection**|Kaiqing Lin et.al.|[2409.02664](http://arxiv.org/abs/2409.02664)|null|
 |**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2409.02389](http://arxiv.org/abs/2409.02389)|null|
 |**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|Sanjita Prajapati et.al.|[2409.02278](http://arxiv.org/abs/2409.02278)|null|
-|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|null|
+|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|**[link](https://github.com/asgsaeid/cad_vqa)**|
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|Mazeyu Ji et.al.|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
 |**2024-09-03**|**Boosting Vision-Language Models for Histopathology Classification: Predict all at once**|Maxime Zanella et.al.|[2409.01883](http://arxiv.org/abs/2409.01883)|**[link](https://github.com/fereshteshakeri/histo-transclip)**|
@@ -584,7 +584,7 @@ layout: default
 |**2024-09-05**|**TC-LLaVA: Rethinking the Transfer from Image to Video Understanding with Temporal Considerations**|Mingze Gao et.al.|[2409.03206](http://arxiv.org/abs/2409.03206)|null|
 |**2024-09-04**|**Co-Developing Causal Graphs with Domain Experts Guided by Weighted FDR-Adjusted p-values**|Eli Y. Kling et.al.|[2409.03126](http://arxiv.org/abs/2409.03126)|null|
 |**2024-09-05**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
-|**2024-09-03**|**Formalizing the causal interpretation in accelerated failure time models with unmeasured heterogeneity**|Mari Brathovde et.al.|[2409.01983](http://arxiv.org/abs/2409.01983)|null|
+|**2024-09-03**|**Formalizing the causal interpretation in accelerated failure time models with unmeasured heterogeneity**|Mari Brathovde et.al.|[2409.01983](http://arxiv.org/abs/2409.01983)|**[link](https://github.com/marbrath/causal_AFT)**|
 |**2024-09-02**|**Estimating Heterogenous Treatment Effects for Survival Data with Doubly Doubly Robust Estimator**|Guanghui Pan et.al.|[2409.01412](http://arxiv.org/abs/2409.01412)|null|
 |**2024-09-02**|**Plasmode simulation for the evaluation of causal inference methods in homophilous social networks**|Vanessa McNealis et.al.|[2409.01316](http://arxiv.org/abs/2409.01316)|null|
 |**2024-08-31**|**Bayesian nonparametric mixtures of categorical directed graphs for heterogeneous causal inference**|Federico Castelletti et.al.|[2409.00453](http://arxiv.org/abs/2409.00453)|null|
@@ -650,7 +650,7 @@ layout: default
 |**2024-08-08**|**Difference-in-Differences for Health Policy and Practice: A Review of Modern Methods**|Shuo Feng et.al.|[2408.04617](http://arxiv.org/abs/2408.04617)|null|
 |**2024-08-08**|**Causal Inference in Social Platforms Under Approximate Interference Networks**|Yiming Jiang et.al.|[2408.04441](http://arxiv.org/abs/2408.04441)|null|
 |**2024-08-08**|**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**|Dongqi Fu et.al.|[2408.04254](http://arxiv.org/abs/2408.04254)|null|
-|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|null|
+|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558](http://arxiv.org/abs/2408.02558)|**[link](https://github.com/99Catherine99/peer-induced-fairness)**|
 |**2024-08-04**|**A Multi-class Ride-hailing Service Subsidy System Utilizing Deep Causal Networks**|Zhe Yu et.al.|[2408.02065](http://arxiv.org/abs/2408.02065)|null|
 |**2024-08-04**|**DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation**|Qinshuo Liu et.al.|[2408.02045](http://arxiv.org/abs/2408.02045)|**[link](https://github.com/liuqs111/DNA-SE)**|
 |**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|**[link](https://github.com/user683/CausalDiffRec)**|
@@ -690,7 +690,7 @@ layout: default
 |**2024-09-02**|**Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness**|Giorgio Piras et.al.|[2409.01249](http://arxiv.org/abs/2409.01249)|**[link](https://github.com/pralab/adversarialpruningbenchmark)**|
 |**2024-08-31**|**Lyapunov Neural ODE Feedback Control Policies**|Joshua Hang Sai Ip et.al.|[2409.00393](http://arxiv.org/abs/2409.00393)|null|
 |**2024-08-31**|**LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models**|Hossein Khalili et.al.|[2409.00340](http://arxiv.org/abs/2409.00340)|null|
-|**2024-08-30**|**MedDet: Generative Adversarial Distillation for Efficient Cervical Disc Herniation Detection**|Zeyu Zhang et.al.|[2409.00204](http://arxiv.org/abs/2409.00204)|null|
+|**2024-08-30**|**MedDet: Generative Adversarial Distillation for Efficient Cervical Disc Herniation Detection**|Zeyu Zhang et.al.|[2409.00204](http://arxiv.org/abs/2409.00204)|**[link](https://github.com/steve-zeyu-zhang/MedDet)**|
 |**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
 |**2024-08-30**|**Causal Representation-Based Domain Generalization on Gaze Estimation**|Younghan Kim et.al.|[2408.16964](http://arxiv.org/abs/2408.16964)|null|
 |**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807](http://arxiv.org/abs/2408.16807)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
