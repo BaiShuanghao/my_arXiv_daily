@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -484,7 +484,7 @@ layout: default
 |**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-20**|**Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection**|Bo Liu et.al.|[2409.11114](http://arxiv.org/abs/2409.11114)|null|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
-|**2024-09-14**|**Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI**|Nicholas Pangakis et.al.|[2409.09467](http://arxiv.org/abs/2409.09467)|null|
+|**2024-09-21**|**Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI**|Nicholas Pangakis et.al.|[2409.09467](http://arxiv.org/abs/2409.09467)|null|
 |**2024-09-14**|**Real-world Adversarial Defense against Patch Attacks based on Diffusion Model**|Xingxing Wei et.al.|[2409.09406](http://arxiv.org/abs/2409.09406)|**[link](https://github.com/kkkcx/diffender)**|
 |**2024-09-14**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
 |**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
