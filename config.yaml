@@ -40,7 +40,8 @@ keywords:
 
     # --------- My Keywords ---------
     "Robotics":
-        filters: ["Embodied Agent", "Robot Manipulation", "Robot Navigation", "Robot Grasp", "Grasp"]
+        filters: ["Embodied Agent", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", 
+            "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model"]
     "DA":
         filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation"]
     "DG":
