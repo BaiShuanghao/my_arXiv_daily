@@ -123,7 +123,7 @@ layout: default
 |**2024-09-07**|**Dual-stream Feature Augmentation for Domain Generalization**|Shanshan Wang et.al.|[2409.04699](http://arxiv.org/abs/2409.04699)|**[link](https://github.com/alusi123/dfa)**|
 |**2024-09-04**|**Domain-Guided Weight Modulation for Semi-Supervised Domain Generalization**|Chamuditha Jayanaga Galappaththige et.al.|[2409.03509](http://arxiv.org/abs/2409.03509)|**[link](https://github.com/Chumsy0725/DGWM)**|
 |**2024-09-04**|**Towards Data-Centric Face Anti-Spoofing: Improving Cross-domain Generalization via Physics-based Data Synthesis**|Rizhao Cai et.al.|[2409.03501](http://arxiv.org/abs/2409.03501)|null|
-|**2024-09-23**|**An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification**|Zhuowei Chen et.al.|[2409.03203](http://arxiv.org/abs/2409.03203)|null|
+|**2024-09-23**|**An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification**|Zhuowei Chen et.al.|[2409.03203](http://arxiv.org/abs/2409.03203)|**[link](https://github.com/johnnychanv/diffusioncls)**|
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
