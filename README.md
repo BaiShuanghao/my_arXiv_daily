@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283](http://arxiv.org/abs/2409.16283)|null|
+|**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
+|**2024-09-24**|**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**|Wenhao Yu et.al.|[2409.16030](http://arxiv.org/abs/2409.16030)|null|
+|**2024-09-24**|**AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility**|Wenli Xiao et.al.|[2409.15783](http://arxiv.org/abs/2409.15783)|null|
+|**2024-09-24**|**Autonomous Hiking Trail Navigation via Semantic Segmentation and Geometric Analysis**|Camndon Reed et.al.|[2409.15671](http://arxiv.org/abs/2409.15671)|null|
+|**2024-09-24**|**SurgIRL: Towards Life-Long Learning for Surgical Automation by Incremental Reinforcement Learning**|Yun-Jie Ho et.al.|[2409.15651](http://arxiv.org/abs/2409.15651)|null|
+|**2024-09-23**|**XMoP: Whole-Body Control Policy for Zero-shot Cross-Embodiment Neural Motion Planning**|Prabin Kumar Rath et.al.|[2409.15585](http://arxiv.org/abs/2409.15585)|null|
+|**2024-09-23**|**Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance**|Kin Man Lee et.al.|[2409.15528](http://arxiv.org/abs/2409.15528)|null|
+|**2024-09-23**|**KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems**|Zixuan Wang et.al.|[2409.14908](http://arxiv.org/abs/2409.14908)|null|
+|**2024-09-23**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891](http://arxiv.org/abs/2409.14891)|null|
+|**2024-09-23**|**Learning Koopman Dynamics for Safe Legged Locomotion with Reinforcement Learning-based Controller**|Jeonghwan Kim et.al.|[2409.14736](http://arxiv.org/abs/2409.14736)|null|
+|**2024-09-23**|**Bimanual In-hand Manipulation using Dual Limit Surfaces**|An Dang et.al.|[2409.14698](http://arxiv.org/abs/2409.14698)|null|
+|**2024-09-23**|**RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning**|Yinpei Dai et.al.|[2409.14674](http://arxiv.org/abs/2409.14674)|null|
+|**2024-09-22**|**Learning to Refine Input Constrained Control Barrier Functions via Uncertainty-Aware Online Parameter Adaptation**|Taekyung Kim et.al.|[2409.14616](http://arxiv.org/abs/2409.14616)|null|
+|**2024-09-22**|**A Comparative Study on State-Action Spaces for Learning Viewpoint Selection and Manipulation with Diffusion Policy**|Xiatao Sun et.al.|[2409.14615](http://arxiv.org/abs/2409.14615)|null|
+|**2024-09-22**|**Visual-auditory Extrinsic Contact Estimation**|Xili Yi et.al.|[2409.14608](http://arxiv.org/abs/2409.14608)|null|
+|**2024-09-22**|**Contact Compliance Visuo-Proprioceptive Policy for Contact-Rich Manipulation with Cost-Efficient Haptic Hand-Arm Teleoperation System**|Bo Zhou et.al.|[2409.14440](http://arxiv.org/abs/2409.14440)|null|
+|**2024-09-22**|**Adaptive Compensation for Robotic Joint Failures Using Partially Observable Reinforcement Learning**|Tan-Hanh Pham et.al.|[2409.14435](http://arxiv.org/abs/2409.14435)|null|
+|**2024-09-22**|**Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation**|Minjie Zhu et.al.|[2409.14411](http://arxiv.org/abs/2409.14411)|null|
+|**2024-09-25**|**D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation**|Songlin Wei et.al.|[2409.14365](http://arxiv.org/abs/2409.14365)|null|
 |**2024-09-18**|**A machine learning framework for acoustic reflector mapping**|Usama Saqib et.al.|[2409.12094](http://arxiv.org/abs/2409.12094)|null|
 |**2024-09-18**|**Generalized Robot Learning Framework**|Jiahuan Yan et.al.|[2409.12061](http://arxiv.org/abs/2409.12061)|null|
 |**2024-09-19**|**Representing Positional Information in Generative World Models for Object Manipulation**|Stefano Ferraro et.al.|[2409.12005](http://arxiv.org/abs/2409.12005)|null|
@@ -39,12 +59,31 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## DA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-24**|**Multilingual Transfer and Domain Adaptation for Low-Resource Languages of Spain**|Yuanchang Luo et.al.|[2409.15924](http://arxiv.org/abs/2409.15924)|null|
+|**2024-09-24**|**Unsupervised Attention Regularization Based Domain Adaptation for Oracle Character Recognition**|Mei Wang et.al.|[2409.15893](http://arxiv.org/abs/2409.15893)|null|
+|**2024-09-24**|**Layer-wise Model Merging for Unsupervised Domain Adaptation in Segmentation Tasks**|Roberto Alcover-Couso et.al.|[2409.15813](http://arxiv.org/abs/2409.15813)|null|
+|**2024-09-24**|**EvoFA: Evolvable Fast Adaptation for EEG Emotion Recognition**|Ming Jin et.al.|[2409.15733](http://arxiv.org/abs/2409.15733)|null|
+|**2024-09-23**|**UDA-Bench: Revisiting Common Assumptions in Unsupervised Domain Adaptation Using a Standardized Framework**|Tarun Kalluri et.al.|[2409.15264](http://arxiv.org/abs/2409.15264)|null|
+|**2024-09-23**|**Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
+|**2024-09-23**|**FUSED-Net: Enhancing Few-Shot Traffic Sign Detection with Unfrozen Parameters, Pseudo-Support Sets, Embedding Normalization, and Domain Adaptation**|Md. Atiqur Rahman et.al.|[2409.14852](http://arxiv.org/abs/2409.14852)|null|
+|**2024-09-23**|**Quantifying Context Bias in Domain Adaptation for Object Detection**|Hojun Son et.al.|[2409.14679](http://arxiv.org/abs/2409.14679)|null|
+|**2024-09-22**|**LLMs are One-Shot URL Classifiers and Explainers**|Fariza Rashid et.al.|[2409.14306](http://arxiv.org/abs/2409.14306)|null|
+|**2024-09-21**|**MSSDA: Multi-Sub-Source Adaptation for Diabetic Foot Neuropathy Recognition**|Yan Zhong et.al.|[2409.14154](http://arxiv.org/abs/2409.14154)|null|
+|**2024-09-20**|**LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR**|Iuliia Thorbecke et.al.|[2409.13514](http://arxiv.org/abs/2409.13514)|null|
+|**2024-09-20**|**Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts**|Florian Boudin et.al.|[2409.13266](http://arxiv.org/abs/2409.13266)|null|
+|**2024-09-20**|**Unsupervised Attention-Based Multi-Source Domain Adaptation Framework for Drift Compensation in Electronic Nose Systems**|Wenwen Zhang et.al.|[2409.13167](http://arxiv.org/abs/2409.13167)|null|
+|**2024-09-20**|**Investigation on domain adaptation of additive manufacturing monitoring systems to enhance digital twin reusability**|Jiarui Xie et.al.|[2409.12785](http://arxiv.org/abs/2409.12785)|null|
+|**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
+|**2024-09-19**|**LARE: Latent Augmentation using Regional Embedding with Vision-Language Model**|Kosuke Sakurai et.al.|[2409.12597](http://arxiv.org/abs/2409.12597)|null|
+|**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
+|**2024-09-19**|**Channel-Aware Domain-Adaptive Generative Adversarial Network for Robust Speech Recognition**|Chien-Chun Wang et.al.|[2409.12386](http://arxiv.org/abs/2409.12386)|**[link](https://github.com/jethrowangsir/cada-gan)**|
 |**2024-09-12**|**LogoRA: Local-Global Representation Alignment for Robust Time Series Classification**|Huanyu Zhang et.al.|[2409.12169](http://arxiv.org/abs/2409.12169)|null|
 |**2024-09-18**|**Unsupervised Domain Adaptation Via Data Pruning**|Andrea Napoli et.al.|[2409.12076](http://arxiv.org/abs/2409.12076)|null|
 |**2024-09-18**|**SFDA-rPPG: Source-Free Domain Adaptive Remote Physiological Measurement with Spatio-Temporal Consistency**|Yiping Xie et.al.|[2409.12040](http://arxiv.org/abs/2409.12040)|null|
@@ -66,18 +105,26 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**FedGCA: Global Consistent Augmentation Based Single-Source Federated Domain Generalization**|Yuan Liu et.al.|[2409.14671](http://arxiv.org/abs/2409.14671)|null|
+|**2024-09-21**|**Characterizing graph-nonedge pairs with single interval Cayley configuration spaces in 3-dimensions**|William Sims et.al.|[2409.14227](http://arxiv.org/abs/2409.14227)|null|
+|**2024-09-21**|**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**|Haoran Zhang et.al.|[2409.14163](http://arxiv.org/abs/2409.14163)|null|
+|**2024-09-21**|**Soft Segmented Randomization: Enhancing Domain Generalization in SAR-ATR for Synthetic-to-Measured**|Minjun Kim et.al.|[2409.14060](http://arxiv.org/abs/2409.14060)|null|
+|**2024-09-20**|**Learning to Generalize Unseen Domains via Multi-Source Meta Learning for Text Classification**|Yuxuan Hu et.al.|[2409.13787](http://arxiv.org/abs/2409.13787)|null|
+|**2024-09-23**|**Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures**|Avi Deb Raha et.al.|[2409.13527](http://arxiv.org/abs/2409.13527)|null|
+|**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
+|**2024-09-19**|**Domain Generalization for Endoscopic Image Segmentation by Disentangling Style-Content Information and SuperPixel Consistency**|Mansoor Ali Teevno et.al.|[2409.12450](http://arxiv.org/abs/2409.12450)|null|
 |**2024-09-18**|**SFDA-rPPG: Source-Free Domain Adaptive Remote Physiological Measurement with Spatio-Temporal Consistency**|Yiping Xie et.al.|[2409.12040](http://arxiv.org/abs/2409.12040)|null|
 |**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-15**|**Template-based Multi-Domain Face Recognition**|Anirudh Nanduri et.al.|[2409.09832](http://arxiv.org/abs/2409.09832)|null|
 |**2024-09-15**|**Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition**|Cagri Gungor et.al.|[2409.09611](http://arxiv.org/abs/2409.09611)|null|
 |**2024-09-13**|**DomURLs_BERT: Pre-trained BERT-based Model for Malicious Domains and URLs Detection and Classification**|Abdelkader El Mahdaouy et.al.|[2409.09143](http://arxiv.org/abs/2409.09143)|**[link](https://github.com/AbdelkaderMH/DomURLs_BERT)**|
-|**2024-09-20**|**Domain-Invariant Representation Learning of Bird Sounds**|Ilyass Moummad et.al.|[2409.08589](http://arxiv.org/abs/2409.08589)|**[link](https://github.com/ilyassmoummad/ProtoCLR)**|
+|**2024-09-25**|**Domain-Invariant Representation Learning of Bird Sounds**|Ilyass Moummad et.al.|[2409.08589](http://arxiv.org/abs/2409.08589)|**[link](https://github.com/ilyassmoummad/ProtoCLR)**|
 |**2024-09-13**|**Frequency Tracking Features for Data-Efficient Deep Siren Identification**|Stefano Damiano et.al.|[2409.08587](http://arxiv.org/abs/2409.08587)|**[link](https://github.com/stedamiano/anf-siren-identification)**|
 |**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
 |**2024-09-12**|**In-Situ Fine-Tuning of Wildlife Models in IoT-Enabled Camera Traps for Efficient Adaptation**|Mohammad Mehdi Rastikerdar et.al.|[2409.07796](http://arxiv.org/abs/2409.07796)|null|
@@ -93,12 +140,32 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**ComiCap: A VLMs pipeline for dense captioning of Comic Panels**|Emanuele Vivoli et.al.|[2409.16159](http://arxiv.org/abs/2409.16159)|**[link](https://github.com/emanuelevivoli/comicap)**|
+|**2024-09-24**|**Bridging Environments and Language with Rendering Functions and Vision-Language Models**|Theo Cachet et.al.|[2409.16024](http://arxiv.org/abs/2409.16024)|null|
+|**2024-09-24**|**Overcoming Reward Model Noise in Instruction-Guided Reinforcement Learning**|Sukai Huang et.al.|[2409.15922](http://arxiv.org/abs/2409.15922)|null|
+|**2024-09-24**|**ReLEP: A Novel Framework for Real-world Long-horizon Embodied Planning**|Siyuan Liu et.al.|[2409.15658](http://arxiv.org/abs/2409.15658)|null|
+|**2024-09-23**|**Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model**|Jing Wei Tan et.al.|[2409.15574](http://arxiv.org/abs/2409.15574)|null|
+|**2024-09-23**|**Discovering Object Attributes by Prompting Large Language Models with Perception-Action APIs**|Angelos Mavrogiannis et.al.|[2409.15505](http://arxiv.org/abs/2409.15505)|null|
+|**2024-09-23**|**VLMine: Long-Tail Data Mining with Vision Language Models**|Mao Ye et.al.|[2409.15486](http://arxiv.org/abs/2409.15486)|null|
+|**2024-09-23**|**Behavioral Bias of Vision-Language Models: A Behavioral Finance View**|Yuhang Xiao et.al.|[2409.15256](http://arxiv.org/abs/2409.15256)|null|
+|**2024-09-23**|**Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models**|Anil Osman Tur et.al.|[2409.14963](http://arxiv.org/abs/2409.14963)|null|
+|**2024-09-23**|**With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models**|Tyler Loakman et.al.|[2409.14917](http://arxiv.org/abs/2409.14917)|null|
+|**2024-09-23**|**A-VL: Adaptive Attention for Large Vision-Language Models**|Junyang Zhang et.al.|[2409.14846](http://arxiv.org/abs/2409.14846)|null|
+|**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|null|
+|**2024-09-23**|**MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations**|Gia-Bao Dinh Ho et.al.|[2409.14801](http://arxiv.org/abs/2409.14801)|null|
+|**2024-09-23**|**Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models**|Patrick Amadeus Irawan et.al.|[2409.14785](http://arxiv.org/abs/2409.14785)|null|
+|**2024-09-23**|**VLM's Eye Examination: Instruct and Inspect Visual Competency of Vision Language Models**|Nam Hyeon-Woo et.al.|[2409.14759](http://arxiv.org/abs/2409.14759)|null|
+|**2024-09-23**|**RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning**|Yinpei Dai et.al.|[2409.14674](http://arxiv.org/abs/2409.14674)|null|
+|**2024-09-22**|**Patch Ranking: Efficient CLIP by Learning to Rank Local Patches**|Cheng-En Wu et.al.|[2409.14607](http://arxiv.org/abs/2409.14607)|null|
+|**2024-09-22**|**Updating Robot Safety Representations Online from Natural Language Feedback**|Leonardo Santos et.al.|[2409.14580](http://arxiv.org/abs/2409.14580)|null|
+|**2024-09-24**|**Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**|Yan Shu et.al.|[2409.14485](http://arxiv.org/abs/2409.14485)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941](http://arxiv.org/abs/2409.11941)|null|
@@ -120,18 +187,26 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint**|Sixiang Chen et.al.|[2409.15739](http://arxiv.org/abs/2409.15739)|null|
+|**2024-09-24**|**Federated Large Language Models: Current Progress and Future Directions**|Yuhang Yao et.al.|[2409.15723](http://arxiv.org/abs/2409.15723)|null|
+|**2024-09-25**|**M^2PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning**|Taowen Wang et.al.|[2409.15657](http://arxiv.org/abs/2409.15657)|**[link](https://github.com/william-wang618/mmpt-emnlp2024)**|
+|**2024-09-10**|**Advertiser Content Understanding via LLMs for Google Ads Safety**|Joseph Wallace et.al.|[2409.15343](http://arxiv.org/abs/2409.15343)|null|
+|**2024-09-22**|**URSimulator: Human-Perception-Driven Prompt Tuning for Enhanced Virtual Urban Renewal via Diffusion Models**|Chuanbo Hu et.al.|[2409.14589](http://arxiv.org/abs/2409.14589)|null|
+|**2024-09-10**|**TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**|HuangChao Xu et.al.|[2409.13732](http://arxiv.org/abs/2409.13732)|null|
+|**2024-09-20**|**Cross-Target Stance Detection: A Survey of Techniques, Datasets, and Challenges**|Parisa Jamadi Khiabani et.al.|[2409.13594](http://arxiv.org/abs/2409.13594)|null|
+|**2024-09-20**|**Region Prompt Tuning: Fine-grained Scene Text Detection Utilizing Region Text Prompt**|Xingtao Lin et.al.|[2409.13576](http://arxiv.org/abs/2409.13576)|null|
 |**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-20**|**Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection**|Bo Liu et.al.|[2409.11114](http://arxiv.org/abs/2409.11114)|null|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-21**|**Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI**|Nicholas Pangakis et.al.|[2409.09467](http://arxiv.org/abs/2409.09467)|null|
 |**2024-09-14**|**Real-world Adversarial Defense against Patch Attacks based on Diffusion Model**|Xingxing Wei et.al.|[2409.09406](http://arxiv.org/abs/2409.09406)|**[link](https://github.com/kkkcx/diffender)**|
-|**2024-09-14**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
+|**2024-09-25**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
 |**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
 |**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
@@ -147,12 +222,26 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Causal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927](http://arxiv.org/abs/2409.15927)|null|
+|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
+|**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682](http://arxiv.org/abs/2409.15682)|null|
+|**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
+|**2024-09-23**|**From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding**|Henri Arno et.al.|[2409.15503](http://arxiv.org/abs/2409.15503)|null|
+|**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219](http://arxiv.org/abs/2409.15219)|null|
+|**2024-09-22**|**Testing Causal Models with Hidden Variables in Polynomial Delay via Conditional Independencies**|Hyunchai Jeong et.al.|[2409.14593](http://arxiv.org/abs/2409.14593)|null|
+|**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[2409.14488](http://arxiv.org/abs/2409.14488)|null|
+|**2024-09-21**|**Mining Causality: AI-Assisted Search for Instrumental Variables**|Sukjin Han et.al.|[2409.14202](http://arxiv.org/abs/2409.14202)|null|
+|**2024-09-20**|**Causal Reinforcement Learning for Optimisation of Robot Dynamics in Unknown Environments**|Julian Gerald Dcruz et.al.|[2409.13423](http://arxiv.org/abs/2409.13423)|null|
+|**2024-09-19**|**Incremental Causal Effect for Time to Treatment Initialization**|Andrew Ying et.al.|[2409.13097](http://arxiv.org/abs/2409.13097)|null|
+|**2024-09-19**|**Forecasting Causal Effects of Future Interventions: Confounding and Transportability Issues**|Laura Forastiere et.al.|[2409.13060](http://arxiv.org/abs/2409.13060)|null|
+|**2024-09-19**|**Bridging the Gap Between Design and Analysis: Randomization Inference and Sensitivity Analysis for Matched Observational Studies with Treatment Doses**|Jeffrey Zhang et.al.|[2409.12848](http://arxiv.org/abs/2409.12848)|null|
+|**2024-09-22**|**A Way to Synthetic Triple Difference**|Castiel Chen Zhuang et.al.|[2409.12353](http://arxiv.org/abs/2409.12353)|null|
 |**2024-09-18**|**Incremental effects for continuous exposures**|Kyle Schindl et.al.|[2409.11967](http://arxiv.org/abs/2409.11967)|null|
 |**2024-09-18**|**Bias Reduction in Matched Observational Studies with Continuous Treatments: Calipered Non-Bipartite Matching and Bias-Corrected Estimation and Inference**|Anthony Frazier et.al.|[2409.11701](http://arxiv.org/abs/2409.11701)|null|
 |**2024-09-18**|**Performance of Cross-Validated Targeted Maximum Likelihood Estimation**|Matthew J. Smith et.al.|[2409.11265](http://arxiv.org/abs/2409.11265)|**[link](https://github.com/mattyjsmith/CVTMLE)**|
@@ -174,12 +263,23 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Adversarial
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches**|Elena Gribelyuk et.al.|[2409.16153](http://arxiv.org/abs/2409.16153)|null|
+|**2024-09-24**|**Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT**|Jixuan Cui et.al.|[2409.15711](http://arxiv.org/abs/2409.15711)|null|
+|**2024-09-23**|**Improving Adversarial Robustness for 3D Point Cloud Recognition at Test-Time through Purified Self-Training**|Jinpeng Lin et.al.|[2409.14940](http://arxiv.org/abs/2409.14940)|null|
+|**2024-09-23**|**Advancing Video Quality Assessment for AIGC**|Xinli Yue et.al.|[2409.14888](http://arxiv.org/abs/2409.14888)|null|
+|**2024-09-21**|**ChronoGAN: Supervised and Embedded Generative Adversarial Networks for Time Series Generation**|MohammadReza EskandariNasab et.al.|[2409.14013](http://arxiv.org/abs/2409.14013)|null|
+|**2024-09-20**|**Efficient Visualization of Neural Networks with Generative Models and Adversarial Perturbations**|Athanasios Karagounis et.al.|[2409.13559](http://arxiv.org/abs/2409.13559)|null|
+|**2024-09-20**|**Certified Adversarial Robustness via Partition-based Randomized Smoothing**|Hossein Goli et.al.|[2409.13546](http://arxiv.org/abs/2409.13546)|null|
+|**2024-09-19**|**FedAT: Federated Adversarial Training for Distributed Insider Threat Detection**|R G Gayathri et.al.|[2409.13083](http://arxiv.org/abs/2409.13083)|null|
+|**2024-09-19**|**VCAT: Vulnerability-aware and Curiosity-driven Adversarial Training for Enhancing Autonomous Vehicle Robustness**|Xuan Cai et.al.|[2409.12997](http://arxiv.org/abs/2409.12997)|null|
+|**2024-09-19**|**Revisiting Semi-supervised Adversarial Robustness via Noise-aware Online Robust Distillation**|Tsung-Han Wu et.al.|[2409.12946](http://arxiv.org/abs/2409.12946)|null|
+|**2024-09-19**|**Enhancing 3D Robotic Vision Robustness by Minimizing Adversarial Mutual Information through a Curriculum Training Approach**|Nastaran Darabi et.al.|[2409.12379](http://arxiv.org/abs/2409.12379)|**[link](https://github.com/nstrndrbi/mine-n-learn)**|
 |**2024-09-12**|**LogoRA: Local-Global Representation Alignment for Robust Time Series Classification**|Huanyu Zhang et.al.|[2409.12169](http://arxiv.org/abs/2409.12169)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**NPAT Null-Space Projected Adversarial Training Towards Zero Deterioration**|Hanyi Hu et.al.|[2409.11754](http://arxiv.org/abs/2409.11754)|null|
@@ -201,5 +301,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
