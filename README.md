@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084](http://arxiv.org/abs/2409.18084)|null|
+|**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
+|**2024-09-26**|**SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning**|Rimvydas Rubavicius et.al.|[2409.17755](http://arxiv.org/abs/2409.17755)|null|
+|**2024-09-26**|**AP-VLM: Active Perception Enabled by Vision-Language Models**|Venkatesh Sripada et.al.|[2409.17641](http://arxiv.org/abs/2409.17641)|null|
+|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
+|**2024-09-26**|**Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation**|Ian Chuang et.al.|[2409.17435](http://arxiv.org/abs/2409.17435)|null|
 |**2024-09-25**|**Enhancing robot reliability for health-care facilities by means of Human-Aware Navigation Planning**|Olga E. Sorokoletova et.al.|[2409.17131](http://arxiv.org/abs/2409.17131)|null|
 |**2024-09-25**|**PokeFlex: Towards a Real-World Dataset of Deformable Objects for Robotic Manipulation**|Jan Obrist et.al.|[2409.17124](http://arxiv.org/abs/2409.17124)|null|
 |**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915](http://arxiv.org/abs/2409.16915)|null|
@@ -77,6 +83,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987](http://arxiv.org/abs/2409.17987)|null|
+|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899](http://arxiv.org/abs/2409.17899)|null|
+|**2024-09-26**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|Jiahao Lyu et.al.|[2409.17608](http://arxiv.org/abs/2409.17608)|null|
+|**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332](http://arxiv.org/abs/2409.17332)|null|
 |**2024-09-25**|**PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization**|Yao Ni et.al.|[2409.17137](http://arxiv.org/abs/2409.17137)|null|
 |**2024-09-25**|**Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation**|Hanyu Zhou et.al.|[2409.17001](http://arxiv.org/abs/2409.17001)|null|
 |**2024-09-25**|**Source-Free Domain Adaptation for YOLO Object Detection**|Simon Varailhon et.al.|[2409.16538](http://arxiv.org/abs/2409.16538)|null|
@@ -126,6 +136,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**InterNet: Unsupervised Cross-modal Homography Estimation Based on Interleaved Modality Transfer and Self-supervised Homography Prediction**|Junchen Yu et.al.|[2409.17993](http://arxiv.org/abs/2409.17993)|null|
+|**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899](http://arxiv.org/abs/2409.17899)|null|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**Advancing Open-Set Domain Generalization Using Evidential Bi-Level Hardest Domain Scheduler**|Kunyu Peng et.al.|[2409.17555](http://arxiv.org/abs/2409.17555)|**[link](https://github.com/kpeng9510/ebil-hads)**|
 |**2024-09-25**|**Benchmarking Domain Generalization Algorithms in Computational Pathology**|Neda Zamanitajeddin et.al.|[2409.17063](http://arxiv.org/abs/2409.17063)|null|
 |**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984](http://arxiv.org/abs/2409.16984)|null|
 |**2024-09-25**|**IRASNet: Improved Feature-Level Clutter Reduction for Domain Generalized SAR-ATR**|Oh-Tae Jang et.al.|[2409.16845](http://arxiv.org/abs/2409.16845)|null|
@@ -164,6 +178,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
+|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
+|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
+|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
+|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958](http://arxiv.org/abs/2409.17958)|null|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications**|Nghia Nguyen et.al.|[2409.17727](http://arxiv.org/abs/2409.17727)|null|
+|**2024-09-26**|**AP-VLM: Active Perception Enabled by Vision-Language Models**|Venkatesh Sripada et.al.|[2409.17641](http://arxiv.org/abs/2409.17641)|null|
+|**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|Huixin Sun et.al.|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
+|**2024-09-26**|**Leveraging Semantic and Geometric Information for Zero-Shot Robot-to-Human Handover**|Jiangshan Liu et.al.|[2409.17621](http://arxiv.org/abs/2409.17621)|null|
+|**2024-09-26**|**ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue**|Zhangpu Li et.al.|[2409.17610](http://arxiv.org/abs/2409.17610)|null|
+|**2024-09-26**|**Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization**|Kento Kawaharazuka et.al.|[2409.17519](http://arxiv.org/abs/2409.17519)|null|
+|**2024-09-26**|**CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches**|Sifan Wu et.al.|[2409.17457](http://arxiv.org/abs/2409.17457)|null|
+|**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|Liangyu Zhong et.al.|[2409.17330](http://arxiv.org/abs/2409.17330)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
 |**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|Bowen Zhao et.al.|[2409.17080](http://arxiv.org/abs/2409.17080)|null|
@@ -218,6 +246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**RmGPT: Rotating Machinery Generative Pretrained Model**|Yilin Wang et.al.|[2409.17604](http://arxiv.org/abs/2409.17604)|null|
+|**2024-09-26**|**What Would Happen Next? Predicting Consequences from An Event Causality Graph**|Chuanhong Zhan et.al.|[2409.17480](http://arxiv.org/abs/2409.17480)|null|
 |**2024-09-25**|**Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification**|Ming Li et.al.|[2409.16718](http://arxiv.org/abs/2409.16718)|**[link](https://github.com/minglllli/clipfit)**|
 |**2024-09-24**|**Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint**|Sixiang Chen et.al.|[2409.15739](http://arxiv.org/abs/2409.15739)|null|
 |**2024-09-24**|**Federated Large Language Models: Current Progress and Future Directions**|Yuhang Yao et.al.|[2409.15723](http://arxiv.org/abs/2409.15723)|null|
@@ -254,6 +285,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|null|
+|**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|null|
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
 |**2024-09-25**|**Random Forest Regression Feature Importance for Climate Impact Pathway Detection**|Meredith G. L. Brown et.al.|[2409.16609](http://arxiv.org/abs/2409.16609)|null|
 |**2024-09-24**|**Towards Representation Learning for Weighting Problems in Design-Based Causal Inference**|Oscar Clivio et.al.|[2409.16407](http://arxiv.org/abs/2409.16407)|null|
@@ -298,6 +331,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Improving Fast Adversarial Training via Self-Knowledge Guidance**|Chengze Jiang et.al.|[2409.17589](http://arxiv.org/abs/2409.17589)|null|
+|**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
 |**2024-09-24**|**A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches**|Elena Gribelyuk et.al.|[2409.16153](http://arxiv.org/abs/2409.16153)|null|
 |**2024-09-24**|**Adversarial Federated Consensus Learning for Surface Defect Classification Under Data Heterogeneity in IIoT**|Jixuan Cui et.al.|[2409.15711](http://arxiv.org/abs/2409.15711)|null|
 |**2024-09-23**|**Improving Adversarial Robustness for 3D Point Cloud Recognition at Test-Time through Purified Self-Training**|Jinpeng Lin et.al.|[2409.14940](http://arxiv.org/abs/2409.14940)|null|
