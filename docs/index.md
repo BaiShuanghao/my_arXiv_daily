@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -23,7 +23,7 @@ layout: default
 |**2024-09-24**|**Embedded IPC: Fast and Intersection-free Simulation in Reduced Subspace for Robot Manipulation**|Wenxin Du et.al.|[2409.16385](http://arxiv.org/abs/2409.16385)|null|
 |**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283](http://arxiv.org/abs/2409.16283)|null|
 |**2024-09-24**|**Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**|Utkarsh A. Mishra et.al.|[2409.16275](http://arxiv.org/abs/2409.16275)|null|
-|**2024-09-24**|**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**|Wenhao Yu et.al.|[2409.16030](http://arxiv.org/abs/2409.16030)|null|
+|**2024-09-25**|**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**|Wenhao Yu et.al.|[2409.16030](http://arxiv.org/abs/2409.16030)|null|
 |**2024-09-24**|**AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility**|Wenli Xiao et.al.|[2409.15783](http://arxiv.org/abs/2409.15783)|null|
 |**2024-09-24**|**Autonomous Hiking Trail Navigation via Semantic Segmentation and Geometric Analysis**|Camndon Reed et.al.|[2409.15671](http://arxiv.org/abs/2409.15671)|null|
 |**2024-09-24**|**SurgIRL: Towards Life-Long Learning for Surgical Automation by Incremental Reinforcement Learning**|Yun-Jie Ho et.al.|[2409.15651](http://arxiv.org/abs/2409.15651)|null|
@@ -75,7 +75,7 @@ layout: default
 |**2024-09-24**|**Layer-wise Model Merging for Unsupervised Domain Adaptation in Segmentation Tasks**|Roberto Alcover-Couso et.al.|[2409.15813](http://arxiv.org/abs/2409.15813)|null|
 |**2024-09-24**|**EvoFA: Evolvable Fast Adaptation for EEG Emotion Recognition**|Ming Jin et.al.|[2409.15733](http://arxiv.org/abs/2409.15733)|null|
 |**2024-09-23**|**UDA-Bench: Revisiting Common Assumptions in Unsupervised Domain Adaptation Using a Standardized Framework**|Tarun Kalluri et.al.|[2409.15264](http://arxiv.org/abs/2409.15264)|**[link](https://github.com/vilab-ucsd/udabench_eccv2024)**|
-|**2024-09-23**|**Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
+|**2024-09-26**|**On-Air Deep Learning Integrated Semantic Inference Models for Enhanced Earth Observation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
 |**2024-09-23**|**FUSED-Net: Enhancing Few-Shot Traffic Sign Detection with Unfrozen Parameters, Pseudo-Support Sets, Embedding Normalization, and Domain Adaptation**|Md. Atiqur Rahman et.al.|[2409.14852](http://arxiv.org/abs/2409.14852)|null|
 |**2024-09-23**|**Quantifying Context Bias in Domain Adaptation for Object Detection**|Hojun Son et.al.|[2409.14679](http://arxiv.org/abs/2409.14679)|null|
 |**2024-09-22**|**LLMs are One-Shot URL Classifiers and Explainers**|Fariza Rashid et.al.|[2409.14306](http://arxiv.org/abs/2409.14306)|null|
@@ -121,7 +121,7 @@ layout: default
 |**2024-09-21**|**PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization**|Haoran Zhang et.al.|[2409.14163](http://arxiv.org/abs/2409.14163)|**[link](https://github.com/zhanghr2001/promptta)**|
 |**2024-09-21**|**Soft Segmented Randomization: Enhancing Domain Generalization in SAR-ATR for Synthetic-to-Measured**|Minjun Kim et.al.|[2409.14060](http://arxiv.org/abs/2409.14060)|null|
 |**2024-09-20**|**Learning to Generalize Unseen Domains via Multi-Source Meta Learning for Text Classification**|Yuxuan Hu et.al.|[2409.13787](http://arxiv.org/abs/2409.13787)|null|
-|**2024-09-23**|**Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures**|Avi Deb Raha et.al.|[2409.13527](http://arxiv.org/abs/2409.13527)|null|
+|**2024-09-26**|**Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures**|Avi Deb Raha et.al.|[2409.13527](http://arxiv.org/abs/2409.13527)|null|
 |**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
 |**2024-09-19**|**Domain Generalization for Endoscopic Image Segmentation by Disentangling Style-Content Information and SuperPixel Consistency**|Mansoor Ali Teevno et.al.|[2409.12450](http://arxiv.org/abs/2409.12450)|null|
 |**2024-09-18**|**SFDA-rPPG: Source-Free Domain Adaptive Remote Physiological Measurement with Spatio-Temporal Consistency**|Yiping Xie et.al.|[2409.12040](http://arxiv.org/abs/2409.12040)|null|
@@ -215,7 +215,7 @@ layout: default
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-21**|**Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI**|Nicholas Pangakis et.al.|[2409.09467](http://arxiv.org/abs/2409.09467)|null|
 |**2024-09-14**|**Real-world Adversarial Defense against Patch Attacks based on Diffusion Model**|Xingxing Wei et.al.|[2409.09406](http://arxiv.org/abs/2409.09406)|**[link](https://github.com/kkkcx/diffender)**|
-|**2024-09-25**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
+|**2024-09-26**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
 |**2024-09-12**|**Rethinking Prompting Strategies for Multi-Label Recognition with Partial Annotations**|Samyak Rawlekar et.al.|[2409.08381](http://arxiv.org/abs/2409.08381)|null|
 |**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
 |**2024-09-11**|**Insight Any Instance: Promptable Instance Segmentation for Remote Sensing Images**|Xuexue Li et.al.|[2409.07022](http://arxiv.org/abs/2409.07022)|null|
