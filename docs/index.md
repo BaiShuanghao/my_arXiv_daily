@@ -9,11 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Towards Super-Nominal Payload Handling: Inverse Dynamics Analysis for Multi-Skill Robotic Manipulation**|Anuj Pasricha et.al.|[2409.18939](http://arxiv.org/abs/2409.18939)|null|
+|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743](http://arxiv.org/abs/2409.18743)|null|
+|**2024-09-27**|**Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation**|Kun Wu et.al.|[2409.18707](http://arxiv.org/abs/2409.18707)|null|
+|**2024-09-27**|**DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences**|Jingwei Song et.al.|[2409.18457](http://arxiv.org/abs/2409.18457)|null|
+|**2024-09-27**|**An Augmented Reality Interface for Teleoperating Robot Manipulators: Reducing Demonstrator Task Load through Digital Twin Control**|Aliyah Smith et.al.|[2409.18394](http://arxiv.org/abs/2409.18394)|null|
+|**2024-09-26**|**Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation**|Quanting Xie et.al.|[2409.18313](http://arxiv.org/abs/2409.18313)|null|
 |**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084](http://arxiv.org/abs/2409.18084)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-26**|**SECURE: Semantics-aware Embodied Conversation under Unawareness for Lifelong Robot Learning**|Rimvydas Rubavicius et.al.|[2409.17755](http://arxiv.org/abs/2409.17755)|null|
 |**2024-09-26**|**AP-VLM: Active Perception Enabled by Vision-Language Models**|Venkatesh Sripada et.al.|[2409.17641](http://arxiv.org/abs/2409.17641)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
 |**2024-09-26**|**Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation**|Ian Chuang et.al.|[2409.17435](http://arxiv.org/abs/2409.17435)|null|
 |**2024-09-25**|**Enhancing robot reliability for health-care facilities by means of Human-Aware Navigation Planning**|Olga E. Sorokoletova et.al.|[2409.17131](http://arxiv.org/abs/2409.17131)|null|
 |**2024-09-25**|**PokeFlex: Towards a Real-World Dataset of Deformable Objects for Robotic Manipulation**|Jan Obrist et.al.|[2409.17124](http://arxiv.org/abs/2409.17124)|null|
@@ -72,6 +78,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Wasserstein Distance-Weighted Adversarial Network for Cross-Domain Credit Risk Assessment**|Mohan Jiang et.al.|[2409.18544](http://arxiv.org/abs/2409.18544)|null|
+|**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
+|**2024-09-27**|**Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking**|Changhong Fu et.al.|[2409.18533](http://arxiv.org/abs/2409.18533)|**[link](https://github.com/vision4robotics/tda-track)**|
+|**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
+|**2024-09-26**|**DRL-STNet: Unsupervised Domain Adaptation for Cross-modality Medical Image Segmentation via Disentangled Representation Learning**|Hui Lin et.al.|[2409.18340](http://arxiv.org/abs/2409.18340)|null|
 |**2024-09-26**|**LLM4Brain: Training a Large Language Model for Brain Video Understanding**|Ruizhe Zheng et.al.|[2409.17987](http://arxiv.org/abs/2409.17987)|null|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899](http://arxiv.org/abs/2409.17899)|null|
 |**2024-09-26**|**Appearance Blur-driven AutoEncoder and Motion-guided Memory Module for Video Anomaly Detection**|Jiahao Lyu et.al.|[2409.17608](http://arxiv.org/abs/2409.17608)|null|
@@ -123,7 +134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-26**|**InterNet: Unsupervised Cross-modal Homography Estimation Based on Interleaved Modality Transfer and Self-supervised Homography Prediction**|Junchen Yu et.al.|[2409.17993](http://arxiv.org/abs/2409.17993)|null|
+|**2024-09-27**|**Exploring Language Model Generalization in Low-Resource Extractive QA**|Saptarshi Sengupta et.al.|[2409.18446](http://arxiv.org/abs/2409.18446)|null|
+|**2024-09-27**|**InterNet: Unsupervised Cross-modal Homography Estimation Based on Interleaved Modality Transfer and Self-supervised Homography Prediction**|Junchen Yu et.al.|[2409.17993](http://arxiv.org/abs/2409.17993)|null|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899](http://arxiv.org/abs/2409.17899)|null|
 |**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
 |**2024-09-26**|**Advancing Open-Set Domain Generalization Using Evidential Bi-Level Hardest Domain Scheduler**|Kunyu Peng et.al.|[2409.17555](http://arxiv.org/abs/2409.17555)|**[link](https://github.com/kpeng9510/ebil-hads)**|
@@ -163,6 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Image-guided topic modeling for interpretable privacy classification**|Alina Elena Baia et.al.|[2409.18674](http://arxiv.org/abs/2409.18674)|**[link](https://github.com/idiap/itm)**|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
 |**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
@@ -229,13 +242,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning**|Arshiya Khan et.al.|[2409.18395](http://arxiv.org/abs/2409.18395)|null|
 |**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
 |**2024-09-26**|**RmGPT: Rotating Machinery Generative Pretrained Model**|Yilin Wang et.al.|[2409.17604](http://arxiv.org/abs/2409.17604)|null|
 |**2024-09-26**|**What Would Happen Next? Predicting Consequences from An Event Causality Graph**|Chuanhong Zhan et.al.|[2409.17480](http://arxiv.org/abs/2409.17480)|null|
 |**2024-09-25**|**Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification**|Ming Li et.al.|[2409.16718](http://arxiv.org/abs/2409.16718)|**[link](https://github.com/minglllli/clipfit)**|
 |**2024-09-24**|**Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint**|Sixiang Chen et.al.|[2409.15739](http://arxiv.org/abs/2409.15739)|null|
 |**2024-09-24**|**Federated Large Language Models: Current Progress and Future Directions**|Yuhang Yao et.al.|[2409.15723](http://arxiv.org/abs/2409.15723)|null|
-|**2024-09-25**|**M^2PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning**|Taowen Wang et.al.|[2409.15657](http://arxiv.org/abs/2409.15657)|**[link](https://github.com/william-wang618/mmpt-emnlp2024)**|
+|**2024-09-27**|**M $^2$ PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning**|Taowen Wang et.al.|[2409.15657](http://arxiv.org/abs/2409.15657)|**[link](https://github.com/william-wang618/mmpt-emnlp2024)**|
 |**2024-09-10**|**Advertiser Content Understanding via LLMs for Google Ads Safety**|Joseph Wallace et.al.|[2409.15343](http://arxiv.org/abs/2409.15343)|null|
 |**2024-09-22**|**URSimulator: Human-Perception-Driven Prompt Tuning for Enhanced Virtual Urban Renewal via Diffusion Models**|Chuanbo Hu et.al.|[2409.14589](http://arxiv.org/abs/2409.14589)|null|
 |**2024-09-10**|**TopoChat: Enhancing Topological Materials Retrieval With Large Language Model and Multi-Source Knowledge**|HuangChao Xu et.al.|[2409.13732](http://arxiv.org/abs/2409.13732)|null|
@@ -266,6 +280,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
+|**2024-09-27**|**A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort**|Lin Ge et.al.|[2409.18358](http://arxiv.org/abs/2409.18358)|null|
 |**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|null|
 |**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|null|
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
@@ -274,7 +290,7 @@ layout: default
 |**2024-09-24**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927](http://arxiv.org/abs/2409.15927)|null|
 |**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
 |**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682](http://arxiv.org/abs/2409.15682)|null|
-|**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
+|**2024-09-27**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
 |**2024-09-23**|**From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding**|Henri Arno et.al.|[2409.15503](http://arxiv.org/abs/2409.15503)|null|
 |**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219](http://arxiv.org/abs/2409.15219)|null|
 |**2024-09-22**|**Testing Causal Models with Hidden Variables in Polynomial Delay via Conditional Independencies**|Hyunchai Jeong et.al.|[2409.14593](http://arxiv.org/abs/2409.14593)|null|
@@ -310,6 +326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
 |**2024-09-26**|**Improving Fast Adversarial Training via Self-Knowledge Guidance**|Chengze Jiang et.al.|[2409.17589](http://arxiv.org/abs/2409.17589)|null|
 |**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
 |**2024-09-24**|**A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches**|Elena Gribelyuk et.al.|[2409.16153](http://arxiv.org/abs/2409.16153)|null|
