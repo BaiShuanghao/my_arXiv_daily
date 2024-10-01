@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**|Qiaojun Yu et.al.|[2409.20551](http://arxiv.org/abs/2409.20551)|null|
+|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|null|
+|**2024-09-30**|**Bi-directional Momentum-based Haptic Feedback and Control System for Dexterous Telemanipulation**|Haoyang Wang et.al.|[2409.20527](http://arxiv.org/abs/2409.20527)|null|
+|**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
+|**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
+|**2024-09-30**|**GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**|Yangtao Chen et.al.|[2409.20154](http://arxiv.org/abs/2409.20154)|null|
+|**2024-09-30**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[2409.19987](http://arxiv.org/abs/2409.19987)|null|
+|**2024-09-30**|**A Robotic System for Precision Pollination in Apples: Design, Development and Field Evaluation**|Uddhav Bhattarai et.al.|[2409.19918](http://arxiv.org/abs/2409.19918)|null|
+|**2024-09-30**|**Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization**|Jingjing Chen et.al.|[2409.19917](http://arxiv.org/abs/2409.19917)|null|
+|**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
+|**2024-09-29**|**Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning**|Zixuan Wu et.al.|[2409.19771](http://arxiv.org/abs/2409.19771)|null|
+|**2024-09-29**|**Learning Robust Policies via Interpretable Hamilton-Jacobi Reachability-Guided Disturbances**|Hanyang Hu et.al.|[2409.19746](http://arxiv.org/abs/2409.19746)|null|
+|**2024-09-29**|**Grounding 3D Scene Affordance From Egocentric Interactions**|Cuiyu Liu et.al.|[2409.19650](http://arxiv.org/abs/2409.19650)|null|
+|**2024-09-29**|**FoAM: Foresight-Augmented Multi-Task Imitation Policy for Robotic Manipulation**|Litao Liu et.al.|[2409.19528](http://arxiv.org/abs/2409.19528)|null|
+|**2024-09-29**|**Fast-UMI: A Scalable and Hardware-Independent Universal Manipulation Interface**|Ziniu Wu et.al.|[2409.19499](http://arxiv.org/abs/2409.19499)|null|
+|**2024-09-28**|**Spatial Reasoning and Planning for Deep Embodied Agents**|Shu Ishida et.al.|[2409.19479](http://arxiv.org/abs/2409.19479)|null|
+|**2024-09-28**|**SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models**|Yi Wu et.al.|[2409.19471](http://arxiv.org/abs/2409.19471)|null|
+|**2024-09-28**|**A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping**|Houjian Yu et.al.|[2409.19457](http://arxiv.org/abs/2409.19457)|null|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
+|**2024-09-28**|**RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution**|Wonsuhk Jung et.al.|[2409.19190](http://arxiv.org/abs/2409.19190)|null|
 |**2024-09-27**|**Towards Super-Nominal Payload Handling: Inverse Dynamics Analysis for Multi-Skill Robotic Manipulation**|Anuj Pasricha et.al.|[2409.18939](http://arxiv.org/abs/2409.18939)|null|
 |**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743](http://arxiv.org/abs/2409.18743)|null|
 |**2024-09-27**|**Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation**|Kun Wu et.al.|[2409.18707](http://arxiv.org/abs/2409.18707)|null|
@@ -78,6 +98,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**DCAST: Diverse Class-Aware Self-Training Mitigates Selection Bias for Fairer Learning**|Yasin I. Tepeli et.al.|[2409.20126](http://arxiv.org/abs/2409.20126)|null|
+|**2024-09-29**|**Counterfactual Evaluation of Ads Ranking Models through Domain Adaptation**|Mohamed A. Radwan et.al.|[2409.19824](http://arxiv.org/abs/2409.19824)|null|
+|**2024-09-29**|**Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation**|Yucheng Wang et.al.|[2409.19635](http://arxiv.org/abs/2409.19635)|**[link](https://github.com/frank-wang-oss/temsr)**|
+|**2024-09-29**|**BiPC: Bidirectional Probability Calibration for Unsupervised Domain Adaption**|Wenlve Zhou et.al.|[2409.19542](http://arxiv.org/abs/2409.19542)|**[link](https://github.com/wenlve-zhou/bipc)**|
+|**2024-09-28**|**Sustaining model performance for covid-19 detection from dynamic audio data: Development and evaluation of a comprehensive drift-adaptive framework**|Theofanis Ganitidis et.al.|[2409.19300](http://arxiv.org/abs/2409.19300)|null|
 |**2024-09-27**|**Wasserstein Distance-Weighted Adversarial Network for Cross-Domain Credit Risk Assessment**|Mohan Jiang et.al.|[2409.18544](http://arxiv.org/abs/2409.18544)|null|
 |**2024-09-27**|**Reducing Semantic Ambiguity In Domain Adaptive Semantic Segmentation Via Probabilistic Prototypical Pixel Contrast**|Xiaoke Hao et.al.|[2409.18543](http://arxiv.org/abs/2409.18543)|**[link](https://github.com/darlinginthesv/probabilistic-prototypical-pixel-contrast)**|
 |**2024-09-27**|**Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking**|Changhong Fu et.al.|[2409.18533](http://arxiv.org/abs/2409.18533)|**[link](https://github.com/vision4robotics/tda-track)**|
@@ -134,6 +159,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization**|Nikos Efthymiadis et.al.|[2409.19774](http://arxiv.org/abs/2409.19774)|**[link](https://github.com/nikosefth/crafting-shifts)**|
+|**2024-09-29**|**Identifying Knowledge Editing Types in Large Language Models**|Xiaopeng Li et.al.|[2409.19663](http://arxiv.org/abs/2409.19663)|**[link](https://github.com/xpq-tech/keti)**|
 |**2024-09-27**|**Exploring Language Model Generalization in Low-Resource Extractive QA**|Saptarshi Sengupta et.al.|[2409.18446](http://arxiv.org/abs/2409.18446)|null|
 |**2024-09-27**|**InterNet: Unsupervised Cross-modal Homography Estimation Based on Interleaved Modality Transfer and Self-supervised Homography Prediction**|Junchen Yu et.al.|[2409.17993](http://arxiv.org/abs/2409.17993)|null|
 |**2024-09-26**|**Revisiting Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations**|Yujia Sun et.al.|[2409.17899](http://arxiv.org/abs/2409.17899)|null|
@@ -175,6 +202,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**|Qiaojun Yu et.al.|[2409.20551](http://arxiv.org/abs/2409.20551)|null|
+|**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
+|**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
+|**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429](http://arxiv.org/abs/2409.20429)|null|
+|**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424](http://arxiv.org/abs/2409.20424)|null|
+|**2024-09-30**|**CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset**|Akshatha Arodi et.al.|[2409.20353](http://arxiv.org/abs/2409.20353)|null|
+|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|null|
+|**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
+|**2024-09-30**|**Textual Training for the Hassle-Free Removal of Unwanted Visual Data**|Saehyung Lee et.al.|[2409.19840](http://arxiv.org/abs/2409.19840)|**[link](https://github.com/saehyung-lee/hftt)**|
+|**2024-09-29**|**PALM: Few-Shot Prompt Learning for Audio Language Models**|Asif Hanif et.al.|[2409.19806](http://arxiv.org/abs/2409.19806)|null|
+|**2024-09-29**|**Vision-Language Models are Strong Noisy Label Detectors**|Tong Wei et.al.|[2409.19696](http://arxiv.org/abs/2409.19696)|null|
+|**2024-09-29**|**MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation**|Lijian Xu et.al.|[2409.19684](http://arxiv.org/abs/2409.19684)|null|
+|**2024-09-29**|**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method**|Bikang Pan et.al.|[2409.19610](http://arxiv.org/abs/2409.19610)|null|
+|**2024-09-28**|**FairPIVARA: Reducing and Assessing Biases in CLIP-Based Multimodal Models**|Diego A. B. Moreira et.al.|[2409.19474](http://arxiv.org/abs/2409.19474)|null|
+|**2024-09-28**|**From Unimodal to Multimodal: Scaling up Projectors to Align Modalities**|Mayug Maniparambil et.al.|[2409.19425](http://arxiv.org/abs/2409.19425)|null|
+|**2024-09-28**|**DOTA: Distributional Test-Time Adaptation of Vision-Language Models**|Zongbo Han et.al.|[2409.19375](http://arxiv.org/abs/2409.19375)|null|
+|**2024-09-28**|**3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models**|Hao Chen et.al.|[2409.19330](http://arxiv.org/abs/2409.19330)|null|
+|**2024-09-28**|**TrojVLM: Backdoor Attack Against Vision Language Models**|Weimin Lyu et.al.|[2409.19232](http://arxiv.org/abs/2409.19232)|null|
 |**2024-09-27**|**Image-guided topic modeling for interpretable privacy classification**|Alina Elena Baia et.al.|[2409.18674](http://arxiv.org/abs/2409.18674)|**[link](https://github.com/idiap/itm)**|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
@@ -242,6 +287,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**PALM: Few-Shot Prompt Learning for Audio Language Models**|Asif Hanif et.al.|[2409.19806](http://arxiv.org/abs/2409.19806)|null|
+|**2024-09-29**|**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method**|Bikang Pan et.al.|[2409.19610](http://arxiv.org/abs/2409.19610)|null|
 |**2024-09-27**|**Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning**|Arshiya Khan et.al.|[2409.18395](http://arxiv.org/abs/2409.18395)|null|
 |**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
 |**2024-09-26**|**RmGPT: Rotating Machinery Generative Pretrained Model**|Yilin Wang et.al.|[2409.17604](http://arxiv.org/abs/2409.17604)|null|
@@ -280,6 +327,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Does Positive Reinforcement Work?: A Quasi-Experimental Study of the Effects of Positive Feedback on Reddit**|Charlotte Lambert et.al.|[2409.20410](http://arxiv.org/abs/2409.20410)|null|
+|**2024-09-30**|**Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth**|Joseph D. Ramsey et.al.|[2409.20187](http://arxiv.org/abs/2409.20187)|null|
+|**2024-09-29**|**Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model**|Yifan Duan et.al.|[2409.19608](http://arxiv.org/abs/2409.19608)|null|
+|**2024-09-28**|**How much do we really know about Structure Learning from i.i.d. Data? Interpretable, multi-dimensional Performance Indicator for Causal Discovery**|Georg Velev et.al.|[2409.19377](http://arxiv.org/abs/2409.19377)|null|
 |**2024-09-27**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
 |**2024-09-27**|**A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort**|Lin Ge et.al.|[2409.18358](http://arxiv.org/abs/2409.18358)|null|
 |**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|null|
@@ -287,7 +338,7 @@ layout: default
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
 |**2024-09-25**|**Random Forest Regression Feature Importance for Climate Impact Pathway Detection**|Meredith G. L. Brown et.al.|[2409.16609](http://arxiv.org/abs/2409.16609)|null|
 |**2024-09-24**|**Towards Representation Learning for Weighting Problems in Design-Based Causal Inference**|Oscar Clivio et.al.|[2409.16407](http://arxiv.org/abs/2409.16407)|null|
-|**2024-09-24**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927](http://arxiv.org/abs/2409.15927)|null|
+|**2024-09-30**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927](http://arxiv.org/abs/2409.15927)|null|
 |**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846](http://arxiv.org/abs/2409.15846)|null|
 |**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682](http://arxiv.org/abs/2409.15682)|null|
 |**2024-09-27**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
@@ -326,6 +377,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Characterizing Model Robustness via Natural Input Gradients**|Adrián Rodríguez-Muñoz et.al.|[2409.20139](http://arxiv.org/abs/2409.20139)|null|
+|**2024-09-30**|**Learning to Discover Generalized Facial Expressions**|Tingzhang Luo et.al.|[2409.20098](http://arxiv.org/abs/2409.20098)|null|
+|**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
+|**2024-09-29**|**Nonideality-aware training makes memristive networks more robust to adversarial attacks**|Dovydas Joksas et.al.|[2409.19671](http://arxiv.org/abs/2409.19671)|null|
 |**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
 |**2024-09-26**|**Improving Fast Adversarial Training via Self-Knowledge Guidance**|Chengze Jiang et.al.|[2409.17589](http://arxiv.org/abs/2409.17589)|null|
 |**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
