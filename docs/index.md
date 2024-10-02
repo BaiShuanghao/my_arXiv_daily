@@ -334,7 +334,7 @@ layout: default
 |**2024-09-27**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
 |**2024-09-27**|**A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort**|Lin Ge et.al.|[2409.18358](http://arxiv.org/abs/2409.18358)|null|
 |**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|null|
-|**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|null|
+|**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|**[link](https://github.com/tychen-SJTU/MECD-Benchmark)**|
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
 |**2024-09-25**|**Random Forest Regression Feature Importance for Climate Impact Pathway Detection**|Meredith G. L. Brown et.al.|[2409.16609](http://arxiv.org/abs/2409.16609)|null|
 |**2024-09-24**|**Towards Representation Learning for Weighting Problems in Design-Based Causal Inference**|Oscar Clivio et.al.|[2409.16407](http://arxiv.org/abs/2409.16407)|null|
