@@ -1,4 +1,4 @@
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping**|Zhenyu Wei et.al.|[2410.01702](http://arxiv.org/abs/2410.01702)|null|
+|**2024-10-03**|**$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping**|Zhenyu Wei et.al.|[2410.01702](http://arxiv.org/abs/2410.01702)|null|
 |**2024-10-02**|**Robo-MUTUAL: Robotic Multimodal Task Specification via Unimodal Learning**|Jianxiong Li et.al.|[2410.01529](http://arxiv.org/abs/2410.01529)|null|
 |**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|Ricardo Garcia et.al.|[2410.01345](http://arxiv.org/abs/2410.01345)|null|
 |**2024-10-02**|**CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction**|Suhwan Choi et.al.|[2410.01273](http://arxiv.org/abs/2410.01273)|null|
@@ -121,7 +121,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## DA
 
@@ -191,7 +191,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## DG
 
@@ -236,16 +236,16 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
-|**2024-10-02**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
+|**2024-10-03**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-03**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|Zhenyue Qin et.al.|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
 |**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
-|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506](http://arxiv.org/abs/2410.01506)|null|
+|**2024-10-03**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506](http://arxiv.org/abs/2410.01506)|null|
 |**2024-10-02**|**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**|Ching-Chia Kao et.al.|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
 |**2024-10-02**|**Backdooring Vision-Language Models with Out-Of-Distribution Data**|Weimin Lyu et.al.|[2410.01264](http://arxiv.org/abs/2410.01264)|null|
 |**2024-10-02**|**UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark**|Hasnat Md Abdullah et.al.|[2410.01180](http://arxiv.org/abs/2410.01180)|null|
@@ -341,7 +341,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Prompt
 
@@ -384,7 +384,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -446,15 +446,15 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Adversarial
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
-|**2024-10-02**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574](http://arxiv.org/abs/2410.01574)|**[link](https://github.com/smavali/aigi-break)**|
+|**2024-10-03**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574](http://arxiv.org/abs/2410.01574)|**[link](https://github.com/smavali/aigi-break)**|
 |**2024-10-02**|**The Unlikely Hero: Nonideality in Analog Photonic Neural Networks as Built-in Defender Against Adversarial Attacks**|Haotian Lu et.al.|[2410.01289](http://arxiv.org/abs/2410.01289)|null|
 |**2024-10-01**|**TPN: Transferable Proto-Learning Network towards Few-shot Document-Level Relation Extraction**|Yu Zhang et.al.|[2410.00412](http://arxiv.org/abs/2410.00412)|**[link](https://github.com/echodreamer/tpn)**|
 |**2024-09-30**|**Characterizing Model Robustness via Natural Input Gradients**|Adrián Rodríguez-Muñoz et.al.|[2409.20139](http://arxiv.org/abs/2409.20139)|null|
@@ -496,5 +496,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
