@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -141,7 +141,7 @@ layout: default
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
-|**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
+|**2024-10-05**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
 |**2024-10-03**|**Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement**|Gaurav Patel et.al.|[2410.02147](http://arxiv.org/abs/2410.02147)|null|
 |**2024-10-02**|**Meta-TTT: A Meta-learning Minimax Framework For Test-Time Training**|Chen Tao et.al.|[2410.01709](http://arxiv.org/abs/2410.01709)|null|
 |**2024-10-02**|**DAViD: Domain Adaptive Visually-Rich Document Understanding with Synthetic Insights**|Yihao Ding et.al.|[2410.01609](http://arxiv.org/abs/2410.01609)|null|
@@ -440,7 +440,7 @@ layout: default
 |**2024-09-30**|**Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth**|Joseph D. Ramsey et.al.|[2409.20187](http://arxiv.org/abs/2409.20187)|null|
 |**2024-09-29**|**Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model**|Yifan Duan et.al.|[2409.19608](http://arxiv.org/abs/2409.19608)|null|
 |**2024-09-28**|**How much do we really know about Structure Learning from i.i.d. Data? Interpretable, multi-dimensional Performance Indicator for Causal Discovery**|Georg Velev et.al.|[2409.19377](http://arxiv.org/abs/2409.19377)|null|
-|**2024-09-27**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
+|**2024-10-06**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
 |**2024-09-27**|**A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort**|Lin Ge et.al.|[2409.18358](http://arxiv.org/abs/2409.18358)|null|
 |**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|**[link](https://github.com/gautam0707/cd_cnf)**|
 |**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|**[link](https://github.com/tychen-SJTU/MECD-Benchmark)**|

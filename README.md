@@ -1,4 +1,4 @@
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -143,7 +143,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## DA
 
@@ -152,7 +152,7 @@
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021](http://arxiv.org/abs/2410.03021)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
-|**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
+|**2024-10-05**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
 |**2024-10-03**|**Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement**|Gaurav Patel et.al.|[2410.02147](http://arxiv.org/abs/2410.02147)|null|
 |**2024-10-02**|**Meta-TTT: A Meta-learning Minimax Framework For Test-Time Training**|Chen Tao et.al.|[2410.01709](http://arxiv.org/abs/2410.01709)|null|
 |**2024-10-02**|**DAViD: Domain Adaptive Visually-Rich Document Understanding with Synthetic Insights**|Yihao Ding et.al.|[2410.01609](http://arxiv.org/abs/2410.01609)|null|
@@ -218,7 +218,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## DG
 
@@ -266,7 +266,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## VLM
 
@@ -388,7 +388,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Prompt
 
@@ -436,7 +436,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -459,7 +459,7 @@
 |**2024-09-30**|**Choosing DAG Models Using Markov and Minimal Edge Count in the Absence of Ground Truth**|Joseph D. Ramsey et.al.|[2409.20187](http://arxiv.org/abs/2409.20187)|null|
 |**2024-09-29**|**Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model**|Yifan Duan et.al.|[2409.19608](http://arxiv.org/abs/2409.19608)|null|
 |**2024-09-28**|**How much do we really know about Structure Learning from i.i.d. Data? Interpretable, multi-dimensional Performance Indicator for Causal Discovery**|Georg Velev et.al.|[2409.19377](http://arxiv.org/abs/2409.19377)|null|
-|**2024-09-27**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
+|**2024-10-06**|**Using Deep Autoregressive Models as Causal Inference Engines**|Daniel Jiwoong Im et.al.|[2409.18581](http://arxiv.org/abs/2409.18581)|null|
 |**2024-09-27**|**A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort**|Lin Ge et.al.|[2409.18358](http://arxiv.org/abs/2409.18358)|null|
 |**2024-09-26**|**Detecting and Measuring Confounding Using Causal Mechanism Shifts**|Abbavaram Gowtham Reddy et.al.|[2409.17840](http://arxiv.org/abs/2409.17840)|**[link](https://github.com/gautam0707/cd_cnf)**|
 |**2024-09-26**|**MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**|Tieyuan Chen et.al.|[2409.17647](http://arxiv.org/abs/2409.17647)|**[link](https://github.com/tychen-SJTU/MECD-Benchmark)**|
@@ -501,7 +501,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Adversarial
 
@@ -555,5 +555,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
