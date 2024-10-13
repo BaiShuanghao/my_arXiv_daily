@@ -561,7 +561,7 @@
 |**2024-10-08**|**Evacuation patterns and socioeconomic stratification in the context of wildfires in Chile**|Timur Naushirvanov et.al.|[2410.06017](http://arxiv.org/abs/2410.06017)|null|
 |**2024-10-08**|**Ordering-Based Causal Discovery for Linear and Nonlinear Relations**|Zhuopeng Xu et.al.|[2410.05890](http://arxiv.org/abs/2410.05890)|**[link](https://github.com/e2real/caps)**|
 |**2024-10-07**|**Neural Networks Decoded: Targeted and Robust Analysis of Neural Network Decisions via Causal Explanations and Reasoning**|Alec F. Diallo et.al.|[2410.05484](http://arxiv.org/abs/2410.05484)|null|
-|**2024-10-07**|**It's Not Easy Being Green: On the Energy Efficiency of Programming Languages**|Nicolas van Kempen et.al.|[2410.05460](http://arxiv.org/abs/2410.05460)|null|
+|**2024-10-07**|**It's Not Easy Being Green: On the Energy Efficiency of Programming Languages**|Nicolas van Kempen et.al.|[2410.05460](http://arxiv.org/abs/2410.05460)|**[link](https://github.com/nicovank/energy-languages)**|
 |**2024-10-07**|**Are causal effect estimations enough for optimal recommendations under multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177](http://arxiv.org/abs/2410.05177)|null|
 |**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
 |**2024-10-06**|**A Reflection on the Impact of Misspecifying Unidentifiable Causal Inference Models in Surrogate Endpoint Evaluation**|Gokce Deliorman et.al.|[2410.04438](http://arxiv.org/abs/2410.04438)|null|
