@@ -1,4 +1,4 @@
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,11 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-10**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
+|**2024-10-11**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
 |**2024-10-10**|**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**|Songming Liu et.al.|[2410.07864](http://arxiv.org/abs/2410.07864)|null|
 |**2024-10-10**|**Stop-N-Go: Search-based Conflict Resolution for Motion Planning of Multiple Robotic Manipulators**|Gidon Han et.al.|[2410.07606](http://arxiv.org/abs/2410.07606)|null|
 |**2024-10-10**|**Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers**|Jianxin Bi et.al.|[2410.07584](http://arxiv.org/abs/2410.07584)|null|
-|**2024-10-10**|**Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation**|Wenhai Liu et.al.|[2410.07554](http://arxiv.org/abs/2410.07554)|null|
+|**2024-10-11**|**ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation**|Wenhai Liu et.al.|[2410.07554](http://arxiv.org/abs/2410.07554)|null|
 |**2024-10-10**|**G $^{2}$ TR: Generalized Grounded Temporal Reasoning for Robot Instruction Following by Combining Large Pre-trained Models**|Riya Arora et.al.|[2410.07494](http://arxiv.org/abs/2410.07494)|null|
 |**2024-10-09**|**TinyLidarNet: 2D LiDAR-based End-to-End Deep Learning Model for F1TENTH Autonomous Racing**|Mohammed Misbah Zarrar et.al.|[2410.07447](http://arxiv.org/abs/2410.07447)|**[link](https://github.com/CSL-KU/TinyLidarNet)**|
 |**2024-10-09**|**VIRT: Vision Instructed Transformer for Robotic Manipulation**|Zhuoling Li et.al.|[2410.07169](http://arxiv.org/abs/2410.07169)|null|
@@ -168,7 +168,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## DA
 
@@ -260,7 +260,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## DG
 
@@ -317,7 +317,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## VLM
 
@@ -338,7 +338,7 @@
 |**2024-10-09**|**Towards Interpreting Visual Information Processing in Vision-Language Models**|Clement Neo et.al.|[2410.07149](http://arxiv.org/abs/2410.07149)|**[link](https://github.com/clemneo/llava-interp)**|
 |**2024-10-10**|**EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**|Rui Zhao et.al.|[2410.07133](http://arxiv.org/abs/2410.07133)|**[link](https://github.com/showlab/evolvedirector)**|
 |**2024-10-09**|**VHELM: A Holistic Evaluation of Vision Language Models**|Tony Lee et.al.|[2410.07112](http://arxiv.org/abs/2410.07112)|**[link](https://github.com/stanford-crfm/helm)**|
-|**2024-10-09**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
+|**2024-10-10**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
 |**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
 |**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|null|
 |**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912](http://arxiv.org/abs/2410.06912)|null|
@@ -490,7 +490,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Prompt
 
@@ -545,7 +545,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -569,7 +569,7 @@
 |**2024-10-02**|**Reasoning Elicitation in Language Models via Counterfactual Feedback**|Alihan Hüyük et.al.|[2410.03767](http://arxiv.org/abs/2410.03767)|null|
 |**2024-10-04**|**Predicting perturbation targets with causal differential networks**|Menghua Wu et.al.|[2410.03380](http://arxiv.org/abs/2410.03380)|null|
 |**2024-10-03**|**Efficient collaborative learning of the average treatment effect under data sharing constraints**|Sijia Li et.al.|[2410.02941](http://arxiv.org/abs/2410.02941)|null|
-|**2024-10-07**|**CAnDOIT: Causal Discovery with Observational and Interventional Data from Time-Series**|Luca Castri et.al.|[2410.02844](http://arxiv.org/abs/2410.02844)|**[link](https://github.com/lcastri/causalflow)**|
+|**2024-10-11**|**CAnDOIT: Causal Discovery with Observational and Interventional Data from Time-Series**|Luca Castri et.al.|[2410.02844](http://arxiv.org/abs/2410.02844)|**[link](https://github.com/lcastri/causalflow)**|
 |**2024-10-02**|**CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs**|Kangsheng Wang et.al.|[2410.01696](http://arxiv.org/abs/2410.01696)|null|
 |**2024-10-02**|**Smaller Confidence Intervals From IPW Estimators via Data-Dependent Coarsening**|Alkis Kalavasis et.al.|[2410.01658](http://arxiv.org/abs/2410.01658)|null|
 |**2024-10-02**|**Causal Inference Tools for a Better Evaluation of Machine Learning**|Michaël Soumm et.al.|[2410.01392](http://arxiv.org/abs/2410.01392)|null|
@@ -626,7 +626,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## Adversarial
 
@@ -650,7 +650,7 @@
 |**2024-10-10**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224](http://arxiv.org/abs/2410.04224)|**[link](https://github.com/jianzeli-114/dfosd)**|
 |**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017](http://arxiv.org/abs/2410.04017)|null|
 |**2024-10-04**|**Efficient Training of Neural Stochastic Differential Equations by Matching Finite Dimensional Distributions**|Jianxin Zhang et.al.|[2410.03973](http://arxiv.org/abs/2410.03973)|null|
-|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|**[link](https://github.com/elieattias1/pixel-reg)**|
+|**2024-10-11**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|**[link](https://github.com/elieattias1/pixel-reg)**|
 |**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|**[link](https://github.com/jameslwang/raft)**|
 |**2024-10-04**|**Mitigating Adversarial Perturbations for Deep Reinforcement Learning via Vector Quantization**|Tung M. Luu et.al.|[2410.03376](http://arxiv.org/abs/2410.03376)|**[link](https://github.com/tunglm2203/vq_robust_rl)**|
 |**2024-10-04**|**Make Interval Bound Propagation great again**|Patryk Krukowski et.al.|[2410.03373](http://arxiv.org/abs/2410.03373)|**[link](https://github.com/gmum/make-interval-bound-propagation-great-again)**|
@@ -699,5 +699,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
