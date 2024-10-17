@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
+|**2024-10-16**|**Stable Object Placement Planning From Contact Point Robustness**|Philippe Nadeau et.al.|[2410.12483](http://arxiv.org/abs/2410.12483)|null|
+|**2024-10-16**|**Fast Online Learning of CLiFF-maps in Changing Environments**|Yufei Zhu et.al.|[2410.12237](http://arxiv.org/abs/2410.12237)|null|
+|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|null|
+|**2024-10-15**|**Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames**|Krishan Rana et.al.|[2410.12124](http://arxiv.org/abs/2410.12124)|null|
 |**2024-10-15**|**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**|Jinhan Li et.al.|[2410.11792](http://arxiv.org/abs/2410.11792)|null|
 |**2024-10-15**|**Latent Action Pretraining from Videos**|Seonghyeon Ye et.al.|[2410.11758](http://arxiv.org/abs/2410.11758)|null|
 |**2024-10-15**|**Robust Manipulation Primitive Learning via Domain Contraction**|Teng Xue et.al.|[2410.11600](http://arxiv.org/abs/2410.11600)|null|
@@ -22,7 +27,7 @@ layout: default
 |**2024-10-14**|**Traversability-Aware Legged Navigation by Learning from Real-World Visual Data**|Hongbo Zhang et.al.|[2410.10621](http://arxiv.org/abs/2410.10621)|null|
 |**2024-10-16**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
 |**2024-10-14**|**The Ingredients for Robotic Diffusion Transformers**|Sudeep Dasari et.al.|[2410.10088](http://arxiv.org/abs/2410.10088)|null|
-|**2024-10-15**|**VideoAgent: Self-Improving Video Generation**|Achint Soni et.al.|[2410.10076](http://arxiv.org/abs/2410.10076)|null|
+|**2024-10-15**|**VideoAgent: Self-Improving Video Generation**|Achint Soni et.al.|[2410.10076](http://arxiv.org/abs/2410.10076)|**[link](https://github.com/video-as-agent/videoagent)**|
 |**2024-10-13**|**VQ-CNMP: Neuro-Symbolic Skill Learning for Bi-Level Planning**|Hakan Aktas et.al.|[2410.10045](http://arxiv.org/abs/2410.10045)|null|
 |**2024-10-13**|**Physics-informed Neural Mapping and Motion Planning in Unknown Environments**|Yuchen Liu et.al.|[2410.09883](http://arxiv.org/abs/2410.09883)|null|
 |**2024-10-13**|**Gaussian Splatting Visual MPC for Granular Media Manipulation**|Wei-Cheng Tseng et.al.|[2410.09740](http://arxiv.org/abs/2410.09740)|null|
@@ -196,6 +201,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking**|Haobo Zuo et.al.|[2410.12270](http://arxiv.org/abs/2410.12270)|null|
+|**2024-10-16**|**iFuzzyTL: Interpretable Fuzzy Transfer Learning for SSVEP BCI System**|Xiaowei Jiang et.al.|[2410.12267](http://arxiv.org/abs/2410.12267)|null|
+|**2024-10-16**|**Dual Action Policy for Robust Sim-to-Real Reinforcement Learning**|Ng Wen Zheng Terence et.al.|[2410.12250](http://arxiv.org/abs/2410.12250)|null|
 |**2024-10-15**|**Robust Manipulation Primitive Learning via Domain Contraction**|Teng Xue et.al.|[2410.11600](http://arxiv.org/abs/2410.11600)|null|
 |**2024-10-15**|**Reducing Source-Private Bias in Extreme Universal Domain Adaptation**|Hung-Chieh Fang et.al.|[2410.11271](http://arxiv.org/abs/2410.11271)|null|
 |**2024-10-13**|**3DS: Decomposed Difficulty Data Selection's Case Study on LLM Medical Domain Adaptation**|Hongxin Ding et.al.|[2410.10901](http://arxiv.org/abs/2410.10901)|null|
@@ -299,7 +307,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-16**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267](http://arxiv.org/abs/2410.11267)|null|
+|**2024-10-15**|**WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**|Chenghao Qian et.al.|[2410.12075](http://arxiv.org/abs/2410.12075)|null|
+|**2024-10-16**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267](http://arxiv.org/abs/2410.11267)|**[link](https://github.com/sanphouwang/fedccrl)**|
 |**2024-10-14**|**Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination**|Kohei Kajikawa et.al.|[2410.10556](http://arxiv.org/abs/2410.10556)|**[link](https://github.com/kohei-kaji/coordination)**|
 |**2024-10-12**|**Distribution-aware Noisy-label Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.09409](http://arxiv.org/abs/2410.09409)|**[link](https://github.com/sky-visionx/cracksegmentation)**|
 |**2024-10-11**|**Aligned Divergent Pathways for Omni-Domain Generalized Person Re-Identification**|Eugene P. W. Ang et.al.|[2410.08466](http://arxiv.org/abs/2410.08466)|null|
@@ -361,6 +370,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
+|**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
+|**2024-10-16**|**WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation**|João Matos et.al.|[2410.12722](http://arxiv.org/abs/2410.12722)|null|
+|**2024-10-16**|**WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines**|Genta Indra Winata et.al.|[2410.12705](http://arxiv.org/abs/2410.12705)|null|
+|**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|null|
+|**2024-10-16**|**Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models**|Shicheng Xu et.al.|[2410.12662](http://arxiv.org/abs/2410.12662)|null|
+|**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|null|
+|**2024-10-16**|**Evaluating Cascaded Methods of Vision-Language Models for Zero-Shot Detection and Association of Hardhats for Increased Construction Safety**|Lucas Choi et.al.|[2410.12225](http://arxiv.org/abs/2410.12225)|null|
+|**2024-10-16**|**Leveraging Large Vision Language Model For Better Automatic Web GUI Testing**|Siyi Wang et.al.|[2410.12157](http://arxiv.org/abs/2410.12157)|null|
+|**2024-10-15**|**Enabling Data-Driven and Empathetic Interactions: A Context-Aware 3D Virtual Agent in Mixed Reality for Enhanced Financial Customer Experience**|Cindy Xu et.al.|[2410.12051](http://arxiv.org/abs/2410.12051)|null|
+|**2024-10-15**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
 |**2024-10-15**|**A Survey of Low-shot Vision-Language Model Adaptation via Representer Theorem**|Kun Ding et.al.|[2410.11686](http://arxiv.org/abs/2410.11686)|null|
 |**2024-10-15**|**MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval**|Reno Kriz et.al.|[2410.11619](http://arxiv.org/abs/2410.11619)|null|
 |**2024-10-15**|**PAVLM: Advancing Point Cloud based Affordance Understanding Via Vision-Language Model**|Shang-Ching Liu et.al.|[2410.11564](http://arxiv.org/abs/2410.11564)|null|
@@ -572,6 +592,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
+|**2024-10-16**|**Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting**|Wei Chen et.al.|[2410.12593](http://arxiv.org/abs/2410.12593)|null|
+|**2024-10-16**|**On the Utility of Domain Modeling Assistance with Large Language Models**|Meriem Ben Chaaben et.al.|[2410.12577](http://arxiv.org/abs/2410.12577)|null|
+|**2024-10-16**|**Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation**|Yao Shen et.al.|[2410.12562](http://arxiv.org/abs/2410.12562)|null|
+|**2024-10-16**|**Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts**|Fanqi Yan et.al.|[2410.12258](http://arxiv.org/abs/2410.12258)|null|
 |**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201](http://arxiv.org/abs/2410.11201)|null|
 |**2024-10-08**|**Generating Synthetic Datasets for Few-shot Prompt Tuning**|Xu Guo et.al.|[2410.10865](http://arxiv.org/abs/2410.10865)|null|
 |**2024-10-14**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341](http://arxiv.org/abs/2410.10341)|**[link](https://github.com/mala-lab/tpp)**|
@@ -639,6 +664,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740](http://arxiv.org/abs/2410.12740)|null|
+|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730](http://arxiv.org/abs/2410.12730)|null|
+|**2024-10-16**|**Flexible and Efficient Estimation of Causal Effects with Error-Prone Exposures: A Control Variates Approach for Measurement Error**|Keith Barnatchez et.al.|[2410.12590](http://arxiv.org/abs/2410.12590)|null|
+|**2024-10-16**|**Quantifying Treatment Effects: Estimating Risk Ratios in Causal Inference**|Ahmed Boughdiri et.al.|[2410.12333](http://arxiv.org/abs/2410.12333)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300](http://arxiv.org/abs/2410.12300)|null|
 |**2024-10-15**|**Unraveling Heterogeneous Treatment Effects in Networks: A Non-Parametric Approach Based on Node Connectivity**|Heejong Bong et.al.|[2410.11797](http://arxiv.org/abs/2410.11797)|null|
 |**2024-10-15**|**LoSAM: Local Search in Additive Noise Models with Unmeasured Confounders, a Top-Down Global Discovery Approach**|Sujai Hiremath et.al.|[2410.11759](http://arxiv.org/abs/2410.11759)|null|
 |**2024-10-15**|**Addressing the Null Paradox in Epidemic Models: Correcting for Collider Bias in Causal Inference**|Heejong Bong et.al.|[2410.11743](http://arxiv.org/abs/2410.11743)|null|
@@ -737,6 +767,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Efficient Optimization Algorithms for Linear Adversarial Training**|Antônio H. RIbeiro et.al.|[2410.12677](http://arxiv.org/abs/2410.12677)|null|
+|**2024-10-16**|**New Paradigm of Adversarial Training: Breaking Inherent Trade-Off between Accuracy and Robustness via Dummy Classes**|Yanyun Wang et.al.|[2410.12671](http://arxiv.org/abs/2410.12671)|null|
+|**2024-10-16**|**Low-Rank Adversarial PGD Attack**|Dayana Savostianova et.al.|[2410.12607](http://arxiv.org/abs/2410.12607)|null|
+|**2024-10-16**|**Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates**|Daniil Vankov et.al.|[2410.12334](http://arxiv.org/abs/2410.12334)|null|
+|**2024-10-16**|**DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain**|Fengpeng Li et.al.|[2410.12307](http://arxiv.org/abs/2410.12307)|null|
 |**2024-10-14**|**Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings**|Hossein Mirzaei et.al.|[2410.10744](http://arxiv.org/abs/2410.10744)|**[link](https://github.com/adaptivemotorcontrollab/aros)**|
 |**2024-10-14**|**Towards Calibrated Losses for Adversarial Robust Reject Option Classification**|Vrund Shah et.al.|[2410.10736](http://arxiv.org/abs/2410.10736)|**[link](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**|
 |**2024-10-14**|**QueST: Querying Functional and Structural Niches on Spatial Transcriptomics Data via Contrastive Subgraph Embedding**|Mo Chen et.al.|[2410.10652](http://arxiv.org/abs/2410.10652)|**[link](https://github.com/cmhimself/quest)**|
