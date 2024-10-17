@@ -1,4 +1,4 @@
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-10-14**|**Incorporating Task Progress Knowledge for Subgoal Generation in Robotic Manipulation through Image Edits**|Xuhui Kang et.al.|[2410.11013](http://arxiv.org/abs/2410.11013)|null|
 |**2024-10-14**|**Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**|Ran Wei et.al.|[2410.10653](http://arxiv.org/abs/2410.10653)|null|
 |**2024-10-14**|**Traversability-Aware Legged Navigation by Learning from Real-World Visual Data**|Hongbo Zhang et.al.|[2410.10621](http://arxiv.org/abs/2410.10621)|null|
-|**2024-10-14**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
+|**2024-10-16**|**PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation**|Kaidong Zhang et.al.|[2410.10394](http://arxiv.org/abs/2410.10394)|null|
 |**2024-10-14**|**The Ingredients for Robotic Diffusion Transformers**|Sudeep Dasari et.al.|[2410.10088](http://arxiv.org/abs/2410.10088)|null|
 |**2024-10-15**|**VideoAgent: Self-Improving Video Generation**|Achint Soni et.al.|[2410.10076](http://arxiv.org/abs/2410.10076)|null|
 |**2024-10-13**|**VQ-CNMP: Neuro-Symbolic Skill Learning for Bi-Level Planning**|Hakan Aktas et.al.|[2410.10045](http://arxiv.org/abs/2410.10045)|null|
@@ -201,7 +201,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## DA
 
@@ -306,13 +306,13 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-15**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267](http://arxiv.org/abs/2410.11267)|null|
+|**2024-10-16**|**FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning**|Xinpeng Wang et.al.|[2410.11267](http://arxiv.org/abs/2410.11267)|null|
 |**2024-10-14**|**Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination**|Kohei Kajikawa et.al.|[2410.10556](http://arxiv.org/abs/2410.10556)|**[link](https://github.com/kohei-kaji/coordination)**|
 |**2024-10-12**|**Distribution-aware Noisy-label Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.09409](http://arxiv.org/abs/2410.09409)|**[link](https://github.com/sky-visionx/cracksegmentation)**|
 |**2024-10-11**|**Aligned Divergent Pathways for Omni-Domain Generalized Person Re-Identification**|Eugene P. W. Ang et.al.|[2410.08466](http://arxiv.org/abs/2410.08466)|null|
@@ -325,7 +325,7 @@
 |**2024-10-08**|**QT-DoG: Quantization-aware Training for Domain Generalization**|Saqib Javed et.al.|[2410.06020](http://arxiv.org/abs/2410.06020)|**[link](https://github.com/saqibjaved1/QT-DoG)**|
 |**2024-10-08**|**Generalizing to any diverse distribution: uniformity, gentle finetuning and rebalancing**|Andreas Loukas et.al.|[2410.05980](http://arxiv.org/abs/2410.05980)|null|
 |**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
-|**2024-10-12**|**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**|Zhaorui Tan et.al.|[2410.04492](http://arxiv.org/abs/2410.04492)|**[link](https://github.com/zhaorui-tan/L-Reg_NeurIPS24)**|
+|**2024-10-16**|**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**|Zhaorui Tan et.al.|[2410.04492](http://arxiv.org/abs/2410.04492)|**[link](https://github.com/zhaorui-tan/L-Reg_NeurIPS24)**|
 |**2024-10-06**|**DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion**|Ke Sun et.al.|[2410.04372](http://arxiv.org/abs/2410.04372)|**[link](https://github.com/skjack/diffusionfake)**|
 |**2024-10-05**|**A Simple yet Effective Training-free Prompt-free Approach to Chinese Spelling Correction Based on Large Language Models**|Houquan Zhou et.al.|[2410.04027](http://arxiv.org/abs/2410.04027)|null|
 |**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|null|
@@ -370,7 +370,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## VLM
 
@@ -390,8 +390,8 @@
 |**2024-10-14**|**LG-CAV: Train Any Concept Activation Vector with Language Guidance**|Qihan Huang et.al.|[2410.10308](http://arxiv.org/abs/2410.10308)|null|
 |**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
 |**2024-10-14**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
-|**2024-10-14**|**MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models**|Peng Xia et.al.|[2410.10139](http://arxiv.org/abs/2410.10139)|null|
-|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-14**|**MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models**|Peng Xia et.al.|[2410.10139](http://arxiv.org/abs/2410.10139)|**[link](https://github.com/Lillianwei-h/MMIE)**|
+|**2024-10-16**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
 |**2024-10-14**|**Can We Predict Performance of Large Models across Vision-Language Tasks?**|Qinyu Zhao et.al.|[2410.10112](http://arxiv.org/abs/2410.10112)|**[link](https://github.com/qinyu-allen-zhao/crosspred-lvlm)**|
 |**2024-10-15**|**VideoAgent: Self-Improving Video Generation**|Achint Soni et.al.|[2410.10076](http://arxiv.org/abs/2410.10076)|null|
 |**2024-10-13**|**TULIP: Token-length Upgraded CLIP**|Ivona Najdenkoska et.al.|[2410.10034](http://arxiv.org/abs/2410.10034)|null|
@@ -583,7 +583,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Prompt
 
@@ -596,7 +596,7 @@
 |**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
 |**2024-10-14**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207](http://arxiv.org/abs/2410.10207)|**[link](https://github.com/lifan724/magic_eraser)**|
-|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-16**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
 |**2024-10-13**|**Empirical Study of Mutual Reinforcement Effect and Application in Few-shot Text Classification Tasks via Prompt**|Chengguang Gan et.al.|[2410.09745](http://arxiv.org/abs/2410.09745)|null|
 |**2024-10-12**|**The Future of Learning in the Age of Generative AI: Automated Question Generation and Assessment with Large Language Models**|Subhankar Maity et.al.|[2410.09576](http://arxiv.org/abs/2410.09576)|null|
@@ -652,7 +652,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -752,7 +752,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 ## Adversarial
 
@@ -835,5 +835,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
