@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072](http://arxiv.org/abs/2410.18072)|null|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
+|**2024-10-23**|**A Pipeline for Segmenting and Structuring RGB-D Data for Robotics Applications**|Zhiwu Zheng et.al.|[2410.17988](http://arxiv.org/abs/2410.17988)|null|
+|**2024-10-23**|**Multi-Layered Safety of Redundant Robot Manipulators via Task-Oriented Planning and Control**|Xinyu Jia et.al.|[2410.17742](http://arxiv.org/abs/2410.17742)|null|
+|**2024-10-23**|**GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy**|Yixuan Wang et.al.|[2410.17488](http://arxiv.org/abs/2410.17488)|null|
 |**2024-10-22**|**Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins**|Venkatesh Pattabiraman et.al.|[2410.17246](http://arxiv.org/abs/2410.17246)|null|
 |**2024-10-22**|**EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI**|Tomoyuki Kagaya et.al.|[2410.16919](http://arxiv.org/abs/2410.16919)|null|
 |**2024-10-22**|**Sample-Efficient Curriculum Reinforcement Learning for Complex Reward Functions**|Kilian Freitag et.al.|[2410.16790](http://arxiv.org/abs/2410.16790)|null|
@@ -241,11 +246,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages**|Sourabh Deoghare et.al.|[2410.17973](http://arxiv.org/abs/2410.17973)|null|
+|**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
+|**2024-10-23**|**Leveraging the Domain Adaptation of Retrieval Augmented Generation Models for Question Answering and Reducing Hallucination**|Salman Rakin et.al.|[2410.17783](http://arxiv.org/abs/2410.17783)|null|
+|**2024-10-23**|**Adversarial Domain Adaptation for Metal Cutting Sound Detection: Leveraging Abundant Lab Data for Scarce Industry Data**|Mir Imtiaz Mostafiz et.al.|[2410.17574](http://arxiv.org/abs/2410.17574)|null|
+|**2024-10-23**|**Time and Frequency Synergy for Source-Free Time-Series Domain Adaptations**|Muhammad Tanzil Furqon et.al.|[2410.17511](http://arxiv.org/abs/2410.17511)|null|
+|**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489](http://arxiv.org/abs/2410.17489)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
+|**2024-10-22**|**mmWave-Whisper: Phone Call Eavesdropping and Transcription Using Millimeter-Wave Radar**|Suryoday Basak et.al.|[2410.17457](http://arxiv.org/abs/2410.17457)|null|
 |**2024-10-22**|**Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification**|Wen Huang et.al.|[2410.17033](http://arxiv.org/abs/2410.17033)|null|
 |**2024-10-22**|**Tracing the Development of the Virtual Particle Concept Using Semantic Change Detection**|Michael Zichert et.al.|[2410.16855](http://arxiv.org/abs/2410.16855)|**[link](https://github.com/mzichert/scd_vp)**|
 |**2024-10-22**|**Assessment of Transformer-Based Encoder-Decoder Model for Human-Like Summarization**|Sindhu Nair et.al.|[2410.16842](http://arxiv.org/abs/2410.16842)|null|
 |**2024-10-22**|**Interactive Residual Domain Adaptation Networks for Partial Transfer Industrial Fault Diagnosis**|Gecheng Chen et.al.|[2410.16737](http://arxiv.org/abs/2410.16737)|null|
-|**2024-10-22**|**General Frameworks for Conditional Two-Sample Testing**|Seongchan Lee et.al.|[2410.16636](http://arxiv.org/abs/2410.16636)|**[link](https://github.com/suman-cha/CDTST)**|
+|**2024-10-22**|**General Frameworks for Conditional Two-Sample Testing**|Seongchan Lee et.al.|[2410.16636](http://arxiv.org/abs/2410.16636)|**[link](https://github.com/suman-cha/cond2st)**|
 |**2024-10-22**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation**|Junyu Luo et.al.|[2410.16606](http://arxiv.org/abs/2410.16606)|**[link](https://github.com/luo-junyu/gala)**|
 |**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485](http://arxiv.org/abs/2410.16485)|null|
 |**2024-10-21**|**Machine-learning the gap between real and simulated nebulae: A domain-adaptation approach to classify ionised nebulae in nearby galaxies**|Francesco Belfiore et.al.|[2410.16370](http://arxiv.org/abs/2410.16370)|null|
@@ -445,6 +457,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models**|Ziyu Liu et.al.|[2410.17637](http://arxiv.org/abs/2410.17637)|**[link](https://github.com/liuziyu77/mia-dpo)**|
+|**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
+|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385](http://arxiv.org/abs/2410.17385)|null|
 |**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
 |**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
 |**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|**[link](https://github.com/clmoro/robotics-rl-fms-integration)**|
@@ -797,6 +816,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864](http://arxiv.org/abs/2410.17864)|null|
+|**2024-10-23**|**Deoxys: A Causal Inference Engine for Unhealthy Node Mitigation in Large-scale Cloud Infrastructure**|Chaoyun Zhang et.al.|[2410.17709](http://arxiv.org/abs/2410.17709)|null|
+|**2024-10-23**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691](http://arxiv.org/abs/2410.17691)|null|
 |**2024-10-22**|**Federated Causal Inference: Multi-Centric ATE Estimation beyond Meta-Analysis**|Rémi Khellaf et.al.|[2410.16870](http://arxiv.org/abs/2410.16870)|null|
 |**2024-10-22**|**Improving Causal Reasoning in Large Language Models: A Survey**|Siheng Xiong et.al.|[2410.16676](http://arxiv.org/abs/2410.16676)|**[link](https://github.com/chendl02/awesome-llm-causal-reasoning)**|
 |**2024-10-23**|**LLMScan: Causal Scan for LLM Misbehavior Detection**|Mengdi Zhang et.al.|[2410.16638](http://arxiv.org/abs/2410.16638)|**[link](https://github.com/anonymousaa1/llm_scan)**|
@@ -920,6 +942,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-21**|**Conflict-Aware Adversarial Training**|Zhiyu Xue et.al.|[2410.16579](http://arxiv.org/abs/2410.16579)|null|
 |**2024-10-21**|**Robust Feature Learning for Multi-Index Models in High Dimensions**|Alireza Mousavi-Hosseini et.al.|[2410.16449](http://arxiv.org/abs/2410.16449)|**[link](https://github.com/mousavih/robust-feature-learning)**|
 |**2024-10-21**|**On the Geometry of Regularization in Adversarial Training: High-Dimensional Asymptotics and Generalization Bounds**|Matteo Vilucchio et.al.|[2410.16073](http://arxiv.org/abs/2410.16073)|null|
