@@ -18,6 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Self-Improving Autonomous Underwater Manipulation**|Ruoshi Liu et.al.|[2410.18969](http://arxiv.org/abs/2410.18969)|null|
+|**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
+|**2024-10-24**|**ANAVI: Audio Noise Awareness using Visuals of Indoor environments for NAVIgation**|Vidhi Jain et.al.|[2410.18932](http://arxiv.org/abs/2410.18932)|null|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
+|**2024-10-24**|**A generic approach for reactive stateful mitigation of application failures in distributed robotics systems deployed with Kubernetes**|Florian Mirus et.al.|[2410.18825](http://arxiv.org/abs/2410.18825)|null|
+|**2024-10-24**|**PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds**|Balázs Gyenes et.al.|[2410.18800](http://arxiv.org/abs/2410.18800)|null|
+|**2024-10-24**|**Learning dissipative Hamiltonian dynamics with reproducing kernel Hilbert spaces and random Fourier features**|Torbjørn Smith et.al.|[2410.18656](http://arxiv.org/abs/2410.18656)|null|
+|**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647](http://arxiv.org/abs/2410.18647)|null|
+|**2024-10-24**|**A Cranial-Feature-Based Registration Scheme for Robotic Micromanipulation Using a Microscopic Stereo Camera System**|Xiaofeng Lin et.al.|[2410.18630](http://arxiv.org/abs/2410.18630)|null|
+|**2024-10-24**|**Learning Transparent Reward Models via Unsupervised Feature Selection**|Daulet Baimukashev et.al.|[2410.18608](http://arxiv.org/abs/2410.18608)|null|
+|**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
+|**2024-10-24**|**Towards Reinforcement Learning Controllers for Soft Robots using Learned Environments**|Uljad Berdica et.al.|[2410.18519](http://arxiv.org/abs/2410.18519)|**[link](https://github.com/uljad/SoRoLEX)**|
+|**2024-10-23**|**Bayesian optimization for robust robotic grasping using a sensorized compliant hand**|Juan G. Lechuz-Sierra et.al.|[2410.18237](http://arxiv.org/abs/2410.18237)|null|
+|**2024-10-23**|**Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments**|Luca Barsellotti et.al.|[2410.18195](http://arxiv.org/abs/2410.18195)|**[link](https://github.com/aimagelab/pin)**|
 |**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072](http://arxiv.org/abs/2410.18072)|null|
 |**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
 |**2024-10-23**|**A Pipeline for Segmenting and Structuring RGB-D Data for Robotics Applications**|Zhiwu Zheng et.al.|[2410.17988](http://arxiv.org/abs/2410.17988)|null|
@@ -246,6 +260,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
 |**2024-10-23**|**Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages**|Sourabh Deoghare et.al.|[2410.17973](http://arxiv.org/abs/2410.17973)|null|
 |**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
 |**2024-10-23**|**Leveraging the Domain Adaptation of Retrieval Augmented Generation Models for Question Answering and Reducing Hallucination**|Salman Rakin et.al.|[2410.17783](http://arxiv.org/abs/2410.17783)|null|
@@ -457,6 +472,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857](http://arxiv.org/abs/2410.18857)|null|
+|**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
+|**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537](http://arxiv.org/abs/2410.18537)|null|
 |**2024-10-23**|**Lightweight Neural App Control**|Filippos Christianos et.al.|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
 |**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|Shaofei Cai et.al.|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
 |**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|Marco Mistretta et.al.|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
@@ -736,6 +755,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
+|**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615](http://arxiv.org/abs/2410.18615)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-21**|**AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection**|Xiaoman Xu et.al.|[2410.15591](http://arxiv.org/abs/2410.15591)|**[link](https://github.com/xxm1215/mmm2025_few-shot)**|
 |**2024-10-20**|**IPO: Interpretable Prompt Optimization for Vision-Language Models**|Yingjun Du et.al.|[2410.15397](http://arxiv.org/abs/2410.15397)|**[link](https://github.com/lmsdss/IPO)**|
@@ -816,9 +837,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918](http://arxiv.org/abs/2410.18918)|**[link](https://github.com/muralikgs/missnodag)**|
+|**2024-10-24**|**Flow of dynamical causal structures with an application to correlations**|Ämin Baumeler et.al.|[2410.18735](http://arxiv.org/abs/2410.18735)|null|
+|**2024-10-22**|**MEC-IP: Efficient Discovery of Markov Equivalent Classes via Integer Programming**|Abdelmonem Elrefaey et.al.|[2410.18147](http://arxiv.org/abs/2410.18147)|null|
 |**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864](http://arxiv.org/abs/2410.17864)|null|
 |**2024-10-23**|**Deoxys: A Causal Inference Engine for Unhealthy Node Mitigation in Large-scale Cloud Infrastructure**|Chaoyun Zhang et.al.|[2410.17709](http://arxiv.org/abs/2410.17709)|null|
-|**2024-10-23**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691](http://arxiv.org/abs/2410.17691)|null|
+|**2024-10-23**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691](http://arxiv.org/abs/2410.17691)|**[link](https://github.com/jessyblues/Causal-Longitudinal-Image-Synthesis)**|
 |**2024-10-22**|**Federated Causal Inference: Multi-Centric ATE Estimation beyond Meta-Analysis**|Rémi Khellaf et.al.|[2410.16870](http://arxiv.org/abs/2410.16870)|null|
 |**2024-10-22**|**Improving Causal Reasoning in Large Language Models: A Survey**|Siheng Xiong et.al.|[2410.16676](http://arxiv.org/abs/2410.16676)|**[link](https://github.com/chendl02/awesome-llm-causal-reasoning)**|
 |**2024-10-23**|**LLMScan: Causal Scan for LLM Misbehavior Detection**|Mengdi Zhang et.al.|[2410.16638](http://arxiv.org/abs/2410.16638)|**[link](https://github.com/anonymousaa1/llm_scan)**|
@@ -942,6 +966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556](http://arxiv.org/abs/2410.18556)|null|
 |**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-21**|**Conflict-Aware Adversarial Training**|Zhiyu Xue et.al.|[2410.16579](http://arxiv.org/abs/2410.16579)|null|
 |**2024-10-21**|**Robust Feature Learning for Multi-Index Models in High Dimensions**|Alireza Mousavi-Hosseini et.al.|[2410.16449](http://arxiv.org/abs/2410.16449)|**[link](https://github.com/mousavih/robust-feature-learning)**|
