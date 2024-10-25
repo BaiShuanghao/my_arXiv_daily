@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -815,7 +815,7 @@ layout: default
 |**2024-10-18**|**A Novel Method to Metigate Demographic and Expert Bias in ICD Coding with Causal Inference**|Bin Zhang et.al.|[2410.14236](http://arxiv.org/abs/2410.14236)|null|
 |**2024-10-18**|**CausalChat: Interactive Causal Model Development and Refinement Using Large Language Models**|Yanming Zhang et.al.|[2410.14146](http://arxiv.org/abs/2410.14146)|null|
 |**2024-10-18**|**Estimating the Causal Effects of T Cell Receptors**|Eli N. Weinstein et.al.|[2410.14127](http://arxiv.org/abs/2410.14127)|**[link](https://github.com/EWeinstein/causal-tcrs)**|
-|**2024-10-21**|**Exogenous Matching: Learning Good Proposals for Tractable Counterfactual Estimation**|Yikang Chen et.al.|[2410.13914](http://arxiv.org/abs/2410.13914)|**[link](https://github.com/cyisk/exom)**|
+|**2024-10-24**|**Exogenous Matching: Learning Good Proposals for Tractable Counterfactual Estimation**|Yikang Chen et.al.|[2410.13914](http://arxiv.org/abs/2410.13914)|**[link](https://github.com/cyisk/exom)**|
 |**2024-10-17**|**Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes**|Dibyanayan Bandyopadhyay et.al.|[2410.13488](http://arxiv.org/abs/2410.13488)|null|
 |**2024-10-16**|**Systems with Switching Causal Relations: A Meta-Causal Perspective**|Moritz Willig et.al.|[2410.13054](http://arxiv.org/abs/2410.13054)|null|
 |**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740](http://arxiv.org/abs/2410.12740)|**[link](https://github.com/cqyiiii/just-ramp-up)**|
