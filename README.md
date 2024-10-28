@@ -18,6 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**MILES: Making Imitation Learning Easy with Self-Supervision**|Georgios Papagiannis et.al.|[2410.19693](http://arxiv.org/abs/2410.19693)|null|
+|**2024-10-25**|**Perception, Control and Hardware for In-Hand Slip-Aware Object Manipulation with Parallel Grippers**|Gabriel Arslan Waltersson et.al.|[2410.19660](http://arxiv.org/abs/2410.19660)|null|
+|**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
+|**2024-10-25**|**Shared Control with Black Box Agents using Oracle Queries**|Inbal Avraham et.al.|[2410.19612](http://arxiv.org/abs/2410.19612)|null|
+|**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564](http://arxiv.org/abs/2410.19564)|null|
+|**2024-10-25**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432](http://arxiv.org/abs/2410.19432)|null|
+|**2024-10-25**|**Visual Imitation Learning of Non-Prehensile Manipulation Tasks with Dynamics-Supervised Models**|Abdullah Mustafa et.al.|[2410.19379](http://arxiv.org/abs/2410.19379)|null|
+|**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
+|**2024-10-25**|**Non-rigid Relative Placement through 3D Dense Diffusion**|Eric Cai et.al.|[2410.19247](http://arxiv.org/abs/2410.19247)|null|
+|**2024-10-24**|**Collision Avoidance for Convex Primitives via Differentiable Optimization Based High-Order Control Barrier Functions**|Shiqing Wei et.al.|[2410.19159](http://arxiv.org/abs/2410.19159)|null|
+|**2024-10-24**|**Analyzing Human Perceptions of a MEDEVAC Robot in a Simulated Evacuation Scenario**|Tyson Jordan et.al.|[2410.19072](http://arxiv.org/abs/2410.19072)|null|
 |**2024-10-24**|**Self-Improving Autonomous Underwater Manipulation**|Ruoshi Liu et.al.|[2410.18969](http://arxiv.org/abs/2410.18969)|null|
 |**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
 |**2024-10-24**|**ANAVI: Audio Noise Awareness using Visuals of Indoor environments for NAVIgation**|Vidhi Jain et.al.|[2410.18932](http://arxiv.org/abs/2410.18932)|null|
@@ -260,6 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**|Yao Wu et.al.|[2410.19446](http://arxiv.org/abs/2410.19446)|**[link](https://github.com/barcaaaa/ftd-plusplus)**|
 |**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
 |**2024-10-23**|**Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages**|Sourabh Deoghare et.al.|[2410.17973](http://arxiv.org/abs/2410.17973)|null|
 |**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
@@ -472,6 +484,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732](http://arxiv.org/abs/2410.19732)|null|
+|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
+|**2024-10-25**|**Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?**|Antonia Wüst et.al.|[2410.19546](http://arxiv.org/abs/2410.19546)|**[link](https://github.com/ml-research/bongard-in-wonderland)**|
+|**2024-10-25**|**EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data**|Xuetian Chen et.al.|[2410.19461](http://arxiv.org/abs/2410.19461)|null|
+|**2024-10-25**|**COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training**|Haocheng Xi et.al.|[2410.19313](http://arxiv.org/abs/2410.19313)|null|
+|**2024-10-25**|**Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting**|Xingyu Zhu et.al.|[2410.19294](http://arxiv.org/abs/2410.19294)|null|
 |**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857](http://arxiv.org/abs/2410.18857)|**[link](https://github.com/naver-ai/prolip)**|
 |**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
@@ -837,6 +855,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**trajmsm: An R package for Trajectory Analysis and Causal Modeling**|Awa Diop et.al.|[2410.19682](http://arxiv.org/abs/2410.19682)|null|
+|**2024-10-25**|**LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Time Series Data**|Yue Cheng et.al.|[2410.19464](http://arxiv.org/abs/2410.19464)|null|
+|**2024-10-25**|**Robust Time Series Causal Discovery for Agent-Based Model Validation**|Gene Yu et.al.|[2410.19412](http://arxiv.org/abs/2410.19412)|null|
+|**2024-10-24**|**Cascading Failure Prediction via Causal Inference**|Shiuli Subhra Ghosh et.al.|[2410.19179](http://arxiv.org/abs/2410.19179)|null|
 |**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918](http://arxiv.org/abs/2410.18918)|**[link](https://github.com/muralikgs/missnodag)**|
 |**2024-10-24**|**Flow of dynamical causal structures with an application to correlations**|Ämin Baumeler et.al.|[2410.18735](http://arxiv.org/abs/2410.18735)|null|
 |**2024-10-22**|**MEC-IP: Efficient Discovery of Markov Equivalent Classes via Integer Programming**|Abdelmonem Elrefaey et.al.|[2410.18147](http://arxiv.org/abs/2410.18147)|null|
@@ -966,6 +988,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**A Debate-Driven Experiment on LLM Hallucinations and Accuracy**|Ray Li et.al.|[2410.19485](http://arxiv.org/abs/2410.19485)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556](http://arxiv.org/abs/2410.18556)|null|
 |**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-21**|**Conflict-Aware Adversarial Training**|Zhiyu Xue et.al.|[2410.16579](http://arxiv.org/abs/2410.16579)|null|
