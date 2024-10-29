@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -14,7 +14,7 @@ layout: default
 |**2024-10-25**|**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**|Huaxiaoyue Wang et.al.|[2410.19656](http://arxiv.org/abs/2410.19656)|null|
 |**2024-10-25**|**Shared Control with Black Box Agents using Oracle Queries**|Inbal Avraham et.al.|[2410.19612](http://arxiv.org/abs/2410.19612)|null|
 |**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564](http://arxiv.org/abs/2410.19564)|null|
-|**2024-10-25**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432](http://arxiv.org/abs/2410.19432)|null|
+|**2024-10-28**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432](http://arxiv.org/abs/2410.19432)|null|
 |**2024-10-25**|**Visual Imitation Learning of Non-Prehensile Manipulation Tasks with Dynamics-Supervised Models**|Abdullah Mustafa et.al.|[2410.19379](http://arxiv.org/abs/2410.19379)|null|
 |**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
 |**2024-10-25**|**Non-rigid Relative Placement through 3D Dense Diffusion**|Eric Cai et.al.|[2410.19247](http://arxiv.org/abs/2410.19247)|null|
@@ -279,7 +279,7 @@ layout: default
 |**2024-10-21**|**Machine-learning the gap between real and simulated nebulae: A domain-adaptation approach to classify ionised nebulae in nearby galaxies**|Francesco Belfiore et.al.|[2410.16370](http://arxiv.org/abs/2410.16370)|null|
 |**2024-10-21**|**Domain-Adaptive Neural Posterior Estimation for Strong Gravitational Lens Analysis**|Paxson Swierc et.al.|[2410.16347](http://arxiv.org/abs/2410.16347)|null|
 |**2024-10-21**|**LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training**|Thomas Kreutz et.al.|[2410.15833](http://arxiv.org/abs/2410.15833)|**[link](https://github.com/jensle97/lion-xa)**|
-|**2024-10-21**|**Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation**|Yongguang Li et.al.|[2410.15811](http://arxiv.org/abs/2410.15811)|null|
+|**2024-10-26**|**Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation**|Yongguang Li et.al.|[2410.15811](http://arxiv.org/abs/2410.15811)|null|
 |**2024-10-19**|**Unsupervised Domain Adaptation Approaches for Chessboard Recognition**|Wassim Jabbour et.al.|[2410.15206](http://arxiv.org/abs/2410.15206)|**[link](https://github.com/WassimJabz/RecogniChess)**|
 |**2024-10-19**|**Statistical Inference for Feature Selection after Optimal Transport-based Domain Adaptation**|Nguyen Thang Loi et.al.|[2410.15022](http://arxiv.org/abs/2410.15022)|null|
 |**2024-10-18**|**AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup**|Carlos Carvalho et.al.|[2410.14910](http://arxiv.org/abs/2410.14910)|null|
@@ -396,7 +396,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-25**|**LFME: A Simple Framework for Learning from Multiple Experts in Domain Generalization**|Liang Chen et.al.|[2410.17020](http://arxiv.org/abs/2410.17020)|null|
-|**2024-10-22**|**Extending the FDTD GVADE method nonlinear polarization vector to include anisotropy**|Caleb J. Grimms et.al.|[2410.16622](http://arxiv.org/abs/2410.16622)|null|
+|**2024-10-26**|**Extending the FDTD GVADE method nonlinear polarization vector to include anisotropy**|Caleb J. Grimms et.al.|[2410.16622](http://arxiv.org/abs/2410.16622)|null|
 |**2024-10-21**|**Towards Combating Frequency Simplicity-biased Learning for Domain Generalization**|Xilin He et.al.|[2410.16146](http://arxiv.org/abs/2410.16146)|**[link](https://github.com/c0notsilly/advfrequency)**|
 |**2024-10-21**|**START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation**|Jintao Guo et.al.|[2410.16020](http://arxiv.org/abs/2410.16020)|null|
 |**2024-10-21**|**FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL**|Woosung Koh et.al.|[2410.15876](http://arxiv.org/abs/2410.15876)|null|
@@ -771,10 +771,10 @@ layout: default
 |**2024-10-16**|**Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts**|Fanqi Yan et.al.|[2410.12258](http://arxiv.org/abs/2410.12258)|null|
 |**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201](http://arxiv.org/abs/2410.11201)|null|
 |**2024-10-08**|**Generating Synthetic Datasets for Few-shot Prompt Tuning**|Xu Guo et.al.|[2410.10865](http://arxiv.org/abs/2410.10865)|null|
-|**2024-10-14**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341](http://arxiv.org/abs/2410.10341)|**[link](https://github.com/mala-lab/tpp)**|
+|**2024-10-28**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341](http://arxiv.org/abs/2410.10341)|**[link](https://github.com/mala-lab/tpp)**|
 |**2024-10-15**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329](http://arxiv.org/abs/2410.10329)|**[link](https://github.com/zhuyun97/graphclip)**|
 |**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
-|**2024-10-14**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
+|**2024-10-27**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207](http://arxiv.org/abs/2410.10207)|**[link](https://github.com/lifan724/magic_eraser)**|
 |**2024-10-16**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
 |**2024-10-13**|**Prompt Tuning for Audio Deepfake Detection: Computationally Efficient Test-time Domain Adaptation with Limited Target Dataset**|Hideyuki Oiso et.al.|[2410.09869](http://arxiv.org/abs/2410.09869)|**[link](https://github.com/Yuto-Matsunaga/Prompt_Tuning_for_Audio_Deepfake_Detection)**|
@@ -837,7 +837,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-25**|**trajmsm: An R package for Trajectory Analysis and Causal Modeling**|Awa Diop et.al.|[2410.19682](http://arxiv.org/abs/2410.19682)|null|
-|**2024-10-25**|**LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Time Series Data**|Yue Cheng et.al.|[2410.19464](http://arxiv.org/abs/2410.19464)|null|
+|**2024-10-28**|**LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Time Series Data**|Yue Cheng et.al.|[2410.19464](http://arxiv.org/abs/2410.19464)|null|
 |**2024-10-25**|**Robust Time Series Causal Discovery for Agent-Based Model Validation**|Gene Yu et.al.|[2410.19412](http://arxiv.org/abs/2410.19412)|null|
 |**2024-10-24**|**Cascading Failure Prediction via Causal Inference**|Shiuli Subhra Ghosh et.al.|[2410.19179](http://arxiv.org/abs/2410.19179)|null|
 |**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918](http://arxiv.org/abs/2410.18918)|**[link](https://github.com/muralikgs/missnodag)**|
