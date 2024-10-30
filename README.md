@@ -1,4 +1,4 @@
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,9 +32,9 @@
 |**2024-10-28**|**Image-Based Visual Servoing for Enhanced Cooperation of Dual-Arm Manipulation**|Zizhe Zhang et.al.|[2410.19432](http://arxiv.org/abs/2410.19432)|null|
 |**2024-10-25**|**Visual Imitation Learning of Non-Prehensile Manipulation Tasks with Dynamics-Supervised Models**|Abdullah Mustafa et.al.|[2410.19379](http://arxiv.org/abs/2410.19379)|null|
 |**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
-|**2024-10-25**|**Non-rigid Relative Placement through 3D Dense Diffusion**|Eric Cai et.al.|[2410.19247](http://arxiv.org/abs/2410.19247)|null|
+|**2024-10-29**|**Non-rigid Relative Placement through 3D Dense Diffusion**|Eric Cai et.al.|[2410.19247](http://arxiv.org/abs/2410.19247)|null|
 |**2024-10-24**|**Collision Avoidance for Convex Primitives via Differentiable Optimization Based High-Order Control Barrier Functions**|Shiqing Wei et.al.|[2410.19159](http://arxiv.org/abs/2410.19159)|null|
-|**2024-10-24**|**Analyzing Human Perceptions of a MEDEVAC Robot in a Simulated Evacuation Scenario**|Tyson Jordan et.al.|[2410.19072](http://arxiv.org/abs/2410.19072)|null|
+|**2024-10-29**|**Analyzing Human Perceptions of a MEDEVAC Robot in a Simulated Evacuation Scenario**|Tyson Jordan et.al.|[2410.19072](http://arxiv.org/abs/2410.19072)|null|
 |**2024-10-24**|**Self-Improving Autonomous Underwater Manipulation**|Ruoshi Liu et.al.|[2410.18969](http://arxiv.org/abs/2410.18969)|null|
 |**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
 |**2024-10-24**|**ANAVI: Audio Noise Awareness using Visuals of Indoor environments for NAVIgation**|Vidhi Jain et.al.|[2410.18932](http://arxiv.org/abs/2410.18932)|null|
@@ -271,7 +271,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## DA
 
@@ -411,7 +411,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## DG
 
@@ -492,19 +492,19 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
+|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
 |**2024-10-28**|**Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**|Zhixin Zhang et.al.|[2410.21220](http://arxiv.org/abs/2410.21220)|**[link](https://github.com/cnzzx/vsa)**|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113](http://arxiv.org/abs/2410.21113)|null|
 |**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
-|**2024-10-28**|**VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**|Guanyan Chen et.al.|[2410.20927](http://arxiv.org/abs/2410.20927)|null|
+|**2024-10-29**|**VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**|Guanyan Chen et.al.|[2410.20927](http://arxiv.org/abs/2410.20927)|null|
 |**2024-10-28**|**Improving Generalization in Visual Reasoning via Self-Ensemble**|Tien-Huy Nguyen et.al.|[2410.20883](http://arxiv.org/abs/2410.20883)|null|
 |**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666](http://arxiv.org/abs/2410.20666)|null|
 |**2024-10-27**|**MatViX: Multimodal Information Extraction from Visually Rich Articles**|Ghazal Khalighinejad et.al.|[2410.20494](http://arxiv.org/abs/2410.20494)|null|
@@ -795,7 +795,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Prompt
 
@@ -806,7 +806,7 @@
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
 |**2024-10-26**|**Prompt Diffusion Robustifies Any-Modality Prompt Learning**|Yingjun Du et.al.|[2410.20164](http://arxiv.org/abs/2410.20164)|null|
 |**2024-10-21**|**AEPL: Automated and Editable Prompt Learning for Brain Tumor Segmentation**|Yongheng Sun et.al.|[2410.19847](http://arxiv.org/abs/2410.19847)|null|
-|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
+|**2024-10-29**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615](http://arxiv.org/abs/2410.18615)|null|
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-21**|**AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection**|Xiaoman Xu et.al.|[2410.15591](http://arxiv.org/abs/2410.15591)|**[link](https://github.com/xxm1215/mmm2025_few-shot)**|
@@ -822,7 +822,7 @@
 |**2024-10-15**|**Tree of Attributes Prompt Learning for Vision-Language Models**|Tong Ding et.al.|[2410.11201](http://arxiv.org/abs/2410.11201)|null|
 |**2024-10-08**|**Generating Synthetic Datasets for Few-shot Prompt Tuning**|Xu Guo et.al.|[2410.10865](http://arxiv.org/abs/2410.10865)|null|
 |**2024-10-28**|**Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach**|Chaoxi Niu et.al.|[2410.10341](http://arxiv.org/abs/2410.10341)|**[link](https://github.com/mala-lab/tpp)**|
-|**2024-10-15**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329](http://arxiv.org/abs/2410.10329)|**[link](https://github.com/zhuyun97/graphclip)**|
+|**2024-10-29**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329](http://arxiv.org/abs/2410.10329)|**[link](https://github.com/zhuyun97/graphclip)**|
 |**2024-10-14**|**Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection**|Jiawen Zhu et.al.|[2410.10289](http://arxiv.org/abs/2410.10289)|**[link](https://github.com/mala-lab/faprompt)**|
 |**2024-10-27**|**LOBG:Less Overfitting for Better Generalization in Vision-Language Model**|Chenhao Ding et.al.|[2410.10247](http://arxiv.org/abs/2410.10247)|null|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207](http://arxiv.org/abs/2410.10207)|**[link](https://github.com/lifan724/magic_eraser)**|
@@ -882,7 +882,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -897,7 +897,7 @@
 |**2024-10-26**|**Mechanism learning: Reverse causal inference in the presence of multiple unknown confounding through front-door causal bootstrapping**|Jianqiao Mao et.al.|[2410.20057](http://arxiv.org/abs/2410.20057)|**[link](https://github.com/JianqiaoMao/mechanism-learn)**|
 |**2024-10-25**|**Language Agents Meet Causality -- Bridging LLMs and Causal World Models**|John Gkountouras et.al.|[2410.19923](http://arxiv.org/abs/2410.19923)|null|
 |**2024-10-24**|**Causal Order Discovery based on Monotonic SCMs**|Ali Izadi et.al.|[2410.19870](http://arxiv.org/abs/2410.19870)|null|
-|**2024-10-25**|**trajmsm: An R package for Trajectory Analysis and Causal Modeling**|Awa Diop et.al.|[2410.19682](http://arxiv.org/abs/2410.19682)|null|
+|**2024-10-29**|**trajmsm: An R package for Trajectory Analysis and Causal Modeling**|Awa Diop et.al.|[2410.19682](http://arxiv.org/abs/2410.19682)|null|
 |**2024-10-28**|**LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Time Series Data**|Yue Cheng et.al.|[2410.19464](http://arxiv.org/abs/2410.19464)|null|
 |**2024-10-25**|**Robust Time Series Causal Discovery for Agent-Based Model Validation**|Gene Yu et.al.|[2410.19412](http://arxiv.org/abs/2410.19412)|null|
 |**2024-10-24**|**Cascading Failure Prediction via Causal Inference**|Shiuli Subhra Ghosh et.al.|[2410.19179](http://arxiv.org/abs/2410.19179)|null|
@@ -1024,7 +1024,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1137,5 +1137,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
