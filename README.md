@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment**|Matteo G. Mecattaf et.al.|[2410.23242](http://arxiv.org/abs/2410.23242)|null|
+|**2024-10-30**|**FilMBot: A High-Speed Soft Parallel Robotic Micromanipulator**|Jiangkun Yu et.al.|[2410.23059](http://arxiv.org/abs/2410.23059)|null|
+|**2024-10-30**|**Human-inspired Grasping Strategies of Fresh Fruits and Vegetables Applied to Robotic Manipulation**|Romeo Orsolino et.al.|[2410.22893](http://arxiv.org/abs/2410.22893)|null|
+|**2024-10-30**|**Grasping Force Estimation for Markerless Visuotactile Sensors**|Julio Castaño-Amoros et.al.|[2410.22825](http://arxiv.org/abs/2410.22825)|null|
+|**2024-10-30**|**Multi-Task Interactive Robot Fleet Learning with Visual World Models**|Huihan Liu et.al.|[2410.22689](http://arxiv.org/abs/2410.22689)|null|
+|**2024-10-29**|**Analytical Solution for Inverse Kinematics**|Serdar Kalaycioglu et.al.|[2410.22582](http://arxiv.org/abs/2410.22582)|null|
 |**2024-10-29**|**Local Policies Enable Zero-shot Long-horizon Manipulation**|Murtaza Dalal et.al.|[2410.22332](http://arxiv.org/abs/2410.22332)|null|
 |**2024-10-30**|**Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**|Guangqi Jiang et.al.|[2410.22325](http://arxiv.org/abs/2410.22325)|null|
 |**2024-10-29**|**ADAM: An Embodied Causal Agent in Open-World Environments**|Shu Yu et.al.|[2410.22194](http://arxiv.org/abs/2410.22194)|null|
@@ -284,6 +290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|
+|**2024-10-29**|**Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection**|Gyusam Chang et.al.|[2410.22461](http://arxiv.org/abs/2410.22461)|null|
 |**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708](http://arxiv.org/abs/2410.21708)|**[link](https://github.com/xiarho/madm)**|
 |**2024-10-29**|**Revisiting Multi-Granularity Representation via Group Contrastive Learning for Unsupervised Vehicle Re-identification**|Zhigang Chang et.al.|[2410.21667](http://arxiv.org/abs/2410.21667)|null|
 |**2024-10-28**|**TransformLLM: Adapting Large Language Models via LLM-Transformed Reading Comprehension Text**|Iftach Arbel et.al.|[2410.21479](http://arxiv.org/abs/2410.21479)|null|
@@ -429,6 +437,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|
+|**2024-10-30**|**FISC: Federated Domain Generalization via Interpolative Style Transfer and Contrastive Learning**|Dung Thuy Nguyen et.al.|[2410.22622](http://arxiv.org/abs/2410.22622)|null|
+|**2024-10-29**|**Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection**|Gyusam Chang et.al.|[2410.22461](http://arxiv.org/abs/2410.22461)|null|
 |**2024-10-29**|**Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection**|Md Abu Sayed et.al.|[2410.21723](http://arxiv.org/abs/2410.21723)|null|
 |**2024-10-27**|**Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness**|Qi Zhang et.al.|[2410.21331](http://arxiv.org/abs/2410.21331)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
@@ -512,6 +523,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**|Xiaolin Fang et.al.|[2410.23254](http://arxiv.org/abs/2410.23254)|null|
+|**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|null|
+|**2024-10-30**|**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**|Yichao Liang et.al.|[2410.23156](http://arxiv.org/abs/2410.23156)|null|
+|**2024-10-30**|**Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models**|Junjie Wu et.al.|[2410.23114](http://arxiv.org/abs/2410.23114)|**[link](https://github.com/wujunjie1998/tri-he)**|
+|**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
+|**2024-10-30**|**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**|Youcheng Huang et.al.|[2410.22888](http://arxiv.org/abs/2410.22888)|**[link](https://github.com/mob-scu/radar-nearside)**|
+|**2024-10-30**|**Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization**|Kento Kawaharazuka et.al.|[2410.22707](http://arxiv.org/abs/2410.22707)|null|
+|**2024-10-30**|**SimpsonsVQA: Enhancing Inquiry-Based Learning with a Tailored Dataset**|Ngoc Dung Huynh et.al.|[2410.22648](http://arxiv.org/abs/2410.22648)|null|
+|**2024-10-29**|**Image2Struct: Benchmarking Structure Extraction for Vision-Language Models**|Josselin Somerville Roberts et.al.|[2410.22456](http://arxiv.org/abs/2410.22456)|null|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
@@ -915,6 +935,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**QWO: Speeding Up Permutation-Based Causal Discovery in LiGAMs**|Mohammad Shahverdikondori et.al.|[2410.23155](http://arxiv.org/abs/2410.23155)|null|
+|**2024-10-30**|**An Overview of Causal Inference using Kernel Embeddings**|Dino Sejdinovic et.al.|[2410.22754](http://arxiv.org/abs/2410.22754)|null|
+|**2024-10-29**|**Bayesian Counterfactual Prediction Models for HIV Care Retention with Incomplete Outcome and Covariate Information**|Arman Oganisian et.al.|[2410.22481](http://arxiv.org/abs/2410.22481)|null|
+|**2024-10-29**|**Debiasing Alternative Data for Credit Underwriting Using Causal Inference**|Chris Lam et.al.|[2410.22382](http://arxiv.org/abs/2410.22382)|null|
 |**2024-10-29**|**ADAM: An Embodied Causal Agent in Open-World Environments**|Shu Yu et.al.|[2410.22194](http://arxiv.org/abs/2410.22194)|null|
 |**2024-10-30**|**Identifiability Analysis of Linear ODE Systems with Hidden Confounders**|Yuanyuan Wang et.al.|[2410.21917](http://arxiv.org/abs/2410.21917)|null|
 |**2024-10-28**|**Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data**|Sophia M Rein et.al.|[2410.21531](http://arxiv.org/abs/2410.21531)|null|
@@ -1063,6 +1087,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**FAIR-TAT: Improving Model Fairness Using Targeted Adversarial Training**|Tejaswini Medi et.al.|[2410.23142](http://arxiv.org/abs/2410.23142)|null|
+|**2024-10-30**|**Teaching a Language Model to Distinguish Between Similar Details using a Small Adversarial Training Set**|Chris Achard et.al.|[2410.23118](http://arxiv.org/abs/2410.23118)|null|
+|**2024-10-30**|**Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation**|Kaike Zhang et.al.|[2410.22844](http://arxiv.org/abs/2410.22844)|null|
+|**2024-10-30**|**APCodec+: A Spectrum-Coding-Based High-Fidelity and High-Compression-Rate Neural Audio Codec with Staged Training Paradigm**|Hui-Peng Du et.al.|[2410.22807](http://arxiv.org/abs/2410.22807)|null|
+|**2024-10-29**|**Power side-channel leakage localization through adversarial training of deep neural networks**|Jimmy Gammell et.al.|[2410.22425](http://arxiv.org/abs/2410.22425)|null|
 |**2024-10-29**|**On the Robustness of Adversarial Training Against Uncertainty Attacks**|Emanuele Ledda et.al.|[2410.21952](http://arxiv.org/abs/2410.21952)|**[link](https://github.com/EmanueleLedda97/UncertaintyAdversarialRobustness)**|
 |**2024-10-30**|**Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**|Lu Yu et.al.|[2410.21802](http://arxiv.org/abs/2410.21802)|**[link](https://github.com/zhyblue424/tga-zsr)**|
 |**2024-10-28**|**SeriesGAN: Time Series Generation via Adversarial and Autoregressive Learning**|MohammadReza EskandariNasab et.al.|[2410.21203](http://arxiv.org/abs/2410.21203)|**[link](https://github.com/samresume/seriesgan)**|
