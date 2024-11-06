@@ -18,16 +18,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
+|**2024-11-05**|**Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation**|Ananya Trivedi et.al.|[2411.03289](http://arxiv.org/abs/2411.03289)|**[link](https://github.com/RIVeR-Lab/Stochastic-MPPI)**|
+|**2024-11-05**|**Multi-Modal 3D Scene Graph Updater for Shared and Dynamic Environments**|Emilio Olivastri et.al.|[2411.02938](http://arxiv.org/abs/2411.02938)|null|
+|**2024-11-05**|**RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation**|Soroush Nasiriany et.al.|[2411.02704](http://arxiv.org/abs/2411.02704)|null|
+|**2024-11-03**|**Learning World Models for Unconstrained Goal Navigation**|Yuanlin Duan et.al.|[2411.02446](http://arxiv.org/abs/2411.02446)|**[link](https://github.com/RU-Automated-Reasoning-Group/MUN)**|
 |**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
 |**2024-11-04**|**DexHub and DART: Towards Internet Scale Robot Data Collection**|Younghyo Park et.al.|[2411.02214](http://arxiv.org/abs/2411.02214)|null|
-|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|null|
+|**2024-11-04**|**Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing**|Teng Bin et.al.|[2411.01919](http://arxiv.org/abs/2411.01919)|**[link](https://github.com/btfrontier/polygon_mapping)**|
 |**2024-11-04**|**Improving Trust Estimation in Human-Robot Collaboration Using Beta Reputation at Fine-grained Timescales**|Resul Dagdanov et.al.|[2411.01866](http://arxiv.org/abs/2411.01866)|**[link](https://github.com/resuldagdanov/robot-learning-human-trust)**|
 |**2024-11-04**|**ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation**|Hengkai Tan et.al.|[2411.01850](http://arxiv.org/abs/2411.01850)|null|
 |**2024-11-04**|**Enhancing Social Robot Navigation with Integrated Motion Prediction and Trajectory Planning in Dynamic Human Environments**|Thanh Nguyen Canh et.al.|[2411.01814](http://arxiv.org/abs/2411.01814)|null|
 |**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
-|**2024-11-04**|**Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge**|Weihua Du et.al.|[2411.01796](http://arxiv.org/abs/2411.01796)|**[link](https://github.com/umass-foundation-model/chaic)**|
+|**2024-11-05**|**Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge**|Weihua Du et.al.|[2411.01796](http://arxiv.org/abs/2411.01796)|**[link](https://github.com/umass-foundation-model/chaic)**|
 |**2024-11-04**|**Eurekaverse: Environment Curriculum Generation via Large Language Models**|William Liang et.al.|[2411.01775](http://arxiv.org/abs/2411.01775)|null|
-|**2024-11-03**|**Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning**|Yuanlin Duan et.al.|[2411.01396](http://arxiv.org/abs/2411.01396)|null|
+|**2024-11-03**|**Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning**|Yuanlin Duan et.al.|[2411.01396](http://arxiv.org/abs/2411.01396)|**[link](https://github.com/RU-Automated-Reasoning-Group/CE2)**|
 |**2024-11-02**|**The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control**|Oleg Kaidanov et.al.|[2411.01349](http://arxiv.org/abs/2411.01349)|null|
 |**2024-11-01**|**Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck**|Bipasha Sen et.al.|[2411.00704](http://arxiv.org/abs/2411.00704)|null|
 |**2024-11-01**|**Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials**|Xintong Yang et.al.|[2411.00554](http://arxiv.org/abs/2411.00554)|null|
@@ -319,11 +324,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-03**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
+|**2024-11-04**|**Weakly supervised deep learning model with size constraint for prostate cancer detection in multiparametric MRI and generalization to unseen domains**|Robin Trombetta et.al.|[2411.02466](http://arxiv.org/abs/2411.02466)|null|
+|**2024-11-03**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
 |**2024-10-26**|**Personality Analysis from Online Short Video Platforms with Multi-domain Adaptation**|Sixu An et.al.|[2411.00813](http://arxiv.org/abs/2411.00813)|null|
 |**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548](http://arxiv.org/abs/2411.00548)|null|
 |**2024-10-31**|**Schema Augmentation for Zero-Shot Domain Adaptation in Dialogue State Tracking**|Christopher Richardson et.al.|[2411.00150](http://arxiv.org/abs/2411.00150)|null|
-|**2024-10-31**|**Label Noise: Ignorance Is Bliss**|Yilun Zhu et.al.|[2411.00079](http://arxiv.org/abs/2411.00079)|null|
+|**2024-10-31**|**Label Noise: Ignorance Is Bliss**|Yilun Zhu et.al.|[2411.00079](http://arxiv.org/abs/2411.00079)|**[link](https://github.com/allan-z/label_noise_ignorance)**|
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
 |**2024-10-31**|**CrossEarth: Geospatial Vision Foundation Model for Domain Generalizable Remote Sensing Semantic Segmentation**|Ziyang Gong et.al.|[2410.22629](http://arxiv.org/abs/2410.22629)|**[link](https://github.com/cuzyoung/crossearth)**|
 |**2024-10-29**|**Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection**|Gyusam Chang et.al.|[2410.22461](http://arxiv.org/abs/2410.22461)|null|
@@ -472,7 +479,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization**|Pengkun Jiao et.al.|[2411.02920](http://arxiv.org/abs/2411.02920)|null|
+|**2024-11-04**|**Divergent Domains, Convergent Grading: Enhancing Generalization in Diabetic Retinopathy Grading**|Sharon Chokuwa et.al.|[2411.02614](http://arxiv.org/abs/2411.02614)|**[link](https://github.com/sharonchokuwa/dg-adr)**|
+|**2024-11-02**|**MADOD: Generalizing OOD Detection to Unseen Domains via G-Invariance Meta-Learning**|Haoliang Wang et.al.|[2411.02444](http://arxiv.org/abs/2411.02444)|**[link](https://github.com/haoliangwang86/MADOD)**|
+|**2024-11-05**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
 |**2024-11-03**|**On the geometry of star domains and the spectra of Hodge-Laplace operators under domain approximation**|Martin Werner Licht et.al.|[2411.01655](http://arxiv.org/abs/2411.01655)|null|
 |**2024-11-02**|**FEED: Fairness-Enhanced Meta-Learning for Domain Generalization**|Kai Jiang et.al.|[2411.01316](http://arxiv.org/abs/2411.01316)|null|
 |**2024-11-01**|**GameGen-X: Interactive Open-world Game Video Generation**|Haoxuan Che et.al.|[2411.00769](http://arxiv.org/abs/2411.00769)|**[link](https://github.com/gamegen-x/gamegen-x)**|
@@ -564,6 +575,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
+|**2024-11-05**|**Membership Inference Attacks against Large Vision-Language Models**|Zhan Li et.al.|[2411.02902](http://arxiv.org/abs/2411.02902)|**[link](https://github.com/lions-epfl/vl-mia)**|
+|**2024-11-05**|**Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs**|Muhammad Tayyab Khan et.al.|[2411.02810](http://arxiv.org/abs/2411.02810)|null|
+|**2024-11-05**|**Label Critic: Design Data Before Models**|Pedro R. A. S. Bassi et.al.|[2411.02753](http://arxiv.org/abs/2411.02753)|**[link](https://github.com/PedroRASB/Cerberus)**|
+|**2024-11-05**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Haodong Li et.al.|[2411.02733](http://arxiv.org/abs/2411.02733)|**[link](https://github.com/haodongli2024/rspope)**|
+|**2024-11-05**|**V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization**|Yuxi Xie et.al.|[2411.02712](http://arxiv.org/abs/2411.02712)|**[link](https://github.com/yuxixie/v-dpo)**|
+|**2024-11-04**|**Continual LLaVA: Continual Instruction Tuning in Large Vision-Language Models**|Meng Cao et.al.|[2411.02564](http://arxiv.org/abs/2411.02564)|null|
+|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-02**|**TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**|Georgia Gabriela Sampaio et.al.|[2411.02437](http://arxiv.org/abs/2411.02437)|null|
 |**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
 |**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
 |**2024-11-03**|**Addressing Failures in Robotics using Vision-Based Language Models (VLMs) and Behavior Trees (BT)**|Faseeh Ahmad et.al.|[2411.01568](http://arxiv.org/abs/2411.01568)|null|
@@ -574,7 +595,7 @@
 |**2024-11-01**|**Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models**|Jonggyu Jang et.al.|[2411.00898](http://arxiv.org/abs/2411.00898)|null|
 |**2024-11-01**|**Does GenAI Make Usability Testing Obsolete?**|Ali Ebrahimi Pourasad et.al.|[2411.00634](http://arxiv.org/abs/2411.00634)|null|
 |**2024-11-01**|**CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision**|Gi-Cheon Kang et.al.|[2411.00508](http://arxiv.org/abs/2411.00508)|null|
-|**2024-11-01**|**Right this way: Can VLMs Guide Us to See More to Answer Questions?**|Li Liu et.al.|[2411.00394](http://arxiv.org/abs/2411.00394)|null|
+|**2024-11-01**|**Right this way: Can VLMs Guide Us to See More to Answer Questions?**|Li Liu et.al.|[2411.00394](http://arxiv.org/abs/2411.00394)|**[link](https://github.com/LeoLee7/Directional_guidance)**|
 |**2024-11-01**|**Unified Generative and Discriminative Training for Multi-modal Large Language Models**|Wei Chow et.al.|[2411.00304](http://arxiv.org/abs/2411.00304)|null|
 |**2024-11-01**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Sraavya Sambara et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
 |**2024-10-31**|**Understanding Graphical Perception in Data Visualization through Zero-shot Prompting of Vision-Language Models**|Grace Guo et.al.|[2411.00257](http://arxiv.org/abs/2411.00257)|null|
@@ -910,10 +931,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Active Prompt Tuning Enables Gpt-40 To Do Efficient Classification Of Microscopy Images**|Abhiram Kandiyana et.al.|[2411.02639](http://arxiv.org/abs/2411.02639)|null|
+|**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
 |**2024-11-04**|**Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning**|Zhuoning Guo et.al.|[2411.02003](http://arxiv.org/abs/2411.02003)|null|
 |**2024-11-04**|**FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework**|Yuchen He et.al.|[2411.01904](http://arxiv.org/abs/2411.01904)|**[link](https://github.com/ycheoo/fppl)**|
-|**2024-11-04**|**Not Just Object, But State: Compositional Incremental Learning without Forgetting**|Yanyi Zhang et.al.|[2411.01739](http://arxiv.org/abs/2411.01739)|null|
-|**2024-11-03**|**Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups**|Răzvan-Alexandru Smădu et.al.|[2411.01706](http://arxiv.org/abs/2411.01706)|null|
+|**2024-11-05**|**Not Just Object, But State: Compositional Incremental Learning without Forgetting**|Yanyi Zhang et.al.|[2411.01739](http://arxiv.org/abs/2411.01739)|**[link](https://github.com/Yanyi-Zhang/CompILer)**|
+|**2024-11-03**|**Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups**|Răzvan-Alexandru Smădu et.al.|[2411.01706](http://arxiv.org/abs/2411.01706)|**[link](https://github.com/razvanalex-phd/cwi_llm)**|
 |**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
 |**2024-11-02**|**Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization**|Shengchao Hu et.al.|[2411.01168](http://arxiv.org/abs/2411.01168)|null|
 |**2024-11-02**|**HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters**|Yujie Mo et.al.|[2411.01155](http://arxiv.org/abs/2411.01155)|null|
@@ -1015,9 +1038,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Causal Responsibility Attribution for Human-AI Collaboration**|Yahang Qi et.al.|[2411.03275](http://arxiv.org/abs/2411.03275)|**[link](https://github.com/yahang-qi/Causal-Attr-Human-AI)**|
+|**2024-11-05**|**Randomly assigned first differences?**|Clément de Chaisemartin et.al.|[2411.03208](http://arxiv.org/abs/2411.03208)|null|
+|**2024-11-05**|**Graph Agnostic Causal Bayesian Optimisation**|Sumantrak Mukherjee et.al.|[2411.03028](http://arxiv.org/abs/2411.03028)|null|
+|**2024-11-05**|**Testing Generalizability in Causal Inference**|Daniel de Vassimon Manela et.al.|[2411.03021](http://arxiv.org/abs/2411.03021)|null|
+|**2024-11-05**|**Controlling for Unobserved Confounding with Large Language Model Classification of Patient Smoking Status**|Samuel Lee et.al.|[2411.03004](http://arxiv.org/abs/2411.03004)|null|
+|**2024-11-05**|**Dissecting the Failure of Invariant Learning on Graphs**|Qixun Wang et.al.|[2411.02847](http://arxiv.org/abs/2411.02847)|**[link](https://github.com/novaglow646/neurips24-invariant-learning-on-graphs)**|
+|**2024-11-05**|**Automatic doubly robust inference for linear functionals via calibrated debiased machine learning**|Lars van der Laan et.al.|[2411.02771](http://arxiv.org/abs/2411.02771)|**[link](https://github.com/Larsvanderlaan/CDML)**|
 |**2024-11-04**|**Sharp Bounds for Continuous-Valued Treatment Effects with Unobserved Confounders**|Jean-Baptiste Baitairian et.al.|[2411.02231](http://arxiv.org/abs/2411.02231)|null|
 |**2024-11-04**|**Encoding Multi-level Dynamics in Effect Heterogeneity Estimation**|Fucheng Warren Zhu et.al.|[2411.02134](http://arxiv.org/abs/2411.02134)|null|
-|**2024-11-04**|**Causal Discovery and Classification Using Lempel-Ziv Complexity**|Dhruthi et.al.|[2411.01881](http://arxiv.org/abs/2411.01881)|null|
+|**2024-11-04**|**Causal Discovery and Classification Using Lempel-Ziv Complexity**|Dhruthi et.al.|[2411.01881](http://arxiv.org/abs/2411.01881)|**[link](https://github.com/i-to-the-power-i/causal-lz-p-decision-tree)**|
 |**2024-11-03**|**Educational Effects in Mathematics: Conditional Average Treatment Effect depending on the Number of Treatments**|Tomoko Nagai et.al.|[2411.01498](http://arxiv.org/abs/2411.01498)|null|
 |**2024-11-02**|**Causal reasoning in difference graphs**|Charles K. Assaad et.al.|[2411.01292](http://arxiv.org/abs/2411.01292)|null|
 |**2024-11-02**|**Identifying and bounding the probability of necessity for causes of effects with ordinal outcomes**|Chao Zhang et.al.|[2411.01234](http://arxiv.org/abs/2411.01234)|null|
@@ -1185,10 +1215,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
+|**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871](http://arxiv.org/abs/2411.02871)|null|
+|**2024-11-04**|**Distributionally Robust Optimization**|Daniel Kuhn et.al.|[2411.02549](http://arxiv.org/abs/2411.02549)|null|
+|**2024-11-05**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
 |**2024-11-04**|**Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs**|Xiaoqing Chen et.al.|[2411.02094](http://arxiv.org/abs/2411.02094)|**[link](https://github.com/xqchen914/abat)**|
-|**2024-11-04**|**Optimal Classification under Performative Distribution Shift**|Edwige Cyffers et.al.|[2411.02023](http://arxiv.org/abs/2411.02023)|null|
-|**2024-11-04**|**Learning from Convolution-based Unlearnable Datastes**|Dohyun Kim et.al.|[2411.01742](http://arxiv.org/abs/2411.01742)|null|
+|**2024-11-04**|**Optimal Classification under Performative Distribution Shift**|Edwige Cyffers et.al.|[2411.02023](http://arxiv.org/abs/2411.02023)|**[link](https://github.com/totilas/PerfOpti)**|
+|**2024-11-04**|**Learning from Convolution-based Unlearnable Datastes**|Dohyun Kim et.al.|[2411.01742](http://arxiv.org/abs/2411.01742)|**[link](https://github.com/aseriesof-tubes/RSK)**|
 |**2024-10-29**|**CausAdv: A Causal-based Framework for Detecting Adversarial Examples**|Hichem Debbi et.al.|[2411.00839](http://arxiv.org/abs/2411.00839)|null|
 |**2024-10-29**|**Longitudinal Mammogram Exam-based Breast Cancer Diagnosis Models: Vulnerability to Adversarial Attacks**|Zhengbo Zhou et.al.|[2411.00837](http://arxiv.org/abs/2411.00837)|null|
 |**2024-11-01**|**Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction**|Yanshuo Chen et.al.|[2411.00614](http://arxiv.org/abs/2411.00614)|null|
