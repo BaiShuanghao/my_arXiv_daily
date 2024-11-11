@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics**|Puze Liu et.al.|[2411.05718](http://arxiv.org/abs/2411.05718)|null|
+|**2024-11-08**|**Learning-based Nonlinear Model Predictive Control of Articulated Soft Robots using Recurrent Neural Networks**|Hendrik Schäfke et.al.|[2411.05616](http://arxiv.org/abs/2411.05616)|null|
+|**2024-11-08**|**Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction**|Émiland Garrabé et.al.|[2411.05474](http://arxiv.org/abs/2411.05474)|null|
+|**2024-11-07**|**RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model**|Jinxuan Xu et.al.|[2411.05212](http://arxiv.org/abs/2411.05212)|null|
+|**2024-11-07**|**Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning**|Joey Hong et.al.|[2411.05193](http://arxiv.org/abs/2411.05193)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[2411.04735](http://arxiv.org/abs/2411.04735)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
@@ -331,6 +336,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway Tree Segmentation**|Maxime Jacovella et.al.|[2411.05779](http://arxiv.org/abs/2411.05779)|null|
+|**2024-11-08**|**Supporting Automated Fact-checking across Topics: Similarity-driven Gradual Topic Learning for Claim Detection**|Amani S. Abumansour et.al.|[2411.05460](http://arxiv.org/abs/2411.05460)|null|
+|**2024-11-07**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
 |**2024-11-07**|**Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**|Benito Buchheim et.al.|[2411.04724](http://arxiv.org/abs/2411.04724)|null|
@@ -341,7 +349,7 @@ layout: default
 |**2024-11-06**|**Beyond Model Adaptation at Test Time: A Survey**|Zehao Xiao et.al.|[2411.03687](http://arxiv.org/abs/2411.03687)|**[link](https://github.com/zzzx1224/beyond-model-adaptation-at-test-time-papers)**|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
 |**2024-11-04**|**Weakly supervised deep learning model with size constraint for prostate cancer detection in multiparametric MRI and generalization to unseen domains**|Robin Trombetta et.al.|[2411.02466](http://arxiv.org/abs/2411.02466)|null|
-|**2024-11-03**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
+|**2024-11-08**|**ROAD-Waymo: Action Awareness at Scale for Autonomous Driving**|Salman Khan et.al.|[2411.01683](http://arxiv.org/abs/2411.01683)|**[link](https://github.com/salmank255/ROAD_Waymo_Baseline)**|
 |**2024-10-26**|**Personality Analysis from Online Short Video Platforms with Multi-domain Adaptation**|Sixu An et.al.|[2411.00813](http://arxiv.org/abs/2411.00813)|**[link](https://github.com/Anne6645/personality_analysis)**|
 |**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548](http://arxiv.org/abs/2411.00548)|null|
 |**2024-10-31**|**Schema Augmentation for Zero-Shot Domain Adaptation in Dialogue State Tracking**|Christopher Richardson et.al.|[2411.00150](http://arxiv.org/abs/2411.00150)|null|
@@ -492,6 +500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223](http://arxiv.org/abs/2411.05223)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
 |**2024-11-06**|**WiFlexFormer: Efficient WiFi-Based Person-Centric Sensing**|Julian Strohmayer et.al.|[2411.04224](http://arxiv.org/abs/2411.04224)|null|
@@ -592,6 +601,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|null|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357](http://arxiv.org/abs/2411.05357)|null|
+|**2024-11-08**|**Real-World Offline Reinforcement Learning from Vision Language Model Feedback**|Sreyas Venkataraman et.al.|[2411.05273](http://arxiv.org/abs/2411.05273)|null|
+|**2024-11-07**|**On Erroneous Agreements of CLIP Image Embeddings**|Siting Li et.al.|[2411.05195](http://arxiv.org/abs/2411.05195)|null|
+|**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
 |**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
@@ -1076,11 +1092,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Cross-validating causal discovery via Leave-One-Variable-Out**|Daniela Schkoda et.al.|[2411.05625](http://arxiv.org/abs/2411.05625)|null|
+|**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540](http://arxiv.org/abs/2411.05540)|null|
+|**2024-11-08**|**Discovering Latent Structural Causal Models from Spatio-Temporal Data**|Kun Wang et.al.|[2411.05331](http://arxiv.org/abs/2411.05331)|null|
+|**2024-11-08**|**Caliper Synthetic Matching: Generalized Radius Matching with Local Synthetic Controls**|Jonathan Che et.al.|[2411.05246](http://arxiv.org/abs/2411.05246)|null|
+|**2024-11-07**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
 |**2024-11-06**|**Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits**|Muhammad Qasim Elahi et.al.|[2411.04054](http://arxiv.org/abs/2411.04054)|null|
 |**2024-11-06**|**A Causal Framework for Precision Rehabilitation**|R. James Cotton et.al.|[2411.03919](http://arxiv.org/abs/2411.03919)|null|
 |**2024-11-05**|**A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials**|Yuki Ohnishi et.al.|[2411.03489](http://arxiv.org/abs/2411.03489)|null|
 |**2024-11-05**|**Causal Responsibility Attribution for Human-AI Collaboration**|Yahang Qi et.al.|[2411.03275](http://arxiv.org/abs/2411.03275)|**[link](https://github.com/yahang-qi/Causal-Attr-Human-AI)**|
-|**2024-11-05**|**Randomly assigned first differences?**|Clément de Chaisemartin et.al.|[2411.03208](http://arxiv.org/abs/2411.03208)|null|
+|**2024-11-08**|**Randomly Assigned First Differences?**|Clément de Chaisemartin et.al.|[2411.03208](http://arxiv.org/abs/2411.03208)|null|
 |**2024-11-05**|**Graph Agnostic Causal Bayesian Optimisation**|Sumantrak Mukherjee et.al.|[2411.03028](http://arxiv.org/abs/2411.03028)|null|
 |**2024-11-05**|**Testing Generalizability in Causal Inference**|Daniel de Vassimon Manela et.al.|[2411.03021](http://arxiv.org/abs/2411.03021)|null|
 |**2024-11-05**|**Controlling for Unobserved Confounding with Large Language Model Classification of Patient Smoking Status**|Samuel Lee et.al.|[2411.03004](http://arxiv.org/abs/2411.03004)|null|
@@ -1254,6 +1275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Adversarial Robustness of In-Context Learning in Transformers for Linear Regression**|Usman Anwar et.al.|[2411.05189](http://arxiv.org/abs/2411.05189)|null|
 |**2024-11-07**|**Game-Theoretic Defenses for Robust Conformal Prediction Against Adversarial Attacks in Medical Imaging**|Rui Luo et.al.|[2411.04376](http://arxiv.org/abs/2411.04376)|null|
 |**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871](http://arxiv.org/abs/2411.02871)|null|
 |**2024-11-04**|**Distributionally Robust Optimization**|Daniel Kuhn et.al.|[2411.02549](http://arxiv.org/abs/2411.02549)|null|
