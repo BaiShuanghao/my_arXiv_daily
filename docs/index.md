@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Learning Memory Mechanisms for Decision Making through Demonstrations**|William Yue et.al.|[2411.07954](http://arxiv.org/abs/2411.07954)|**[link](https://github.com/williamyue37/attentiontuner)**|
+|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|
+|**2024-11-12**|**Robust Adaptive Safe Robotic Grasping with Tactile Sensing**|Yitaek Kim et.al.|[2411.07833](http://arxiv.org/abs/2411.07833)|null|
+|**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
+|**2024-11-12**|**Learning Autonomous Docking Operation of Fully Actuated Autonomous Surface Vessel from Expert data**|Akash Vijayakumar et.al.|[2411.07550](http://arxiv.org/abs/2411.07550)|null|
+|**2024-11-11**|**Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation**|Neel Jawale et.al.|[2411.07442](http://arxiv.org/abs/2411.07442)|null|
+|**2024-11-11**|**Learning Dynamic Tasks on a Large-scale Soft Robot in a Handful of Trials**|Sicelukwanda Zwane et.al.|[2411.07342](http://arxiv.org/abs/2411.07342)|null|
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146](http://arxiv.org/abs/2411.07146)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**GSL-PCD: Improving Generalist-Specialist Learning with Point Cloud Feature-based Task Partitioning**|Xiu Yuan et.al.|[2411.06733](http://arxiv.org/abs/2411.06733)|null|
@@ -343,13 +350,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**TLDR: Traffic Light Detection using Fourier Domain Adaptation in Hostile WeatheR**|Ishaan Gakhar et.al.|[2411.07901](http://arxiv.org/abs/2411.07901)|null|
+|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|null|
 |**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
 |**2024-11-11**|**Gradual Fine-Tuning with Graph Routing for Multi-Source Unsupervised Domain Adaptation**|Yao Ma et.al.|[2411.07185](http://arxiv.org/abs/2411.07185)|null|
 |**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917](http://arxiv.org/abs/2411.06917)|null|
 |**2024-11-11**|**Learning from Different Samples: A Source-free Framework for Semi-supervised Domain Adaptation**|Xinyang Huang et.al.|[2411.06665](http://arxiv.org/abs/2411.06665)|null|
 |**2024-11-09**|**Smart-LLaMA: Two-Stage Post-Training of Large Language Models for Smart Contract Vulnerability Detection and Explanation**|Lei Yu et.al.|[2411.06221](http://arxiv.org/abs/2411.06221)|null|
 |**2024-11-09**|**Building an Efficient Multilingual Non-Profit IR System for the Islamic Domain Leveraging Multiprocessing Design in Rust**|Vera Pavlova et.al.|[2411.06151](http://arxiv.org/abs/2411.06151)|null|
-|**2024-11-09**|**Cross-Domain Transfer Learning using Attention Latent Features for Multi-Agent Trajectory Prediction**|Jia Quan Loh et.al.|[2411.06087](http://arxiv.org/abs/2411.06087)|null|
+|**2024-11-12**|**Cross-Domain Transfer Learning using Attention Latent Features for Multi-Agent Trajectory Prediction**|Jia Quan Loh et.al.|[2411.06087](http://arxiv.org/abs/2411.06087)|null|
 |**2024-11-08**|**Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model**|Shuchang Lyu et.al.|[2411.05878](http://arxiv.org/abs/2411.05878)|**[link](https://github.com/cv-shuchanglyu/sam-joanet)**|
 |**2024-11-07**|**From Electrode to Global Brain: Integrating Multi- and Cross-Scale Brain Connections and Interactions Under Cross-Subject and Within-Subject Scenarios**|Chen Zhige et.al.|[2411.05862](http://arxiv.org/abs/2411.05862)|null|
 |**2024-11-08**|**Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway Tree Segmentation**|Maxime Jacovella et.al.|[2411.05779](http://arxiv.org/abs/2411.05779)|null|
@@ -516,6 +525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization**|Haoliang Wang et.al.|[2411.07392](http://arxiv.org/abs/2411.07392)|null|
 |**2024-11-11**|**Maximizing domain generalization in fetal brain tissue segmentation: the role of synthetic data generation, intensity clustering and real image fine-tuning**|Vladyslav Zalevskyi et.al.|[2411.06842](http://arxiv.org/abs/2411.06842)|null|
 |**2024-11-05**|**Navigating Distribution Shifts in Medical Image Analysis: A Survey**|Zixian Su et.al.|[2411.05824](http://arxiv.org/abs/2411.05824)|null|
 |**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223](http://arxiv.org/abs/2411.05223)|null|
@@ -619,6 +629,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**|Yiyang Ma et.al.|[2411.07975](http://arxiv.org/abs/2411.07975)|null|
+|**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871](http://arxiv.org/abs/2411.07871)|null|
+|**2024-11-12**|**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**|Anas Awadalla et.al.|[2411.07461](http://arxiv.org/abs/2411.07461)|null|
+|**2024-11-09**|**ViTOC: Vision Transformer and Object-aware Captioner**|Feiyang Huang et.al.|[2411.07265](http://arxiv.org/abs/2411.07265)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076](http://arxiv.org/abs/2411.07076)|**[link](https://github.com/hyc2026/StoryTeller)**|
 |**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
@@ -1012,6 +1026,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Prompt-enhanced Network for Hateful Meme Classification**|Junxi Liu et.al.|[2411.07527](http://arxiv.org/abs/2411.07527)|**[link](https://github.com/juszzi/pen)**|
 |**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
 |**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
@@ -1124,9 +1139,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
 |**2024-11-11**|**Estimating Causal Effects in Partially Directed Parametric Causal Factor Graphs**|Malte Luttermann et.al.|[2411.07006](http://arxiv.org/abs/2411.07006)|null|
 |**2024-11-11**|**Causal-discovery-based root-cause analysis and its application in time-series prediction error diagnosis**|Hiroshi Yokoyama et.al.|[2411.06990](http://arxiv.org/abs/2411.06990)|null|
-|**2024-11-11**|**SPARTAN: A Sparse Transformer Learning Local Causation**|Anson Lei et.al.|[2411.06890](http://arxiv.org/abs/2411.06890)|null|
+|**2024-11-12**|**SPARTAN: A Sparse Transformer Learning Local Causation**|Anson Lei et.al.|[2411.06890](http://arxiv.org/abs/2411.06890)|null|
 |**2024-11-10**|**Improved Video VAE for Latent Video Diffusion Model**|Pingyu Wu et.al.|[2411.06449](http://arxiv.org/abs/2411.06449)|null|
 |**2024-11-10**|**CausalStock: Deep End-to-end Causal Discovery for News-driven Stock Movement Prediction**|Shuqi Li et.al.|[2411.06391](http://arxiv.org/abs/2411.06391)|null|
 |**2024-11-10**|**Stabilized Inverse Probability Weighting via Isotonic Calibration**|Lars van der Laan et.al.|[2411.06342](http://arxiv.org/abs/2411.06342)|null|
@@ -1316,6 +1332,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843](http://arxiv.org/abs/2411.07843)|null|
+|**2024-11-12**|**Rapid Response: Mitigating LLM Jailbreaks with a Few Examples**|Alwin Peng et.al.|[2411.07494](http://arxiv.org/abs/2411.07494)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
 |**2024-11-11**|**Imitation from Diverse Behaviors: Wasserstein Quality Diversity Imitation Learning with Single-Step Archive Exploration**|Xingrui Yu et.al.|[2411.06965](http://arxiv.org/abs/2411.06965)|null|
 |**2024-11-11**|**A Text Classification Model Combining Adversarial Training with Pre-trained Language Model and neural networks: A Case Study on Telecom Fraud Incident Texts**|Liu Zhuoxian et.al.|[2411.06772](http://arxiv.org/abs/2411.06772)|null|
