@@ -1,4 +1,4 @@
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[2411.04735](http://arxiv.org/abs/2411.04735)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
 |**2024-11-07**|**Scaling Laws for Pre-training Agents and World Models**|Tim Pearce et.al.|[2411.04434](http://arxiv.org/abs/2411.04434)|null|
-|**2024-11-07**|**Repairing Neural Networks for Safety in Robotic Systems using Predictive Models**|Keyvan Majd et.al.|[2411.04408](http://arxiv.org/abs/2411.04408)|null|
+|**2024-11-07**|**Repairing Neural Networks for Safety in Robotic Systems using Predictive Models**|Keyvan Majd et.al.|[2411.04408](http://arxiv.org/abs/2411.04408)|**[link](https://github.com/k1majd/SARP)**|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112](http://arxiv.org/abs/2411.04112)|null|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-06**|**Object-Centric Dexterous Manipulation from Human Motion Data**|Yuanpei Chen et.al.|[2411.04005](http://arxiv.org/abs/2411.04005)|null|
@@ -348,7 +348,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## DA
 
@@ -523,7 +523,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## DG
 
@@ -628,7 +628,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## VLM
 
@@ -640,7 +640,7 @@
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**Renaissance: Investigating the Pretraining of Vision-Language Encoders**|Clayton Fields et.al.|[2411.06657](http://arxiv.org/abs/2411.06657)|**[link](https://github.com/bsu-slim/renaissance)**|
-|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|null|
+|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|**[link](https://github.com/arshiahemmat/illusionbench)**|
 |**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
 |**2024-11-09**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Kaixuan Lu et.al.|[2411.06074](http://arxiv.org/abs/2411.06074)|null|
 |**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
@@ -1023,7 +1023,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## Prompt
 
@@ -1137,7 +1137,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1331,7 +1331,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1473,5 +1473,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 

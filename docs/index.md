@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -25,7 +25,7 @@ layout: default
 |**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[2411.04735](http://arxiv.org/abs/2411.04735)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
 |**2024-11-07**|**Scaling Laws for Pre-training Agents and World Models**|Tim Pearce et.al.|[2411.04434](http://arxiv.org/abs/2411.04434)|null|
-|**2024-11-07**|**Repairing Neural Networks for Safety in Robotic Systems using Predictive Models**|Keyvan Majd et.al.|[2411.04408](http://arxiv.org/abs/2411.04408)|null|
+|**2024-11-07**|**Repairing Neural Networks for Safety in Robotic Systems using Predictive Models**|Keyvan Majd et.al.|[2411.04408](http://arxiv.org/abs/2411.04408)|**[link](https://github.com/k1majd/SARP)**|
 |**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112](http://arxiv.org/abs/2411.04112)|null|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-06**|**Object-Centric Dexterous Manipulation from Human Motion Data**|Yuanpei Chen et.al.|[2411.04005](http://arxiv.org/abs/2411.04005)|null|
@@ -625,7 +625,7 @@ layout: default
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**Renaissance: Investigating the Pretraining of Vision-Language Encoders**|Clayton Fields et.al.|[2411.06657](http://arxiv.org/abs/2411.06657)|**[link](https://github.com/bsu-slim/renaissance)**|
-|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|null|
+|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|**[link](https://github.com/arshiahemmat/illusionbench)**|
 |**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
 |**2024-11-09**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Kaixuan Lu et.al.|[2411.06074](http://arxiv.org/abs/2411.06074)|null|
 |**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
