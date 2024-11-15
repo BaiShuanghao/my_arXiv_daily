@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -21,7 +21,7 @@ layout: default
 |**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
 |**2024-11-12**|**Learning Autonomous Docking Operation of Fully Actuated Autonomous Surface Vessel from Expert data**|Akash Vijayakumar et.al.|[2411.07550](http://arxiv.org/abs/2411.07550)|null|
 |**2024-11-11**|**Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation**|Neel Jawale et.al.|[2411.07442](http://arxiv.org/abs/2411.07442)|null|
-|**2024-11-13**|**Learning Dynamic Tasks on a Large-scale Soft Robot in a Handful of Trials**|Sicelukwanda Zwane et.al.|[2411.07342](http://arxiv.org/abs/2411.07342)|null|
+|**2024-11-13**|**Learning Dynamic Tasks on a Large-scale Soft Robot in a Handful of Trials**|Sicelukwanda Zwane et.al.|[2411.07342](http://arxiv.org/abs/2411.07342)|**[link](https://github.com/Sicelukwanda/BayesOptSoftRobotControl)**|
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146](http://arxiv.org/abs/2411.07146)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**GSL-PCD: Improving Generalist-Specialist Learning with Point Cloud Feature-based Task Partitioning**|Xiu Yuan et.al.|[2411.06733](http://arxiv.org/abs/2411.06733)|null|
