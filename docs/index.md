@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1362,7 +1362,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**|Zheng Zhou et.al.|[2411.09265](http://arxiv.org/abs/2411.09265)|**[link](https://github.com/zhouzhengqd/beard)**|
 |**2024-11-14**|**Adversarial Vessel-Unveiling Semi-Supervised Segmentation for Retinopathy of Prematurity Diagnosis**|Gozde Merve Demirci et.al.|[2411.09140](http://arxiv.org/abs/2411.09140)|null|
-|**2024-11-13**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
+|**2024-11-15**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
 |**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785](http://arxiv.org/abs/2411.08785)|null|
 |**2024-11-12**|**Adaptive Meta-Learning for Robust Deepfake Detection: A Multi-Agent Framework to Data Drift and Model Generalization**|Dinesh Srivasthav P et.al.|[2411.08148](http://arxiv.org/abs/2411.08148)|null|
 |**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843](http://arxiv.org/abs/2411.07843)|null|
