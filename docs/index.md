@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -676,7 +676,7 @@ layout: default
 |**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871](http://arxiv.org/abs/2411.07871)|null|
 |**2024-11-12**|**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**|Anas Awadalla et.al.|[2411.07461](http://arxiv.org/abs/2411.07461)|null|
 |**2024-11-13**|**ViTOC: Vision Transformer and Object-aware Captioner**|Feiyang Huang et.al.|[2411.07265](http://arxiv.org/abs/2411.07265)|null|
-|**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
+|**2024-11-16**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076](http://arxiv.org/abs/2411.07076)|**[link](https://github.com/hyc2026/StoryTeller)**|
 |**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
@@ -1088,7 +1088,7 @@ layout: default
 |**2024-11-04**|**FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework**|Yuchen He et.al.|[2411.01904](http://arxiv.org/abs/2411.01904)|**[link](https://github.com/ycheoo/fppl)**|
 |**2024-11-05**|**Not Just Object, But State: Compositional Incremental Learning without Forgetting**|Yanyi Zhang et.al.|[2411.01739](http://arxiv.org/abs/2411.01739)|**[link](https://github.com/Yanyi-Zhang/CompILer)**|
 |**2024-11-03**|**Investigating Large Language Models for Complex Word Identification in Multilingual and Multidomain Setups**|Răzvan-Alexandru Smădu et.al.|[2411.01706](http://arxiv.org/abs/2411.01706)|**[link](https://github.com/razvanalex-phd/cwi_llm)**|
-|**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
+|**2024-11-15**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
 |**2024-11-02**|**Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization**|Shengchao Hu et.al.|[2411.01168](http://arxiv.org/abs/2411.01168)|null|
 |**2024-11-02**|**HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters**|Yujie Mo et.al.|[2411.01155](http://arxiv.org/abs/2411.01155)|null|
 |**2024-11-01**|**FedDTPT: Federated Discrete and Transferable Prompt Tuning for Black-Box Large Language Models**|Jiaqi Wu et.al.|[2411.00985](http://arxiv.org/abs/2411.00985)|null|
