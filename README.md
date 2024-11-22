@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
+|**2024-11-21**|**Simulation-Aided Policy Tuning for Black-Box Robot Learning**|Shiming He et.al.|[2411.14246](http://arxiv.org/abs/2411.14246)|**[link](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)**|
+|**2024-11-21**|**Exploration by Running Away from the Past**|Paul-Antoine Le Tolguenec et.al.|[2411.14085](http://arxiv.org/abs/2411.14085)|null|
+|**2024-11-21**|**Contact Tooling Manipulation Control for Robotic Repair Platform**|Joong-Ku Lee et.al.|[2411.13996](http://arxiv.org/abs/2411.13996)|null|
+|**2024-11-21**|**Learning thin deformable object manipulation with a multi-sensory integrated soft hand**|Chao Zhao et.al.|[2411.13952](http://arxiv.org/abs/2411.13952)|null|
+|**2024-11-21**|**Trajectory Tracking Using Frenet Coordinates with Deep Deterministic Policy Gradient**|Tongzhou Jiang et.al.|[2411.13885](http://arxiv.org/abs/2411.13885)|null|
+|**2024-11-20**|**SuPLE: Robot Learning with Lyapunov Rewards**|Phu Nguyen et.al.|[2411.13613](http://arxiv.org/abs/2411.13613)|**[link](https://github.com/phunguyen1195/truncle)**|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-20**|**Interaction force estimation for tactile sensor arrays: Toward tactile-based interaction control for robotic fingers**|Elie Chelly et.al.|[2411.13335](http://arxiv.org/abs/2411.13335)|null|
 |**2024-11-20**|**FASTNav: Fine-tuned Adaptive Small-language-models Trained for Multi-point Robot Navigation**|Yuxuan Chen et.al.|[2411.13262](http://arxiv.org/abs/2411.13262)|null|
@@ -394,11 +401,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**|Zheheng Luo et.al.|[2411.14318](http://arxiv.org/abs/2411.14318)|null|
+|**2024-11-21**|**Meaning at the Planck scale? Contextualized word embeddings for doing history, philosophy, and sociology of science**|Arno Simons et.al.|[2411.14073](http://arxiv.org/abs/2411.14073)|null|
+|**2024-11-21**|**Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**|Yuntao Shou et.al.|[2411.14001](http://arxiv.org/abs/2411.14001)|null|
 |**2024-11-20**|**AGLP: A Graph Learning Perspective for Semi-supervised Domain Adaptation**|Houcheng Su et.al.|[2411.13152](http://arxiv.org/abs/2411.13152)|null|
 |**2024-11-20**|**Domain Adaptive Unfolded Graph Neural Networks**|Zepeng Zhang et.al.|[2411.13137](http://arxiv.org/abs/2411.13137)|null|
 |**2024-11-20**|**Machine Learning Domain Adaptation in Spin Models with Continuous Phase Transitions**|Vladislav Chertenkov et.al.|[2411.13027](http://arxiv.org/abs/2411.13027)|null|
 |**2024-11-19**|**Enhanced Cross-Dataset Electroencephalogram-based Emotion Recognition using Unsupervised Domain Adaptation**|Md Niaz Imtiaz et.al.|[2411.12852](http://arxiv.org/abs/2411.12852)|null|
-|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|null|
+|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|**[link](https://github.com/adobe-research/domain-expansion)**|
 |**2024-11-19**|**Recall and Refine: A Simple but Effective Source-free Open-set Domain Adaptation Framework**|Ismail Nejjar et.al.|[2411.12558](http://arxiv.org/abs/2411.12558)|**[link](https://github.com/ismailnejjar/RRDA)**|
 |**2024-11-19**|**Learning from Label Proportions and Covariate-shifted Instances**|Sagalpreet Singh et.al.|[2411.12334](http://arxiv.org/abs/2411.12334)|null|
 |**2024-11-19**|**Emergence of Implicit World Models from Mortal Agents**|Kazuya Horibe et.al.|[2411.12304](http://arxiv.org/abs/2411.12304)|null|
@@ -705,10 +715,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
+|**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
+|**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
+|**2024-11-18**|**Improved GUI Grounding via Iterative Narrowing**|Anthony Nguyen et.al.|[2411.13591](http://arxiv.org/abs/2411.13591)|**[link](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing)**|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
 |**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
-|**2024-11-20**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**|Vishwesh Nath et.al.|[2411.12915](http://arxiv.org/abs/2411.12915)|null|
 |**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
@@ -1143,6 +1157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
@@ -1268,6 +1283,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341](http://arxiv.org/abs/2411.14341)|null|
+|**2024-11-21**|**Stochastic interventions, sensitivity analysis, and optimal transport**|Alexander W. Levis et.al.|[2411.14285](http://arxiv.org/abs/2411.14285)|null|
+|**2024-11-21**|**Generative Intervention Models for Causal Perturbation Modeling**|Nora Schneider et.al.|[2411.14003](http://arxiv.org/abs/2411.14003)|null|
+|**2024-11-21**|**Sensitivity analysis methods for outcome missingness using substantive-model-compatible multiple imputation and their application in causal inference**|Jiaxin Zhang et.al.|[2411.13829](http://arxiv.org/abs/2411.13829)|null|
+|**2024-11-21**|**Heterophilic Graph Neural Networks Optimization with Causal Message-passing**|Botao Wang et.al.|[2411.13821](http://arxiv.org/abs/2411.13821)|null|
 |**2024-11-19**|**MLDGG: Meta-Learning for Domain Generalization on Graphs**|Qin Tian et.al.|[2411.12913](http://arxiv.org/abs/2411.12913)|null|
 |**2024-11-19**|**Off-policy estimation with adaptively collected data: the power of online learning**|Jeonghwan Lee et.al.|[2411.12786](http://arxiv.org/abs/2411.12786)|null|
 |**2024-11-16**|**A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery**|Grace Sng et.al.|[2411.12759](http://arxiv.org/abs/2411.12759)|null|
@@ -1476,6 +1496,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
+|**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
+|**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
 |**2024-11-20**|**DATTA: Domain-Adversarial Test-Time Adaptation for Cross-Domain WiFi-Based Human Activity Recognition**|Julian Strohmayer et.al.|[2411.13284](http://arxiv.org/abs/2411.13284)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
