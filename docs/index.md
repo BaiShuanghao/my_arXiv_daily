@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
+|**2024-11-22**|**Task-Aware Robotic Grasping by evaluating Quality Diversity Solutions through Foundation Models**|Aurel X. Appius et.al.|[2411.14917](http://arxiv.org/abs/2411.14917)|null|
+|**2024-11-22**|**Reactive Robot Navigation Using Quasi-conformal Mappings and Control Barrier Functions**|Gennaro Notomista et.al.|[2411.14908](http://arxiv.org/abs/2411.14908)|null|
+|**2024-11-22**|**Fine-Grained Alignment in Vision-and-Language Navigation through Bayesian Optimization**|Yuhang Song et.al.|[2411.14811](http://arxiv.org/abs/2411.14811)|null|
+|**2024-11-21**|**Learning Autonomous Surgical Irrigation and Suction with the da Vinci Research Kit Using Reinforcement Learning**|Yafei Ou et.al.|[2411.14622](http://arxiv.org/abs/2411.14622)|null|
 |**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
 |**2024-11-21**|**Simulation-Aided Policy Tuning for Black-Box Robot Learning**|Shiming He et.al.|[2411.14246](http://arxiv.org/abs/2411.14246)|**[link](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)**|
 |**2024-11-21**|**Exploration by Running Away from the Past**|Paul-Antoine Le Tolguenec et.al.|[2411.14085](http://arxiv.org/abs/2411.14085)|null|
@@ -390,10 +395,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Astro-HEP-BERT: A bidirectional language model for studying the meanings of concepts in astrophysics and high energy physics**|Arno Simons et.al.|[2411.14877](http://arxiv.org/abs/2411.14877)|null|
+|**2024-11-22**|**Physically Interpretable Probabilistic Domain Characterization**|Anaïs Halin et.al.|[2411.14827](http://arxiv.org/abs/2411.14827)|null|
+|**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
 |**2024-11-21**|**Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**|Zheheng Luo et.al.|[2411.14318](http://arxiv.org/abs/2411.14318)|null|
 |**2024-11-21**|**Meaning at the Planck scale? Contextualized word embeddings for doing history, philosophy, and sociology of science**|Arno Simons et.al.|[2411.14073](http://arxiv.org/abs/2411.14073)|null|
 |**2024-11-21**|**Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction**|Yuntao Shou et.al.|[2411.14001](http://arxiv.org/abs/2411.14001)|null|
-|**2024-11-20**|**AGLP: A Graph Learning Perspective for Semi-supervised Domain Adaptation**|Houcheng Su et.al.|[2411.13152](http://arxiv.org/abs/2411.13152)|null|
+|**2024-11-22**|**AGLP: A Graph Learning Perspective for Semi-supervised Domain Adaptation**|Houcheng Su et.al.|[2411.13152](http://arxiv.org/abs/2411.13152)|null|
 |**2024-11-20**|**Domain Adaptive Unfolded Graph Neural Networks**|Zepeng Zhang et.al.|[2411.13137](http://arxiv.org/abs/2411.13137)|null|
 |**2024-11-20**|**Machine Learning Domain Adaptation in Spin Models with Continuous Phase Transitions**|Vladislav Chertenkov et.al.|[2411.13027](http://arxiv.org/abs/2411.13027)|null|
 |**2024-11-19**|**Enhanced Cross-Dataset Electroencephalogram-based Emotion Recognition using Unsupervised Domain Adaptation**|Md Niaz Imtiaz et.al.|[2411.12852](http://arxiv.org/abs/2411.12852)|**[link](https://github.com/ryersonmultimedialab/emotionrecognitionuda)**|
@@ -585,6 +593,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation**|Yuheng Xu et.al.|[2411.14883](http://arxiv.org/abs/2411.14883)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
 |**2024-11-20**|**DATTA: Domain-Adversarial Test-Time Adaptation for Cross-Domain WiFi-Based Human Activity Recognition**|Julian Strohmayer et.al.|[2411.13284](http://arxiv.org/abs/2411.13284)|null|
 |**2024-11-19**|**MLDGG: Meta-Learning for Domain Generalization on Graphs**|Qin Tian et.al.|[2411.12913](http://arxiv.org/abs/2411.12913)|null|
 |**2024-11-19**|**On the Helmholtz decomposition in Morrey and block spaces**|Lucas C. F. Ferreira et.al.|[2411.12143](http://arxiv.org/abs/2411.12143)|null|
@@ -700,6 +710,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**|Tanveer Hannan et.al.|[2411.14901](http://arxiv.org/abs/2411.14901)|null|
+|**2024-11-22**|**VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**|Camilo Chacón Sartori et.al.|[2411.14832](http://arxiv.org/abs/2411.14832)|null|
+|**2024-11-22**|**Continual SFT Matches Multimodal RLHF with Negative Supervision**|Ke Zhu et.al.|[2411.14797](http://arxiv.org/abs/2411.14797)|null|
+|**2024-11-22**|**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**|Songhao Han et.al.|[2411.14794](http://arxiv.org/abs/2411.14794)|null|
+|**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
 |**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
 |**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
@@ -1140,6 +1158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning**|Jiani Zhu et.al.|[2411.14718](http://arxiv.org/abs/2411.14718)|null|
 |**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|null|
@@ -1264,6 +1283,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**The Effects of Major League Baseball's Ban on Infield Shifts: A Quasi-Experimental Analysis**|Lee Kennedy-Shaffer et.al.|[2411.15075](http://arxiv.org/abs/2411.15075)|null|
+|**2024-11-22**|**Fantastic Biases (What are They) and Where to Find Them**|Valentin Barriere et.al.|[2411.15051](http://arxiv.org/abs/2411.15051)|null|
+|**2024-11-22**|**Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data**|Lynda Aouar et.al.|[2411.14665](http://arxiv.org/abs/2411.14665)|null|
 |**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341](http://arxiv.org/abs/2411.14341)|null|
 |**2024-11-21**|**Stochastic interventions, sensitivity analysis, and optimal transport**|Alexander W. Levis et.al.|[2411.14285](http://arxiv.org/abs/2411.14285)|null|
 |**2024-11-21**|**Generative Intervention Models for Causal Perturbation Modeling**|Nora Schneider et.al.|[2411.14003](http://arxiv.org/abs/2411.14003)|null|
