@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -629,7 +629,7 @@ layout: default
 |**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223](http://arxiv.org/abs/2411.05223)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
-|**2024-11-06**|**WiFlexFormer: Efficient WiFi-Based Person-Centric Sensing**|Julian Strohmayer et.al.|[2411.04224](http://arxiv.org/abs/2411.04224)|null|
+|**2024-11-06**|**WiFlexFormer: Efficient WiFi-Based Person-Centric Sensing**|Julian Strohmayer et.al.|[2411.04224](http://arxiv.org/abs/2411.04224)|**[link](https://github.com/strohmayerj/wiflexformer)**|
 |**2024-11-06**|**Generalize or Detect? Towards Robust Semantic Segmentation Under Multiple Distribution Shifts**|Zhitong Gao et.al.|[2411.03829](http://arxiv.org/abs/2411.03829)|**[link](https://github.com/gaozhitong/multishiftseg)**|
 |**2024-11-06**|**Beyond Model Adaptation at Test Time: A Survey**|Zehao Xiao et.al.|[2411.03687](http://arxiv.org/abs/2411.03687)|**[link](https://github.com/zzzx1224/beyond-model-adaptation-at-test-time-papers)**|
 |**2024-11-06**|**Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification**|Ying Zhang et.al.|[2411.03636](http://arxiv.org/abs/2411.03636)|null|
@@ -1202,7 +1202,7 @@ layout: default
 |**2024-11-22**|**Adversarial Prompt Distillation for Vision-Language Models**|Lin Luo et.al.|[2411.15244](http://arxiv.org/abs/2411.15244)|null|
 |**2024-11-21**|**BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models**|Taha Koleilat et.al.|[2411.15232](http://arxiv.org/abs/2411.15232)|null|
 |**2024-11-22**|**GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning**|Jiani Zhu et.al.|[2411.14718](http://arxiv.org/abs/2411.14718)|null|
-|**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
+|**2024-11-25**|**Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by Harnessing AI**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
