@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
+|**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[2411.17508](http://arxiv.org/abs/2411.17508)|null|
+|**2024-11-26**|**Spatially Visual Perception for End-to-End Robotic Learning**|Travis Davies et.al.|[2411.17458](http://arxiv.org/abs/2411.17458)|null|
+|**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
+|**2024-11-26**|**TRIP: Terrain Traversability Mapping With Risk-Aware Prediction for Enhanced Online Quadrupedal Robot Navigation**|Minho Oh et.al.|[2411.17134](http://arxiv.org/abs/2411.17134)|null|
+|**2024-11-26**|**DexGrip: Multi-modal Soft Gripper with Dexterous Grasping and In-hand Manipulation Capacity**|Xing Wang et.al.|[2411.17124](http://arxiv.org/abs/2411.17124)|null|
+|**2024-11-25**|**RoCoDA: Counterfactual Data Augmentation for Data-Efficient Robot Learning from Demonstrations**|Ezra Ameperosa et.al.|[2411.16959](http://arxiv.org/abs/2411.16959)|null|
+|**2024-11-25**|**Leveraging Foundation Models To learn the shape of semi-fluid deformable objects**|Omar El Assal et.al.|[2411.16802](http://arxiv.org/abs/2411.16802)|null|
+|**2024-11-23**|**Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction**|Mitchell Rosser et.al.|[2411.16723](http://arxiv.org/abs/2411.16723)|null|
 |**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
 |**2024-11-25**|**Use-Inspired Mobile Robot to Improve Safety of Building Retrofit Workforce in Constrained Spaces**|Smruti Suresh et.al.|[2411.16511](http://arxiv.org/abs/2411.16511)|null|
 |**2024-11-25**|**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**|Linqing Zhong et.al.|[2411.16425](http://arxiv.org/abs/2411.16425)|null|
@@ -403,6 +412,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**On the Generalization of Handwritten Text Recognition Models**|Carlos Garrido-Munoz et.al.|[2411.17332](http://arxiv.org/abs/2411.17332)|null|
+|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287](http://arxiv.org/abs/2411.17287)|**[link](https://github.com/mdppml/FREDA)**|
 |**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
 |**2024-11-25**|**WTDUN: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing**|Kai Han et.al.|[2411.16336](http://arxiv.org/abs/2411.16336)|null|
 |**2024-11-25**|**Multi-Granularity Class Prototype Topology Distillation for Class-Incremental Source-Free Unsupervised Domain Adaptation**|Peihua Deng et.al.|[2411.16064](http://arxiv.org/abs/2411.16064)|null|
@@ -609,6 +620,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**On the Generalization of Handwritten Text Recognition Models**|Carlos Garrido-Munoz et.al.|[2411.17332](http://arxiv.org/abs/2411.17332)|null|
+|**2024-11-25**|**TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction**|Aishwarya Agarwal et.al.|[2411.16788](http://arxiv.org/abs/2411.16788)|null|
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
 |**2024-11-22**|**Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation**|Yuheng Xu et.al.|[2411.14883](http://arxiv.org/abs/2411.14883)|null|
 |**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
@@ -727,6 +740,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
+|**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen et.al.|[2411.17188](http://arxiv.org/abs/2411.17188)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
+|**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**|Nawaf Alampara et.al.|[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
+|**2024-11-25**|**Beyond Sight: Towards Cognitive Alignment in LVLM via Enriched Visual Knowledge**|Yaqi Zhao et.al.|[2411.16824](http://arxiv.org/abs/2411.16824)|null|
+|**2024-11-25**|**GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis**|Bo Liu et.al.|[2411.16778](http://arxiv.org/abs/2411.16778)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
 |**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
 |**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
@@ -734,7 +757,7 @@ layout: default
 |**2024-11-25**|**CapHDR2IR: Caption-Driven Transfer from Visible Light to Infrared Domain**|Jingchao Peng et.al.|[2411.16327](http://arxiv.org/abs/2411.16327)|null|
 |**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
-|**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|null|
+|**2024-11-24**|**Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation**|Sule Bai et.al.|[2411.15869](http://arxiv.org/abs/2411.15869)|**[link](https://github.com/sulebai/sc-clip)**|
 |**2024-11-24**|**ResCLIP: Residual Attention for Training-free Dense Vision-language Inference**|Yuhang Yang et.al.|[2411.15851](http://arxiv.org/abs/2411.15851)|**[link](https://github.com/yvhangyang/resclip)**|
 |**2024-11-24**|**VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**|Jiaqi Wang et.al.|[2411.15839](http://arxiv.org/abs/2411.15839)|null|
 |**2024-11-24**|**Test-time Alignment-Enhanced Adapter for Vision-Language Models**|Baoshun Tong et.al.|[2411.15735](http://arxiv.org/abs/2411.15735)|null|
@@ -1195,8 +1218,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
+|**2024-11-23**|**Active Prompt Learning with Vision-Language Model Priors**|Hoyoung Kim et.al.|[2411.16722](http://arxiv.org/abs/2411.16722)|null|
 |**2024-11-25**|**Fundamental Limits of Prompt Tuning Transformers: Universality, Capacity and Efficiency**|Jerry Yao-Chieh Hu et.al.|[2411.16525](http://arxiv.org/abs/2411.16525)|null|
-|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|null|
+|**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
 |**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
 |**2024-11-22**|**Adversarial Prompt Distillation for Vision-Language Models**|Lin Luo et.al.|[2411.15244](http://arxiv.org/abs/2411.15244)|null|
@@ -1326,6 +1351,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542](http://arxiv.org/abs/2411.17542)|null|
+|**2024-11-25**|**RoCoDA: Counterfactual Data Augmentation for Data-Efficient Robot Learning from Demonstrations**|Ezra Ameperosa et.al.|[2411.16959](http://arxiv.org/abs/2411.16959)|null|
 |**2024-11-25**|**Dynamic Causal Models of Time-Varying Connectivity**|Johan Medrano et.al.|[2411.16582](http://arxiv.org/abs/2411.16582)|null|
 |**2024-11-24**|**Evaluating Large Language Models for Causal Modeling**|Houssam Razouk et.al.|[2411.15888](http://arxiv.org/abs/2411.15888)|null|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729](http://arxiv.org/abs/2411.15729)|**[link](https://github.com/The-Martyr/OccludeNet-Dataset)**|
@@ -1545,6 +1572,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-23**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|null|
 |**2024-11-22**|**Heavy-tailed Contamination is Easier than Adversarial Contamination**|Yeshwanth Cherapanamjeri et.al.|[2411.15306](http://arxiv.org/abs/2411.15306)|null|
 |**2024-11-22**|**Exploring the Robustness and Transferability of Patch-Based Adversarial Attacks in Quantized Neural Networks**|Amira Guesmi et.al.|[2411.15246](http://arxiv.org/abs/2411.15246)|null|
 |**2024-11-22**|**Adversarial Prompt Distillation for Vision-Language Models**|Lin Luo et.al.|[2411.15244](http://arxiv.org/abs/2411.15244)|null|
