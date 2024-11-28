@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1356,7 +1356,7 @@ layout: default
 |**2024-11-25**|**Dynamic Causal Models of Time-Varying Connectivity**|Johan Medrano et.al.|[2411.16582](http://arxiv.org/abs/2411.16582)|null|
 |**2024-11-24**|**Evaluating Large Language Models for Causal Modeling**|Houssam Razouk et.al.|[2411.15888](http://arxiv.org/abs/2411.15888)|null|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729](http://arxiv.org/abs/2411.15729)|**[link](https://github.com/The-Martyr/OccludeNet-Dataset)**|
-|**2024-11-24**|**Data integration using covariate summaries from external sources**|Facheng Yu et.al.|[2411.15691](http://arxiv.org/abs/2411.15691)|null|
+|**2024-11-27**|**Data integration using covariate summaries from external sources**|Facheng Yu et.al.|[2411.15691](http://arxiv.org/abs/2411.15691)|null|
 |**2024-11-22**|**MambaIRv2: Attentive State Space Restoration**|Hang Guo et.al.|[2411.15269](http://arxiv.org/abs/2411.15269)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-11-22**|**The Effects of Major League Baseball's Ban on Infield Shifts: A Quasi-Experimental Analysis**|Lee Kennedy-Shaffer et.al.|[2411.15075](http://arxiv.org/abs/2411.15075)|null|
 |**2024-11-22**|**Fantastic Biases (What are They) and Where to Find Them**|Valentin Barriere et.al.|[2411.15051](http://arxiv.org/abs/2411.15051)|null|
