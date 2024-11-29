@@ -425,7 +425,7 @@ layout: default
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
 |**2024-11-26**|**Pan-protein Design Learning Enables Task-adaptive Generalization for Low-resource Enzyme Design**|Jiangbin Zheng et.al.|[2411.17795](http://arxiv.org/abs/2411.17795)|null|
 |**2024-11-26**|**On the Generalization of Handwritten Text Recognition Models**|Carlos Garrido-Munoz et.al.|[2411.17332](http://arxiv.org/abs/2411.17332)|null|
-|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287](http://arxiv.org/abs/2411.17287)|**[link](https://github.com/mdppml/FREDA)**|
+|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287](http://arxiv.org/abs/2411.17287)|null|
 |**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
 |**2024-11-25**|**WTDUN: Wavelet Tree-Structured Sampling and Deep Unfolding Network for Image Compressed Sensing**|Kai Han et.al.|[2411.16336](http://arxiv.org/abs/2411.16336)|null|
 |**2024-11-25**|**Multi-Granularity Class Prototype Topology Distillation for Class-Incremental Source-Free Unsupervised Domain Adaptation**|Peihua Deng et.al.|[2411.16064](http://arxiv.org/abs/2411.16064)|null|
@@ -632,7 +632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761](http://arxiv.org/abs/2411.17761)|null|
+|**2024-11-26**|**OpenAD: Open-World Autonomous Driving Benchmark for 3D Object Detection**|Zhongyu Xia et.al.|[2411.17761](http://arxiv.org/abs/2411.17761)|**[link](https://github.com/VDIGPKU/OpenAD)**|
 |**2024-11-26**|**On the Generalization of Handwritten Text Recognition Models**|Carlos Garrido-Munoz et.al.|[2411.17332](http://arxiv.org/abs/2411.17332)|null|
 |**2024-11-25**|**TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction**|Aishwarya Agarwal et.al.|[2411.16788](http://arxiv.org/abs/2411.16788)|null|
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
@@ -760,7 +760,7 @@ layout: default
 |**2024-11-27**|**DistinctAD: Distinctive Audio Description Generation in Contexts**|Bo Fang et.al.|[2411.18180](http://arxiv.org/abs/2411.18180)|null|
 |**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|null|
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
-|**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|null|
+|**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|**[link](https://github.com/HKU-MedAI/ConcepPath)**|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
 |**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-27**|**Revisiting Misalignment in Multispectral Pedestrian Detection: A Language-Driven Approach for Cross-modal Alignment Fusion**|Taeheon Kim et.al.|[2411.17995](http://arxiv.org/abs/2411.17995)|null|
@@ -1257,7 +1257,7 @@ layout: default
 |**2024-11-22**|**GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning**|Jiani Zhu et.al.|[2411.14718](http://arxiv.org/abs/2411.14718)|null|
 |**2024-11-25**|**Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by Harnessing AI**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
-|**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|null|
+|**2024-11-19**|**Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series**|Mingzhu Liu et.al.|[2411.12824](http://arxiv.org/abs/2411.12824)|**[link](https://github.com/Ilovecodingforever/Gen-P-Tuning)**|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530](http://arxiv.org/abs/2411.12530)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-19**|**UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning**|Yuan Yuan et.al.|[2411.12164](http://arxiv.org/abs/2411.12164)|**[link](https://github.com/YuanYuan98/UrbanDiT)**|
@@ -1384,7 +1384,7 @@ layout: default
 |**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910](http://arxiv.org/abs/2411.17910)|null|
 |**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542](http://arxiv.org/abs/2411.17542)|null|
 |**2024-11-25**|**RoCoDA: Counterfactual Data Augmentation for Data-Efficient Robot Learning from Demonstrations**|Ezra Ameperosa et.al.|[2411.16959](http://arxiv.org/abs/2411.16959)|null|
-|**2024-11-25**|**Dynamic Causal Models of Time-Varying Connectivity**|Johan Medrano et.al.|[2411.16582](http://arxiv.org/abs/2411.16582)|null|
+|**2024-11-25**|**Dynamic Causal Models of Time-Varying Connectivity**|Johan Medrano et.al.|[2411.16582](http://arxiv.org/abs/2411.16582)|**[link](https://github.com/spm/spm)**|
 |**2024-11-24**|**Evaluating Large Language Models for Causal Modeling**|Houssam Razouk et.al.|[2411.15888](http://arxiv.org/abs/2411.15888)|null|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729](http://arxiv.org/abs/2411.15729)|**[link](https://github.com/The-Martyr/OccludeNet-Dataset)**|
 |**2024-11-27**|**Data integration using covariate summaries from external sources**|Facheng Yu et.al.|[2411.15691](http://arxiv.org/abs/2411.15691)|null|
