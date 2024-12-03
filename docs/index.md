@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -20,7 +20,7 @@ layout: default
 |**2024-11-27**|**Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents**|Joongwon Chae et.al.|[2411.18270](http://arxiv.org/abs/2411.18270)|null|
 |**2024-11-27**|**Prediction with Action: Visual Policy Learning via Joint Denoising Process**|Yanjiang Guo et.al.|[2411.18179](http://arxiv.org/abs/2411.18179)|null|
 |**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133](http://arxiv.org/abs/2411.18133)|null|
-|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|null|
+|**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|**[link](https://github.com/ai4ce/CityWalker)**|
 |**2024-11-26**|**PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement**|Tewodros Ayalew et.al.|[2411.17764](http://arxiv.org/abs/2411.17764)|null|
 |**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
 |**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[2411.17508](http://arxiv.org/abs/2411.17508)|null|
@@ -1646,11 +1646,11 @@ layout: default
 |**2024-11-27**|**Multi-Task Label Discovery via Hierarchical Task Tokens for Partially Annotated Dense Predictions**|Jingdong Zhang et.al.|[2411.18823](http://arxiv.org/abs/2411.18823)|null|
 |**2024-11-27**|**Machine Unlearning reveals that the Gender-based Violence Victim Condition can be detected from Speech in a Speaker-Agnostic Setting**|Emma Reyner-Fuentes et.al.|[2411.18177](http://arxiv.org/abs/2411.18177)|null|
 |**2024-11-27**|**Adversarial Training in Low-Label Regimes with Margin-Based Interpolation**|Tian Ye et.al.|[2411.17959](http://arxiv.org/abs/2411.17959)|null|
-|**2024-11-23**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|null|
+|**2024-11-29**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|null|
 |**2024-11-22**|**Heavy-tailed Contamination is Easier than Adversarial Contamination**|Yeshwanth Cherapanamjeri et.al.|[2411.15306](http://arxiv.org/abs/2411.15306)|null|
 |**2024-11-22**|**Exploring the Robustness and Transferability of Patch-Based Adversarial Attacks in Quantized Neural Networks**|Amira Guesmi et.al.|[2411.15246](http://arxiv.org/abs/2411.15246)|null|
 |**2024-11-22**|**Adversarial Prompt Distillation for Vision-Language Models**|Lin Luo et.al.|[2411.15244](http://arxiv.org/abs/2411.15244)|null|
-|**2024-11-20**|**Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks**|Yong Xie et.al.|[2411.15210](http://arxiv.org/abs/2411.15210)|null|
+|**2024-11-28**|**Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks**|Yong Xie et.al.|[2411.15210](http://arxiv.org/abs/2411.15210)|null|
 |**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
 |**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
 |**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
