@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|null|
+|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|null|
 |**2024-12-05**|**Learning Dual-Arm Push and Grasp Synergy in Dense Clutter**|Yongliang Wang et.al.|[2412.04052](http://arxiv.org/abs/2412.04052)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
@@ -28,7 +28,7 @@ layout: default
 |**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
 |**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
 |**2024-12-02**|**Robot Learning with Super-Linear Scaling**|Marcel Torne et.al.|[2412.01770](http://arxiv.org/abs/2412.01770)|null|
-|**2024-12-02**|**From Instantaneous to Predictive Control: A More Intuitive and Tunable MPC Formulation for Robot Manipulators**|Johan Ubbink et.al.|[2412.01597](http://arxiv.org/abs/2412.01597)|null|
+|**2024-12-02**|**From Instantaneous to Predictive Control: A More Intuitive and Tunable MPC Formulation for Robot Manipulators**|Johan Ubbink et.al.|[2412.01597](http://arxiv.org/abs/2412.01597)|**[link](https://github.com/johanubbink/tuning_mpc)**|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
 |**2024-12-02**|**Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning**|Fengze Xie et.al.|[2412.01297](http://arxiv.org/abs/2412.01297)|**[link](https://github.com/lunarlab-gatech/morphsym-hgnn)**|
 |**2024-12-02**|**A Hybrid Evolutionary Approach for Multi Robot Coordinated Planning at Intersections**|Victor Parque et.al.|[2412.01082](http://arxiv.org/abs/2412.01082)|null|
@@ -823,10 +823,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|null|
+|**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|Enshen Zhou et.al.|[2412.04455](http://arxiv.org/abs/2412.04455)|null|
-|**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|null|
-|**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|null|
+|**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
+|**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-05**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
@@ -836,9 +836,9 @@ layout: default
 |**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|
 |**2024-12-05**|**CLIP-PING: Boosting Lightweight Vision-Language Models with Proximus Intrinsic Neighbors Guidance**|Chu Myaet Thwal et.al.|[2412.03871](http://arxiv.org/abs/2412.03871)|null|
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
-|**2024-12-04**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Wang Xiyao et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|null|
+|**2024-12-04**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Wang Xiyao et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
-|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|null|
+|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|**[link](https://github.com/jplhughes/bon-jailbreaking)**|
 |**2024-12-04**|**PaliGemma 2: A Family of Versatile VLMs for Transfer**|Andreas Steiner et.al.|[2412.03555](http://arxiv.org/abs/2412.03555)|null|
 |**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|Ao Wang et.al.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|
 |**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|
@@ -1531,9 +1531,9 @@ layout: default
 |**2024-12-03**|**Theory building for empirical software engineering in qualitative research: Operationalization**|Jorge Pérez et.al.|[2412.02384](http://arxiv.org/abs/2412.02384)|null|
 |**2024-12-03**|**CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**|Xiaojie Yang et.al.|[2412.02155](http://arxiv.org/abs/2412.02155)|null|
 |**2024-12-03**|**The causal effects of modified treatment policies under network interference**|Salvador V. Balkus et.al.|[2412.02105](http://arxiv.org/abs/2412.02105)|null|
-|**2024-12-02**|**The Landscape of Causal Discovery Data: Grounding Causal Discovery in Real-World Applications**|Philippe Brouillard et.al.|[2412.01953](http://arxiv.org/abs/2412.01953)|null|
+|**2024-12-02**|**The Landscape of Causal Discovery Data: Grounding Causal Discovery in Real-World Applications**|Philippe Brouillard et.al.|[2412.01953](http://arxiv.org/abs/2412.01953)|**[link](https://github.com/kurowasan/cd_datasets)**|
 |**2024-12-02**|**Causal Discovery by Interventions via Integer Programming**|Abdelmonem Elrefaey et.al.|[2412.01674](http://arxiv.org/abs/2412.01674)|null|
-|**2024-12-02**|**Practical Performative Policy Learning with Strategic Agents**|Qianyi Chen et.al.|[2412.01344](http://arxiv.org/abs/2412.01344)|null|
+|**2024-12-02**|**Practical Performative Policy Learning with Strategic Agents**|Qianyi Chen et.al.|[2412.01344](http://arxiv.org/abs/2412.01344)|**[link](https://github.com/Cqyiiii/Practical-Performative-Policy-Learning-PPPL)**|
 |**2024-12-01**|**A sensitivity analysis approach to principal stratification with a continuous longitudinal intermediate outcome: Applications to a cohort stepped wedge trial**|Lei Yang et.al.|[2412.00926](http://arxiv.org/abs/2412.00926)|null|
 |**2024-12-01**|**A Comprehensive Guide to Explainable AI: From Classical Models to LLMs**|Weiche Hsieh et.al.|[2412.00800](http://arxiv.org/abs/2412.00800)|**[link](https://github.com/Echoslayer/XAI_From_Classical_Models_to_LLMs)**|
 |**2024-11-30**|**Disentangling The Effects of Air Pollution on Social Mobility: A Bayesian Principal Stratification Approach**|Dafne Zorzetto et.al.|[2412.00311](http://arxiv.org/abs/2412.00311)|null|
@@ -1769,7 +1769,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-04**|**Inverse Delayed Reinforcement Learning**|Simon Sinong Zhan et.al.|[2412.02931](http://arxiv.org/abs/2412.02931)|null|
-|**2024-12-03**|**TSCheater: Generating High-Quality Tibetan Adversarial Texts via Visual Similarity**|Xi Cao et.al.|[2412.02371](http://arxiv.org/abs/2412.02371)|null|
+|**2024-12-03**|**TSCheater: Generating High-Quality Tibetan Adversarial Texts via Visual Similarity**|Xi Cao et.al.|[2412.02371](http://arxiv.org/abs/2412.02371)|**[link](https://github.com/metaphors/TSAttack)**|
 |**2024-12-04**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270](http://arxiv.org/abs/2412.02270)|null|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
