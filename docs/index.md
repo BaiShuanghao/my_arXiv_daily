@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
 |**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
-|**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|null|
+|**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|**[link](https://github.com/jbadiat/supertoroidfitting)**|
 |**2024-12-05**|**Learning Dual-Arm Push and Grasp Synergy in Dense Clutter**|Yongliang Wang et.al.|[2412.04052](http://arxiv.org/abs/2412.04052)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2024-12-03**|**Self-Supervised Learning-Based Path Planning and Obstacle Avoidance Using PPO and B-Splines in Unknown Environments**|Shahab Shokouhi et.al.|[2412.02176](http://arxiv.org/abs/2412.02176)|null|
 |**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
 |**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
-|**2024-12-02**|**Robot Learning with Super-Linear Scaling**|Marcel Torne et.al.|[2412.01770](http://arxiv.org/abs/2412.01770)|null|
+|**2024-12-06**|**Robot Learning with Super-Linear Scaling**|Marcel Torne et.al.|[2412.01770](http://arxiv.org/abs/2412.01770)|null|
 |**2024-12-02**|**From Instantaneous to Predictive Control: A More Intuitive and Tunable MPC Formulation for Robot Manipulators**|Johan Ubbink et.al.|[2412.01597](http://arxiv.org/abs/2412.01597)|**[link](https://github.com/johanubbink/tuning_mpc)**|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
 |**2024-12-02**|**Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning**|Fengze Xie et.al.|[2412.01297](http://arxiv.org/abs/2412.01297)|**[link](https://github.com/lunarlab-gatech/morphsym-hgnn)**|
@@ -460,7 +460,7 @@ layout: default
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
 |**2024-12-04**|**RedStone: Curating General, Code, Math, and QA Data for Large Language Models**|Yaoyao Chang et.al.|[2412.03398](http://arxiv.org/abs/2412.03398)|null|
 |**2024-12-04**|**Semi-Supervised Transfer Boosting (SS-TrBoosting)**|Lingfei Deng et.al.|[2412.03212](http://arxiv.org/abs/2412.03212)|null|
-|**2024-12-04**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
+|**2024-12-06**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
 |**2024-12-03**|**AH-OCDA: Amplitude-based Curriculum Learning and Hopfield Segmentation Model for Open Compound Domain Adaptation**|Jaehyun Choi et.al.|[2412.02280](http://arxiv.org/abs/2412.02280)|null|
 |**2024-12-02**|**LLMs4Life: Large Language Models for Ontology Learning in Life Sciences**|Nadeen Fathallah et.al.|[2412.02035](http://arxiv.org/abs/2412.02035)|**[link](https://github.com/NadeenAhmad/NeOn-GPTAquaDivaOntology)**|
 |**2024-12-02**|**Cross Domain Adaptation using Adversarial networks with Cyclic loss**|Manpreet Kaur et.al.|[2412.01935](http://arxiv.org/abs/2412.01935)|null|
@@ -694,7 +694,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**|Jie Bao et.al.|[2412.04296](http://arxiv.org/abs/2412.04296)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
-|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|
+|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|**[link](https://github.com/charismaticchiu/MegaCOIN)**|
 |**2024-12-05**|**Multisource Collaborative Domain Generalization for Cross-Scene Remote Sensing Image Classification**|Zhu Han et.al.|[2412.03897](http://arxiv.org/abs/2412.03897)|null|
 |**2024-12-03**|**Is Large-Scale Pretraining the Secret to Good Domain Generalization?**|Piotr Teterwak et.al.|[2412.02856](http://arxiv.org/abs/2412.02856)|null|
 |**2024-12-02**|**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**|Hao Wu et.al.|[2412.01115](http://arxiv.org/abs/2412.01115)|null|
@@ -830,13 +830,13 @@ layout: default
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-05**|**Discriminative Fine-tuning of LVLMs**|Yassine Ouali et.al.|[2412.04378](http://arxiv.org/abs/2412.04378)|null|
 |**2024-12-05**|**3D Part Segmentation via Geometric Aggregation of 2D Visual Features**|Marco Garosi et.al.|[2412.04247](http://arxiv.org/abs/2412.04247)|null|
-|**2024-12-05**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
+|**2024-12-06**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
 |**2024-12-05**|**Unified Framework for Open-World Compositional Zero-shot Learning**|Hirunima Jayasekara et.al.|[2412.04083](http://arxiv.org/abs/2412.04083)|**[link](https://github.com/hirunima/OWCZSL)**|
 |**2024-12-05**|**GenChaR: A Dataset for Stock Chart Captioning**|Le Qiu et.al.|[2412.04041](http://arxiv.org/abs/2412.04041)|null|
-|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|
+|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|**[link](https://github.com/charismaticchiu/MegaCOIN)**|
 |**2024-12-05**|**CLIP-PING: Boosting Lightweight Vision-Language Models with Proximus Intrinsic Neighbors Guidance**|Chu Myaet Thwal et.al.|[2412.03871](http://arxiv.org/abs/2412.03871)|null|
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
-|**2024-12-04**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Wang Xiyao et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
+|**2024-12-06**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Xiyao Wang et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
 |**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|**[link](https://github.com/jplhughes/bon-jailbreaking)**|
 |**2024-12-04**|**PaliGemma 2: A Family of Versatile VLMs for Transfer**|Andreas Steiner et.al.|[2412.03555](http://arxiv.org/abs/2412.03555)|null|
@@ -1516,8 +1516,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285](http://arxiv.org/abs/2412.04285)|null|
-|**2024-12-05**|**Intent-based Meta-Scheduling in Programmable Networks: A Research Agenda**|Nanjangud C. Narendra et.al.|[2412.04232](http://arxiv.org/abs/2412.04232)|null|
+|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285](http://arxiv.org/abs/2412.04285)|**[link](https://github.com/jzy95310/deep_sci)**|
+|**2024-12-06**|**Intent-based Meta-Scheduling in Programmable Networks: A Research Agenda**|Nanjangud C. Narendra et.al.|[2412.04232](http://arxiv.org/abs/2412.04232)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913](http://arxiv.org/abs/2412.03913)|null|
 |**2024-12-04**|**Using a Two-Parameter Sensitivity Analysis Framework to Efficiently Combine Randomized and Non-randomized Studies**|Ruoqi Yu et.al.|[2412.03731](http://arxiv.org/abs/2412.03731)|null|
 |**2024-12-04**|**Online Experimental Design With Estimation-Regret Trade-off Under Network Interference**|Zhiheng Zhang et.al.|[2412.03727](http://arxiv.org/abs/2412.03727)|null|
@@ -1529,7 +1529,7 @@ layout: default
 |**2024-12-03**|**Nature versus nurture in galaxy formation: the effect of environment on star formation with causal machine learning**|Sunil Mucesh et.al.|[2412.02439](http://arxiv.org/abs/2412.02439)|null|
 |**2024-12-03**|**Four Guiding Principles for Modeling Causal Domain Knowledge: A Case Study on Brainstorming Approaches for Urban Blight Analysis**|Houssam Razouk et.al.|[2412.02400](http://arxiv.org/abs/2412.02400)|null|
 |**2024-12-03**|**Theory building for empirical software engineering in qualitative research: Operationalization**|Jorge Pérez et.al.|[2412.02384](http://arxiv.org/abs/2412.02384)|null|
-|**2024-12-03**|**CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**|Xiaojie Yang et.al.|[2412.02155](http://arxiv.org/abs/2412.02155)|null|
+|**2024-12-03**|**CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**|Xiaojie Yang et.al.|[2412.02155](http://arxiv.org/abs/2412.02155)|**[link](https://github.com/YangXiaojie1998/CausalMob)**|
 |**2024-12-03**|**The causal effects of modified treatment policies under network interference**|Salvador V. Balkus et.al.|[2412.02105](http://arxiv.org/abs/2412.02105)|null|
 |**2024-12-02**|**The Landscape of Causal Discovery Data: Grounding Causal Discovery in Real-World Applications**|Philippe Brouillard et.al.|[2412.01953](http://arxiv.org/abs/2412.01953)|**[link](https://github.com/kurowasan/cd_datasets)**|
 |**2024-12-02**|**Causal Discovery by Interventions via Integer Programming**|Abdelmonem Elrefaey et.al.|[2412.01674](http://arxiv.org/abs/2412.01674)|null|
@@ -1770,7 +1770,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-04**|**Inverse Delayed Reinforcement Learning**|Simon Sinong Zhan et.al.|[2412.02931](http://arxiv.org/abs/2412.02931)|null|
 |**2024-12-03**|**TSCheater: Generating High-Quality Tibetan Adversarial Texts via Visual Similarity**|Xi Cao et.al.|[2412.02371](http://arxiv.org/abs/2412.02371)|**[link](https://github.com/metaphors/TSAttack)**|
-|**2024-12-04**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
+|**2024-12-06**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270](http://arxiv.org/abs/2412.02270)|null|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Jailbreak Defense in a Narrow Domain: Limitations of Existing Methods and a New Transcript-Classifier Approach**|Tony T. Wang et.al.|[2412.02159](http://arxiv.org/abs/2412.02159)|null|
