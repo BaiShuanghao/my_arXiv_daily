@@ -18,8 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo**|Junzhe Zhu et.al.|[2412.05268](http://arxiv.org/abs/2412.05268)|null|
+|**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
+|**2024-12-06**|**FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation**|Qinglun Zhang et.al.|[2412.04987](http://arxiv.org/abs/2412.04987)|null|
+|**2024-12-06**|**Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment**|Ran Tian et.al.|[2412.04835](http://arxiv.org/abs/2412.04835)|null|
+|**2024-12-05**|**Generating Whole-Body Avoidance Motion through Localized Proximity Sensing**|Simone Borelli et.al.|[2412.04649](http://arxiv.org/abs/2412.04649)|null|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
+|**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|**[link](https://github.com/jbadiat/supertoroidfitting)**|
 |**2024-12-05**|**Learning Dual-Arm Push and Grasp Synergy in Dense Clutter**|Yongliang Wang et.al.|[2412.04052](http://arxiv.org/abs/2412.04052)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
@@ -466,6 +471,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Towards Understanding the Role of Sharpness-Aware Minimization Algorithms for Out-of-Distribution Generalization**|Samuel Schapiro et.al.|[2412.05169](http://arxiv.org/abs/2412.05169)|null|
+|**2024-12-06**|**DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains**|Fardad Dadboud et.al.|[2412.04789](http://arxiv.org/abs/2412.04789)|**[link](https://github.com/CARG-uOttawa/DrIFT)**|
+|**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783](http://arxiv.org/abs/2412.04783)|null|
+|**2024-12-06**|**Two stages domain invariant representation learners solve the large co-variate shift in unsupervised domain adaptation with two dimensional data domains**|Hisashi Oshima et.al.|[2412.04682](http://arxiv.org/abs/2412.04682)|**[link](https://github.com/oh-yu/domain-invariant-learning)**|
 |**2024-12-05**|**Enhancing Whole Slide Image Classification through Supervised Contrastive Domain Adaptation**|Ilán Carretero et.al.|[2412.04260](http://arxiv.org/abs/2412.04260)|null|
 |**2024-12-05**|**MVUDA: Unsupervised Domain Adaptation for Multi-view Pedestrian Detection**|Erik Brorsson et.al.|[2412.04117](http://arxiv.org/abs/2412.04117)|null|
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
@@ -705,6 +714,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208](http://arxiv.org/abs/2412.05208)|null|
 |**2024-12-05**|**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**|Jie Bao et.al.|[2412.04296](http://arxiv.org/abs/2412.04296)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
 |**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|**[link](https://github.com/charismaticchiu/MegaCOIN)**|
@@ -838,6 +848,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|null|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
+|**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925](http://arxiv.org/abs/2412.04925)|null|
+|**2024-12-06**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
+|**2024-12-05**|**Cross-Self KV Cache Pruning for Efficient Vision-Language Inference**|Xiaohuan Pei et.al.|[2412.04652](http://arxiv.org/abs/2412.04652)|null|
+|**2024-12-05**|**Mask-Adapter: The Devil is in the Masks for Open-Vocabulary Segmentation**|Yongkang Li et.al.|[2412.04533](http://arxiv.org/abs/2412.04533)|**[link](https://github.com/hustvl/maskadapter)**|
 |**2024-12-05**|**VisionZip: Longer is Better but Not Necessary in Vision Language Models**|Senqiao Yang et.al.|[2412.04467](http://arxiv.org/abs/2412.04467)|**[link](https://github.com/dvlab-research/visionzip)**|
 |**2024-12-05**|**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**|Enshen Zhou et.al.|[2412.04455](http://arxiv.org/abs/2412.04455)|null|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
@@ -1394,6 +1410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Improving LLM Group Fairness on Tabular Data via In-Context Learning**|Valeriia Cherepanova et.al.|[2412.04642](http://arxiv.org/abs/2412.04642)|null|
 |**2024-12-04**|**Personalizing Multimodal Large Language Models for Image Captioning: An Experimental Analysis**|Davide Bucciarelli et.al.|[2412.03665](http://arxiv.org/abs/2412.03665)|null|
 |**2024-12-02**|**See What You Seek: Semantic Contextual Integration for Cloth-Changing Person Re-Identification**|Xiyu Han et.al.|[2412.01345](http://arxiv.org/abs/2412.01345)|null|
 |**2024-12-02**|**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models**|Bikang Pan et.al.|[2412.01256](http://arxiv.org/abs/2412.01256)|null|
@@ -1535,6 +1552,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Causal discovery with endogenous context variables**|Wiebke Günther et.al.|[2412.04981](http://arxiv.org/abs/2412.04981)|null|
+|**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799](http://arxiv.org/abs/2412.04799)|null|
+|**2024-12-06**|**Towards counterfactual fairness thorough auxiliary variables**|Bowei Tian et.al.|[2412.04767](http://arxiv.org/abs/2412.04767)|null|
+|**2024-12-06**|**Measuring Goal-Directedness**|Matt MacDermott et.al.|[2412.04758](http://arxiv.org/abs/2412.04758)|null|
+|**2024-12-06**|**Fair Diagnosis: Leveraging Causal Modeling to Mitigate Medical Bias**|Bowei Tian et.al.|[2412.04739](http://arxiv.org/abs/2412.04739)|null|
+|**2024-12-05**|**Disentangled Representation Learning for Causal Inference with Instruments**|Debo Cheng et.al.|[2412.04641](http://arxiv.org/abs/2412.04641)|null|
 |**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285](http://arxiv.org/abs/2412.04285)|**[link](https://github.com/jzy95310/deep_sci)**|
 |**2024-12-06**|**Intent-based Meta-Scheduling in Programmable Networks: A Research Agenda**|Nanjangud C. Narendra et.al.|[2412.04232](http://arxiv.org/abs/2412.04232)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913](http://arxiv.org/abs/2412.03913)|null|
@@ -1789,13 +1812,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799](http://arxiv.org/abs/2412.04799)|null|
 |**2024-12-04**|**Inverse Delayed Reinforcement Learning**|Simon Sinong Zhan et.al.|[2412.02931](http://arxiv.org/abs/2412.02931)|null|
 |**2024-12-03**|**TSCheater: Generating High-Quality Tibetan Adversarial Texts via Visual Similarity**|Xi Cao et.al.|[2412.02371](http://arxiv.org/abs/2412.02371)|**[link](https://github.com/metaphors/TSAttack)**|
 |**2024-12-06**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
 |**2024-12-03**|**Sustainable Self-evolution Adversarial Training**|Wenxuan Wang et.al.|[2412.02270](http://arxiv.org/abs/2412.02270)|null|
 |**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
 |**2024-12-03**|**Jailbreak Defense in a Narrow Domain: Limitations of Existing Methods and a New Transcript-Classifier Approach**|Tony T. Wang et.al.|[2412.02159](http://arxiv.org/abs/2412.02159)|null|
-|**2024-12-02**|**NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training**|Dar-Yen Chen et.al.|[2412.02030](http://arxiv.org/abs/2412.02030)|null|
+|**2024-12-06**|**NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training**|Dar-Yen Chen et.al.|[2412.02030](http://arxiv.org/abs/2412.02030)|null|
 |**2024-12-02**|**IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models**|Khaled Abud et.al.|[2412.01794](http://arxiv.org/abs/2412.01794)|**[link](https://github.com/x1716/iqa-adapter)**|
 |**2024-12-02**|**Traversing the Subspace of Adversarial Patches**|Jens Bayer et.al.|[2412.01527](http://arxiv.org/abs/2412.01527)|null|
 |**2024-12-02**|**Adversarial Attacks on Hyperbolic Networks**|Max van Spengler et.al.|[2412.01495](http://arxiv.org/abs/2412.01495)|null|
