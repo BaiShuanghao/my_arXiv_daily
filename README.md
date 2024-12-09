@@ -56,7 +56,7 @@
 |**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
 |**2024-11-27**|**G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation**|Tianxing Chen et.al.|[2411.18369](http://arxiv.org/abs/2411.18369)|null|
 |**2024-11-27**|**Don't Let Your Robot be Harmful: Responsible Robotic Manipulation**|Minheng Ni et.al.|[2411.18289](http://arxiv.org/abs/2411.18289)|null|
-|**2024-11-27**|**Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents**|Joongwon Chae et.al.|[2411.18270](http://arxiv.org/abs/2411.18270)|null|
+|**2024-11-27**|**Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents**|Joongwon Chae et.al.|[2411.18270](http://arxiv.org/abs/2411.18270)|**[link](https://github.com/triumph123aaa/grid-augmented-vision)**|
 |**2024-11-27**|**Prediction with Action: Visual Policy Learning via Joint Denoising Process**|Yanjiang Guo et.al.|[2411.18179](http://arxiv.org/abs/2411.18179)|null|
 |**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133](http://arxiv.org/abs/2411.18133)|null|
 |**2024-11-28**|**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**|Xinhao Liu et.al.|[2411.17820](http://arxiv.org/abs/2411.17820)|**[link](https://github.com/ai4ce/CityWalker)**|
@@ -445,7 +445,7 @@
 |**2024-09-18**|**Reactive Collision Avoidance for Safe Agile Navigation**|Alessandro Saviolo et.al.|[2409.11962](http://arxiv.org/abs/2409.11962)|null|
 |**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941](http://arxiv.org/abs/2409.11941)|null|
 |**2024-09-18**|**Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR**|Kelin Li et.al.|[2409.11925](http://arxiv.org/abs/2409.11925)|null|
-|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|null|
+|**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870](http://arxiv.org/abs/2409.11870)|**[link](https://github.com/timengelbracht/Spot-Light)**|
 |**2024-09-18**|**Learning-accelerated A* Search for Risk-aware Path Planning**|Jun Xiang et.al.|[2409.11634](http://arxiv.org/abs/2409.11634)|null|
 |**2024-09-17**|**${\tt KRAFT}$ : Sampling-Based Kinodynamic Replanning and Feedback Control over Approximate, Identified Models of Vehicular Systems**|Aravind Sivaramakrishnan et.al.|[2409.11522](http://arxiv.org/abs/2409.11522)|null|
 |**2024-09-17**|**Robot Manipulation in Salient Vision through Referring Image Segmentation and Geometric Constraints**|Chen Jiang et.al.|[2409.11518](http://arxiv.org/abs/2409.11518)|null|
@@ -867,9 +867,9 @@
 |**2024-12-03**|**Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**|Nanyang Ye et.al.|[2412.02779](http://arxiv.org/abs/2412.02779)|null|
 |**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
 |**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
-|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
 |**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|Chenyang Liu et.al.|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|**[link](https://github.com/jw-chae/sjtu)**|
 |**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
 |**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|Caixin Kang et.al.|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
 |**2024-12-03**|**BYE: Build Your Encoder with One Sequence of Exploration Data for Long-Term Dynamic Scene Understanding**|Chenguang Huang et.al.|[2412.02449](http://arxiv.org/abs/2412.02449)|null|
@@ -881,7 +881,7 @@
 |**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|Zeyi Sun et.al.|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
 |**2024-12-02**|**VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models**|Byung-Kwan Lee et.al.|[2412.01822](http://arxiv.org/abs/2412.01822)|null|
 |**2024-12-02**|**[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster**|Qizhe Zhang et.al.|[2412.01818](http://arxiv.org/abs/2412.01818)|**[link](https://github.com/theia-4869/fastervlm)**|
-|**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814](http://arxiv.org/abs/2412.01814)|null|
+|**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814](http://arxiv.org/abs/2412.01814)|**[link](https://github.com/ExplainableML/cosmos)**|
 |**2024-12-02**|**LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant**|Yikun Liu et.al.|[2412.01720](http://arxiv.org/abs/2412.01720)|null|
 |**2024-12-02**|**VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval**|Dhiman Paul et.al.|[2412.01558](http://arxiv.org/abs/2412.01558)|**[link](https://github.com/dpaul06/VideoLights)**|
 |**2024-12-02**|**FastRM: An efficient and automatic explainability framework for multimodal generative models**|Gabriela Ben-Melech Stan et.al.|[2412.01487](http://arxiv.org/abs/2412.01487)|null|
@@ -1008,7 +1008,7 @@
 |**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|**[link](https://github.com/arshiahemmat/illusionbench)**|
 |**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
 |**2024-11-09**|**Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension**|Kaixuan Lu et.al.|[2411.06074](http://arxiv.org/abs/2411.06074)|null|
-|**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
+|**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|**[link](https://github.com/yul-git/glocalclip)**|
 |**2024-11-08**|**Emotional Images: Assessing Emotions in Images and Potential Biases in Generative Models**|Maneet Mehta et.al.|[2411.05985](http://arxiv.org/abs/2411.05985)|null|
 |**2024-11-08**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al.|[2411.05961](http://arxiv.org/abs/2411.05961)|null|
 |**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|**[link](https://github.com/Jirl-upenn/VLMnav)**|
@@ -1295,7 +1295,7 @@
 |**2024-10-03**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|Dexuan Ding et.al.|[2410.01506](http://arxiv.org/abs/2410.01506)|null|
 |**2024-10-02**|**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**|Ching-Chia Kao et.al.|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
 |**2024-10-02**|**Backdooring Vision-Language Models with Out-Of-Distribution Data**|Weimin Lyu et.al.|[2410.01264](http://arxiv.org/abs/2410.01264)|null|
-|**2024-10-02**|**UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark**|Hasnat Md Abdullah et.al.|[2410.01180](http://arxiv.org/abs/2410.01180)|null|
+|**2024-10-02**|**UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark**|Hasnat Md Abdullah et.al.|[2410.01180](http://arxiv.org/abs/2410.01180)|**[link](https://github.com/Hasnat79/UAL_Bench)**|
 |**2024-10-01**|**ScVLM: a Vision-Language Model for Driving Safety Critical Event Understanding**|Liang Shi et.al.|[2410.00982](http://arxiv.org/abs/2410.00982)|null|
 |**2024-10-01**|**Improved Generation of Synthetic Imaging Data Using Feature-Aligned Diffusion**|Lakshmi Nair et.al.|[2410.00731](http://arxiv.org/abs/2410.00731)|**[link](https://github.com/lnairgt/feature-aligned-diffusion)**|
 |**2024-10-01**|**Find Everything: A General Vision Language Model Approach to Multi-Object Search**|Daniel Choi et.al.|[2410.00388](http://arxiv.org/abs/2410.00388)|null|
@@ -1359,7 +1359,7 @@
 |**2024-09-23**|**Exploring Fine-grained Retail Product Discrimination with Zero-shot Object Classification Using Vision-Language Models**|Anil Osman Tur et.al.|[2409.14963](http://arxiv.org/abs/2409.14963)|null|
 |**2024-09-23**|**With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models**|Tyler Loakman et.al.|[2409.14917](http://arxiv.org/abs/2409.14917)|**[link](https://github.com/tylerL404/WETSAETH)**|
 |**2024-09-23**|**A-VL: Adaptive Attention for Large Vision-Language Models**|Junyang Zhang et.al.|[2409.14846](http://arxiv.org/abs/2409.14846)|null|
-|**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|null|
+|**2024-09-23**|**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding**|Qinzhuo Wu et.al.|[2409.14818](http://arxiv.org/abs/2409.14818)|**[link](https://github.com/xiaomi/mobilevlm)**|
 |**2024-09-23**|**MTP: A Dataset for Multi-Modal Turning Points in Casual Conversations**|Gia-Bao Dinh Ho et.al.|[2409.14801](http://arxiv.org/abs/2409.14801)|null|
 |**2024-09-23**|**Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models**|Patrick Amadeus Irawan et.al.|[2409.14785](http://arxiv.org/abs/2409.14785)|**[link](https://github.com/patrickamadeus/vqa-nle-llava)**|
 |**2024-09-23**|**VLM's Eye Examination: Instruct and Inspect Visual Competency of Vision Language Models**|Nam Hyeon-Woo et.al.|[2409.14759](http://arxiv.org/abs/2409.14759)|null|
@@ -1421,7 +1421,7 @@
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-12**|**NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs**|Ruiyang Qin et.al.|[2411.08244](http://arxiv.org/abs/2411.08244)|null|
 |**2024-11-12**|**Prompt-enhanced Network for Hateful Meme Classification**|Junxi Liu et.al.|[2411.07527](http://arxiv.org/abs/2411.07527)|**[link](https://github.com/juszzi/pen)**|
-|**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|null|
+|**2024-11-09**|**GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection**|Jiyul Ham et.al.|[2411.06071](http://arxiv.org/abs/2411.06071)|**[link](https://github.com/yul-git/glocalclip)**|
 |**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-07**|**Best Practices for Distilling Large Language Models into BERT for Web Search Ranking**|Dezhi Ye et.al.|[2411.04539](http://arxiv.org/abs/2411.04539)|null|
@@ -1556,7 +1556,7 @@
 |**2024-12-01**|**A sensitivity analysis approach to principal stratification with a continuous longitudinal intermediate outcome: Applications to a cohort stepped wedge trial**|Lei Yang et.al.|[2412.00926](http://arxiv.org/abs/2412.00926)|null|
 |**2024-12-01**|**A Comprehensive Guide to Explainable AI: From Classical Models to LLMs**|Weiche Hsieh et.al.|[2412.00800](http://arxiv.org/abs/2412.00800)|**[link](https://github.com/Echoslayer/XAI_From_Classical_Models_to_LLMs)**|
 |**2024-11-30**|**Disentangling The Effects of Air Pollution on Social Mobility: A Bayesian Principal Stratification Approach**|Dafne Zorzetto et.al.|[2412.00311](http://arxiv.org/abs/2412.00311)|null|
-|**2024-11-29**|**Benchmarking covariates balancing methods, a simulation study**|Etienne Peyrot et.al.|[2412.00280](http://arxiv.org/abs/2412.00280)|null|
+|**2024-11-29**|**Benchmarking covariates balancing methods, a simulation study**|Etienne Peyrot et.al.|[2412.00280](http://arxiv.org/abs/2412.00280)|**[link](https://github.com/EtiennePeyrot/benchmark_balancing_methods)**|
 |**2024-11-29**|**Adjusting auxiliary variables under approximate neighborhood interference**|Xin Lu et.al.|[2411.19789](http://arxiv.org/abs/2411.19789)|null|
 |**2024-11-29**|**Differentiable Causal Discovery For Latent Hierarchical Causal Models**|Parjanya Prashant et.al.|[2411.19556](http://arxiv.org/abs/2411.19556)|null|
 |**2024-11-29**|**COLD: Causal reasOning in cLosed Daily activities**|Abhinav Joshi et.al.|[2411.19500](http://arxiv.org/abs/2411.19500)|null|
