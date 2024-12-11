@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -859,7 +859,7 @@ layout: default
 |**2024-12-08**|**Post-hoc Probabilistic Vision-Language Models**|Anton Baumann et.al.|[2412.06014](http://arxiv.org/abs/2412.06014)|null|
 |**2024-12-08**|**LVP-CLIP:Revisiting CLIP for Continual Learning with Label Vector Pool**|Yue Ma et.al.|[2412.05840](http://arxiv.org/abs/2412.05840)|null|
 |**2024-12-07**|**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**|Aditya Chinchure et.al.|[2412.05725](http://arxiv.org/abs/2412.05725)|null|
-|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-12-06**|**Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies**|Recep Firat Cekinel et.al.|[2412.05155](http://arxiv.org/abs/2412.05155)|null|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
 |**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925](http://arxiv.org/abs/2412.04925)|null|
