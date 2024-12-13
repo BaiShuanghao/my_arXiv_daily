@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -483,7 +483,7 @@ layout: default
 |**2024-12-09**|**On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events**|Jesse Hagenaars et.al.|[2412.06359](http://arxiv.org/abs/2412.06359)|null|
 |**2024-12-08**|**1-800-SHARED-TASKS at RegNLP: Lexical Reranking of Semantic Retrieval (LeSeR) for Regulatory Question Answering**|Jebish Purbey et.al.|[2412.06009](http://arxiv.org/abs/2412.06009)|null|
 |**2024-12-08**|**DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices**|Yongzhe Jia et.al.|[2412.05823](http://arxiv.org/abs/2412.05823)|**[link](https://github.com/jyzgh/dapperfl)**|
-|**2024-12-06**|**COOOL: Challenge Of Out-Of-Label A Novel Benchmark for Autonomous Driving**|Ali K. AlShami et.al.|[2412.05462](http://arxiv.org/abs/2412.05462)|null|
+|**2024-12-06**|**COOOL: Challenge Of Out-Of-Label A Novel Benchmark for Autonomous Driving**|Ali K. AlShami et.al.|[2412.05462](http://arxiv.org/abs/2412.05462)|**[link](https://github.com/alshami52/COOOL_benchmark)**|
 |**2024-12-06**|**Towards Understanding the Role of Sharpness-Aware Minimization Algorithms for Out-of-Distribution Generalization**|Samuel Schapiro et.al.|[2412.05169](http://arxiv.org/abs/2412.05169)|null|
 |**2024-12-06**|**DrIFT: Autonomous Drone Dataset with Integrated Real and Synthetic Data, Flexible Views, and Transformed Domains**|Fardad Dadboud et.al.|[2412.04789](http://arxiv.org/abs/2412.04789)|**[link](https://github.com/CARG-uOttawa/DrIFT)**|
 |**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783](http://arxiv.org/abs/2412.04783)|null|
@@ -733,9 +733,9 @@ layout: default
 |**2024-12-07**|**From Deterministic to Probabilistic: A Novel Perspective on Domain Generalization for Medical Image Segmentation**|Yuheng Xu et.al.|[2412.05572](http://arxiv.org/abs/2412.05572)|null|
 |**2024-12-07**|**GAQAT: gradient-adaptive quantization-aware training for domain generalization**|Jiacheng Jiang et.al.|[2412.05551](http://arxiv.org/abs/2412.05551)|null|
 |**2024-12-06**|**A Survey of Large Language Model-Based Generative AI for Text-to-SQL: Benchmarks, Applications, Use Cases, and Challenges**|Aditi Singh et.al.|[2412.05208](http://arxiv.org/abs/2412.05208)|null|
-|**2024-12-05**|**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**|Jie Bao et.al.|[2412.04296](http://arxiv.org/abs/2412.04296)|null|
+|**2024-12-05**|**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**|Jie Bao et.al.|[2412.04296](http://arxiv.org/abs/2412.04296)|**[link](https://github.com/luo-lorry/Stylized-Medical-Segmentation)**|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
-|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|**[link](https://github.com/charismaticchiu/MegaCOIN)**|
+|**2024-12-05**|**MegaCOIN: Enhancing Medium-Grained Color Perception for Vision-Language Models**|Ming-Chang Chiu et.al.|[2412.03927](http://arxiv.org/abs/2412.03927)|null|
 |**2024-12-05**|**Multisource Collaborative Domain Generalization for Cross-Scene Remote Sensing Image Classification**|Zhu Han et.al.|[2412.03897](http://arxiv.org/abs/2412.03897)|null|
 |**2024-12-03**|**Is Large-Scale Pretraining the Secret to Good Domain Generalization?**|Piotr Teterwak et.al.|[2412.02856](http://arxiv.org/abs/2412.02856)|null|
 |**2024-12-02**|**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**|Hao Wu et.al.|[2412.01115](http://arxiv.org/abs/2412.01115)|null|
@@ -865,8 +865,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619](http://arxiv.org/abs/2412.08619)|null|
-|**2024-12-11**|**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**|Fan Lu et.al.|[2412.08614](http://arxiv.org/abs/2412.08614)|**[link](https://github.com/lufan31/comprecap)**|
-|**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|null|
+|**2024-12-12**|**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**|Fan Lu et.al.|[2412.08614](http://arxiv.org/abs/2412.08614)|**[link](https://github.com/lufan31/comprecap)**|
+|**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
 |**2024-12-11**|**POINTS1.5: Building a Vision-Language Model towards Real World Applications**|Yuan Liu et.al.|[2412.08443](http://arxiv.org/abs/2412.08443)|null|
 |**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|Yubo Cui et.al.|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
 |**2024-12-11**|**HyViLM: Enhancing Fine-Grained Recognition with a Hybrid Encoder for Vision-Language Models**|Shiding Zhu et.al.|[2412.08378](http://arxiv.org/abs/2412.08378)|null|
@@ -1463,7 +1463,7 @@ layout: default
 |**2024-12-11**|**TapeAgents: a Holistic Framework for Agent Development and Optimization**|Dzmitry Bahdanau et.al.|[2412.08445](http://arxiv.org/abs/2412.08445)|null|
 |**2024-12-11**|**TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**|Jingjing Xie et.al.|[2412.08176](http://arxiv.org/abs/2412.08176)|**[link](https://github.com/xjjxmu/textrefiner)**|
 |**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174](http://arxiv.org/abs/2412.08174)|null|
-|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
+|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|**[link](https://github.com/igor-morawski/tmm-sem)**|
 |**2024-12-10**|**Ontology-driven Prompt Tuning for LLM-based Task and Motion Planning**|Muhayy Ud Din et.al.|[2412.07493](http://arxiv.org/abs/2412.07493)|null|
 |**2024-12-10**|**Attention Head Purification: A New Perspective to Harness CLIP for Domain Generalization**|Yingfan Wang et.al.|[2412.07226](http://arxiv.org/abs/2412.07226)|null|
 |**2024-12-09**|**Leveraging Prompt Learning and Pause Encoding for Alzheimer's Disease Detection**|Yin-Long Liu et.al.|[2412.06259](http://arxiv.org/abs/2412.06259)|null|
