@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**|Lai Wei et.al.|[2412.10349](http://arxiv.org/abs/2412.10349)|null|
+|**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345](http://arxiv.org/abs/2412.10345)|null|
+|**2024-12-13**|**Reward Machine Inference for Robotic Manipulation**|Mattijs Baert et.al.|[2412.10096](http://arxiv.org/abs/2412.10096)|null|
+|**2024-12-13**|**ManipGPT: Is Affordance Segmentation by Large Vision Models Enough for Articulated Object Manipulation?**|Taewhan Kim et.al.|[2412.10050](http://arxiv.org/abs/2412.10050)|null|
+|**2024-12-13**|**Digital Twin Enabled Runtime Verification for Autonomous Mobile Robots under Uncertainty**|Joakim Schack Betzer et.al.|[2412.09913](http://arxiv.org/abs/2412.09913)|null|
+|**2024-12-13**|**SonicBoom: Contact Localization Using Array of Microphones**|Moonyoung Lee et.al.|[2412.09878](http://arxiv.org/abs/2412.09878)|null|
+|**2024-12-13**|**RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning**|Charles Xu et.al.|[2412.09858](http://arxiv.org/abs/2412.09858)|null|
+|**2024-12-12**|**Should We Learn Contact-Rich Manipulation Policies from Sampling-Based Planners?**|Huaijiang Zhu et.al.|[2412.09743](http://arxiv.org/abs/2412.09743)|null|
 |**2024-12-12**|**Learning Camera Movement Control from Real-World Drone Videos**|Yunzhong Hou et.al.|[2412.09620](http://arxiv.org/abs/2412.09620)|null|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
 |**2024-12-12**|**iKap: Kinematics-aware Planning with Imperative Learning**|Qihang Li et.al.|[2412.09496](http://arxiv.org/abs/2412.09496)|null|
@@ -481,6 +489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339](http://arxiv.org/abs/2412.10339)|null|
+|**2024-12-13**|**TTAQ: Towards Stable Post-training Quantization in Continuous Domain Adaptation**|Junrui Xiao et.al.|[2412.09899](http://arxiv.org/abs/2412.09899)|null|
 |**2024-12-12**|**Foundational Large Language Models for Materials Research**|Vaibhav Mishra et.al.|[2412.09560](http://arxiv.org/abs/2412.09560)|null|
 |**2024-12-12**|**Towards Robust and Fair Vision Learning in Open-World Environments**|Thanh-Dat Truong et.al.|[2412.09439](http://arxiv.org/abs/2412.09439)|null|
 |**2024-12-12**|**VLMs meet UDA: Boosting Transferability of Open Vocabulary Segmentation with Unsupervised Domain Adaptation**|Roberto Alcover-Couso et.al.|[2412.09240](http://arxiv.org/abs/2412.09240)|null|
@@ -736,6 +746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Guidance Not Obstruction: A Conjugate Consistent Enhanced Strategy for Domain Generalization**|Meng Cao et.al.|[2412.10089](http://arxiv.org/abs/2412.10089)|null|
 |**2024-12-12**|**Towards Robust and Fair Vision Learning in Open-World Environments**|Thanh-Dat Truong et.al.|[2412.09439](http://arxiv.org/abs/2412.09439)|null|
 |**2024-12-12**|**DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization**|Jin-Seop Lee et.al.|[2412.09074](http://arxiv.org/abs/2412.09074)|null|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
@@ -878,6 +889,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
+|**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
+|**2024-12-13**|**VLR-Bench: Multilingual Benchmark Dataset for Vision-Language Retrieval Augmented Generation**|Hyeonseok Lim et.al.|[2412.10151](http://arxiv.org/abs/2412.10151)|null|
+|**2024-12-13**|**WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**|Songyan Zhang et.al.|[2412.09951](http://arxiv.org/abs/2412.09951)|null|
+|**2024-12-13**|**CaLoRAify: Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models**|Dongyu Yao et.al.|[2412.09936](http://arxiv.org/abs/2412.09936)|**[link](https://github.com/kennyyao2001/16824-caloraify)**|
+|**2024-12-13**|**Selective State Space Memory for Large Vision-Language Models**|Chee Ng et.al.|[2412.09875](http://arxiv.org/abs/2412.09875)|null|
+|**2024-12-12**|**BayesAdapter: enhanced uncertainty estimation in CLIP few-shot adaptation**|Pablo Morales-Álvarez et.al.|[2412.09718](http://arxiv.org/abs/2412.09718)|null|
+|**2024-12-12**|**Vision-Language Models Represent Darker-Skinned Black Individuals as More Homogeneous than Lighter-Skinned Black Individuals**|Messi H. J. Lee et.al.|[2412.09668](http://arxiv.org/abs/2412.09668)|null|
 |**2024-12-13**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|
 |**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
 |**2024-12-12**|**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**|Han Wang et.al.|[2412.09530](http://arxiv.org/abs/2412.09530)|**[link](https://github.com/hon-wong/bytevideollm)**|
@@ -1487,6 +1507,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images**|Yasamin Medghalchi et.al.|[2412.09910](http://arxiv.org/abs/2412.09910)|**[link](https://github.com/yasamin-med/p2p)**|
+|**2024-12-12**|**BayesAdapter: enhanced uncertainty estimation in CLIP few-shot adaptation**|Pablo Morales-Álvarez et.al.|[2412.09718](http://arxiv.org/abs/2412.09718)|null|
+|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706](http://arxiv.org/abs/2412.09706)|null|
 |**2024-12-12**|**ATPrompt: Textual Prompt Learning with Embedded Attributes**|Zheng Li et.al.|[2412.09442](http://arxiv.org/abs/2412.09442)|null|
 |**2024-12-12**|**Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation**|Chaoran Cui et.al.|[2412.09308](http://arxiv.org/abs/2412.09308)|**[link](https://github.com/cadezzyr/paint)**|
 |**2024-12-12**|**CAPrompt: Cyclic Prompt Aggregation for Pre-Trained Model Based Class Incremental Learning**|Qiwei Li et.al.|[2412.08929](http://arxiv.org/abs/2412.08929)|null|
@@ -1640,6 +1663,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Regression trees for nonparametric diagnostics of sequential positivity violations in longitudinal causal inference**|Arthur Chatton et.al.|[2412.10245](http://arxiv.org/abs/2412.10245)|null|
+|**2024-12-13**|**Are you doing better than random guessing? A call for using negative controls when evaluating causal discovery algorithms**|Anne Helby Petersen et.al.|[2412.10039](http://arxiv.org/abs/2412.10039)|null|
+|**2024-12-13**|**Learning Structural Causal Models from Ordering: Identifiable Flow Models**|Minh Khoa Le et.al.|[2412.09843](http://arxiv.org/abs/2412.09843)|null|
+|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|null|
 |**2024-12-12**|**The Causal Effect of the Two-For-One Strategy in the National Basketball Association**|Prateek Sasan et.al.|[2412.08840](http://arxiv.org/abs/2412.08840)|null|
 |**2024-12-11**|**Delta Vectors Unify the Computation for Linear Model Treatment Effects**|Jeffrey Wong et.al.|[2412.08788](http://arxiv.org/abs/2412.08788)|null|
 |**2024-12-10**|**Thinking Fast and Laterally: Multi-Agentic Approach for Reasoning about Uncertain Emerging Events**|Stefan Dernbach et.al.|[2412.07977](http://arxiv.org/abs/2412.07977)|null|
@@ -1905,7 +1932,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-12**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
+|**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
+|**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
+|**2024-12-13**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
 |**2024-12-10**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
 |**2024-12-10**|**A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection**|Debasmita Pal et.al.|[2412.07199](http://arxiv.org/abs/2412.07199)|**[link](https://github.com/iprobe-lab/adv-gen-irispad)**|
