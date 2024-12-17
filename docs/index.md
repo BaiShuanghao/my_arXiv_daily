@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1509,7 +1509,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-13**|**Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images**|Yasamin Medghalchi et.al.|[2412.09910](http://arxiv.org/abs/2412.09910)|**[link](https://github.com/yasamin-med/p2p)**|
 |**2024-12-12**|**BayesAdapter: enhanced uncertainty estimation in CLIP few-shot adaptation**|Pablo Morales-Álvarez et.al.|[2412.09718](http://arxiv.org/abs/2412.09718)|null|
-|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706](http://arxiv.org/abs/2412.09706)|null|
+|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706](http://arxiv.org/abs/2412.09706)|**[link](https://github.com/chunmeifeng/difftpt)**|
 |**2024-12-12**|**ATPrompt: Textual Prompt Learning with Embedded Attributes**|Zheng Li et.al.|[2412.09442](http://arxiv.org/abs/2412.09442)|null|
 |**2024-12-12**|**Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation**|Chaoran Cui et.al.|[2412.09308](http://arxiv.org/abs/2412.09308)|**[link](https://github.com/cadezzyr/paint)**|
 |**2024-12-12**|**CAPrompt: Cyclic Prompt Aggregation for Pre-Trained Model Based Class Incremental Learning**|Qiwei Li et.al.|[2412.08929](http://arxiv.org/abs/2412.08929)|null|
@@ -1666,7 +1666,7 @@ layout: default
 |**2024-12-13**|**Regression trees for nonparametric diagnostics of sequential positivity violations in longitudinal causal inference**|Arthur Chatton et.al.|[2412.10245](http://arxiv.org/abs/2412.10245)|null|
 |**2024-12-13**|**Are you doing better than random guessing? A call for using negative controls when evaluating causal discovery algorithms**|Anne Helby Petersen et.al.|[2412.10039](http://arxiv.org/abs/2412.10039)|null|
 |**2024-12-13**|**Learning Structural Causal Models from Ordering: Identifiable Flow Models**|Minh Khoa Le et.al.|[2412.09843](http://arxiv.org/abs/2412.09843)|null|
-|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|null|
+|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|**[link](https://github.com/pechen123/2dbn_learning)**|
 |**2024-12-12**|**The Causal Effect of the Two-For-One Strategy in the National Basketball Association**|Prateek Sasan et.al.|[2412.08840](http://arxiv.org/abs/2412.08840)|null|
 |**2024-12-11**|**Delta Vectors Unify the Computation for Linear Model Treatment Effects**|Jeffrey Wong et.al.|[2412.08788](http://arxiv.org/abs/2412.08788)|null|
 |**2024-12-10**|**Thinking Fast and Laterally: Multi-Agentic Approach for Reasoning about Uncertain Emerging Events**|Stefan Dernbach et.al.|[2412.07977](http://arxiv.org/abs/2412.07977)|null|
@@ -1940,7 +1940,7 @@ layout: default
 |**2024-12-10**|**A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection**|Debasmita Pal et.al.|[2412.07199](http://arxiv.org/abs/2412.07199)|**[link](https://github.com/iprobe-lab/adv-gen-irispad)**|
 |**2024-12-10**|**Defensive Dual Masking for Robust Adversarial Defense**|Wangli Yang et.al.|[2412.07078](http://arxiv.org/abs/2412.07078)|null|
 |**2024-12-08**|**Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks**|Kerui Wu et.al.|[2412.05883](http://arxiv.org/abs/2412.05883)|null|
-|**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|null|
+|**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|**[link](https://github.com/samsonzhou/WZ24)**|
 |**2024-12-10**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767](http://arxiv.org/abs/2412.05767)|**[link](https://github.com/xiaoyuluoit97/DeMem)**|
 |**2024-12-07**|**Nearly Solved? Robust Deepfake Detection Requires More than Visual Forensics**|Guy Levy et.al.|[2412.05676](http://arxiv.org/abs/2412.05676)|null|
 |**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799](http://arxiv.org/abs/2412.04799)|null|
