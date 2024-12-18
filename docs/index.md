@@ -9,11 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
+|**2024-12-16**|**Equivariant Action Sampling for Reinforcement Learning and Planning**|Linfeng Zhao et.al.|[2412.12237](http://arxiv.org/abs/2412.12237)|null|
 |**2024-12-16**|**LeARN: Learnable and Adaptive Representations for Nonlinear Dynamics in System Identification**|Arunabh Singh et.al.|[2412.12036](http://arxiv.org/abs/2412.12036)|null|
 |**2024-12-16**|**Learning to Navigate in Mazes with Novel Layouts using Abstract Top-down Maps**|Linfeng Zhao et.al.|[2412.12024](http://arxiv.org/abs/2412.12024)|null|
-|**2024-12-16**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
+|**2024-12-17**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
 |**2024-12-16**|**Learning Human-Aware Robot Policies for Adaptive Assistance**|Jason Qin et.al.|[2412.11913](http://arxiv.org/abs/2412.11913)|null|
-|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|null|
+|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|**[link](https://github.com/wur-abe/rl_drone_object_search)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-16**|**Visual IRL for Human-Like Robotic Manipulation**|Ehsan Asali et.al.|[2412.11360](http://arxiv.org/abs/2412.11360)|null|
 |**2024-12-15**|**GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs**|Xinli Xu et.al.|[2412.11258](http://arxiv.org/abs/2412.11258)|null|
@@ -500,6 +504,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm**|Thai-Hoang Pham et.al.|[2412.13036](http://arxiv.org/abs/2412.13036)|null|
+|**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|null|
+|**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
+|**2024-12-11**|**Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation**|Yangxuan Zhou et.al.|[2412.12159](http://arxiv.org/abs/2412.12159)|null|
 |**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
 |**2024-12-16**|**HiGDA: Hierarchical Graph of Nodes to Learn Local-to-Global Topology for Semi-Supervised Domain Adaptation**|Ba Hung Ngo et.al.|[2412.11819](http://arxiv.org/abs/2412.11819)|null|
 |**2024-12-16**|**CLDA-YOLO: Visual Contrastive Learning Based Domain Adaptive YOLO Detector**|Tianheng Qiu et.al.|[2412.11812](http://arxiv.org/abs/2412.11812)|null|
@@ -763,6 +771,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CRoF: CLIP-based Robust Few-shot Learning on Noisy Labels**|Shizhuo Deng et.al.|[2412.12793](http://arxiv.org/abs/2412.12793)|null|
+|**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
+|**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
 |**2024-12-16**|**Exploring Semantic Consistency and Style Diversity for Domain Generalized Semantic Segmentation**|Hongwei Niu et.al.|[2412.12050](http://arxiv.org/abs/2412.12050)|**[link](https://github.com/nhw649/scsd)**|
 |**2024-12-16**|**PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection**|Xiaoran Xu et.al.|[2412.11807](http://arxiv.org/abs/2412.11807)|**[link](https://github.com/startracker0/physaug)**|
 |**2024-12-16**|**Meta Curvature-Aware Minimization for Domain Generalization**|Ziyang Chen et.al.|[2412.11542](http://arxiv.org/abs/2412.11542)|null|
@@ -911,8 +922,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|null|
-|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
+|**2024-12-17**|**CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**|Zihui Cheng et.al.|[2412.12932](http://arxiv.org/abs/2412.12932)|null|
+|**2024-12-17**|**An Agentic Approach to Automatic Creation of P&ID Diagrams from Natural Language Descriptions**|Shreeyash Gowaikar et.al.|[2412.12898](http://arxiv.org/abs/2412.12898)|null|
+|**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798](http://arxiv.org/abs/2412.12798)|**[link](https://github.com/huangshiqi128/zori)**|
+|**2024-12-17**|**CRoF: CLIP-based Robust Few-shot Learning on Noisy Labels**|Shizhuo Deng et.al.|[2412.12793](http://arxiv.org/abs/2412.12793)|null|
+|**2024-12-17**|**Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference**|Siyuan Wang et.al.|[2412.12785](http://arxiv.org/abs/2412.12785)|null|
+|**2024-12-17**|**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**|Qi Zhou et.al.|[2412.12722](http://arxiv.org/abs/2412.12722)|null|
+|**2024-12-17**|**SPHERE: A Hierarchical Evaluation on Spatial Perception and Reasoning for Vision-Language Models**|Wenyu Zhang et.al.|[2412.12693](http://arxiv.org/abs/2412.12693)|null|
+|**2024-12-17**|**DuSSS: Dual Semantic Similarity-Supervised Vision-Language Model for Semi-Supervised Medical Image Segmentation**|Qingtao Pan et.al.|[2412.12492](http://arxiv.org/abs/2412.12492)|**[link](https://github.com/QingtaoPan/DuSSS)**|
+|**2024-12-16**|**You Only Submit One Image to Find the Most Suitable Generative Model**|Zhi Zhou et.al.|[2412.12232](http://arxiv.org/abs/2412.12232)|null|
+|**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
+|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|**[link](https://github.com/compvis/disclip)**|
+|**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
@@ -1549,8 +1572,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
+|**2024-12-11**|**Adapting Unsigned Graph Neural Networks for Signed Graphs: A Few-Shot Prompt Tuning Approach**|Zian Zhai et.al.|[2412.12155](http://arxiv.org/abs/2412.12155)|null|
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
-|**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106](http://arxiv.org/abs/2412.11106)|null|
+|**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106](http://arxiv.org/abs/2412.11106)|**[link](https://github.com/DianaNerualNetwork/StainPromptInversion)**|
 |**2024-12-15**|**Adapter-Enhanced Semantic Prompting for Continual Learning**|Baocai Yin et.al.|[2412.11074](http://arxiv.org/abs/2412.11074)|null|
 |**2024-12-15**|**PromptV: Leveraging LLM-powered Multi-Agent Prompting for High-quality Verilog Generation**|Zhendong Mi et.al.|[2412.11014](http://arxiv.org/abs/2412.11014)|null|
 |**2024-12-14**|**PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning**|Yongchun Qin et.al.|[2412.10900](http://arxiv.org/abs/2412.10900)|**[link](https://github.com/qinyongchun/pearl)**|
@@ -1711,12 +1736,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**Causal Invariance Learning via Efficient Optimization of a Nonconvex Objective**|Zhenyu Wang et.al.|[2412.11850](http://arxiv.org/abs/2412.11850)|null|
-|**2024-12-16**|**Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data**|Mulugeta Weldezgina Asres et.al.|[2412.11800](http://arxiv.org/abs/2412.11800)|null|
+|**2024-12-16**|**Causally Consistent Normalizing Flow**|Qingyang Zhou et.al.|[2412.12401](http://arxiv.org/abs/2412.12401)|null|
+|**2024-12-16**|**The Estimand Framework and Causal Inference: Complementary not Competing Paradigms**|Thomas Drury et.al.|[2412.12380](http://arxiv.org/abs/2412.12380)|null|
+|**2024-12-16**|**On the Role of Surrogates in Conformal Inference of Individual Causal Effects**|Chenyin Gao et.al.|[2412.12365](http://arxiv.org/abs/2412.12365)|**[link](https://github.com/Gaochenyin/SurrConformalDR)**|
+|**2024-12-16**|**Target Aggregate Data Adjustment Method for Transportability Analysis Utilizing Summary-Level Data from the Target Population**|Yichen Yan et.al.|[2412.12335](http://arxiv.org/abs/2412.12335)|null|
+|**2024-12-17**|**Causal Invariance Learning via Efficient Optimization of a Nonconvex Objective**|Zhenyu Wang et.al.|[2412.11850](http://arxiv.org/abs/2412.11850)|null|
+|**2024-12-16**|**Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data**|Mulugeta Weldezgina Asres et.al.|[2412.11800](http://arxiv.org/abs/2412.11800)|**[link](https://github.com/muleina/anomalycd)**|
 |**2024-12-16**|**Variable importance measures for heterogeneous treatment effects with survival outcome**|Simon Christoffer Ziersen et.al.|[2412.11790](http://arxiv.org/abs/2412.11790)|null|
 |**2024-12-15**|**Moderating the Mediation Bootstrap for Causal Inference**|Kees Jan van Garderen et.al.|[2412.11285](http://arxiv.org/abs/2412.11285)|null|
-|**2024-12-15**|**ABC3: Active Bayesian Causal Inference with Cohn Criteria in Randomized Experiments**|Taehun Cha et.al.|[2412.11104](http://arxiv.org/abs/2412.11104)|null|
-|**2024-12-14**|**Adaptive Nonparametric Perturbations of Parametric Bayesian Models**|Bohan Wu et.al.|[2412.10683](http://arxiv.org/abs/2412.10683)|null|
+|**2024-12-15**|**ABC3: Active Bayesian Causal Inference with Cohn Criteria in Randomized Experiments**|Taehun Cha et.al.|[2412.11104](http://arxiv.org/abs/2412.11104)|**[link](https://github.com/AIML-K/ActiveBayesianCausal)**|
+|**2024-12-17**|**Adaptive Nonparametric Perturbations of Parametric Bayesian Models**|Bohan Wu et.al.|[2412.10683](http://arxiv.org/abs/2412.10683)|**[link](https://github.com/bohanwu424/npp)**|
 |**2024-12-14**|**Do LLMs Act as Repositories of Causal Knowledge?**|Nick Huntington-Klein et.al.|[2412.10635](http://arxiv.org/abs/2412.10635)|null|
 |**2024-12-13**|**The Front-door Criterion in the Potential Outcome Framework**|Zexuan Chen et.al.|[2412.10600](http://arxiv.org/abs/2412.10600)|null|
 |**2024-12-13**|**Do Large Language Models Show Biases in Causal Learning?**|Maria Victoria Carro et.al.|[2412.10509](http://arxiv.org/abs/2412.10509)|null|
@@ -1989,21 +2018,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script**|Xi Cao et.al.|[2412.12478](http://arxiv.org/abs/2412.12478)|**[link](https://github.com/CMLI-NLP/HITL-GAT)**|
+|**2024-12-17**|**Adversarially robust generalization theory via Jacobian regularization for deep neural networks**|Dongya Wu et.al.|[2412.12449](http://arxiv.org/abs/2412.12449)|null|
+|**2024-12-16**|**Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies**|Li Li et.al.|[2412.12217](http://arxiv.org/abs/2412.12217)|null|
 |**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
 |**2024-12-16**|**Accurate, Robust and Privacy-Preserving Brain-Computer Interface Decoding**|Xiaoqing Chen et.al.|[2412.11390](http://arxiv.org/abs/2412.11390)|null|
 |**2024-12-16**|**A Comprehensive Review of Adversarial Attacks on Machine Learning**|Syed Quiser Ahmed et.al.|[2412.11384](http://arxiv.org/abs/2412.11384)|null|
-|**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066](http://arxiv.org/abs/2412.11066)|null|
+|**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066](http://arxiv.org/abs/2412.11066)|**[link](https://github.com/arprl/arprl)**|
 |**2024-12-14**|**Improving Graph Neural Networks via Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.10850](http://arxiv.org/abs/2412.10850)|null|
 |**2024-12-13**|**On Adversarial Robustness and Out-of-Distribution Robustness of Large Language Models**|April Yang et.al.|[2412.10535](http://arxiv.org/abs/2412.10535)|**[link](https://github.com/jordantab/llm-robustness-experiment)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
 |**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
 |**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-16**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
-|**2024-12-10**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
+|**2024-12-17**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
 |**2024-12-10**|**A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection**|Debasmita Pal et.al.|[2412.07199](http://arxiv.org/abs/2412.07199)|**[link](https://github.com/iprobe-lab/adv-gen-irispad)**|
 |**2024-12-10**|**Defensive Dual Masking for Robust Adversarial Defense**|Wangli Yang et.al.|[2412.07078](http://arxiv.org/abs/2412.07078)|null|
 |**2024-12-08**|**Understanding the Impact of Graph Reduction on Adversarial Robustness in Graph Neural Networks**|Kerui Wu et.al.|[2412.05883](http://arxiv.org/abs/2412.05883)|null|
-|**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|**[link](https://github.com/samsonzhou/WZ24)**|
+|**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|null|
 |**2024-12-10**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767](http://arxiv.org/abs/2412.05767)|**[link](https://github.com/xiaoyuluoit97/DeMem)**|
 |**2024-12-07**|**Nearly Solved? Robust Deepfake Detection Requires More than Visual Forensics**|Guy Levy et.al.|[2412.05676](http://arxiv.org/abs/2412.05676)|null|
 |**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799](http://arxiv.org/abs/2412.04799)|null|
