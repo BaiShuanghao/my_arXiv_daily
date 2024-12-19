@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -934,7 +934,7 @@ layout: default
 |**2024-12-17**|**DuSSS: Dual Semantic Similarity-Supervised Vision-Language Model for Semi-Supervised Medical Image Segmentation**|Qingtao Pan et.al.|[2412.12492](http://arxiv.org/abs/2412.12492)|**[link](https://github.com/QingtaoPan/DuSSS)**|
 |**2024-12-16**|**You Only Submit One Image to Find the Most Suitable Generative Model**|Zhi Zhou et.al.|[2412.12232](http://arxiv.org/abs/2412.12232)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
-|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|**[link](https://github.com/compvis/disclip)**|
+|**2024-12-18**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|**[link](https://github.com/compvis/disclip)**|
 |**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
