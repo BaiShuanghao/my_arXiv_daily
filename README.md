@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
+|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109](http://arxiv.org/abs/2412.15109)|null|
+|**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040](http://arxiv.org/abs/2412.15040)|null|
+|**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-18**|**Consistency Matters: Defining Demonstration Data Quality Metrics in Robot Learning from Demonstration**|Maram Sakr et.al.|[2412.14309](http://arxiv.org/abs/2412.14309)|null|
 |**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
 |**2024-12-18**|**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**|Kun Wu et.al.|[2412.13877](http://arxiv.org/abs/2412.13877)|null|
 |**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|null|
@@ -521,6 +527,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**ORBIT: Cost-Effective Dataset Curation for Large Language Model Domain Adaptation with an Astronomy Case Study**|Eric Modesitt et.al.|[2412.14436](http://arxiv.org/abs/2412.14436)|**[link](https://github.com/modeeric/orbit-llama)**|
+|**2024-12-18**|**SEREP: Semantic Facial Expression Representation for Robust In-the-Wild Capture and Retargeting**|Arthur Josi et.al.|[2412.14371](http://arxiv.org/abs/2412.14371)|null|
+|**2024-12-18**|**What Has Been Overlooked in Contrastive Source-Free Domain Adaptation: Leveraging Source-Informed Latent Augmentation within Neighborhood Context**|Jing Wang et.al.|[2412.14301](http://arxiv.org/abs/2412.14301)|**[link](https://github.com/jingwang18/silan)**|
 |**2024-12-18**|**Domain-adaptative Continual Learning for Low-resource Tasks: Evaluation on Nepali**|Sharad Duwal et.al.|[2412.13860](http://arxiv.org/abs/2412.13860)|null|
 |**2024-12-18**|**A Robust Anti-noise Scheme for RF Fingerprint Identification**|Junxian Shi et.al.|[2412.13822](http://arxiv.org/abs/2412.13822)|null|
 |**2024-12-18**|**Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabeled Data**|Junki Mori et.al.|[2412.13757](http://arxiv.org/abs/2412.13757)|null|
@@ -533,7 +542,7 @@
 |**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
 |**2024-12-16**|**HiGDA: Hierarchical Graph of Nodes to Learn Local-to-Global Topology for Semi-Supervised Domain Adaptation**|Ba Hung Ngo et.al.|[2412.11819](http://arxiv.org/abs/2412.11819)|null|
 |**2024-12-16**|**CLDA-YOLO: Visual Contrastive Learning Based Domain Adaptive YOLO Detector**|Tianheng Qiu et.al.|[2412.11812](http://arxiv.org/abs/2412.11812)|null|
-|**2024-12-16**|**Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654](http://arxiv.org/abs/2412.11654)|**[link](https://github.com/cwei01/tdss)**|
+|**2024-12-19**|**Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654](http://arxiv.org/abs/2412.11654)|**[link](https://github.com/cwei01/tdss)**|
 |**2024-12-16**|**Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment**|Yuanfan Zheng et.al.|[2412.11443](http://arxiv.org/abs/2412.11443)|**[link](https://github.com/zyfone/dpa)**|
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu et.al.|[2412.11185](http://arxiv.org/abs/2412.11185)|null|
 |**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339](http://arxiv.org/abs/2412.10339)|null|
@@ -951,6 +960,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672](http://arxiv.org/abs/2412.14672)|null|
+|**2024-12-19**|**HarmonicEval: Multi-modal, Multi-task, Multi-criteria Automatic Evaluation Using a Vision Language Model**|Masanari Ohi et.al.|[2412.14613](http://arxiv.org/abs/2412.14613)|null|
+|**2024-12-19**|**Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation**|Jihao Gu et.al.|[2412.14487](http://arxiv.org/abs/2412.14487)|null|
+|**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480](http://arxiv.org/abs/2412.14480)|null|
+|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
+|**2024-12-19**|**VISA: Retrieval Augmented Generation with Visual Source Attribution**|Xueguang Ma et.al.|[2412.14457](http://arxiv.org/abs/2412.14457)|null|
+|**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[2412.14446](http://arxiv.org/abs/2412.14446)|null|
+|**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424](http://arxiv.org/abs/2412.14424)|null|
+|**2024-12-18**|**Surrealistic-like Image Generation with Vision-Language Models**|Elif Ayten et.al.|[2412.14366](http://arxiv.org/abs/2412.14366)|null|
 |**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
 |**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
 |**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
@@ -1614,9 +1637,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning**|Eric Brouwer et.al.|[2412.14640](http://arxiv.org/abs/2412.14640)|null|
 |**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|null|
-|**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|null|
-|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|**[link](https://github.com/lihuashengmax/PromptDet)**|
+|**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
+|**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|null|
 |**2024-12-11**|**Adapting Unsigned Graph Neural Networks for Signed Graphs: A Few-Shot Prompt Tuning Approach**|Zian Zhai et.al.|[2412.12155](http://arxiv.org/abs/2412.12155)|null|
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
 |**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106](http://arxiv.org/abs/2412.11106)|**[link](https://github.com/DianaNerualNetwork/StainPromptInversion)**|
@@ -1782,11 +1806,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Estimating Heterogeneous Treatment Effects for Spatio-Temporal Causal Inference: How Economic Assistance Moderates the Effects of Airstrikes on Insurgent Violence**|Lingxiao Zhou et.al.|[2412.15128](http://arxiv.org/abs/2412.15128)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
 |**2024-12-18**|**What If: Causal Analysis with Graph Databases**|Amedeo Pachera et.al.|[2412.13965](http://arxiv.org/abs/2412.13965)|null|
 |**2024-12-18**|**Prompting Strategies for Enabling Large Language Models to Infer Causation from Correlation**|Eleni Sgouritsa et.al.|[2412.13952](http://arxiv.org/abs/2412.13952)|null|
 |**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
-|**2024-12-18**|**Revisiting Interactions of Multiple Driver States in Heterogenous Population and Cognitive Tasks**|Jiyao Wang et.al.|[2412.13574](http://arxiv.org/abs/2412.13574)|null|
+|**2024-12-19**|**Revisiting Interactions of Multiple Driver States in Heterogenous Population and Cognitive Tasks**|Jiyao Wang et.al.|[2412.13574](http://arxiv.org/abs/2412.13574)|null|
 |**2024-12-18**|**CA-Edit: Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing**|Xiaole Xian et.al.|[2412.13565](http://arxiv.org/abs/2412.13565)|**[link](https://github.com/connorxian/ca-edit)**|
 |**2024-12-16**|**Causally Consistent Normalizing Flow**|Qingyang Zhou et.al.|[2412.12401](http://arxiv.org/abs/2412.12401)|null|
 |**2024-12-16**|**The Estimand Framework and Causal Inference: Complementary not Competing Paradigms**|Thomas Drury et.al.|[2412.12380](http://arxiv.org/abs/2412.12380)|null|
@@ -2072,6 +2097,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
+|**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
 |**2024-12-18**|**Trustworthy Transfer Learning: A Survey**|Jun Wu et.al.|[2412.14116](http://arxiv.org/abs/2412.14116)|null|
 |**2024-12-17**|**Targeted View-Invariant Adversarial Perturbations for 3D Object Recognition**|Christian Green et.al.|[2412.13376](http://arxiv.org/abs/2412.13376)|null|
@@ -2086,8 +2113,9 @@
 |**2024-12-13**|**On Adversarial Robustness and Out-of-Distribution Robustness of Large Language Models**|April Yang et.al.|[2412.10535](http://arxiv.org/abs/2412.10535)|**[link](https://github.com/jordantab/llm-robustness-experiment)**|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
 |**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
-|**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
+|**2024-12-19**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-16**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
+|**2024-12-19**|**Grimm: A Plug-and-Play Perturbation Rectifier for Graph Neural Networks Defending against Poisoning Attacks**|Ao Liu et.al.|[2412.08555](http://arxiv.org/abs/2412.08555)|null|
 |**2024-12-17**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
 |**2024-12-10**|**A Parametric Approach to Adversarial Augmentation for Cross-Domain Iris Presentation Attack Detection**|Debasmita Pal et.al.|[2412.07199](http://arxiv.org/abs/2412.07199)|**[link](https://github.com/iprobe-lab/adv-gen-irispad)**|
 |**2024-12-10**|**Defensive Dual Masking for Robust Adversarial Defense**|Wangli Yang et.al.|[2412.07078](http://arxiv.org/abs/2412.07078)|null|
