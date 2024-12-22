@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -10,14 +10,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
-|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109](http://arxiv.org/abs/2412.15109)|null|
+|**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109](http://arxiv.org/abs/2412.15109)|**[link](https://github.com/openrobotlab/seer)**|
 |**2024-12-19**|**Noise Analysis and Modeling of the PMD Flexx2 Depth Camera for Robotic Applications**|Yuke Cai et.al.|[2412.15040](http://arxiv.org/abs/2412.15040)|null|
 |**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-18**|**Consistency Matters: Defining Demonstration Data Quality Metrics in Robot Learning from Demonstration**|Maram Sakr et.al.|[2412.14309](http://arxiv.org/abs/2412.14309)|null|
 |**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
 |**2024-12-18**|**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**|Kun Wu et.al.|[2412.13877](http://arxiv.org/abs/2412.13877)|null|
-|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|null|
+|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|**[link](https://github.com/kafeiyin00/ua-mpc)**|
 |**2024-12-18**|**Learning to Control an Android Robot Head for Facial Animation**|Marcel Heisler et.al.|[2412.13641](http://arxiv.org/abs/2412.13641)|null|
 |**2024-12-18**|**Policy Decorator: Model-Agnostic Online Refinement for Large Policy Model**|Xiu Yuan et.al.|[2412.13630](http://arxiv.org/abs/2412.13630)|null|
 |**2024-12-18**|**Learning Quadrupedal Robot Locomotion for Narrow Pipe Inspection**|Jing Guo et.al.|[2412.13621](http://arxiv.org/abs/2412.13621)|null|
@@ -523,7 +523,7 @@ layout: default
 |**2024-12-18**|**A Robust Anti-noise Scheme for RF Fingerprint Identification**|Junxian Shi et.al.|[2412.13822](http://arxiv.org/abs/2412.13822)|null|
 |**2024-12-18**|**Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabeled Data**|Junki Mori et.al.|[2412.13757](http://arxiv.org/abs/2412.13757)|null|
 |**2024-12-18**|**Bridge then Begin Anew: Generating Target-relevant Intermediate Model for Source-free Visual Emotion Adaptation**|Jiankun Zhu et.al.|[2412.13577](http://arxiv.org/abs/2412.13577)|**[link](https://github.com/zhuzhu804/bba)**|
-|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Open-Set Heterogeneous Domain Adaptation: Theoretical Analysis and Algorithm**|Thai-Hoang Pham et.al.|[2412.13036](http://arxiv.org/abs/2412.13036)|null|
 |**2024-12-17**|**Differential Alignment for Domain Adaptive Object Detection**|Xinyu He et.al.|[2412.12830](http://arxiv.org/abs/2412.12830)|null|
 |**2024-12-16**|**Domain Generalization in Autonomous Driving: Evaluating YOLOv8s, RT-DETR, and YOLO-NAS with the ROAD-Almaty Dataset**|Madiyar Alimov et.al.|[2412.12349](http://arxiv.org/abs/2412.12349)|null|
@@ -946,10 +946,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
-|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|
+|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672](http://arxiv.org/abs/2412.14672)|null|
 |**2024-12-19**|**HarmonicEval: Multi-modal, Multi-task, Multi-criteria Automatic Evaluation Using a Vision Language Model**|Masanari Ohi et.al.|[2412.14613](http://arxiv.org/abs/2412.14613)|null|
 |**2024-12-19**|**Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation**|Jihao Gu et.al.|[2412.14487](http://arxiv.org/abs/2412.14487)|null|
@@ -958,7 +958,7 @@ layout: default
 |**2024-12-19**|**VISA: Retrieval Augmented Generation with Visual Source Attribution**|Xueguang Ma et.al.|[2412.14457](http://arxiv.org/abs/2412.14457)|null|
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[2412.14446](http://arxiv.org/abs/2412.14446)|null|
 |**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424](http://arxiv.org/abs/2412.14424)|null|
-|**2024-12-18**|**Surrealistic-like Image Generation with Vision-Language Models**|Elif Ayten et.al.|[2412.14366](http://arxiv.org/abs/2412.14366)|null|
+|**2024-12-18**|**Surrealistic-like Image Generation with Vision-Language Models**|Elif Ayten et.al.|[2412.14366](http://arxiv.org/abs/2412.14366)|**[link](https://github.com/elifayten/elifaytenthesis2023)**|
 |**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
 |**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
 |**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
@@ -1621,7 +1621,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**Adaptive Prompt Tuning: Vision Guided Prompt Tuning with Cross-Attention for Fine-Grained Few-Shot Learning**|Eric Brouwer et.al.|[2412.14640](http://arxiv.org/abs/2412.14640)|null|
-|**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|null|
+|**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|**[link](https://github.com/mabelqi/peft4csd)**|
 |**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
 |**2024-12-17**|**PromptDet: A Lightweight 3D Object Detection Framework with LiDAR Prompts**|Kun Guo et.al.|[2412.12460](http://arxiv.org/abs/2412.12460)|null|
 |**2024-12-11**|**Adapting Unsigned Graph Neural Networks for Signed Graphs: A Few-Shot Prompt Tuning Approach**|Zian Zhai et.al.|[2412.12155](http://arxiv.org/abs/2412.12155)|null|
