@@ -1,4 +1,4 @@
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -525,7 +525,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## DA
 
@@ -536,7 +536,7 @@
 |**2024-12-20**|**From Galaxy Zoo DECaLS to BASS/MzLS: detailed galaxy morphology classification with unsupervised domain adaption**|Renhao Ye et.al.|[2412.15533](http://arxiv.org/abs/2412.15533)|null|
 |**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491](http://arxiv.org/abs/2412.15491)|null|
 |**2024-12-19**|**ORBIT: Cost-Effective Dataset Curation for Large Language Model Domain Adaptation with an Astronomy Case Study**|Eric Modesitt et.al.|[2412.14436](http://arxiv.org/abs/2412.14436)|**[link](https://github.com/modeeric/orbit-llama)**|
-|**2024-12-18**|**SEREP: Semantic Facial Expression Representation for Robust In-the-Wild Capture and Retargeting**|Arthur Josi et.al.|[2412.14371](http://arxiv.org/abs/2412.14371)|null|
+|**2024-12-20**|**SEREP: Semantic Facial Expression Representation for Robust In-the-Wild Capture and Retargeting**|Arthur Josi et.al.|[2412.14371](http://arxiv.org/abs/2412.14371)|null|
 |**2024-12-18**|**What Has Been Overlooked in Contrastive Source-Free Domain Adaptation: Leveraging Source-Informed Latent Augmentation within Neighborhood Context**|Jing Wang et.al.|[2412.14301](http://arxiv.org/abs/2412.14301)|**[link](https://github.com/jingwang18/silan)**|
 |**2024-12-18**|**Domain-adaptative Continual Learning for Low-resource Tasks: Evaluation on Nepali**|Sharad Duwal et.al.|[2412.13860](http://arxiv.org/abs/2412.13860)|null|
 |**2024-12-18**|**A Robust Anti-noise Scheme for RF Fingerprint Identification**|Junxian Shi et.al.|[2412.13822](http://arxiv.org/abs/2412.13822)|null|
@@ -806,14 +806,14 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**Uncertainty-Guided Cross Attention Ensemble Mean Teacher for Semi-supervised Medical Image Segmentation**|Meghana Karri et.al.|[2412.15380](http://arxiv.org/abs/2412.15380)|null|
-|**2024-12-18**|**GLIDER: Grading LLM Interactions and Decisions using Explainable Ranking**|Darshan Deshpande et.al.|[2412.14140](http://arxiv.org/abs/2412.14140)|null|
+|**2024-12-20**|**GLIDER: Grading LLM Interactions and Decisions using Explainable Ranking**|Darshan Deshpande et.al.|[2412.14140](http://arxiv.org/abs/2412.14140)|null|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
 |**2024-12-18**|**Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes**|Aodi Li et.al.|[2412.13573](http://arxiv.org/abs/2412.13573)|null|
 |**2024-12-17**|**CRoF: CLIP-based Robust Few-shot Learning on Noisy Labels**|Shizhuo Deng et.al.|[2412.12793](http://arxiv.org/abs/2412.12793)|null|
@@ -963,7 +963,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## VLM
 
@@ -1648,7 +1648,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Prompt
 
@@ -1820,7 +1820,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -2113,7 +2113,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2325,5 +2325,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
