@@ -18,9 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
+|**2024-12-22**|**GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs**|Xingrui Wang et.al.|[2412.16932](http://arxiv.org/abs/2412.16932)|null|
+|**2024-12-22**|**Learning an Adaptive Fall Recovery Controller for Quadrupeds on Complex Terrains**|Yidan Lu et.al.|[2412.16924](http://arxiv.org/abs/2412.16924)|null|
+|**2024-12-21**|**Safe Dynamic Motion Generation in Configuration Space Using Differentiable Distance Fields**|Xuemin Chi et.al.|[2412.16456](http://arxiv.org/abs/2412.16456)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
-|**2024-12-20**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
+|**2024-12-23**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
 |**2024-12-19**|**Tabletop Object Rearrangement: Structure, Complexity, and Efficient Combinatorial Search-Based Solutions**|Kai Gao et.al.|[2412.15398](http://arxiv.org/abs/2412.15398)|null|
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
 |**2024-12-19**|**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**|Yang Tian et.al.|[2412.15109](http://arxiv.org/abs/2412.15109)|**[link](https://github.com/openrobotlab/seer)**|
@@ -531,6 +535,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
+|**2024-12-23**|**Domain adapted machine translation: What does catastrophic forgetting forget and why?**|Danielle Saunders et.al.|[2412.17537](http://arxiv.org/abs/2412.17537)|null|
+|**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
+|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|null|
+|**2024-12-23**|**Trainingless Adaptation of Pretrained Models for Environmental Sound Classification**|Noriyuki Tonami et.al.|[2412.17212](http://arxiv.org/abs/2412.17212)|null|
+|**2024-12-22**|**Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**|Jongmin Yu et.al.|[2412.16859](http://arxiv.org/abs/2412.16859)|null|
+|**2024-12-21**|**Leveraging Contrastive Learning for Semantic Segmentation with Consistent Labels Across Varying Appearances**|Javier Montalvo et.al.|[2412.16592](http://arxiv.org/abs/2412.16592)|null|
+|**2024-12-21**|**Unsupervised Domain Adaptive Person Search via Dual Self-Calibration**|Linfeng Qi et.al.|[2412.16506](http://arxiv.org/abs/2412.16506)|null|
+|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|null|
+|**2024-12-20**|**Multi-Source Unsupervised Domain Adaptation with Prototype Aggregation**|Min Huang et.al.|[2412.16255](http://arxiv.org/abs/2412.16255)|null|
 |**2024-12-20**|**TelcoLM: collecting data, adapting, and benchmarking language models for the telecommunication domain**|Camille Barboule et.al.|[2412.15891](http://arxiv.org/abs/2412.15891)|null|
 |**2024-12-20**|**CrackUDA: Incremental Unsupervised Domain Adaptation for Improved Crack Segmentation in Civil Structures**|Kushagra Srivastava et.al.|[2412.15637](http://arxiv.org/abs/2412.15637)|null|
 |**2024-12-20**|**From Galaxy Zoo DECaLS to BASS/MzLS: detailed galaxy morphology classification with unsupervised domain adaption**|Renhao Ye et.al.|[2412.15533](http://arxiv.org/abs/2412.15533)|null|
@@ -969,6 +983,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
+|**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
+|**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787](http://arxiv.org/abs/2412.17787)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619](http://arxiv.org/abs/2412.17619)|**[link](https://github.com/cvl-hub/kag-prompt)**|
+|**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
+|**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
+|**2024-12-23**|**On the Feasibility of Vision-Language Models for Time-Series Classification**|Vinay Prithyani et.al.|[2412.17304](http://arxiv.org/abs/2412.17304)|null|
+|**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
+|**2024-12-22**|**ViLBias: A Framework for Bias Detection using Linguistic and Visual Cues**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|null|
+|**2024-12-22**|**Breaking Barriers in Physical-World Adversarial Examples: Improving Robustness and Transferability via Robust Feature**|Yichen Wang et.al.|[2412.16958](http://arxiv.org/abs/2412.16958)|**[link](https://github.com/cgcl-codes/rfcoa)**|
+|**2024-12-21**|**HyperCLIP: Adapting Vision-Language models with Hypernetworks**|Victor Akinwande et.al.|[2412.16777](http://arxiv.org/abs/2412.16777)|null|
+|**2024-12-21**|**UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning**|Long Zhou et.al.|[2412.16739](http://arxiv.org/abs/2412.16739)|**[link](https://github.com/zhoulong0/unem-transductive)**|
+|**2024-12-21**|**REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation**|Xizhe Xue et.al.|[2412.16583](http://arxiv.org/abs/2412.16583)|null|
+|**2024-12-21**|**Beyond End-to-End VLMs: Leveraging Intermediate Text Representations for Superior Flowchart Understanding**|Junyi Ye et.al.|[2412.16420](http://arxiv.org/abs/2412.16420)|null|
+|**2024-12-21**|**Revisiting MLLMs: An In-Depth Analysis of Image Classification Abilities**|Huan Liu et.al.|[2412.16418](http://arxiv.org/abs/2412.16418)|null|
+|**2024-12-20**|**DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment**|Cijo Jose et.al.|[2412.16334](http://arxiv.org/abs/2412.16334)|null|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
 |**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
 |**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
@@ -1654,6 +1685,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619](http://arxiv.org/abs/2412.17619)|**[link](https://github.com/cvl-hub/kag-prompt)**|
+|**2024-12-23**|**Multiple Consistency-guided Test-Time Adaptation for Contrastive Audio-Language Models with Unlabeled Audio**|Gongyu Chen et.al.|[2412.17306](http://arxiv.org/abs/2412.17306)|null|
+|**2024-12-22**|**LH-Mix: Local Hierarchy Correlation Guided Mixup over Hierarchical Prompt Tuning**|Fanshuang Kong et.al.|[2412.16963](http://arxiv.org/abs/2412.16963)|**[link](https://github.com/fskong/lh-mix)**|
+|**2024-12-22**|**Semantic Hierarchical Prompt Tuning for Parameter-Efficient Fine-Tuning**|Haowei Zhu et.al.|[2412.16956](http://arxiv.org/abs/2412.16956)|**[link](https://github.com/haoweiz23/ship)**|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735](http://arxiv.org/abs/2412.15735)|**[link](https://github.com/ringbdstack/proia)**|
 |**2024-12-18**|**PLPP: Prompt Learning with Perplexity Is Self-Distillation for Vision-Language Models**|Biao Liu et.al.|[2412.15277](http://arxiv.org/abs/2412.15277)|null|
@@ -1826,6 +1861,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Ergodic Network Stochastic Differential Equations**|Francesco Iafrate et.al.|[2412.17779](http://arxiv.org/abs/2412.17779)|null|
+|**2024-12-23**|**Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity**|Yixin Ren et.al.|[2412.17717](http://arxiv.org/abs/2412.17717)|null|
+|**2024-12-23**|**An efficient search-and-score algorithm for ancestral graphs using multivariate information scores**|Nikita Lagrange et.al.|[2412.17508](http://arxiv.org/abs/2412.17508)|null|
+|**2024-12-22**|**Aligning Graphical and Functional Causal Abstractions**|Wilem Schooltink et.al.|[2412.17080](http://arxiv.org/abs/2412.17080)|null|
+|**2024-12-22**|**Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference**|Wenhao Shen et.al.|[2412.16939](http://arxiv.org/abs/2412.16939)|null|
+|**2024-12-21**|**From Correlation to Causation: Understanding Climate Change through Causal Analysis and LLM Interpretations**|Shan Shan et.al.|[2412.16691](http://arxiv.org/abs/2412.16691)|null|
+|**2024-12-21**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
+|**2024-12-21**|**A Meta-Learning Approach to Bayesian Causal Discovery**|Anish Dhir et.al.|[2412.16577](http://arxiv.org/abs/2412.16577)|null|
 |**2024-12-19**|**Granger Causality Detection with Kolmogorov-Arnold Networks**|Hongyu Lin et.al.|[2412.15373](http://arxiv.org/abs/2412.15373)|null|
 |**2024-12-19**|**Eliciting Causal Abilities in Large Language Models for Reasoning Tasks**|Yajing Wang et.al.|[2412.15314](http://arxiv.org/abs/2412.15314)|**[link](https://github.com/dsubuntu/scie)**|
 |**2024-12-19**|**Estimating Heterogeneous Treatment Effects for Spatio-Temporal Causal Inference: How Economic Assistance Moderates the Effects of Airstrikes on Insurgent Violence**|Lingxiao Zhou et.al.|[2412.15128](http://arxiv.org/abs/2412.15128)|null|
@@ -2119,6 +2162,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural Text Correction**|Xuan Feng et.al.|[2412.17279](http://arxiv.org/abs/2412.17279)|null|
+|**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110](http://arxiv.org/abs/2412.17110)|null|
+|**2024-12-22**|**Shadow-Frugal Expectation-Value-Sampling Variational Quantum Generative Model**|Kevin Shen et.al.|[2412.17039](http://arxiv.org/abs/2412.17039)|null|
+|**2024-12-22**|**Robustness of Large Language Models Against Adversarial Attacks**|Yiyi Tao et.al.|[2412.17011](http://arxiv.org/abs/2412.17011)|null|
+|**2024-12-22**|**Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation**|Quan Dao et.al.|[2412.16906](http://arxiv.org/abs/2412.16906)|null|
+|**2024-12-20**|**FairREAD: Re-fusing Demographic Attributes after Disentanglement for Fair Medical Image Classification**|Yicheng Gao et.al.|[2412.16373](http://arxiv.org/abs/2412.16373)|null|
+|**2024-12-20**|**Adversarial Robustness through Dynamic Ensemble Learning**|Hetvi Waghela et.al.|[2412.16254](http://arxiv.org/abs/2412.16254)|null|
+|**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213](http://arxiv.org/abs/2412.16213)|null|
 |**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
 |**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150](http://arxiv.org/abs/2412.14150)|null|
