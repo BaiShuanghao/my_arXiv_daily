@@ -548,7 +548,7 @@
 |**2024-12-22**|**Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**|Jongmin Yu et.al.|[2412.16859](http://arxiv.org/abs/2412.16859)|null|
 |**2024-12-21**|**Leveraging Contrastive Learning for Semantic Segmentation with Consistent Labels Across Varying Appearances**|Javier Montalvo et.al.|[2412.16592](http://arxiv.org/abs/2412.16592)|null|
 |**2024-12-21**|**Unsupervised Domain Adaptive Person Search via Dual Self-Calibration**|Linfeng Qi et.al.|[2412.16506](http://arxiv.org/abs/2412.16506)|null|
-|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|null|
+|**2024-12-20**|**LEARN: A Unified Framework for Multi-Task Domain Adapt Few-Shot Learning**|Bharadwaj Ravichandran et.al.|[2412.16275](http://arxiv.org/abs/2412.16275)|**[link](https://gitlab.kitware.com/darpa_learn/learn)**|
 |**2024-12-20**|**Multi-Source Unsupervised Domain Adaptation with Prototype Aggregation**|Min Huang et.al.|[2412.16255](http://arxiv.org/abs/2412.16255)|null|
 |**2024-12-20**|**TelcoLM: collecting data, adapting, and benchmarking language models for the telecommunication domain**|Camille Barboule et.al.|[2412.15891](http://arxiv.org/abs/2412.15891)|null|
 |**2024-12-20**|**CrackUDA: Incremental Unsupervised Domain Adaptation for Improved Crack Segmentation in Civil Structures**|Kushagra Srivastava et.al.|[2412.15637](http://arxiv.org/abs/2412.15637)|null|
