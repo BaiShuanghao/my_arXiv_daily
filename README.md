@@ -1,4 +1,4 @@
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -531,7 +531,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## DA
 
@@ -540,7 +540,7 @@
 |**2024-12-24**|**Beyond the Known: Enhancing Open Set Domain Adaptation with Unknown Exploration**|Lucas Fernando Alvarenga e Silva et.al.|[2412.18105](http://arxiv.org/abs/2412.18105)|**[link](https://github.com/LucasFernando-aes/UnkE-OVANet)**|
 |**2024-12-23**|**ICPR 2024 Competition on Domain Adaptation and GEneralization for Character Classification (DAGECC)**|Sofia Marino et.al.|[2412.17984](http://arxiv.org/abs/2412.17984)|null|
 |**2024-12-19**|**Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks**|Abhiroop Bhattacharya et.al.|[2412.17853](http://arxiv.org/abs/2412.17853)|null|
-|**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
+|**2024-12-25**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
 |**2024-12-23**|**Domain adapted machine translation: What does catastrophic forgetting forget and why?**|Danielle Saunders et.al.|[2412.17537](http://arxiv.org/abs/2412.17537)|null|
 |**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
 |**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|**[link](https://github.com/henryyu23/das)**|
@@ -825,7 +825,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## DG
 
@@ -984,7 +984,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## VLM
 
@@ -1695,7 +1695,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Prompt
 
@@ -1873,7 +1873,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1887,7 +1887,7 @@
 |**2024-12-22**|**Aligning Graphical and Functional Causal Abstractions**|Wilem Schooltink et.al.|[2412.17080](http://arxiv.org/abs/2412.17080)|null|
 |**2024-12-22**|**Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference**|Wenhao Shen et.al.|[2412.16939](http://arxiv.org/abs/2412.16939)|null|
 |**2024-12-21**|**From Correlation to Causation: Understanding Climate Change through Causal Analysis and LLM Interpretations**|Shan Shan et.al.|[2412.16691](http://arxiv.org/abs/2412.16691)|null|
-|**2024-12-21**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
+|**2024-12-25**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
 |**2024-12-21**|**A Meta-Learning Approach to Bayesian Causal Discovery**|Anish Dhir et.al.|[2412.16577](http://arxiv.org/abs/2412.16577)|null|
 |**2024-12-19**|**Granger Causality Detection with Kolmogorov-Arnold Networks**|Hongyu Lin et.al.|[2412.15373](http://arxiv.org/abs/2412.15373)|null|
 |**2024-12-19**|**Eliciting Causal Abilities in Large Language Models for Reasoning Tasks**|Yajing Wang et.al.|[2412.15314](http://arxiv.org/abs/2412.15314)|**[link](https://github.com/dsubuntu/scie)**|
@@ -2176,13 +2176,13 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 
 ## Adversarial
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-24**|**On the Local Complexity of Linear Regions in Deep ReLU Networks**|Niket Patel et.al.|[2412.18283](http://arxiv.org/abs/2412.18283)|null|
+|**2024-12-25**|**On the Local Complexity of Linear Regions in Deep ReLU Networks**|Niket Patel et.al.|[2412.18283](http://arxiv.org/abs/2412.18283)|null|
 |**2024-12-24**|**Efficient Contrastive Explanations on Demand**|Yacine Izza et.al.|[2412.18262](http://arxiv.org/abs/2412.18262)|null|
 |**2024-12-24**|**On the Effectiveness of Adversarial Training on Malware Classifiers**|Hamid Bostani et.al.|[2412.18218](http://arxiv.org/abs/2412.18218)|null|
 |**2024-12-24**|**Robustness-aware Automatic Prompt Optimization**|Zeru Shi et.al.|[2412.18196](http://arxiv.org/abs/2412.18196)|**[link](https://github.com/vanpe20/BATprompt)**|
@@ -2400,5 +2400,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20241229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
 

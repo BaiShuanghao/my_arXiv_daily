@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -529,7 +529,7 @@ layout: default
 |**2024-12-24**|**Beyond the Known: Enhancing Open Set Domain Adaptation with Unknown Exploration**|Lucas Fernando Alvarenga e Silva et.al.|[2412.18105](http://arxiv.org/abs/2412.18105)|**[link](https://github.com/LucasFernando-aes/UnkE-OVANet)**|
 |**2024-12-23**|**ICPR 2024 Competition on Domain Adaptation and GEneralization for Character Classification (DAGECC)**|Sofia Marino et.al.|[2412.17984](http://arxiv.org/abs/2412.17984)|null|
 |**2024-12-19**|**Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks**|Abhiroop Bhattacharya et.al.|[2412.17853](http://arxiv.org/abs/2412.17853)|null|
-|**2024-12-23**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
+|**2024-12-25**|**AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation**|Jiaqi Ma et.al.|[2412.17601](http://arxiv.org/abs/2412.17601)|**[link](https://github.com/jarch-ma/AFANet)**|
 |**2024-12-23**|**Domain adapted machine translation: What does catastrophic forgetting forget and why?**|Danielle Saunders et.al.|[2412.17537](http://arxiv.org/abs/2412.17537)|null|
 |**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
 |**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|**[link](https://github.com/henryyu23/das)**|
@@ -1868,7 +1868,7 @@ layout: default
 |**2024-12-22**|**Aligning Graphical and Functional Causal Abstractions**|Wilem Schooltink et.al.|[2412.17080](http://arxiv.org/abs/2412.17080)|null|
 |**2024-12-22**|**Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference**|Wenhao Shen et.al.|[2412.16939](http://arxiv.org/abs/2412.16939)|null|
 |**2024-12-21**|**From Correlation to Causation: Understanding Climate Change through Causal Analysis and LLM Interpretations**|Shan Shan et.al.|[2412.16691](http://arxiv.org/abs/2412.16691)|null|
-|**2024-12-21**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
+|**2024-12-25**|**A Systems Thinking Approach to Algorithmic Fairness**|Chris Lam et.al.|[2412.16641](http://arxiv.org/abs/2412.16641)|null|
 |**2024-12-21**|**A Meta-Learning Approach to Bayesian Causal Discovery**|Anish Dhir et.al.|[2412.16577](http://arxiv.org/abs/2412.16577)|null|
 |**2024-12-19**|**Granger Causality Detection with Kolmogorov-Arnold Networks**|Hongyu Lin et.al.|[2412.15373](http://arxiv.org/abs/2412.15373)|null|
 |**2024-12-19**|**Eliciting Causal Abilities in Large Language Models for Reasoning Tasks**|Yajing Wang et.al.|[2412.15314](http://arxiv.org/abs/2412.15314)|**[link](https://github.com/dsubuntu/scie)**|
@@ -2161,7 +2161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-24**|**On the Local Complexity of Linear Regions in Deep ReLU Networks**|Niket Patel et.al.|[2412.18283](http://arxiv.org/abs/2412.18283)|null|
+|**2024-12-25**|**On the Local Complexity of Linear Regions in Deep ReLU Networks**|Niket Patel et.al.|[2412.18283](http://arxiv.org/abs/2412.18283)|null|
 |**2024-12-24**|**Efficient Contrastive Explanations on Demand**|Yacine Izza et.al.|[2412.18262](http://arxiv.org/abs/2412.18262)|null|
 |**2024-12-24**|**On the Effectiveness of Adversarial Training on Malware Classifiers**|Hamid Bostani et.al.|[2412.18218](http://arxiv.org/abs/2412.18218)|null|
 |**2024-12-24**|**Robustness-aware Automatic Prompt Optimization**|Zeru Shi et.al.|[2412.18196](http://arxiv.org/abs/2412.18196)|**[link](https://github.com/vanpe20/BATprompt)**|
