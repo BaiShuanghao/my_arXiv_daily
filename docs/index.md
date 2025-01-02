@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1005,12 +1005,12 @@ layout: default
 |**2024-12-30**|**ReStory: VLM-augmentation of Social Human-Robot Interaction Datasets**|Fanjun Bu et.al.|[2412.20826](http://arxiv.org/abs/2412.20826)|null|
 |**2024-12-30**|**Are Vision-Language Models Truly Understanding Multi-vision Sensor?**|Sangyun Chung et.al.|[2412.20750](http://arxiv.org/abs/2412.20750)|**[link](https://github.com/top-yun/ms-pr)**|
 |**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
-|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|**[link](https://github.com/BeiiiY/M3oralBench)**|
 |**2024-12-30**|**ChartAdapter: Large Vision-Language Model for Chart Summarization**|Peixin Xu et.al.|[2412.20715](http://arxiv.org/abs/2412.20715)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**EVOLVE: Emotion and Visual Output Learning via LLM Evaluation**|Jordan Sinclair et.al.|[2412.20632](http://arxiv.org/abs/2412.20632)|null|
 |**2024-12-30**|**Slow Perception: Let's Perceive Geometric Figures Step-by-step**|Haoran Wei et.al.|[2412.20631](http://arxiv.org/abs/2412.20631)|null|
-|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622](http://arxiv.org/abs/2412.20622)|null|
+|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622](http://arxiv.org/abs/2412.20622)|**[link](https://github.com/AikyamLab/hallucinogen)**|
 |**2024-12-28**|**Cross-Modal Mapping: Eliminating the Modality Gap for Few-Shot Image Classification**|Xi Yang et.al.|[2412.20110](http://arxiv.org/abs/2412.20110)|null|
 |**2024-12-28**|**An archaeological Catalog Collection Method Based on Large Vision-Language Models**|Honglin Pang et.al.|[2412.20088](http://arxiv.org/abs/2412.20088)|null|
 |**2024-12-28**|**AI-based Wearable Vision Assistance System for the Visually Impaired: Integrating Real-Time Object Recognition and Contextual Understanding Using Large Vision-Language Models**|Mirza Samad Ahmed Baig et.al.|[2412.20059](http://arxiv.org/abs/2412.20059)|null|

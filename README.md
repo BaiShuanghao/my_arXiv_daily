@@ -1,4 +1,4 @@
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -544,7 +544,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## DA
 
@@ -847,7 +847,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## DG
 
@@ -1006,7 +1006,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## VLM
 
@@ -1020,12 +1020,12 @@
 |**2024-12-30**|**ReStory: VLM-augmentation of Social Human-Robot Interaction Datasets**|Fanjun Bu et.al.|[2412.20826](http://arxiv.org/abs/2412.20826)|null|
 |**2024-12-30**|**Are Vision-Language Models Truly Understanding Multi-vision Sensor?**|Sangyun Chung et.al.|[2412.20750](http://arxiv.org/abs/2412.20750)|**[link](https://github.com/top-yun/ms-pr)**|
 |**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
-|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|**[link](https://github.com/BeiiiY/M3oralBench)**|
 |**2024-12-30**|**ChartAdapter: Large Vision-Language Model for Chart Summarization**|Peixin Xu et.al.|[2412.20715](http://arxiv.org/abs/2412.20715)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**EVOLVE: Emotion and Visual Output Learning via LLM Evaluation**|Jordan Sinclair et.al.|[2412.20632](http://arxiv.org/abs/2412.20632)|null|
 |**2024-12-30**|**Slow Perception: Let's Perceive Geometric Figures Step-by-step**|Haoran Wei et.al.|[2412.20631](http://arxiv.org/abs/2412.20631)|null|
-|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622](http://arxiv.org/abs/2412.20622)|null|
+|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622](http://arxiv.org/abs/2412.20622)|**[link](https://github.com/AikyamLab/hallucinogen)**|
 |**2024-12-28**|**Cross-Modal Mapping: Eliminating the Modality Gap for Few-Shot Image Classification**|Xi Yang et.al.|[2412.20110](http://arxiv.org/abs/2412.20110)|null|
 |**2024-12-28**|**An archaeological Catalog Collection Method Based on Large Vision-Language Models**|Honglin Pang et.al.|[2412.20088](http://arxiv.org/abs/2412.20088)|null|
 |**2024-12-28**|**AI-based Wearable Vision Assistance System for the Visually Impaired: Integrating Real-Time Object Recognition and Contextual Understanding Using Large Vision-Language Models**|Mirza Samad Ahmed Baig et.al.|[2412.20059](http://arxiv.org/abs/2412.20059)|null|
@@ -1748,7 +1748,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Prompt
 
@@ -1931,7 +1931,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -2238,7 +2238,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2475,5 +2475,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
