@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -856,7 +856,7 @@ layout: default
 |**2024-12-15**|**Learning Latent Spaces for Domain Generalization in Time Series Forecasting**|Songgaojun Deng et.al.|[2412.11171](http://arxiv.org/abs/2412.11171)|null|
 |**2024-12-13**|**Guidance Not Obstruction: A Conjugate Consistent Enhanced Strategy for Domain Generalization**|Meng Cao et.al.|[2412.10089](http://arxiv.org/abs/2412.10089)|null|
 |**2024-12-12**|**Towards Robust and Fair Vision Learning in Open-World Environments**|Thanh-Dat Truong et.al.|[2412.09439](http://arxiv.org/abs/2412.09439)|null|
-|**2024-12-12**|**DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization**|Jin-Seop Lee et.al.|[2412.09074](http://arxiv.org/abs/2412.09074)|null|
+|**2024-12-12**|**DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization**|Jin-Seop Lee et.al.|[2412.09074](http://arxiv.org/abs/2412.09074)|**[link](https://github.com/jinsuby/domclp)**|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
 |**2024-12-11**|**CAT: Class Aware Adaptive Thresholding for Semi-Supervised Domain Generalization**|Sumaiya Zoha et.al.|[2412.08479](http://arxiv.org/abs/2412.08479)|null|
 |**2024-12-11**|**Learning to Reason via Self-Iterative Process Feedback for Small Language Models**|Kaiyuan Chen et.al.|[2412.08393](http://arxiv.org/abs/2412.08393)|null|
