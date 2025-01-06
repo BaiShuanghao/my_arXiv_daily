@@ -431,7 +431,7 @@ layout: default
 |**2024-10-03**|**CAnDOIT: Causal Discovery with Observational and Interventional Data from Time-Series**|Luca Castri et.al.|[2410.02844](http://arxiv.org/abs/2410.02844)|**[link](https://github.com/lcastri/causalflow)**|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|**[link](https://github.com/zhaowei-wang-nlp/divscene)**|
-|**2024-10-03**|**Local Flow Matching Generative Models**|Chen Xu et.al.|[2410.02548](http://arxiv.org/abs/2410.02548)|null|
+|**2024-10-03**|**Local Flow Matching Generative Models**|Chen Xu et.al.|[2410.02548](http://arxiv.org/abs/2410.02548)|**[link](https://github.com/hamrel-cxu/localflowmatching)**|
 |**2024-10-03**|**Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping**|Ziye Huang et.al.|[2410.02475](http://arxiv.org/abs/2410.02475)|null|
 |**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
 |**2024-10-03**|**QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity**|Johann Huber et.al.|[2410.02319](http://arxiv.org/abs/2410.02319)|null|
@@ -964,7 +964,7 @@ layout: default
 |**2024-10-05**|**A Simple yet Effective Training-free Prompt-free Approach to Chinese Spelling Correction Based on Large Language Models**|Houquan Zhou et.al.|[2410.04027](http://arxiv.org/abs/2410.04027)|**[link](https://github.com/Jacob-Zhou/simple-csc)**|
 |**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|null|
 |**2024-10-03**|**Parameter Competition Balancing for Model Merging**|Guodong Du et.al.|[2410.02396](http://arxiv.org/abs/2410.02396)|**[link](https://github.com/duguodong7/pcb-merging)**|
-|**2024-10-02**|**Frequency-Based Federated Domain Generalization for Polyp Segmentation**|Hongyi Pan et.al.|[2410.02044](http://arxiv.org/abs/2410.02044)|null|
+|**2024-10-02**|**Frequency-Based Federated Domain Generalization for Polyp Segmentation**|Hongyi Pan et.al.|[2410.02044](http://arxiv.org/abs/2410.02044)|**[link](https://github.com/nubagcilab/icassp2025-fdgpolyp)**|
 |**2024-09-29**|**Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization**|Nikos Efthymiadis et.al.|[2409.19774](http://arxiv.org/abs/2409.19774)|**[link](https://github.com/nikosefth/crafting-shifts)**|
 |**2024-10-01**|**Identifying Knowledge Editing Types in Large Language Models**|Xiaopeng Li et.al.|[2409.19663](http://arxiv.org/abs/2409.19663)|**[link](https://github.com/xpq-tech/keti)**|
 |**2024-09-27**|**Exploring Language Model Generalization in Low-Resource Extractive QA**|Saptarshi Sengupta et.al.|[2409.18446](http://arxiv.org/abs/2409.18446)|**[link](https://github.com/saptarshi059/generalization-hypothesis)**|
@@ -1013,7 +1013,7 @@ layout: default
 |**2025-01-02**|**CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering**|Ben Vardi et.al.|[2501.01371](http://arxiv.org/abs/2501.01371)|null|
 |**2025-01-02**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al.|[2501.01346](http://arxiv.org/abs/2501.01346)|null|
 |**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
-|**2025-01-01**|**2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining**|Wenqi Zhang et.al.|[2501.00958](http://arxiv.org/abs/2501.00958)|null|
+|**2025-01-01**|**2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining**|Wenqi Zhang et.al.|[2501.00958](http://arxiv.org/abs/2501.00958)|**[link](https://github.com/damo-nlp-sg/multimodal_textbook)**|
 |**2025-01-01**|**Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models**|Emily Johnson et.al.|[2501.00917](http://arxiv.org/abs/2501.00917)|null|
 |**2025-01-01**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
 |**2025-01-01**|**IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models**|Yiming Zhang et.al.|[2501.00848](http://arxiv.org/abs/2501.00848)|null|
@@ -1045,14 +1045,14 @@ layout: default
 |**2024-12-27**|**OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**|Qiushi Sun et.al.|[2412.19723](http://arxiv.org/abs/2412.19723)|null|
 |**2024-12-27**|**Is Your Text-to-Image Model Robust to Caption Noise?**|Weichen Yu et.al.|[2412.19531](http://arxiv.org/abs/2412.19531)|null|
 |**2024-12-27**|**MBQ: Modality-Balanced Quantization for Large Vision-Language Models**|Shiyao Li et.al.|[2412.19509](http://arxiv.org/abs/2412.19509)|**[link](https://github.com/thu-nics/mbq)**|
-|**2024-12-27**|**Multi-P $^2$ A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models**|Jie Zhang et.al.|[2412.19496](http://arxiv.org/abs/2412.19496)|null|
-|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|null|
+|**2024-12-27**|**Multi-P $^2$ A: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models**|Jie Zhang et.al.|[2412.19496](http://arxiv.org/abs/2412.19496)|**[link](https://github.com/Xiangkui-Cao/Multi-P2A)**|
+|**2024-12-27**|**Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation**|Chengyang Ye et.al.|[2412.19492](http://arxiv.org/abs/2412.19492)|**[link](https://github.com/yecy749/gsnet)**|
 |**2024-12-26**|**CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models**|Kiet A. Nguyen et.al.|[2412.19331](http://arxiv.org/abs/2412.19331)|null|
 |**2024-12-26**|**Sketch-MoMa: Teleoperation for Mobile Manipulator via Interpretation of Hand-Drawn Sketches**|Kosei Tanada et.al.|[2412.19153](http://arxiv.org/abs/2412.19153)|null|
 |**2024-12-26**|**MoPD: Mixture-of-Prompts Distillation for Vision-Language Models**|Yang Chen et.al.|[2412.19087](http://arxiv.org/abs/2412.19087)|null|
 |**2024-12-26**|**Relation-aware Hierarchical Prompt for Open-vocabulary Scene Graph Generation**|Tao Liu et.al.|[2412.19021](http://arxiv.org/abs/2412.19021)|null|
 |**2024-12-25**|**Context-Based Semantic-Aware Alignment for Semi-Supervised Multi-Label Learning**|Heng-Bo Fan et.al.|[2412.18842](http://arxiv.org/abs/2412.18842)|null|
-|**2024-12-24**|**TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models**|Pooyan Rahmanzadehgrevi et.al.|[2412.18675](http://arxiv.org/abs/2412.18675)|null|
+|**2024-12-24**|**TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models**|Pooyan Rahmanzadehgrevi et.al.|[2412.18675](http://arxiv.org/abs/2412.18675)|**[link](https://github.com/anguyen8/TAB)**|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
 |**2024-12-25**|**Explanatory Instructions: Towards Unified Vision Tasks Understanding and Zero-shot Generalization**|Yang Shen et.al.|[2412.18525](http://arxiv.org/abs/2412.18525)|**[link](https://github.com/SEU-VIPGroup/Understanding_Vision_Tasks)**|
 |**2024-12-27**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424](http://arxiv.org/abs/2412.18424)|**[link](https://github.com/dengc2023/longdocurl)**|
@@ -1060,12 +1060,12 @@ layout: default
 |**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303](http://arxiv.org/abs/2412.18303)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|**[link](https://github.com/frankzxshen/mcoconav)**|
-|**2024-12-25**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
+|**2024-12-25**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|**[link](https://github.com/DYEvaLab/EvalMuse)**|
 |**2024-12-24**|**MMFactory: A Universal Solution Search Engine for Vision-Language Tasks**|Wan-Cyuan Fan et.al.|[2412.18072](http://arxiv.org/abs/2412.18072)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787](http://arxiv.org/abs/2412.17787)|null|
-|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
 |**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619](http://arxiv.org/abs/2412.17619)|**[link](https://github.com/cvl-hub/kag-prompt)**|
 |**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
@@ -1586,7 +1586,7 @@ layout: default
 |**2024-10-11**|**Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies**|Yingqiang Gao et.al.|[2410.08860](http://arxiv.org/abs/2410.08860)|null|
 |**2024-10-11**|**VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model**|Beichen Wang et.al.|[2410.08792](http://arxiv.org/abs/2410.08792)|null|
 |**2024-10-11**|**Superpipeline: A Universal Approach for Reducing GPU Memory Usage in Large Models**|Reza Abbasi et.al.|[2410.08791](http://arxiv.org/abs/2410.08791)|**[link](https://github.com/abbasireza/super-pipeline)**|
-|**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|null|
+|**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|**[link](https://github.com/yangyue5114/DME)**|
 |**2024-10-11**|**Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models**|Mengyuan Chen et.al.|[2410.08611](http://arxiv.org/abs/2410.08611)|**[link](https://github.com/mengyuanchen21/neurips2024-csp)**|
 |**2024-10-11**|**ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression**|Yefei He et.al.|[2410.08584](http://arxiv.org/abs/2410.08584)|null|
 |**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
@@ -1818,7 +1818,7 @@ layout: default
 |**2024-11-25**|**Fundamental Limits of Prompt Tuning Transformers: Universality, Capacity and Efficiency**|Jerry Yao-Chieh Hu et.al.|[2411.16525](http://arxiv.org/abs/2411.16525)|null|
 |**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
 |**2024-11-25**|**Style-Pro: Style-Guided Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2411.16018](http://arxiv.org/abs/2411.16018)|null|
-|**2024-11-29**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
+|**2024-11-29**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|**[link](https://github.com/chingheng0808/PromptHSI)**|
 |**2024-11-22**|**Adversarial Prompt Distillation for Vision-Language Models**|Lin Luo et.al.|[2411.15244](http://arxiv.org/abs/2411.15244)|null|
 |**2024-11-21**|**BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models**|Taha Koleilat et.al.|[2411.15232](http://arxiv.org/abs/2411.15232)|null|
 |**2024-11-22**|**GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning**|Jiani Zhu et.al.|[2411.14718](http://arxiv.org/abs/2411.14718)|null|
@@ -2205,7 +2205,7 @@ layout: default
 |**2024-10-02**|**See Me and Believe Me: Causality and Intersectionality in Testimonial Injustice in Healthcare**|Kenya S. Andrews et.al.|[2410.01227](http://arxiv.org/abs/2410.01227)|null|
 |**2024-10-02**|**Induced Covariance for Causal Discovery in Linear Sparse Structures**|Saeed Mohseni-Sehdeh et.al.|[2410.01221](http://arxiv.org/abs/2410.01221)|null|
 |**2024-10-01**|**An Introduction to Deep Survival Analysis Models for Predicting Time-to-Event Outcomes**|George H. Chen et.al.|[2410.01086](http://arxiv.org/abs/2410.01086)|**[link](https://github.com/georgehc/survival-intro)**|
-|**2024-10-01**|**A Data-driven Discovery of the Causal Connection between Galaxy and Black Hole Evolution**|Zehao Jin et.al.|[2410.00965](http://arxiv.org/abs/2410.00965)|null|
+|**2024-10-01**|**A Data-driven Discovery of the Causal Connection between Galaxy and Black Hole Evolution**|Zehao Jin et.al.|[2410.00965](http://arxiv.org/abs/2410.00965)|**[link](https://github.com/ZehaoJin/causalbh)**|
 |**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903](http://arxiv.org/abs/2410.00903)|null|
 |**2024-10-01**|**The generalized Nelson--Aalen estimator by inverse probability of treatment weighting**|Yuhao Deng et.al.|[2410.00338](http://arxiv.org/abs/2410.00338)|null|
 |**2024-09-30**|**Does Positive Reinforcement Work?: A Quasi-Experimental Study of the Effects of Positive Feedback on Reddit**|Charlotte Lambert et.al.|[2409.20410](http://arxiv.org/abs/2409.20410)|null|
