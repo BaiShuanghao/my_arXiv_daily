@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1952,7 +1952,7 @@ layout: default
 |**2025-01-01**|**An AI-powered Bayesian generative modeling approach for causal inference in observational studies**|Qiao Liu et.al.|[2501.00755](http://arxiv.org/abs/2501.00755)|null|
 |**2024-12-31**|**Controlled Causal Hallucinations Can Estimate Phantom Nodes in Multiexpert Mixtures of Fuzzy Cognitive Maps**|Akash Kumar Panda et.al.|[2501.00673](http://arxiv.org/abs/2501.00673)|null|
 |**2024-12-31**|**Adventures in Demand Analysis Using AI**|Philipp Bach et.al.|[2501.00382](http://arxiv.org/abs/2501.00382)|null|
-|**2024-12-31**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840](http://arxiv.org/abs/2412.20840)|null|
+|**2025-01-03**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840](http://arxiv.org/abs/2412.20840)|null|
 |**2024-12-28**|**Causal Discovery on Dependent Binary Data**|Alex Chen et.al.|[2412.20289](http://arxiv.org/abs/2412.20289)|null|
 |**2024-12-28**|**An Undergraduate Course on the Statistical Principles of Research Study Design**|Lee Kennedy-Shaffer et.al.|[2412.20175](http://arxiv.org/abs/2412.20175)|null|
 |**2024-12-27**|**Graph-attention-based Casual Discovery with Trust Region-navigated Clipping Policy Optimization**|Shixuan Liu et.al.|[2412.19578](http://arxiv.org/abs/2412.19578)|null|
