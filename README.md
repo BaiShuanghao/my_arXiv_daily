@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
+|**2025-01-03**|**Grasping in Uncertain Environments: A Case Study For Industrial Robotic Recycling**|Annalena Daniels et.al.|[2501.01799](http://arxiv.org/abs/2501.01799)|null|
+|**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
+|**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
+|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/nyudv2-is)**|
+|**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
 |**2025-01-02**|**Co-Design of a Robot Controller Board and Indoor Positioning System for IoT-Enabled Applications**|Ali Safa et.al.|[2501.01115](http://arxiv.org/abs/2501.01115)|null|
 |**2024-12-31**|**VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception**|Zhaoliang Wan et.al.|[2501.00510](http://arxiv.org/abs/2501.00510)|null|
 |**2024-12-31**|**Real-Time Sampling-Based Safe Motion Planning for Robotic Manipulators in Dynamic Environments**|Nermin Covic et.al.|[2501.00507](http://arxiv.org/abs/2501.00507)|**[link](https://github.com/robotics-ETF/xarm6-etf-lab)**|
@@ -1023,14 +1029,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
+|**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
+|**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
+|**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
+|**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
 |**2025-01-02**|**CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering**|Ben Vardi et.al.|[2501.01371](http://arxiv.org/abs/2501.01371)|null|
 |**2025-01-02**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al.|[2501.01346](http://arxiv.org/abs/2501.01346)|null|
 |**2025-01-02**|**CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries**|Shudong Liu et.al.|[2501.01282](http://arxiv.org/abs/2501.01282)|null|
-|**2025-01-01**|**2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining**|Wenqi Zhang et.al.|[2501.00958](http://arxiv.org/abs/2501.00958)|**[link](https://github.com/damo-nlp-sg/multimodal_textbook)**|
+|**2025-01-03**|**2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining**|Wenqi Zhang et.al.|[2501.00958](http://arxiv.org/abs/2501.00958)|**[link](https://github.com/damo-nlp-sg/multimodal_textbook)**|
 |**2025-01-01**|**Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models**|Emily Johnson et.al.|[2501.00917](http://arxiv.org/abs/2501.00917)|null|
-|**2025-01-01**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
+|**2025-01-03**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
 |**2025-01-01**|**IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models**|Yiming Zhang et.al.|[2501.00848](http://arxiv.org/abs/2501.00848)|null|
 |**2024-12-31**|**ICONS: Influence Consensus for Vision-Language Data Selection**|Xindi Wu et.al.|[2501.00654](http://arxiv.org/abs/2501.00654)|null|
 |**2024-12-31**|**Probing Visual Language Priors in VLMs**|Tiange Luo et.al.|[2501.00569](http://arxiv.org/abs/2501.00569)|null|
@@ -1965,6 +1975,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study**|Ege Demirci et.al.|[2501.01779](http://arxiv.org/abs/2501.01779)|null|
 |**2025-01-02**|**The R Package WMAP: Tools for Causal Meta-Analysis by Integrating Multiple Observational Studies**|Subharup Guha et.al.|[2501.01041](http://arxiv.org/abs/2501.01041)|null|
 |**2025-01-01**|**A Graphical Approach to State Variable Selection in Off-policy Learning**|Joakim Blach Andersen et.al.|[2501.00854](http://arxiv.org/abs/2501.00854)|null|
 |**2025-01-01**|**Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations**|Yuxuan Zhang et.al.|[2501.00778](http://arxiv.org/abs/2501.00778)|null|
@@ -2279,6 +2290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Rerouting LLM Routers**|Avital Shafran et.al.|[2501.01818](http://arxiv.org/abs/2501.01818)|null|
+|**2025-01-03**|**Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification**|Amirmohammad Bamdad et.al.|[2501.01620](http://arxiv.org/abs/2501.01620)|null|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
 |**2025-01-02**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025](http://arxiv.org/abs/2501.01025)|null|
 |**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842](http://arxiv.org/abs/2501.00842)|null|
