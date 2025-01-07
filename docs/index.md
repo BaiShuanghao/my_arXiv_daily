@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Steering Flexible Linear Objects in Planar Environments by Two Robot Hands Using Euler's Elastica Solutions**|Aharon Levin et.al.|[2501.02874](http://arxiv.org/abs/2501.02874)|null|
+|**2025-01-04**|**Design and Benchmarking of A Multi-Modality Sensor for Robotic Manipulation with GAN-Based Cross-Modality Interpretation**|Dandan Zhang et.al.|[2501.02303](http://arxiv.org/abs/2501.02303)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
+|**2025-01-04**|**Attribute-Based Robotic Grasping with Data-Efficient Adaptation**|Yang Yang et.al.|[2501.02149](http://arxiv.org/abs/2501.02149)|null|
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
 |**2025-01-03**|**Grasping in Uncertain Environments: A Case Study For Industrial Robotic Recycling**|Annalena Daniels et.al.|[2501.01799](http://arxiv.org/abs/2501.01799)|null|
 |**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
@@ -16,7 +20,7 @@ layout: default
 |**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/nyudv2-is)**|
 |**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
 |**2025-01-02**|**Co-Design of a Robot Controller Board and Indoor Positioning System for IoT-Enabled Applications**|Ali Safa et.al.|[2501.01115](http://arxiv.org/abs/2501.01115)|null|
-|**2024-12-31**|**VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception**|Zhaoliang Wan et.al.|[2501.00510](http://arxiv.org/abs/2501.00510)|null|
+|**2025-01-06**|**VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception**|Zhaoliang Wan et.al.|[2501.00510](http://arxiv.org/abs/2501.00510)|null|
 |**2024-12-31**|**Real-Time Sampling-Based Safe Motion Planning for Robotic Manipulators in Dynamic Environments**|Nermin Covic et.al.|[2501.00507](http://arxiv.org/abs/2501.00507)|**[link](https://github.com/robotics-ETF/xarm6-etf-lab)**|
 |**2024-12-31**|**Design Optimizer for Soft Growing Robot Manipulators in Three-Dimensional Environments**|Ahmet Astar et.al.|[2501.00368](http://arxiv.org/abs/2501.00368)|null|
 |**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
@@ -550,6 +554,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**AIF-SFDA: Autonomous Information Filter-driven Source-Free Domain Adaptation for Medical Image Segmentation**|Haojin Li et.al.|[2501.03074](http://arxiv.org/abs/2501.03074)|**[link](https://github.com/jinghuaman/aif-sfda)**|
+|**2025-01-06**|**Unsupervised Domain Adaptation for Occlusion Resilient Human Pose Estimation**|Arindam Dutta et.al.|[2501.02773](http://arxiv.org/abs/2501.02773)|null|
+|**2025-01-05**|**AMM: Adaptive Modularized Reinforcement Model for Multi-city Traffic Signal Control**|Zherui Huang et.al.|[2501.02548](http://arxiv.org/abs/2501.02548)|null|
+|**2025-01-04**|**Unsupervised Class Generation to Expand Semantic Segmentation Datasets**|Javier Montalvo et.al.|[2501.02264](http://arxiv.org/abs/2501.02264)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
 |**2025-01-02**|**Adaptive Hardness-driven Augmentation and Alignment Strategies for Multi-Source Domain Adaptations**|Yang Yuxiang et.al.|[2501.01142](http://arxiv.org/abs/2501.01142)|null|
 |**2025-01-02**|**Source-free Semantic Regularization Learning for Semi-supervised Domain Adaptation**|Xinyang Huang et.al.|[2501.01126](http://arxiv.org/abs/2501.01126)|null|
@@ -855,6 +863,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Multimodal Machine Learning Can Predict Videoconference Fluidity and Enjoyment**|Andrew Chang et.al.|[2501.03190](http://arxiv.org/abs/2501.03190)|null|
+|**2025-01-02**|**Information Subtraction: Learning Representations for Conditional Entropy**|Keng Hou Leong et.al.|[2501.02012](http://arxiv.org/abs/2501.02012)|null|
 |**2025-01-02**|**BatStyler: Advancing Multi-category Style Generation for Source-free Domain Generalization**|Xiusheng Xu et.al.|[2501.01109](http://arxiv.org/abs/2501.01109)|**[link](https://github.com/Xuxiusheng/BatStyler)**|
 |**2024-12-30**|**Text-to-Image GAN with Pretrained Representations**|Xiaozhou You et.al.|[2501.00116](http://arxiv.org/abs/2501.00116)|null|
 |**2024-12-24**|**Mitigating Label Noise using Prompt-Based Hyperbolic Meta-Learning in Open-Set Domain Generalization**|Kunyu Peng et.al.|[2412.18342](http://arxiv.org/abs/2412.18342)|**[link](https://github.com/kpeng9510/hyprometa)**|
@@ -1014,6 +1024,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955](http://arxiv.org/abs/2501.02955)|null|
+|**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922](http://arxiv.org/abs/2501.02922)|null|
+|**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
+|**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
+|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|null|
+|**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
+|**2025-01-04**|**Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations**|Kangyu Zhu et.al.|[2501.02385](http://arxiv.org/abs/2501.02385)|null|
+|**2025-01-04**|**Examining the Robustness of Homogeneity Bias to Hyperparameter Adjustments in GPT-4**|Messi H. J. Lee et.al.|[2501.02211](http://arxiv.org/abs/2501.02211)|null|
+|**2025-01-04**|**Learning Evolution via Optimization Knowledge Adaptation**|Chao Wang et.al.|[2501.02200](http://arxiv.org/abs/2501.02200)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
+|**2025-01-03**|**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**|Ziwei Zheng et.al.|[2501.02029](http://arxiv.org/abs/2501.02029)|null|
 |**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
@@ -1772,6 +1795,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Improving GenIR Systems Based on User Feedback**|Qingyao Ai et.al.|[2501.02838](http://arxiv.org/abs/2501.02838)|null|
+|**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
+|**2025-01-04**|**CPTuning: Contrastive Prompt Tuning for Generative Relation Extraction**|Jiaxin Duan et.al.|[2501.02196](http://arxiv.org/abs/2501.02196)|null|
 |**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120](http://arxiv.org/abs/2501.01120)|**[link](https://github.com/jian-lang/ragpt)**|
 |**2025-01-01**|**Knowledge-Guided Prompt Learning for Deepfake Facial Image Detection**|Hao Wang et.al.|[2501.00700](http://arxiv.org/abs/2501.00700)|null|
 |**2024-12-31**|**Differentiable Prompt Learning for Vision Language Models**|Zhenhan Huang et.al.|[2501.00457](http://arxiv.org/abs/2501.00457)|null|
@@ -1956,6 +1982,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Coarsened confounding for causal effects: a large-sample framework**|Debashis Ghosh et.al.|[2501.03129](http://arxiv.org/abs/2501.03129)|null|
+|**2025-01-06**|**On statistical and causal models associated with acyclic directed mixed graphs**|Qingyuan Zhao et.al.|[2501.03048](http://arxiv.org/abs/2501.03048)|null|
+|**2025-01-06**|**A Point Process Model for Optimizing Repeated Personalized Action Delivery to Users**|Alexander Merkov et.al.|[2501.02961](http://arxiv.org/abs/2501.02961)|null|
+|**2025-01-05**|**Re-examining Granger Causality from Causal Bayesian Networks Perspective**|S. A. Adedayo et.al.|[2501.02672](http://arxiv.org/abs/2501.02672)|null|
+|**2025-01-05**|**Randomization Tests for Monotone Spillover Effects**|Shunzhuang Huang et.al.|[2501.02454](http://arxiv.org/abs/2501.02454)|null|
+|**2025-01-04**|**On The Causal Network Of Face-selective Regions In Human Brain During Movie Watching**|Ali Bavafa et.al.|[2501.02333](http://arxiv.org/abs/2501.02333)|null|
+|**2025-01-04**|**Efficient estimation of average treatment effects with unmeasured confounding and proxies**|Chunrong Ai et.al.|[2501.02214](http://arxiv.org/abs/2501.02214)|null|
 |**2025-01-03**|**From Occasional to Steady: Habit Formation Insights From a Comprehensive Fitness Study**|Ege Demirci et.al.|[2501.01779](http://arxiv.org/abs/2501.01779)|null|
 |**2025-01-03**|**The R Package WMAP: Tools for Causal Meta-Analysis by Integrating Multiple Observational Studies**|Subharup Guha et.al.|[2501.01041](http://arxiv.org/abs/2501.01041)|null|
 |**2025-01-01**|**A Graphical Approach to State Variable Selection in Off-policy Learning**|Joakim Blach Andersen et.al.|[2501.00854](http://arxiv.org/abs/2501.00854)|null|
@@ -2269,6 +2302,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
+|**2025-01-06**|**MBTSAD: Mitigating Backdoors in Language Models Based on Token Splitting and Attention Distillation**|Yidong Ding et.al.|[2501.02754](http://arxiv.org/abs/2501.02754)|null|
+|**2025-01-05**|**Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks**|Yang Wang et.al.|[2501.02654](http://arxiv.org/abs/2501.02654)|**[link](https://github.com/puredefence/advbench4text)**|
+|**2025-01-03**|**Towards Robust and Accurate Stability Estimation of Local Surrogate Models in Text-based Explainable AI**|Christopher Burger et.al.|[2501.02042](http://arxiv.org/abs/2501.02042)|null|
 |**2025-01-03**|**Rerouting LLM Routers**|Avital Shafran et.al.|[2501.01818](http://arxiv.org/abs/2501.01818)|null|
 |**2025-01-03**|**Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation Classification**|Amirmohammad Bamdad et.al.|[2501.01620](http://arxiv.org/abs/2501.01620)|null|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|**[link](https://github.com/seongho608/ringformer)**|
