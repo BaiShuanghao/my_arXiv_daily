@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -17,7 +17,7 @@ layout: default
 |**2025-01-03**|**Grasping in Uncertain Environments: A Case Study For Industrial Robotic Recycling**|Annalena Daniels et.al.|[2501.01799](http://arxiv.org/abs/2501.01799)|null|
 |**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
 |**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
-|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/nyudv2-is)**|
+|**2025-01-03**|**IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**|Aecheon Jung et.al.|[2501.01685](http://arxiv.org/abs/2501.01685)|**[link](https://github.com/aim-skku/box-is)**|
 |**2025-01-02**|**In Search of a Lost Metric: Human Empowerment as a Pillar of Socially Conscious Navigation**|Vasanth Reddy Baddam et.al.|[2501.01539](http://arxiv.org/abs/2501.01539)|null|
 |**2025-01-02**|**Co-Design of a Robot Controller Board and Indoor Positioning System for IoT-Enabled Applications**|Ali Safa et.al.|[2501.01115](http://arxiv.org/abs/2501.01115)|null|
 |**2025-01-06**|**VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception**|Zhaoliang Wan et.al.|[2501.00510](http://arxiv.org/abs/2501.00510)|null|
@@ -566,7 +566,7 @@ layout: default
 |**2024-12-29**|**Exploiting Aggregation and Segregation of Representations for Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2412.20538](http://arxiv.org/abs/2412.20538)|**[link](https://github.com/davidpengucf/epic)**|
 |**2024-12-29**|**Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation**|Xiaona Sun et.al.|[2412.20337](http://arxiv.org/abs/2412.20337)|**[link](https://github.com/ysxcj-hub/cca-lsc)**|
 |**2024-12-28**|**Maintain Plasticity in Long-timescale Continual Test-time Adaptation**|Yanshuo Wang et.al.|[2412.20034](http://arxiv.org/abs/2412.20034)|null|
-|**2024-12-27**|**An In-Depth Analysis of Adversarial Discriminative Domain Adaptation for Digit Classification**|Eugene Choi et.al.|[2412.19391](http://arxiv.org/abs/2412.19391)|**[link](https://github.com/eugenechoi2004/cos429_final)**|
+|**2025-01-07**|**An In-Depth Analysis of Adversarial Discriminative Domain Adaptation for Digit Classification**|Eugene Choi et.al.|[2412.19391](http://arxiv.org/abs/2412.19391)|**[link](https://github.com/eugenechoi2004/cos429_final)**|
 |**2024-12-26**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for Unseen Entities**|Jiawei Yu et.al.|[2412.19102](http://arxiv.org/abs/2412.19102)|null|
 |**2024-12-26**|**DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion**|Yinghui Li et.al.|[2412.19062](http://arxiv.org/abs/2412.19062)|**[link](https://github.com/yinghui-li-new/dapointr)**|
 |**2024-12-25**|**HAND: Hierarchical Attention Network for Multi-Scale Handwritten Document Recognition and Layout Analysis**|Mohammed Hamdan et.al.|[2412.18981](http://arxiv.org/abs/2412.18981)|null|
