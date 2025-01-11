@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.10
+## Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1073,7 +1073,7 @@ layout: default
 |**2025-01-08**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**|Senwei Xie et.al.|[2501.04268](http://arxiv.org/abs/2501.04268)|null|
 |**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155](http://arxiv.org/abs/2501.04155)|**[link](https://github.com/sjoshi804/mm-gen)**|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
 |**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
