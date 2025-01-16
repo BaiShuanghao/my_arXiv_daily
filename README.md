@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**The first calibration model for bluetooth angle of arrival: Enhancing positioning accuracy in indoor environments**|Ma'mon Saeed Alghananim et.al.|[2501.08805](http://arxiv.org/abs/2501.08805)|null|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
+|**2025-01-15**|**LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation**|Yiran Tao et.al.|[2501.08558](http://arxiv.org/abs/2501.08558)|null|
+|**2025-01-14**|**Toward Zero-Shot User Intent Recognition in Shared Autonomy**|Atharv Belsare et.al.|[2501.08389](http://arxiv.org/abs/2501.08389)|null|
 |**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077](http://arxiv.org/abs/2501.08077)|null|
 |**2025-01-13**|**Guided SAM: Label-Efficient Part Segmentation**|S. B. van Rooij et.al.|[2501.07434](http://arxiv.org/abs/2501.07434)|null|
 |**2025-01-14**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
@@ -25,7 +29,7 @@
 |**2025-01-12**|**Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing**|Muhamamd Haris Khan et.al.|[2501.06919](http://arxiv.org/abs/2501.06919)|null|
 |**2025-01-12**|**From Simulation to Field: Learning Terrain Traversability for Real-World Deployment**|Fetullah Atas et.al.|[2501.06904](http://arxiv.org/abs/2501.06904)|null|
 |**2025-01-14**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
-|**2025-01-11**|**RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation**|Zixuan Chen et.al.|[2501.06605](http://arxiv.org/abs/2501.06605)|null|
+|**2025-01-15**|**RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation**|Zixuan Chen et.al.|[2501.06605](http://arxiv.org/abs/2501.06605)|null|
 |**2025-01-10**|**Learning Affordances from Interactive Exploration using an Object-level Map**|Paula Wulkop et.al.|[2501.06047](http://arxiv.org/abs/2501.06047)|null|
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2025-01-07**|**Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models**|Malak Mansour et.al.|[2501.05478](http://arxiv.org/abs/2501.05478)|null|
@@ -590,8 +594,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**PACF: Prototype Augmented Compact Features for Improving Domain Adaptive Object Detection**|Chenguang Liu et.al.|[2501.08605](http://arxiv.org/abs/2501.08605)|null|
+|**2025-01-14**|**Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**|Hansoo Park et.al.|[2501.08408](http://arxiv.org/abs/2501.08408)|null|
+|**2025-01-14**|**Weight Averaging for Out-of-Distribution Generalization and Few-Shot Domain Adaptation**|Shijian Xu et.al.|[2501.08361](http://arxiv.org/abs/2501.08361)|null|
 |**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[2501.08168](http://arxiv.org/abs/2501.08168)|null|
-|**2025-01-14**|**RoHan: Robust Hand Detection in Operation Room**|Roi Papo et.al.|[2501.08115](http://arxiv.org/abs/2501.08115)|null|
+|**2025-01-15**|**RoHan: Robust Hand Detection in Operation Room**|Roi Papo et.al.|[2501.08115](http://arxiv.org/abs/2501.08115)|**[link](https://github.com/roipapo/rohan)**|
 |**2025-01-13**|**Label Calibration in Source Free Domain Adaptation**|Shivangi Rai et.al.|[2501.07072](http://arxiv.org/abs/2501.07072)|null|
 |**2025-01-12**|**Automatic Double Reinforcement Learning in Semiparametric Markov Decision Processes with Applications to Long-Term Causal Inference**|Lars van der Laan et.al.|[2501.06926](http://arxiv.org/abs/2501.06926)|null|
 |**2025-01-12**|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero et.al.|[2501.06836](http://arxiv.org/abs/2501.06836)|null|
@@ -937,6 +944,7 @@
 |**2024-12-24**|**Mitigating Label Noise using Prompt-Based Hyperbolic Meta-Learning in Open-Set Domain Generalization**|Kunyu Peng et.al.|[2412.18342](http://arxiv.org/abs/2412.18342)|**[link](https://github.com/kpeng9510/hyprometa)**|
 |**2024-12-19**|**Noisereduce: Domain General Noise Reduction for Time Series Signals**|Tim Sainburg et.al.|[2412.17851](http://arxiv.org/abs/2412.17851)|**[link](https://github.com/timsainb/noisereduce)**|
 |**2024-12-19**|**Uncertainty-Guided Cross Attention Ensemble Mean Teacher for Semi-supervised Medical Image Segmentation**|Meghana Karri et.al.|[2412.15380](http://arxiv.org/abs/2412.15380)|null|
+|**2025-01-15**|**TextSleuth: Towards Explainable Tampered Text Detection**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
 |**2024-12-20**|**GLIDER: Grading LLM Interactions and Decisions using Explainable Ranking**|Darshan Deshpande et.al.|[2412.14140](http://arxiv.org/abs/2412.14140)|null|
 |**2024-12-18**|**Object Style Diffusion for Generalized Object Detection in Urban Scene**|Hao Li et.al.|[2412.13815](http://arxiv.org/abs/2412.13815)|null|
 |**2024-12-18**|**Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes**|Aodi Li et.al.|[2412.13573](http://arxiv.org/abs/2412.13573)|null|
@@ -1093,6 +1101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
+|**2025-01-15**|**Dynamic Knowledge Integration for Enhanced Vision-Language Reasoning**|Julian Perry et.al.|[2501.08597](http://arxiv.org/abs/2501.08597)|null|
+|**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
 |**2025-01-14**|**Visual Language Models as Operator Agents in the Space Domain**|Alejandro Carrasco et.al.|[2501.07802](http://arxiv.org/abs/2501.07802)|null|
@@ -1917,6 +1928,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Feature-based One-For-All: A Universal Framework for Heterogeneous Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885](http://arxiv.org/abs/2501.08885)|null|
+|**2025-01-15**|**IDEA: Image Description Enhanced CLIP-Adapter**|Zhipeng Ye et.al.|[2501.08816](http://arxiv.org/abs/2501.08816)|null|
 |**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-12**|**PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation**|Zhonghao Yan et.al.|[2501.06692](http://arxiv.org/abs/2501.06692)|null|
 |**2025-01-10**|**Language-Inspired Relation Transfer for Few-shot Class-Incremental Learning**|Yifan Zhao et.al.|[2501.05862](http://arxiv.org/abs/2501.05862)|null|
@@ -2118,6 +2131,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Kolmogorov-Arnold Networks for Time Series Granger Causality Inference**|Meiliang Liu et.al.|[2501.08958](http://arxiv.org/abs/2501.08958)|null|
+|**2025-01-14**|**Simultaneous Estimation of Multiple Treatment Effects from Observational Studies**|Xiaochuan Shi et.al.|[2501.08467](http://arxiv.org/abs/2501.08467)|null|
+|**2025-01-14**|**Modeling Discrimination with Causal Abstraction**|Milan Mossé et.al.|[2501.08429](http://arxiv.org/abs/2501.08429)|null|
 |**2025-01-14**|**Individual causal effect estimation accounting for latent disease state modification among bipolar participants in mobile health studies**|Charlotte R. Fowler et.al.|[2501.08270](http://arxiv.org/abs/2501.08270)|null|
 |**2025-01-14**|**Mitigating Algorithmic Bias in Multiclass CNN Classifications Using Causal Modeling**|Min Sik Byun et.al.|[2501.07885](http://arxiv.org/abs/2501.07885)|null|
 |**2025-01-14**|**Using Statistical Precision Medicine to Identify Optimal Treatments in a Heart Failure Setting**|Arti Virkud et.al.|[2501.07789](http://arxiv.org/abs/2501.07789)|null|
@@ -2128,7 +2144,7 @@
 |**2025-01-12**|**Causal Claims in Economics**|Prashant Garg et.al.|[2501.06873](http://arxiv.org/abs/2501.06873)|null|
 |**2025-01-12**|**Fisher's Randomization Test for Causality with General Types of Treatments**|Zhen Zhong et.al.|[2501.06864](http://arxiv.org/abs/2501.06864)|null|
 |**2025-01-12**|**Fine-tuning ChatGPT for Automatic Scoring of Written Scientific Explanations in Chinese**|Jie Yang et.al.|[2501.06704](http://arxiv.org/abs/2501.06704)|null|
-|**2025-01-11**|**Dynamic Causal Structure Discovery and Causal Effect Estimation**|Jianian Wang et.al.|[2501.06534](http://arxiv.org/abs/2501.06534)|null|
+|**2025-01-11**|**Dynamic Causal Structure Discovery and Causal Effect Estimation**|Jianian Wang et.al.|[2501.06534](http://arxiv.org/abs/2501.06534)|**[link](https://github.com/jackie31425/dynamic-causal-structure-discovery-and-causal-effect-estimation)**|
 |**2025-01-11**|**Data collaboration for causal inference from limited medical testing and medication data**|Tomoru Nakayama et.al.|[2501.06511](http://arxiv.org/abs/2501.06511)|null|
 |**2025-01-14**|**Counterfactually Fair Reinforcement Learning via Sequential Data Preprocessing**|Jitao Wang et.al.|[2501.06366](http://arxiv.org/abs/2501.06366)|null|
 |**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077](http://arxiv.org/abs/2501.06077)|**[link](https://github.com/xx987/xfbci)**|
