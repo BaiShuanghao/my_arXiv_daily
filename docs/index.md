@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -2142,7 +2142,7 @@ layout: default
 |**2025-01-14**|**Mitigating Algorithmic Bias in Multiclass CNN Classifications Using Causal Modeling**|Min Sik Byun et.al.|[2501.07885](http://arxiv.org/abs/2501.07885)|null|
 |**2025-01-14**|**Using Statistical Precision Medicine to Identify Optimal Treatments in a Heart Failure Setting**|Arti Virkud et.al.|[2501.07789](http://arxiv.org/abs/2501.07789)|null|
 |**2025-01-13**|**ML-assisted Randomization Tests for Detecting Treatment Effects in A/B Experiments**|Wenxuan Guo et.al.|[2501.07722](http://arxiv.org/abs/2501.07722)|null|
-|**2025-01-16**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227](http://arxiv.org/abs/2501.07227)|null|
+|**2025-01-17**|**MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning**|Tieyuan Chen et.al.|[2501.07227](http://arxiv.org/abs/2501.07227)|null|
 |**2025-01-12**|**Doubly Robust Inference on Causal Derivative Effects for Continuous Treatments**|Yikun Zhang et.al.|[2501.06969](http://arxiv.org/abs/2501.06969)|**[link](https://github.com/zhangyk8/npdrderiv)**|
 |**2025-01-12**|**Automatic Double Reinforcement Learning in Semiparametric Markov Decision Processes with Applications to Long-Term Causal Inference**|Lars van der Laan et.al.|[2501.06926](http://arxiv.org/abs/2501.06926)|null|
 |**2025-01-12**|**Causal Claims in Economics**|Prashant Garg et.al.|[2501.06873](http://arxiv.org/abs/2501.06873)|null|
