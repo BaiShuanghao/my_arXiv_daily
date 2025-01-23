@@ -603,10 +603,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**One-Class Domain Adaptation via Meta-Learning**|Stephanie Holly et.al.|[2501.13052](http://arxiv.org/abs/2501.13052)|null|
+|**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
+|**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
 |**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296](http://arxiv.org/abs/2501.12296)|**[link](https://github.com/jiachengzuo/ralad)**|
 |**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[2501.12246](http://arxiv.org/abs/2501.12246)|null|
 |**2025-01-20**|**Spatially-Delineated Domain-Adapted AI Classification: An Application for Oncology Data**|Majid Farhadloo et.al.|[2501.11695](http://arxiv.org/abs/2501.11695)|null|
-|**2025-01-20**|**UniTrans: A Unified Vertical Federated Knowledge Transfer Framework for Enhancing Cross-Hospital Collaboration**|Chung-ju Huang et.al.|[2501.11388](http://arxiv.org/abs/2501.11388)|null|
+|**2025-01-20**|**UniTrans: A Unified Vertical Federated Knowledge Transfer Framework for Enhancing Cross-Hospital Collaboration**|Chung-ju Huang et.al.|[2501.11388](http://arxiv.org/abs/2501.11388)|**[link](https://github.com/chung-ju/unitrans)**|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[2501.11260](http://arxiv.org/abs/2501.11260)|null|
 |**2025-01-18**|**GEC-RAG: Improving Generative Error Correction via Retrieval-Augmented Generation for Automatic Speech Recognition Systems**|Amin Robatian et.al.|[2501.10734](http://arxiv.org/abs/2501.10734)|null|
 |**2025-01-18**|**Mutual Regression Distance**|Dong Qiao et.al.|[2501.10617](http://arxiv.org/abs/2501.10617)|null|
@@ -1127,6 +1130,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Patent Figure Classification using Large Vision-language Models**|Sushil Awale et.al.|[2501.12751](http://arxiv.org/abs/2501.12751)|**[link](https://github.com/tibhannover/patent-figure-classification)**|
+|**2025-01-22**|**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2501.12632](http://arxiv.org/abs/2501.12632)|**[link](https://github.com/shakeebmurtaza/tedloc)**|
+|**2025-01-22**|**ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality**|Yanming Xiu et.al.|[2501.12553](http://arxiv.org/abs/2501.12553)|**[link](https://github.com/ym-xiu/viddar-dataset)**|
+|**2025-01-21**|**Owls are wise and foxes are unfaithful: Uncovering animal stereotypes in vision-language models**|Tabinda Aman et.al.|[2501.12433](http://arxiv.org/abs/2501.12433)|null|
+|**2025-01-20**|**ImageRef-VL: Enabling Contextual Image Referencing in Vision-Language Models**|Jingwei Yi et.al.|[2501.12418](http://arxiv.org/abs/2501.12418)|**[link](https://github.com/bytedance/imageref-vl)**|
 |**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
 |**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
@@ -1138,7 +1146,7 @@
 |**2025-01-19**|**ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models**|Yassir Bendou et.al.|[2501.11175](http://arxiv.org/abs/2501.11175)|null|
 |**2025-01-19**|**Advancing General Multimodal Capability of Vision-language Models with Pyramid-descent Visual Position Encoding**|Zhanpeng Chen et.al.|[2501.10967](http://arxiv.org/abs/2501.10967)|**[link](https://github.com/sakuratroychen/pype)**|
 |**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
-|**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
+|**2025-01-22**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
 |**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
 |**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
@@ -1982,6 +1990,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857](http://arxiv.org/abs/2501.12857)|null|
+|**2025-01-22**|**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2501.12632](http://arxiv.org/abs/2501.12632)|**[link](https://github.com/shakeebmurtaza/tedloc)**|
+|**2025-01-21**|**fabSAM: A Farmland Boundary Delineation Method Based on the Segment Anything Model**|Yufeng Xie et.al.|[2501.12487](http://arxiv.org/abs/2501.12487)|null|
 |**2025-01-16**|**"A Great Start, But...": Evaluating LLM-Generated Mind Maps for Information Mapping in Video-Based Design**|Tianhao He et.al.|[2501.09457](http://arxiv.org/abs/2501.09457)|null|
 |**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333](http://arxiv.org/abs/2501.09333)|null|
 |**2025-01-15**|**Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition**|Sneheel Sarangi et.al.|[2501.09056](http://arxiv.org/abs/2501.09056)|**[link](https://github.com/xarangi/decompose-tom)**|
@@ -2188,6 +2199,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Causality for VARMA processes with instantaneous effects: The global Markov property, faithfulness and instrumental variables**|Ignacio González-Pérez et.al.|[2501.13037](http://arxiv.org/abs/2501.13037)|null|
+|**2025-01-22**|**Differentiable Causal Discovery of Linear Non-Gaussian Acyclic Models Under Unmeasured Confounding**|Yoshimitsu Morinishi et.al.|[2501.12854](http://arxiv.org/abs/2501.12854)|null|
+|**2025-01-22**|**REX: Causal Discovery based on Machine Learning and Explainability techniques**|Jesus Renero et.al.|[2501.12706](http://arxiv.org/abs/2501.12706)|**[link](https://github.com/renero/causalgraph)**|
+|**2025-01-21**|**Identification of Nonparametric Dynamic Causal Structure and Latent Process in Climate System**|Minghao Fu et.al.|[2501.12500](http://arxiv.org/abs/2501.12500)|null|
 |**2025-01-21**|**Taming Teacher Forcing for Masked Autoregressive Video Generation**|Deyu Zhou et.al.|[2501.12389](http://arxiv.org/abs/2501.12389)|null|
 |**2025-01-21**|**Fully quantum inflation: quantum marginal problem constraints in the service of causal inference**|Isaac D. Smith et.al.|[2501.12320](http://arxiv.org/abs/2501.12320)|null|
 |**2025-01-21**|**Automatic Debiased Machine Learning for Smooth Functionals of Nonparametric M-Estimands**|Lars van der Laan et.al.|[2501.11868](http://arxiv.org/abs/2501.11868)|null|
@@ -2195,7 +2210,7 @@
 |**2025-01-20**|**RADICE: Causal Graph Based Root Cause Analysis for System Performance Diagnostic**|Andrea Tonon et.al.|[2501.11545](http://arxiv.org/abs/2501.11545)|null|
 |**2025-01-19**|**Sample size and power calculation for propensity score analysis of observational studies**|Bo Liu et.al.|[2501.11181](http://arxiv.org/abs/2501.11181)|null|
 |**2025-01-18**|**Linear scaling causal discovery from high-dimensional time series by dynamical community detection**|Matteo Allione et.al.|[2501.10886](http://arxiv.org/abs/2501.10886)|null|
-|**2025-01-17**|**Cheap Subsampling bootstrap confidence intervals for fast and robust inference in biostatistics**|Johan Sebastian Ohlendorff et.al.|[2501.10289](http://arxiv.org/abs/2501.10289)|null|
+|**2025-01-22**|**Cheap Subsampling bootstrap confidence intervals for fast and robust inference**|Johan Sebastian Ohlendorff et.al.|[2501.10289](http://arxiv.org/abs/2501.10289)|null|
 |**2025-01-17**|**SpaceTime: Causal Discovery from Non-Stationary Time Series**|Sarah Mameche et.al.|[2501.10235](http://arxiv.org/abs/2501.10235)|null|
 |**2025-01-17**|**Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models**|Maksim Gladyshev et.al.|[2501.10190](http://arxiv.org/abs/2501.10190)|null|
 |**2025-01-16**|**Design-based causal inference in bipartite experiments**|Sizhu Lu et.al.|[2501.09844](http://arxiv.org/abs/2501.09844)|null|
