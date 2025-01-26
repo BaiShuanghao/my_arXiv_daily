@@ -1,4 +1,4 @@
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -597,7 +597,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## DA
 
@@ -611,7 +611,7 @@
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-21**|**Slot-BERT: Self-supervised Object Discovery in Surgical Video**|Guiqiu Liao et.al.|[2501.12477](http://arxiv.org/abs/2501.12477)|null|
 |**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296](http://arxiv.org/abs/2501.12296)|**[link](https://github.com/jiachengzuo/ralad)**|
-|**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[2501.12246](http://arxiv.org/abs/2501.12246)|null|
+|**2025-01-21**|**Video Deblurring by Sharpness Prior Detection and Edge Information**|Yang Tian et.al.|[2501.12246](http://arxiv.org/abs/2501.12246)|**[link](https://github.com/yangt1013/speinet)**|
 |**2025-01-20**|**Spatially-Delineated Domain-Adapted AI Classification: An Application for Oncology Data**|Majid Farhadloo et.al.|[2501.11695](http://arxiv.org/abs/2501.11695)|null|
 |**2025-01-20**|**UniTrans: A Unified Vertical Federated Knowledge Transfer Framework for Enhancing Cross-Hospital Collaboration**|Chung-ju Huang et.al.|[2501.11388](http://arxiv.org/abs/2501.11388)|**[link](https://github.com/chung-ju/unitrans)**|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[2501.11260](http://arxiv.org/abs/2501.11260)|null|
@@ -955,7 +955,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## DG
 
@@ -1129,7 +1129,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## VLM
 
@@ -1155,7 +1155,7 @@
 |**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
 |**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
-|**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
+|**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|**[link](https://github.com/hasanar1f/llava-hallunication-fix)**|
 |**2025-01-20**|**Human-AI Collaborative Game Testing with Vision Language Models**|Boran Zhang et.al.|[2501.11782](http://arxiv.org/abs/2501.11782)|null|
 |**2025-01-20**|**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**|Shu Zou et.al.|[2501.11485](http://arxiv.org/abs/2501.11485)|**[link](https://github.com/shuzou-1/simlabel)**|
 |**2025-01-20**|**Verifying Cross-modal Entity Consistency in News using Vision-language Models**|Sahar Tahmasebi et.al.|[2501.11403](http://arxiv.org/abs/2501.11403)|null|
@@ -2001,7 +2001,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## Prompt
 
@@ -2016,7 +2016,7 @@
 |**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333](http://arxiv.org/abs/2501.09333)|null|
 |**2025-01-15**|**Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition**|Sneheel Sarangi et.al.|[2501.09056](http://arxiv.org/abs/2501.09056)|**[link](https://github.com/xarangi/decompose-tom)**|
 |**2025-01-15**|**Feature-based One-For-All: A Universal Framework for Heterogeneous Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885](http://arxiv.org/abs/2501.08885)|null|
-|**2025-01-19**|**IDEA: Image Description Enhanced CLIP-Adapter**|Zhipeng Ye et.al.|[2501.08816](http://arxiv.org/abs/2501.08816)|null|
+|**2025-01-19**|**IDEA: Image Description Enhanced CLIP-Adapter**|Zhipeng Ye et.al.|[2501.08816](http://arxiv.org/abs/2501.08816)|**[link](https://github.com/fourierai/idea)**|
 |**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-12**|**PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation**|Zhonghao Yan et.al.|[2501.06692](http://arxiv.org/abs/2501.06692)|null|
 |**2025-01-10**|**Language-Inspired Relation Transfer for Few-shot Class-Incremental Learning**|Yifan Zhao et.al.|[2501.05862](http://arxiv.org/abs/2501.05862)|null|
@@ -2212,7 +2212,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -2578,7 +2578,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2846,5 +2846,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
 
