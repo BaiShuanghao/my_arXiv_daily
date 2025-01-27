@@ -33,7 +33,7 @@ layout: default
 |**2025-01-10**|**Learning Affordances from Interactive Exploration using an Object-level Map**|Paula Wulkop et.al.|[2501.06047](http://arxiv.org/abs/2501.06047)|null|
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2025-01-07**|**Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models**|Malak Mansour et.al.|[2501.05478](http://arxiv.org/abs/2501.05478)|null|
-|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
+|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|**[link](https://github.com/rh-dang/ecbench)**|
 |**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
 |**2025-01-08**|**Optimize the parameters of the PID Controller using Genetic Algorithm for Robot Manipulators**|Vu Ngoc Son et.al.|[2501.04759](http://arxiv.org/abs/2501.04759)|null|
 |**2025-01-08**|**Improving Human-Robot Teaching by Quantifying and Reducing Mental Model Mismatch**|Phillip Richter et.al.|[2501.04755](http://arxiv.org/abs/2501.04755)|null|
@@ -637,7 +637,7 @@ layout: default
 |**2025-01-08**|**Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition**|Huimeng Wang et.al.|[2501.04379](http://arxiv.org/abs/2501.04379)|null|
 |**2025-01-14**|**Towards a Generalizable Speech Marker for Parkinson's Disease Diagnosis**|Maksim Siniukov et.al.|[2501.03581](http://arxiv.org/abs/2501.03581)|null|
 |**2025-01-14**|**Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation**|Zi Huang et.al.|[2501.03461](http://arxiv.org/abs/2501.03461)|**[link](https://github.com/abcxyzi/radcharssl)**|
-|**2025-01-06**|**ProtoBeam: Generalizing Deep Beam Prediction to Unseen Antennas using Prototypical Networks**|Omar Mashaal et.al.|[2501.03435](http://arxiv.org/abs/2501.03435)|null|
+|**2025-01-06**|**ProtoBeam: Generalizing Deep Beam Prediction to Unseen Antennas using Prototypical Networks**|Omar Mashaal et.al.|[2501.03435](http://arxiv.org/abs/2501.03435)|**[link](https://github.com/omarmshaal/protobeam)**|
 |**2025-01-05**|**DenseGNN: universal and scalable deeper graph neural networks for high-performance property prediction in crystals and molecules**|Hongwei Du et.al.|[2501.03278](http://arxiv.org/abs/2501.03278)|**[link](https://github.com/dhw059/densegnn)**|
 |**2025-01-06**|**AIF-SFDA: Autonomous Information Filter-driven Source-Free Domain Adaptation for Medical Image Segmentation**|Haojin Li et.al.|[2501.03074](http://arxiv.org/abs/2501.03074)|**[link](https://github.com/jinghuaman/aif-sfda)**|
 |**2025-01-06**|**Unsupervised Domain Adaptation for Occlusion Resilient Human Pose Estimation**|Arindam Dutta et.al.|[2501.02773](http://arxiv.org/abs/2501.02773)|null|
@@ -1149,7 +1149,7 @@ layout: default
 |**2025-01-19**|**Advancing General Multimodal Capability of Vision-language Models with Pyramid-descent Visual Position Encoding**|Zhanpeng Chen et.al.|[2501.10967](http://arxiv.org/abs/2501.10967)|**[link](https://github.com/sakuratroychen/pype)**|
 |**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
 |**2025-01-23**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
-|**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
+|**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|**[link](https://github.com/olivialyt/clip-pcqa)**|
 |**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
@@ -1169,14 +1169,14 @@ layout: default
 |**2025-01-15**|**Dynamic Knowledge Integration for Enhanced Vision-Language Reasoning**|Julian Perry et.al.|[2501.08597](http://arxiv.org/abs/2501.08597)|null|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
-|**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
+|**2025-01-14**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|**[link](https://github.com/bytedance/tarsier)**|
 |**2025-01-14**|**Visual Language Models as Operator Agents in the Space Domain**|Alejandro Carrasco et.al.|[2501.07802](http://arxiv.org/abs/2501.07802)|null|
 |**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
 |**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396](http://arxiv.org/abs/2501.07396)|null|
 |**2025-01-14**|**GestLLM: Advanced Hand Gesture Interpretation via Large Language Models for Human-Robot Interaction**|Oleg Kobzarev et.al.|[2501.07295](http://arxiv.org/abs/2501.07295)|null|
-|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244](http://arxiv.org/abs/2501.07244)|null|
+|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244](http://arxiv.org/abs/2501.07244)|**[link](https://github.com/ai4bharat/fermat)**|
 |**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214](http://arxiv.org/abs/2501.07214)|null|
 |**2025-01-14**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171](http://arxiv.org/abs/2501.07171)|**[link](https://github.com/minwoosun/biomedica-etl)**|
 |**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
@@ -1190,13 +1190,13 @@ layout: default
 |**2025-01-10**|**Scalable Vision Language Model Training via High Quality Data Curation**|Hongyuan Dong et.al.|[2501.05952](http://arxiv.org/abs/2501.05952)|null|
 |**2025-01-13**|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu et.al.|[2501.05901](http://arxiv.org/abs/2501.05901)|**[link](https://github.com/bytedance/valley)**|
 |**2025-01-10**|**Super-class guided Transformer for Zero-Shot Attribute Classification**|Sehyung Kim et.al.|[2501.05728](http://arxiv.org/abs/2501.05728)|**[link](https://github.com/mlvlab/SugaFormer)**|
-|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|null|
+|**2025-01-10**|**From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities**|Dominick Reilly et.al.|[2501.05711](http://arxiv.org/abs/2501.05711)|**[link](https://github.com/dominickrei/egoexo4adl)**|
 |**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566](http://arxiv.org/abs/2501.05566)|null|
 |**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
 |**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228](http://arxiv.org/abs/2501.05228)|null|
 |**2025-01-09**|**Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model**|Gregor Geigle et.al.|[2501.05122](http://arxiv.org/abs/2501.05122)|null|
 |**2025-01-09**|**DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**|Xuran Zheng et.al.|[2501.05081](http://arxiv.org/abs/2501.05081)|null|
-|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
+|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|**[link](https://github.com/rh-dang/ecbench)**|
 |**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
@@ -1205,7 +1205,7 @@ layout: default
 |**2025-01-08**|**Supervision-free Vision-Language Alignment**|Giorgio Giannone et.al.|[2501.04568](http://arxiv.org/abs/2501.04568)|null|
 |**2025-01-08**|**Online Gaussian Test-Time Adaptation of Vision-Language Models**|Clément Fuchs et.al.|[2501.04352](http://arxiv.org/abs/2501.04352)|**[link](https://github.com/cfuchs2023/oga)**|
 |**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336](http://arxiv.org/abs/2501.04336)|null|
-|**2025-01-08**|**Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts**|Miao Rang et.al.|[2501.04322](http://arxiv.org/abs/2501.04322)|null|
+|**2025-01-08**|**Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts**|Miao Rang et.al.|[2501.04322](http://arxiv.org/abs/2501.04322)|**[link](https://github.com/rangmiao/eve)**|
 |**2025-01-08**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**|Senwei Xie et.al.|[2501.04268](http://arxiv.org/abs/2501.04268)|null|
 |**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155](http://arxiv.org/abs/2501.04155)|**[link](https://github.com/sjoshi804/mm-gen)**|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|**[link](https://github.com/opendrivelab/drivelm)**|
@@ -1363,7 +1363,7 @@ layout: default
 |**2024-12-16**|**Temporal Contrastive Learning for Video Temporal Reasoning in Large Vision-Language Models**|Rafael Souza et.al.|[2412.11391](http://arxiv.org/abs/2412.11391)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models**|Yujin Wang et.al.|[2412.11050](http://arxiv.org/abs/2412.11050)|null|
-|**2024-12-14**|**Do large language vision models understand 3D shapes?**|Sagi Eppel et.al.|[2412.10908](http://arxiv.org/abs/2412.10908)|null|
+|**2024-12-14**|**Do large language vision models understand 3D shapes?**|Sagi Eppel et.al.|[2412.10908](http://arxiv.org/abs/2412.10908)|**[link](https://github.com/sagieppel/testing-large-vision-language-models-lvlm-on-visual-questions)**|
 |**2024-12-14**|**Learning Semantic-Aware Representation in Visual-Language Models for Multi-Label Recognition with Partial Labels**|Haoxian Ruan et.al.|[2412.10843](http://arxiv.org/abs/2412.10843)|null|
 |**2024-12-14**|**Optimizing Vision-Language Interactions Through Decoder-Only Models**|Kaito Tanaka et.al.|[2412.10758](http://arxiv.org/abs/2412.10758)|null|
 |**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
@@ -1908,7 +1908,7 @@ layout: default
 |**2024-09-30**|**UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**|Qiaojun Yu et.al.|[2409.20551](http://arxiv.org/abs/2409.20551)|null|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
 |**2024-09-30**|**Robot Navigation Using Physically Grounded Vision-Language Models in Outdoor Environments**|Mohamed Elnoor et.al.|[2409.20445](http://arxiv.org/abs/2409.20445)|null|
-|**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429](http://arxiv.org/abs/2409.20429)|null|
+|**2024-09-30**|**HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding**|Fan Yuan et.al.|[2409.20429](http://arxiv.org/abs/2409.20429)|**[link](https://github.com/F-Yuan303/HELPD)**|
 |**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424](http://arxiv.org/abs/2409.20424)|**[link](https://github.com/foundation-multimodal-models/world2code)**|
 |**2024-09-30**|**CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset**|Akshatha Arodi et.al.|[2409.20353](http://arxiv.org/abs/2409.20353)|**[link](https://github.com/mila-iqia/cableinspect-ad-code)**|
 |**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|**[link](https://github.com/i2-multimedia-lab/magnet)**|
@@ -2335,7 +2335,7 @@ layout: default
 |**2024-11-29**|**Benchmarking covariates balancing methods, a simulation study**|Etienne Peyrot et.al.|[2412.00280](http://arxiv.org/abs/2412.00280)|**[link](https://github.com/EtiennePeyrot/benchmark_balancing_methods)**|
 |**2024-11-29**|**Adjusting auxiliary variables under approximate neighborhood interference**|Xin Lu et.al.|[2411.19789](http://arxiv.org/abs/2411.19789)|null|
 |**2024-11-29**|**Differentiable Causal Discovery For Latent Hierarchical Causal Models**|Parjanya Prashant et.al.|[2411.19556](http://arxiv.org/abs/2411.19556)|null|
-|**2024-11-29**|**COLD: Causal reasOning in cLosed Daily activities**|Abhinav Joshi et.al.|[2411.19500](http://arxiv.org/abs/2411.19500)|null|
+|**2024-11-29**|**COLD: Causal reasOning in cLosed Daily activities**|Abhinav Joshi et.al.|[2411.19500](http://arxiv.org/abs/2411.19500)|**[link](https://github.com/Exploration-Lab/COLD)**|
 |**2024-11-28**|**Fractal Conditional Correlation Dimension Infers Complex Causal Networks**|Özge Canlı Usta et.al.|[2411.19284](http://arxiv.org/abs/2411.19284)|null|
 |**2024-11-28**|**Learning treatment effects under covariate dependent left truncation and right censoring**|Yuyao Wang et.al.|[2411.18879](http://arxiv.org/abs/2411.18879)|null|
 |**2024-11-27**|**The Return of Pseudosciences in Artificial Intelligence: Have Machine Learning and Deep Learning Forgotten Lessons from Statistics and History?**|Jérémie Sublime et.al.|[2411.18656](http://arxiv.org/abs/2411.18656)|null|
@@ -2627,7 +2627,7 @@ layout: default
 |**2024-12-17**|**Human-in-the-Loop Generation of Adversarial Texts: A Case Study on Tibetan Script**|Xi Cao et.al.|[2412.12478](http://arxiv.org/abs/2412.12478)|**[link](https://github.com/CMLI-NLP/HITL-GAT)**|
 |**2024-12-17**|**Adversarially robust generalization theory via Jacobian regularization for deep neural networks**|Dongya Wu et.al.|[2412.12449](http://arxiv.org/abs/2412.12449)|null|
 |**2024-12-16**|**Comprehensive Survey on Adversarial Examples in Cybersecurity: Impacts, Challenges, and Mitigation Strategies**|Li Li et.al.|[2412.12217](http://arxiv.org/abs/2412.12217)|null|
-|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
+|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|**[link](https://github.com/kastel-mobilitylab/mixtures-of-experts)**|
 |**2024-12-16**|**Accurate, Robust and Privacy-Preserving Brain-Computer Interface Decoding**|Xiaoqing Chen et.al.|[2412.11390](http://arxiv.org/abs/2412.11390)|null|
 |**2024-12-16**|**A Comprehensive Review of Adversarial Attacks on Machine Learning**|Syed Quiser Ahmed et.al.|[2412.11384](http://arxiv.org/abs/2412.11384)|null|
 |**2024-12-15**|**Learning Robust and Privacy-Preserving Representations via Information Theory**|Binghui Zhang et.al.|[2412.11066](http://arxiv.org/abs/2412.11066)|**[link](https://github.com/arprl/arprl)**|
