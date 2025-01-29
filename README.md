@@ -18,8 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Strawberry Robotic Operation Interface: An Open-Source Device for Collecting Dexterous Manipulation Data in Robotic Strawberry Farming**|Linsheng Hou et.al.|[2501.16717](http://arxiv.org/abs/2501.16717)|null|
+|**2025-01-27**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
 |**2025-01-27**|**Underactuated dexterous robotic grasping with reconfigurable passive joints**|Marek Kopicki et.al.|[2501.16006](http://arxiv.org/abs/2501.16006)|null|
-|**2025-01-27**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
+|**2025-01-28**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
 |**2025-01-25**|**Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning**|Junfeng Tang et.al.|[2501.15214](http://arxiv.org/abs/2501.15214)|null|
 |**2025-01-25**|**Understanding via Gaze: Gaze-based Task Decomposition for Imitation Learning of Robot Manipulation**|Ryo Takizawa et.al.|[2501.15071](http://arxiv.org/abs/2501.15071)|null|
 |**2025-01-25**|**What if Eye...? Computationally Recreating Vision Evolution**|Kushagra Tiwary et.al.|[2501.15001](http://arxiv.org/abs/2501.15001)|**[link](https://github.com/cambrian-org/ACI)**|
@@ -612,10 +614,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Unsupervised Domain Adaptation with Dynamic Clustering and Contrastive Refinement for Gait Recognition**|Xiaolei Liu et.al.|[2501.16608](http://arxiv.org/abs/2501.16608)|null|
+|**2025-01-27**|**DynAlign: Unsupervised Dynamic Taxonomy Alignment for Cross-Domain Segmentation**|Han Sun et.al.|[2501.16410](http://arxiv.org/abs/2501.16410)|null|
+|**2025-01-22**|**Neural Kalman Filters for Acoustic Echo Cancellation**|Ernst Seidel et.al.|[2501.16367](http://arxiv.org/abs/2501.16367)|null|
 |**2025-01-27**|**Parametric Retrieval Augmented Generation**|Weihang Su et.al.|[2501.15915](http://arxiv.org/abs/2501.15915)|**[link](https://github.com/oneal2000/prag)**|
 |**2025-01-26**|**Fuzzy-aware Loss for Source-free Domain Adaptation in Visual Emotion Recognition**|Ying Zheng et.al.|[2501.15519](http://arxiv.org/abs/2501.15519)|null|
 |**2025-01-26**|**Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime Object Classification**|Dan Song et.al.|[2501.15503](http://arxiv.org/abs/2501.15503)|null|
-|**2025-01-25**|**PatentLMM: Large Multimodal Model for Generating Descriptions for Patent Figures**|Shreya Shukla et.al.|[2501.15074](http://arxiv.org/abs/2501.15074)|null|
+|**2025-01-25**|**PatentLMM: Large Multimodal Model for Generating Descriptions for Patent Figures**|Shreya Shukla et.al.|[2501.15074](http://arxiv.org/abs/2501.15074)|**[link](https://github.com/vl2g/PatentLMM)**|
 |**2025-01-25**|**Graph-Based Cross-Domain Knowledge Distillation for Cross-Dataset Text-to-Image Person Retrieval**|Bingjun Luo et.al.|[2501.15052](http://arxiv.org/abs/2501.15052)|null|
 |**2025-01-24**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
 |**2025-01-24**|**On Correlating Factors for Domain Adaptation Performance**|Goksenin Yuksel et.al.|[2501.14466](http://arxiv.org/abs/2501.14466)|null|
@@ -1164,11 +1169,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
+|**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947](http://arxiv.org/abs/2501.16947)|null|
+|**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|null|
+|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-28**|**Improving Vision-Language-Action Model with Online Reinforcement Learning**|Yanjiang Guo et.al.|[2501.16664](http://arxiv.org/abs/2501.16664)|null|
+|**2025-01-27**|**BiFold: Bimanual Cloth Folding with Language Guidance**|Oriol Barbany et.al.|[2501.16458](http://arxiv.org/abs/2501.16458)|null|
+|**2025-01-27**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
+|**2025-01-27**|**DynaPrompt: Dynamic Test-Time Prompt Tuning**|Zehao Xiao et.al.|[2501.16404](http://arxiv.org/abs/2501.16404)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
 |**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|null|
 |**2025-01-27**|**Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**|Anh-Kiet Duong et.al.|[2501.16037](http://arxiv.org/abs/2501.16037)|**[link](https://github.com/ffyyytt/coool_2025)**|
-|**2025-01-27**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
+|**2025-01-28**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
 |**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
 |**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|null|
 |**2025-01-26**|**Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime Object Classification**|Dan Song et.al.|[2501.15503](http://arxiv.org/abs/2501.15503)|null|
@@ -2058,12 +2071,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**UniPET-SPK: A Unified Framework for Parameter-Efficient Tuning of Pre-trained Speech Models for Robust Speaker Verification**|Mufan Sang et.al.|[2501.16542](http://arxiv.org/abs/2501.16542)|null|
+|**2025-01-27**|**DynaPrompt: Dynamic Test-Time Prompt Tuning**|Zehao Xiao et.al.|[2501.16404](http://arxiv.org/abs/2501.16404)|null|
 |**2025-01-25**|**DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach**|Qin Chen et.al.|[2501.15142](http://arxiv.org/abs/2501.15142)|null|
 |**2025-01-25**|**Complementary Subspace Low-Rank Adaptation of Vision-Language Models for Few-Shot Classification**|Zhongqi Wang et.al.|[2501.15040](http://arxiv.org/abs/2501.15040)|null|
 |**2025-01-24**|**Low-rank Prompt Interaction for Continual Vision-Language Retrieval**|Weicai Yan et.al.|[2501.14369](http://arxiv.org/abs/2501.14369)|**[link](https://github.com/kelvin-ywc/lpi)**|
 |**2025-01-24**|**SelfPrompt: Confidence-Aware Semi-Supervised Tuning for Robust Vision-Language Model Adaptation**|Shuvendu Roy et.al.|[2501.14148](http://arxiv.org/abs/2501.14148)|null|
 |**2025-01-23**|**Enhancing Biomedical Relation Extraction with Directionality**|Po-Ting Lai et.al.|[2501.14079](http://arxiv.org/abs/2501.14079)|**[link](https://github.com/ncbi-nlp/bioredirect)**|
-|**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
+|**2025-01-28**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
 |**2025-01-23**|**PromptMono: Cross Prompting Attention for Self-Supervised Monocular Depth Estimation in Challenging Environments**|Changhao Wang et.al.|[2501.13796](http://arxiv.org/abs/2501.13796)|null|
 |**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857](http://arxiv.org/abs/2501.12857)|null|
 |**2025-01-22**|**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2501.12632](http://arxiv.org/abs/2501.12632)|**[link](https://github.com/shakeebmurtaza/tedloc)**|
@@ -2274,6 +2289,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Reconciling Predictive Multiplicity in Practice**|Tina Behzad et.al.|[2501.16549](http://arxiv.org/abs/2501.16549)|**[link](https://github.com/tina-behzad/reconciliation-project)**|
+|**2025-01-27**|**Detecting clinician implicit biases in diagnoses using proximal causal inference**|Kara Liu et.al.|[2501.16399](http://arxiv.org/abs/2501.16399)|**[link](https://github.com/syrgkanislab/hidden_mediators)**|
+|**2025-01-26**|**Philip G. Wright, directed acyclic graphs, and instrumental variables**|Jaap H. Abbring et.al.|[2501.16395](http://arxiv.org/abs/2501.16395)|null|
 |**2025-01-27**|**Translating and evaluating single-cell Boolean network interventions in the multiscale setting**|John Metzcar et.al.|[2501.16052](http://arxiv.org/abs/2501.16052)|null|
 |**2025-01-27**|**Integrating Probabilistic Trees and Causal Networks for Clinical and Epidemiological Data**|Sheresh Zahoor et.al.|[2501.15973](http://arxiv.org/abs/2501.15973)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|null|
@@ -2651,6 +2669,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Scanning Trojaned Models Using Out-of-Distribution Samples**|Hossein Mirzaei et.al.|[2501.17151](http://arxiv.org/abs/2501.17151)|**[link](https://github.com/rohban-lab/trodo)**|
+|**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
+|**2025-01-28**|**RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples**|Hossein Mirzaei et.al.|[2501.16971](http://arxiv.org/abs/2501.16971)|**[link](https://github.com/rohban-lab/rodeo)**|
+|**2025-01-28**|**Adversarial Masked Autoencoder Purifier with Defense Transferability**|Yuan-Chih Chen et.al.|[2501.16904](http://arxiv.org/abs/2501.16904)|null|
+|**2025-01-27**|**Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges**|Emad Efatinasab et.al.|[2501.16490](http://arxiv.org/abs/2501.16490)|null|
+|**2025-01-26**|**Leveraging Induced Transferable Binding Principles for Associative Prediction of Novel Drug-Target Interactions**|Xiaoqing Lian et.al.|[2501.16391](http://arxiv.org/abs/2501.16391)|null|
 |**2025-01-26**|**Mitigating Spurious Negative Pairs for Robust Industrial Anomaly Detection**|Hossein Mirzaei et.al.|[2501.15434](http://arxiv.org/abs/2501.15434)|null|
 |**2025-01-25**|**Killing it with Zero-Shot: Adversarially Robust Novelty Detection**|Hossein Mirzaei et.al.|[2501.15271](http://arxiv.org/abs/2501.15271)|**[link](https://github.com/rohban-lab/zarnd)**|
 |**2025-01-25**|**Pre-trained Model Guided Mixture Knowledge Distillation for Adversarial Federated Learning**|Yu Qiao et.al.|[2501.15257](http://arxiv.org/abs/2501.15257)|null|
