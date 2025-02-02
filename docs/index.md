@@ -984,7 +984,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
-|**2025-01-15**|**On the challenges of detecting MCI using EEG in the wild**|Aayush Mishra et.al.|[2501.17871](http://arxiv.org/abs/2501.17871)|null|
+|**2025-01-15**|**On the challenges of detecting MCI using EEG in the wild**|Aayush Mishra et.al.|[2501.17871](http://arxiv.org/abs/2501.17871)|**[link](https://github.com/aamixsh/eeg_mci)**|
 |**2025-01-30**|**Technical report on label-informed logit redistribution for better domain generalization in low-shot classification with foundation models**|Behraj Khan et.al.|[2501.17595](http://arxiv.org/abs/2501.17595)|null|
 |**2025-01-26**|**FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment**|Sunny Gupta et.al.|[2501.15486](http://arxiv.org/abs/2501.15486)|null|
 |**2025-01-21**|**Controlling Ensemble Variance in Diffusion Models: An Application for Reanalyses Downscaling**|Fabio Merizzi et.al.|[2501.14822](http://arxiv.org/abs/2501.14822)|null|
@@ -1177,7 +1177,7 @@ layout: default
 |**2025-01-30**|**Probing LLM World Models: Enhancing Guesstimation with Wisdom of Crowds Decoding**|Yun-Shiuan Chuang et.al.|[2501.17310](http://arxiv.org/abs/2501.17310)|null|
 |**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
 |**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947](http://arxiv.org/abs/2501.16947)|null|
-|**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|null|
+|**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|**[link](https://github.com/ielab/dsr-poisoning)**|
 |**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**Improving Vision-Language-Action Model with Online Reinforcement Learning**|Yanjiang Guo et.al.|[2501.16664](http://arxiv.org/abs/2501.16664)|null|
 |**2025-01-27**|**BiFold: Bimanual Cloth Folding with Language Guidance**|Oriol Barbany et.al.|[2501.16458](http://arxiv.org/abs/2501.16458)|null|
