@@ -40,14 +40,14 @@
 |**2025-02-03**|**VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion**|Shaoting Zhu et.al.|[2502.01536](http://arxiv.org/abs/2502.01536)|null|
 |**2025-02-03**|**Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents**|Zhizhen Zhang et.al.|[2502.01218](http://arxiv.org/abs/2502.01218)|null|
 |**2025-02-03**|**ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking**|Jianqiu Chen et.al.|[2502.01004](http://arxiv.org/abs/2502.01004)|null|
-|**2025-02-01**|**VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility**|Mohammad Nazeri et.al.|[2502.00543](http://arxiv.org/abs/2502.00543)|null|
+|**2025-02-01**|**VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility**|Mohammad Nazeri et.al.|[2502.00543](http://arxiv.org/abs/2502.00543)|**[link](https://github.com/mhnazeri/vertiformer)**|
 |**2025-02-01**|**Learning from Suboptimal Data in Continuous Control via Auto-Regressive Soft Q-Network**|Jijia Liu et.al.|[2502.00288](http://arxiv.org/abs/2502.00288)|null|
 |**2025-02-01**|**Simultaneous Estimation of Manipulation Skill and Hand Grasp Force from Forearm Ultrasound Images**|Keshav Bimbraw et.al.|[2502.00275](http://arxiv.org/abs/2502.00275)|null|
 |**2025-01-31**|**Mobile Robot Navigation Using Hand-Drawn Maps: A Vision Language Model Approach**|Aaron Hao Tan et.al.|[2502.00114](http://arxiv.org/abs/2502.00114)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
 |**2025-01-31**|**Shaping Sparse Rewards in Reinforcement Learning: A Semi-supervised Approach**|Wenyun Li et.al.|[2501.19128](http://arxiv.org/abs/2501.19128)|null|
 |**2025-01-31**|**Deep Learning based Quasi-consciousness Training for Robot Intelligent Model**|Yuchun Li et.al.|[2501.18955](http://arxiv.org/abs/2501.18955)|null|
-|**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|null|
+|**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|**[link](https://github.com/andypinxinliu/GestureLSM)**|
 |**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-30**|**Strong and Controllable 3D Motion Generation**|Canxuan Gang et.al.|[2501.18726](http://arxiv.org/abs/2501.18726)|null|
 |**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564](http://arxiv.org/abs/2501.18564)|null|
@@ -150,7 +150,7 @@
 |**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|
 |**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-18**|**Consistency Matters: Defining Demonstration Data Quality Metrics in Robot Learning from Demonstration**|Maram Sakr et.al.|[2412.14309](http://arxiv.org/abs/2412.14309)|null|
-|**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
+|**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|**[link](https://github.com/DepthAnything/PromptDA)**|
 |**2024-12-18**|**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**|Kun Wu et.al.|[2412.13877](http://arxiv.org/abs/2412.13877)|null|
 |**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|**[link](https://github.com/kafeiyin00/ua-mpc)**|
 |**2024-12-18**|**Learning to Control an Android Robot Head for Facial Animation**|Marcel Heisler et.al.|[2412.13641](http://arxiv.org/abs/2412.13641)|null|
@@ -1074,7 +1074,7 @@
 |**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
 |**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-13**|**FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation**|Zhipeng Deng et.al.|[2501.07378](http://arxiv.org/abs/2501.07378)|null|
-|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|**[link](https://github.com/yukhoy/timedp)**|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
 |**2025-01-08**|**Rethinking domain generalization in medical image segmentation: One image as one domain**|Jin Hong et.al.|[2501.04741](http://arxiv.org/abs/2501.04741)|null|
 |**2025-01-07**|**DGSSA: Domain generalization with structural and stylistic augmentation for retinal vessel segmentation**|Bo Liu et.al.|[2501.03466](http://arxiv.org/abs/2501.03466)|null|
@@ -1311,7 +1311,7 @@
 |**2025-01-27**|**Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**|Anh-Kiet Duong et.al.|[2501.16037](http://arxiv.org/abs/2501.16037)|**[link](https://github.com/ffyyytt/coool_2025)**|
 |**2025-01-28**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
 |**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
-|**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|null|
+|**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|**[link](https://github.com/guoxy25/Ocean-OCR)**|
 |**2025-01-26**|**Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime Object Classification**|Dan Song et.al.|[2501.15503](http://arxiv.org/abs/2501.15503)|null|
 |**2025-01-26**|**Cross-Modal Transfer from Memes to Videos: Addressing Data Scarcity in Hateful Video Detection**|Han Wang et.al.|[2501.15438](http://arxiv.org/abs/2501.15438)|**[link](https://github.com/social-ai-studio/crossmodaltransferlearning)**|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
@@ -2044,7 +2044,7 @@
 |**2024-10-10**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
 |**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
 |**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|**[link](https://github.com/TrustAIRLab/ModSCAN)**|
-|**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912](http://arxiv.org/abs/2410.06912)|null|
+|**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912](http://arxiv.org/abs/2410.06912)|**[link](https://github.com/PalAvik/hycoclip)**|
 |**2024-10-09**|**From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models**|Yuying Shang et.al.|[2410.06795](http://arxiv.org/abs/2410.06795)|null|
 |**2024-10-09**|**Break the Visual Perception: Adversarial Attacks Targeting Encoded Visual Tokens of Large Vision-Language Models**|Yubo Wang et.al.|[2410.06699](http://arxiv.org/abs/2410.06699)|null|
 |**2024-10-09**|**ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time**|Yi Ding et.al.|[2410.06625](http://arxiv.org/abs/2410.06625)|**[link](https://github.com/dripnowhy/eta)**|
