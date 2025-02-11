@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -2448,7 +2448,7 @@ layout: default
 |**2025-02-03**|**Heterogeneous Treatment Effect in Time-to-Event Outcomes: Harnessing Censored Data with Recursively Imputed Trees**|Tomer Meir et.al.|[2502.01575](http://arxiv.org/abs/2502.01575)|null|
 |**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312](http://arxiv.org/abs/2502.01312)|null|
 |**2025-02-03**|**Can We Validate Counterfactual Estimations in the Presence of General Network Interference?**|Sadegh Shirani et.al.|[2502.01106](http://arxiv.org/abs/2502.01106)|null|
-|**2025-02-02**|**Generalized Simple Graphical Rules for Assessing Selection Bias**|Yichi Zhang et.al.|[2502.00924](http://arxiv.org/abs/2502.00924)|null|
+|**2025-02-08**|**Generalized Simple Graphical Rules for Assessing Selection Bias**|Yichi Zhang et.al.|[2502.00924](http://arxiv.org/abs/2502.00924)|null|
 |**2025-02-02**|**Topological flow data analysis for transient flow patterns: a graph-based approach**|Takashi Sakajo et.al.|[2502.00664](http://arxiv.org/abs/2502.00664)|null|
 |**2025-02-01**|**Optimizing Feature Selection in Causal Inference: A Three-Stage Computational Framework for Unbiased Estimation**|Tianyu Yang et.al.|[2502.00501](http://arxiv.org/abs/2502.00501)|null|
 |**2025-02-01**|**Causal Abstraction Learning based on the Semantic Embedding Principle**|Gabriele D'Acunto et.al.|[2502.00407](http://arxiv.org/abs/2502.00407)|null|
