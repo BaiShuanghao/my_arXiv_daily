@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -19,7 +19,7 @@ layout: default
 |**2025-02-12**|**Learning to Group and Grasp Multiple Objects**|Takahiro Yonemaru et.al.|[2502.08452](http://arxiv.org/abs/2502.08452)|null|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449](http://arxiv.org/abs/2502.08449)|null|
 |**2025-02-12**|**Salience-Invariant Consistent Policy Learning for Generalization in Visual Reinforcement Learning**|Sun Jingbo et.al.|[2502.08336](http://arxiv.org/abs/2502.08336)|null|
-|**2025-02-12**|**COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping**|Jun Yamada et.al.|[2502.08054](http://arxiv.org/abs/2502.08054)|null|
+|**2025-02-14**|**COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping**|Jun Yamada et.al.|[2502.08054](http://arxiv.org/abs/2502.08054)|null|
 |**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|null|
 |**2025-02-11**|**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**|Sicheng Wang et.al.|[2502.07837](http://arxiv.org/abs/2502.07837)|null|
 |**2025-02-11**|**Robotic In-Hand Manipulation for Large-Range Precise Object Movement: The RGMC Champion Solution**|Mingrui Yu et.al.|[2502.07472](http://arxiv.org/abs/2502.07472)|null|
