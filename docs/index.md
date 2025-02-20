@@ -9,13 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**Model Evolution Framework with Genetic Algorithm for Multi-Task Reinforcement Learning**|Yan Yu et.al.|[2502.13569](http://arxiv.org/abs/2502.13569)|null|
+|**2025-02-19**|**MILE: Model-based Intervention Learning**|Yigit Korkmaz et.al.|[2502.13519](http://arxiv.org/abs/2502.13519)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|null|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
 |**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|null|
 |**2025-02-18**|**Learning-based Dynamic Robot-to-Human Handover**|Hyeonseong Kim et.al.|[2502.12602](http://arxiv.org/abs/2502.12602)|null|
 |**2025-02-18**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|null|
 |**2025-02-18**|**USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner**|Mingcong Chen et.al.|[2502.12498](http://arxiv.org/abs/2502.12498)|null|
 |**2025-02-18**|**Reward-Safety Balance in Offline Safe RL via Diffusion Regularization**|Junyu Guo et.al.|[2502.12391](http://arxiv.org/abs/2502.12391)|null|
-|**2025-02-17**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|null|
+|**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|null|
+|**2025-02-17**|**PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**|Morgan Byrd et.al.|[2502.11377](http://arxiv.org/abs/2502.11377)|null|
 |**2025-02-17**|**Robot Deformable Object Manipulation via NMPC-generated Demonstrations in Deep Reinforcement Learning**|Haoyuan Wang et.al.|[2502.11375](http://arxiv.org/abs/2502.11375)|null|
 |**2025-02-16**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|null|
 |**2025-02-16**|**Learning Quiet Walking for a Small Home Robot**|Ryo Watanabe et.al.|[2502.10983](http://arxiv.org/abs/2502.10983)|null|
@@ -690,6 +696,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**A dynamic domain semi-Lagrangian method for stochastic Vlasov equations**|Jianbo Cui et.al.|[2502.13700](http://arxiv.org/abs/2502.13700)|null|
+|**2025-02-19**|**Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective**|Yuan Yao et.al.|[2502.13573](http://arxiv.org/abs/2502.13573)|null|
+|**2025-02-18**|**Improving Multi-turn Task Completion in Task-Oriented Dialog Systems via Prompt Chaining and Fine-Grained Feedback**|Moghis Fereidouni et.al.|[2502.13298](http://arxiv.org/abs/2502.13298)|null|
 |**2025-02-17**|**Reinforced Information Retrieval**|Chaofan Li et.al.|[2502.11562](http://arxiv.org/abs/2502.11562)|null|
 |**2025-02-17**|**PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**|Morgan Byrd et.al.|[2502.11377](http://arxiv.org/abs/2502.11377)|null|
 |**2025-02-17**|**GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder**|Seunghyuk Cho et.al.|[2502.11360](http://arxiv.org/abs/2502.11360)|null|
@@ -1113,6 +1122,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Evaluating and Enhancing Out-of-Domain Generalization of Task-Oriented Dialog Systems for Task Completion without Turn-level Dialog Annotations**|Adib Mosharrof et.al.|[2502.13310](http://arxiv.org/abs/2502.13310)|null|
 |**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|null|
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
 |**2025-02-15**|**GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts**|Sameer Ambekar et.al.|[2502.12195](http://arxiv.org/abs/2502.12195)|null|
@@ -1322,6 +1332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models**|Peter Carragher et.al.|[2502.13836](http://arxiv.org/abs/2502.13836)|null|
+|**2025-02-19**|**GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking**|Florian Schneider et.al.|[2502.13766](http://arxiv.org/abs/2502.13766)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
+|**2025-02-19**|**Estimating Commonsense Plausibility through Semantic Shifts**|Wanqing Cui et.al.|[2502.13464](http://arxiv.org/abs/2502.13464)|null|
+|**2025-02-19**|**MoVer: Motion Verification for Motion Graphics Animations**|Jiaju Ma et.al.|[2502.13372](http://arxiv.org/abs/2502.13372)|null|
+|**2025-02-18**|**Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks**|Wenpeng Xing et.al.|[2502.13175](http://arxiv.org/abs/2502.13175)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
 |**2025-02-18**|**MVL-SIB: A Massively Multilingual Vision-Language Benchmark for Cross-Modal Topical Matching**|Fabian David Schmidt et.al.|[2502.12852](http://arxiv.org/abs/2502.12852)|null|
@@ -2355,6 +2375,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion**|Shuai Niu et.al.|[2502.13509](http://arxiv.org/abs/2502.13509)|null|
 |**2025-02-16**|**Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product**|Pengxiang Lan et.al.|[2502.12200](http://arxiv.org/abs/2502.12200)|null|
 |**2025-02-17**|**Learning Generalizable Prompt for CLIP with Class Similarity Knowledge**|Sehun Jung et.al.|[2502.11969](http://arxiv.org/abs/2502.11969)|null|
 |**2025-02-16**|**Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection**|Jiaxiang Wang et.al.|[2502.11307](http://arxiv.org/abs/2502.11307)|null|
@@ -2601,6 +2622,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Causal discovery in heavy-tailed linear structural equation models via scalings**|Mario Krali et.al.|[2502.13762](http://arxiv.org/abs/2502.13762)|null|
+|**2025-02-19**|**Robust Counterfactual Inference in Markov Decision Processes**|Jessica Lally et.al.|[2502.13731](http://arxiv.org/abs/2502.13731)|null|
+|**2025-02-19**|**Causes and Strategies in Multiagent Systems**|Sylvia S. Kerkhove et.al.|[2502.13701](http://arxiv.org/abs/2502.13701)|null|
+|**2025-02-19**|**Distal Causal Excursion Effects: Modeling Long-Term Effects of Time-Varying Treatments in Micro-Randomized Trials**|Tianchen Qian et.al.|[2502.13500](http://arxiv.org/abs/2502.13500)|null|
+|**2025-02-18**|**Robust Inference for the Direct Average Treatment Effect with Treatment Assignment Interference**|Matias D. Cattaneo et.al.|[2502.13238](http://arxiv.org/abs/2502.13238)|null|
 |**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
 |**2025-02-18**|**The Relationship Between Head Injury and Alzheimer's Disease: A Causal Analysis with Bayesian Networks**|Andrei Lixandru et.al.|[2502.12898](http://arxiv.org/abs/2502.12898)|null|
 |**2025-02-18**|**Learning Counterfactually Fair Models via Improved Generation with Neural Causal Models**|Krishn Vishwas Kher et.al.|[2502.12796](http://arxiv.org/abs/2502.12796)|null|
@@ -3054,7 +3080,7 @@ layout: default
 |**2025-02-17**|**Alignment and Adversarial Robustness: Are More Human-Like Models More Secure?**|Blaine Hoak et.al.|[2502.12377](http://arxiv.org/abs/2502.12377)|null|
 |**2025-02-17**|**Adversarial Alignment for LLMs Requires Simpler, Reproducible, and More Measurable Objectives**|Leo Schwinn et.al.|[2502.11910](http://arxiv.org/abs/2502.11910)|null|
 |**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863](http://arxiv.org/abs/2502.11863)|null|
-|**2025-02-17**|**Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives**|Zeliang Zhang et.al.|[2502.11858](http://arxiv.org/abs/2502.11858)|null|
+|**2025-02-19**|**Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives**|Zeliang Zhang et.al.|[2502.11858](http://arxiv.org/abs/2502.11858)|null|
 |**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
 |**2025-02-17**|**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**|Fenghua Weng et.al.|[2502.11455](http://arxiv.org/abs/2502.11455)|null|
 |**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
