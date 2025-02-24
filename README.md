@@ -18,17 +18,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
+|**2025-02-21**|**Learning Long-Horizon Robot Manipulation Skills via Privileged Action**|Xiaofeng Mao et.al.|[2502.15442](http://arxiv.org/abs/2502.15442)|null|
+|**2025-02-21**|**Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles**|Ruofei Bai et.al.|[2502.15162](http://arxiv.org/abs/2502.15162)|null|
+|**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
 |**2025-02-19**|**EfficientPose 6D: Scalable and Efficient 6D Object Pose Estimation**|Zixuan Fang et.al.|[2502.14061](http://arxiv.org/abs/2502.14061)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
 |**2025-02-19**|**Model Evolution Framework with Genetic Algorithm for Multi-Task Reinforcement Learning**|Yan Yu et.al.|[2502.13569](http://arxiv.org/abs/2502.13569)|null|
 |**2025-02-19**|**MILE: Model-based Intervention Learning**|Yigit Korkmaz et.al.|[2502.13519](http://arxiv.org/abs/2502.13519)|null|
-|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
+|**2025-02-21**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
 |**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|**[link](https://github.com/thieso/boundplanner)**|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
 |**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|**[link](https://github.com/microsoft/Magma)**|
 |**2025-02-18**|**Learning-based Dynamic Robot-to-Human Handover**|Hyeonseong Kim et.al.|[2502.12602](http://arxiv.org/abs/2502.12602)|null|
-|**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|null|
+|**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
 |**2025-02-18**|**USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner**|Mingcong Chen et.al.|[2502.12498](http://arxiv.org/abs/2502.12498)|null|
 |**2025-02-18**|**Reward-Safety Balance in Offline Safe RL via Diffusion Regularization**|Junyu Guo et.al.|[2502.12391](http://arxiv.org/abs/2502.12391)|null|
 |**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|**[link](https://github.com/ALRhub/X_IL)**|
@@ -709,11 +711,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
-|**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
-|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|**[link](https://github.com/av9ash/gitbugs/blob/main/multilingual/)**|
-|**2025-02-20**|**Asymmetric Co-Training for Source-Free Few-Shot Domain Adaptation**|Gengxu Li et.al.|[2502.14214](http://arxiv.org/abs/2502.14214)|null|
-|**2025-02-20**|**Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring**|Hu Gao et.al.|[2502.14209](http://arxiv.org/abs/2502.14209)|null|
+|**2025-02-21**|**Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks**|Tianyou Jiang et.al.|[2502.15286](http://arxiv.org/abs/2502.15286)|null|
+|**2025-02-21**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193](http://arxiv.org/abs/2502.15193)|null|
+|**2025-02-21**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
+|**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
+|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|**[link](https://github.com/av9ash/gitbugs)**|
+|**2025-02-20**|**Asymmetric Co-Training for Source-Free Few-Shot Domain Adaptation**|Gengxu Li et.al.|[2502.14214](http://arxiv.org/abs/2502.14214)|**[link](https://github.com/gengxuli/act)**|
+|**2025-02-20**|**Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring**|Hu Gao et.al.|[2502.14209](http://arxiv.org/abs/2502.14209)|**[link](https://github.com/tombs98/sfafnet)**|
 |**2025-02-19**|**A dynamic domain semi-Lagrangian method for stochastic Vlasov equations**|Jianbo Cui et.al.|[2502.13700](http://arxiv.org/abs/2502.13700)|null|
 |**2025-02-19**|**Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective**|Yuan Yao et.al.|[2502.13573](http://arxiv.org/abs/2502.13573)|**[link](https://github.com/yyyaoyuan/shda)**|
 |**2025-02-18**|**Improving Multi-turn Task Completion in Task-Oriented Dialog Systems via Prompt Chaining and Fine-Grained Feedback**|Moghis Fereidouni et.al.|[2502.13298](http://arxiv.org/abs/2502.13298)|null|
@@ -1142,14 +1146,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**CER: Confidence Enhanced Reasoning in LLMs**|Ali Razghandi et.al.|[2502.14634](http://arxiv.org/abs/2502.14634)|null|
+|**2025-02-20**|**CER: Confidence Enhanced Reasoning in LLMs**|Ali Razghandi et.al.|[2502.14634](http://arxiv.org/abs/2502.14634)|**[link](https://github.com/aquasar11/cer)**|
 |**2025-02-20**|**A Similarity Paradigm Through Textual Regularization Without Forgetting**|Fangming Cui et.al.|[2502.14376](http://arxiv.org/abs/2502.14376)|null|
-|**2025-02-20**|**Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models**|Michihiro Yasunaga et.al.|[2502.14191](http://arxiv.org/abs/2502.14191)|null|
-|**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|null|
+|**2025-02-20**|**Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models**|Michihiro Yasunaga et.al.|[2502.14191](http://arxiv.org/abs/2502.14191)|**[link](https://github.com/facebookresearch/multimodal_rewardbench)**|
+|**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|**[link](https://github.com/niceringnode/lggpt)**|
 |**2025-02-18**|**Evaluating and Enhancing Out-of-Domain Generalization of Task-Oriented Dialog Systems for Task Completion without Turn-level Dialog Annotations**|Adib Mosharrof et.al.|[2502.13310](http://arxiv.org/abs/2502.13310)|null|
 |**2025-02-18**|**Improved Fine-Tuning of Large Multimodal Models for Hateful Meme Detection**|Jingbiao Mei et.al.|[2502.13061](http://arxiv.org/abs/2502.13061)|null|
 |**2025-02-17**|**Can Language Models Learn Typologically Implausible Languages?**|Tianyang Xu et.al.|[2502.12317](http://arxiv.org/abs/2502.12317)|null|
-|**2025-02-15**|**GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts**|Sameer Ambekar et.al.|[2502.12195](http://arxiv.org/abs/2502.12195)|null|
+|**2025-02-15**|**GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts**|Sameer Ambekar et.al.|[2502.12195](http://arxiv.org/abs/2502.12195)|**[link](https://github.com/ambekarsameer96/generalizeformer)**|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
 |**2025-02-15**|**Why Domain Generalization Fail? A View of Necessity and Sufficiency**|Long-Tung Vuong et.al.|[2502.10716](http://arxiv.org/abs/2502.10716)|null|
 |**2025-02-13**|**When and How Does CLIP Enable Domain and Compositional Generalization?**|Elias Kempf et.al.|[2502.09507](http://arxiv.org/abs/2502.09507)|null|
@@ -1358,12 +1362,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
+|**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
+|**2025-02-21**|**Bridging vision language model (VLM) evaluation gaps with a framework for scalable and cost-effective benchmark generation**|Tim Rädsch et.al.|[2502.15563](http://arxiv.org/abs/2502.15563)|null|
+|**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481](http://arxiv.org/abs/2502.15481)|null|
+|**2025-02-21**|**Chitrarth: Bridging Vision and Language for a Billion People**|Shaharukh Khan et.al.|[2502.15392](http://arxiv.org/abs/2502.15392)|null|
+|**2025-02-21**|**The Role of Background Information in Reducing Object Hallucination in Vision-Language Models: Insights from Cutoff API Prompting**|Masayo Tomita et.al.|[2502.15389](http://arxiv.org/abs/2502.15389)|null|
+|**2025-02-21**|**CopyJudge: Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models**|Shunchang Liu et.al.|[2502.15278](http://arxiv.org/abs/2502.15278)|null|
+|**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
+|**2025-02-21**|**PairBench: A Systematic Framework for Selecting Reliable Judge VLMs**|Aarash Feizi et.al.|[2502.15210](http://arxiv.org/abs/2502.15210)|null|
+|**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
+|**2025-02-20**|**Can Hallucination Correction Improve Video-Language Alignment?**|Lingjun Zhao et.al.|[2502.15079](http://arxiv.org/abs/2502.15079)|null|
+|**2025-02-20**|**LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**|Qingyuan Liu et.al.|[2502.14994](http://arxiv.org/abs/2502.14994)|null|
+|**2025-02-20**|**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**|Nastaran Darabi et.al.|[2502.14976](http://arxiv.org/abs/2502.14976)|null|
+|**2025-02-20**|**KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding**|Ahmed Heakl et.al.|[2502.14949](http://arxiv.org/abs/2502.14949)|null|
 |**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
-|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|null|
+|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|**[link](https://github.com/thu-keg/longwriter-v)**|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780](http://arxiv.org/abs/2502.14780)|null|
-|**2025-02-20**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
-|**2025-02-20**|**NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization**|Zheyuan Zhang et.al.|[2502.14638](http://arxiv.org/abs/2502.14638)|null|
+|**2025-02-21**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|**[link](https://github.com/leigest519/hiddendetect)**|
+|**2025-02-20**|**NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization**|Zheyuan Zhang et.al.|[2502.14638](http://arxiv.org/abs/2502.14638)|**[link](https://github.com/sparrowzheyuan18/navig)**|
 |**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
 |**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/abs/2502.14504)|null|
 |**2025-02-20**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486](http://arxiv.org/abs/2502.14486)|null|
@@ -2420,8 +2438,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Revisiting Financial Sentiment Analysis: A Language Model Approach**|Hamid Moradi-Kamali et.al.|[2502.14897](http://arxiv.org/abs/2502.14897)|**[link](https://github.com/hamidm21/Revisit_FSA)**|
 |**2025-02-20**|**A Similarity Paradigm Through Textual Regularization Without Forgetting**|Fangming Cui et.al.|[2502.14376](http://arxiv.org/abs/2502.14376)|null|
-|**2025-02-19**|**Modular Prompt Learning Improves Vision-Language Models**|Zhenhan Huang et.al.|[2502.14125](http://arxiv.org/abs/2502.14125)|null|
+|**2025-02-19**|**Modular Prompt Learning Improves Vision-Language Models**|Zhenhan Huang et.al.|[2502.14125](http://arxiv.org/abs/2502.14125)|**[link](https://github.com/Zhenhan-Huang/Modular-Prompt-Learning)**|
 |**2025-02-19**|**Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion**|Shuai Niu et.al.|[2502.13509](http://arxiv.org/abs/2502.13509)|null|
 |**2025-02-16**|**Efficient and Effective Prompt Tuning via Prompt Decomposition and Compressed Outer Product**|Pengxiang Lan et.al.|[2502.12200](http://arxiv.org/abs/2502.12200)|null|
 |**2025-02-17**|**Learning Generalizable Prompt for CLIP with Class Similarity Knowledge**|Sehun Jung et.al.|[2502.11969](http://arxiv.org/abs/2502.11969)|null|
@@ -2671,6 +2690,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
+|**2025-02-21**|**Causal Modeling of fMRI Time-series for Interpretable Autism Spectrum Disorder Classification**|Peiyu Duan et.al.|[2502.15595](http://arxiv.org/abs/2502.15595)|null|
+|**2025-02-21**|**ExpliCa: Evaluating Explicit Causal Reasoning in Large Language Models**|Martina Miliani et.al.|[2502.15487](http://arxiv.org/abs/2502.15487)|null|
+|**2025-02-20**|**Symmetric observations without symmetric causal explanations**|Christian William et.al.|[2502.14950](http://arxiv.org/abs/2502.14950)|null|
 |**2025-02-20**|**Internal Incoherency Scores for Constraint-based Causal Discovery Algorithms**|Sofia Faltenbacher et.al.|[2502.14719](http://arxiv.org/abs/2502.14719)|null|
 |**2025-02-20**|**Causal Mean Field Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2502.14200](http://arxiv.org/abs/2502.14200)|null|
 |**2025-02-19**|**Causal discovery in heavy-tailed linear structural equation models via scalings**|Mario Krali et.al.|[2502.13762](http://arxiv.org/abs/2502.13762)|null|
@@ -2679,10 +2702,10 @@
 |**2025-02-19**|**Distal Causal Excursion Effects: Modeling Long-Term Effects of Time-Varying Treatments in Micro-Randomized Trials**|Tianchen Qian et.al.|[2502.13500](http://arxiv.org/abs/2502.13500)|null|
 |**2025-02-18**|**Robust Inference for the Direct Average Treatment Effect with Treatment Assignment Interference**|Matias D. Cattaneo et.al.|[2502.13238](http://arxiv.org/abs/2502.13238)|null|
 |**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
-|**2025-02-18**|**The Relationship Between Head Injury and Alzheimer's Disease: A Causal Analysis with Bayesian Networks**|Andrei Lixandru et.al.|[2502.12898](http://arxiv.org/abs/2502.12898)|null|
+|**2025-02-18**|**The Relationship Between Head Injury and Alzheimer's Disease: A Causal Analysis with Bayesian Networks**|Andrei Lixandru et.al.|[2502.12898](http://arxiv.org/abs/2502.12898)|**[link](https://github.com/andreilix/causal_inference)**|
 |**2025-02-18**|**Learning Counterfactually Fair Models via Improved Generation with Neural Causal Models**|Krishn Vishwas Kher et.al.|[2502.12796](http://arxiv.org/abs/2502.12796)|null|
 |**2025-02-18**|**CausalMan: A physics-based simulator for large-scale causality**|Nicholas Tagliapietra et.al.|[2502.12707](http://arxiv.org/abs/2502.12707)|null|
-|**2025-02-18**|**Robust Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning**|Mengshi Qi et.al.|[2502.12425](http://arxiv.org/abs/2502.12425)|null|
+|**2025-02-18**|**Robust Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning**|Mengshi Qi et.al.|[2502.12425](http://arxiv.org/abs/2502.12425)|**[link](https://github.com/MICLAB-BUPT/DCL)**|
 |**2025-02-18**|**Time Series Treatment Effects Analysis with Always-Missing Controls**|Juan Shu et.al.|[2502.12393](http://arxiv.org/abs/2502.12393)|null|
 |**2025-02-17**|**The impact of job stability on monetary poverty in Italy: causal small area estimation**|Katarzyna Reluga et.al.|[2502.12376](http://arxiv.org/abs/2502.12376)|null|
 |**2025-02-17**|**Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems**|Yue Sun et.al.|[2502.12086](http://arxiv.org/abs/2502.12086)|null|
@@ -3129,12 +3152,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**A Defensive Framework Against Adversarial Attacks on Machine Learning-Based Network Intrusion Detection Systems**|Benyamin Tafreshian et.al.|[2502.15561](http://arxiv.org/abs/2502.15561)|null|
+|**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
+|**2025-02-21**|**Adversarially-Robust Gossip Algorithms for Approximate Quantile and Mean Computations**|Bernhard Haeupler et.al.|[2502.15320](http://arxiv.org/abs/2502.15320)|null|
+|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|null|
+|**2025-02-20**|**Interpreting Adversarial Attacks and Defences using Architectures with Enhanced Interpretability**|Akshay G Rao et.al.|[2502.15017](http://arxiv.org/abs/2502.15017)|null|
+|**2025-02-20**|**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**|Nastaran Darabi et.al.|[2502.14976](http://arxiv.org/abs/2502.14976)|null|
 |**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
 |**2025-02-20**|**Factor Graph-based Interpretable Neural Networks**|Yicong Li et.al.|[2502.14572](http://arxiv.org/abs/2502.14572)|null|
 |**2025-02-20**|**Generalization Certificates for Adversarially Robust Bayesian Linear Regression**|Mahalakshmi Sabanayagam et.al.|[2502.14298](http://arxiv.org/abs/2502.14298)|null|
 |**2025-02-18**|**Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training**|Yuanfan Li et.al.|[2502.12734](http://arxiv.org/abs/2502.12734)|null|
 |**2025-02-17**|**Alignment and Adversarial Robustness: Are More Human-Like Models More Secure?**|Blaine Hoak et.al.|[2502.12377](http://arxiv.org/abs/2502.12377)|null|
-|**2025-02-17**|**Adversarial Alignment for LLMs Requires Simpler, Reproducible, and More Measurable Objectives**|Leo Schwinn et.al.|[2502.11910](http://arxiv.org/abs/2502.11910)|null|
+|**2025-02-21**|**Adversarial Alignment for LLMs Requires Simpler, Reproducible, and More Measurable Objectives**|Leo Schwinn et.al.|[2502.11910](http://arxiv.org/abs/2502.11910)|null|
 |**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863](http://arxiv.org/abs/2502.11863)|null|
 |**2025-02-19**|**Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives**|Zeliang Zhang et.al.|[2502.11858](http://arxiv.org/abs/2502.11858)|null|
 |**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|**[link](https://github.com/fra31/perceptual-metrics)**|
