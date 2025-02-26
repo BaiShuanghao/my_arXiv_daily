@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Supervised Reward Inference**|Will Schwarzer et.al.|[2502.18447](http://arxiv.org/abs/2502.18447)|null|
+|**2025-02-25**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121](http://arxiv.org/abs/2502.18121)|null|
 |**2025-02-24**|**Modeling, Simulation, and Application of Spatio-Temporal Characteristics Detection in Incipient Slip**|Mingxuan Li et.al.|[2502.17335](http://arxiv.org/abs/2502.17335)|null|
 |**2025-02-24**|**Task-Oriented 6-DoF Grasp Pose Detection in Clutters**|An-Lan Wang et.al.|[2502.16976](http://arxiv.org/abs/2502.16976)|null|
 |**2025-02-24**|**DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**|Zhengrong Xue et.al.|[2502.16932](http://arxiv.org/abs/2502.16932)|null|
@@ -711,6 +713,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Sketch-1-to-3: One Single Sketch to 3D Detailed Face Reconstruction**|Liting Wen et.al.|[2502.17852](http://arxiv.org/abs/2502.17852)|null|
+|**2025-02-21**|**Inverse Surrogate Model of a Soft X-Ray Spectrometer using Domain Adaptation**|Enrico Ahlers et.al.|[2502.17505](http://arxiv.org/abs/2502.17505)|null|
 |**2025-02-24**|**M3DA: Benchmark for Unsupervised Domain Adaptation in 3D Medical Image Segmentation**|Boris Shirokikh et.al.|[2502.17029](http://arxiv.org/abs/2502.17029)|null|
 |**2025-02-23**|**FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image**|Yehong Huang et.al.|[2502.16709](http://arxiv.org/abs/2502.16709)|null|
 |**2025-02-23**|**Time Series Domain Adaptation via Latent Invariant Causal Mechanism**|Ruichu Cai et.al.|[2502.16637](http://arxiv.org/abs/2502.16637)|**[link](https://github.com/dmirlab-group/lca)**|
@@ -1152,6 +1156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188](http://arxiv.org/abs/2502.18188)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
 |**2025-02-22**|**On prime ends equicontinuity of unclosed inverse mappings**|Zarina Kovba et.al.|[2502.16209](http://arxiv.org/abs/2502.16209)|null|
 |**2025-02-22**|**Single Domain Generalization with Model-aware Parametric Batch-wise Mixup**|Marzi Heidari et.al.|[2502.16064](http://arxiv.org/abs/2502.16064)|null|
 |**2025-02-20**|**CER: Confidence Enhanced Reasoning in LLMs**|Ali Razghandi et.al.|[2502.14634](http://arxiv.org/abs/2502.14634)|**[link](https://github.com/aquasar11/cer)**|
@@ -1368,10 +1374,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|**[link](https://github.com/avduarte333/dis-co)**|
+|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
+|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356](http://arxiv.org/abs/2502.18356)|null|
+|**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290](http://arxiv.org/abs/2502.18290)|null|
+|**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
+|**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
+|**2025-02-25**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al.|[2502.17812](http://arxiv.org/abs/2502.17812)|null|
+|**2025-02-24**|**Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures**|Akhila Yerukola et.al.|[2502.17710](http://arxiv.org/abs/2502.17710)|null|
+|**2025-02-24**|**METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling**|Bingxuan Li et.al.|[2502.17651](http://arxiv.org/abs/2502.17651)|null|
+|**2025-02-24**|**End-to-End Chart Summarization via Visual Chain-of-Thought in Vision-Language Models**|Raymond Choi et.al.|[2502.17589](http://arxiv.org/abs/2502.17589)|null|
+|**2025-02-24**|**PosterSum: A Multimodal Benchmark for Scientific Poster Summarization**|Rohit Saxena et.al.|[2502.17540](http://arxiv.org/abs/2502.17540)|null|
+|**2025-02-25**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|**[link](https://github.com/avduarte333/dis-co)**|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-24**|**Shakti-VLMs: Scalable Vision-Language Models for Enterprise AI**|Syed Abdul Gaffar Shakhadri et.al.|[2502.17092](http://arxiv.org/abs/2502.17092)|null|
-|**2025-02-24**|**Evolution 6.0: Evolving Robotic Capabilities Through Generative Design**|Muhammad Haris Khan et.al.|[2502.17034](http://arxiv.org/abs/2502.17034)|null|
+|**2025-02-25**|**Evolution 6.0: Evolving Robotic Capabilities Through Generative Design**|Muhammad Haris Khan et.al.|[2502.17034](http://arxiv.org/abs/2502.17034)|null|
 |**2025-02-24**|**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**|Davide Testa et.al.|[2502.16989](http://arxiv.org/abs/2502.16989)|null|
 |**2025-02-24**|**SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models**|Kevin Miller et.al.|[2502.16911](http://arxiv.org/abs/2502.16911)|null|
 |**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
@@ -2462,6 +2478,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200](http://arxiv.org/abs/2502.18200)|null|
+|**2025-02-25**|**AutoCas: Autoregressive Cascade Predictor in Social Networks via Large Language Models**|Yuhao Zheng et.al.|[2502.18040](http://arxiv.org/abs/2502.18040)|null|
 |**2025-02-24**|**SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models**|Kevin Miller et.al.|[2502.16911](http://arxiv.org/abs/2502.16911)|null|
 |**2025-02-24**|**In-context learning of evolving data streams with tabular foundational models**|Afonso Lourenço et.al.|[2502.16840](http://arxiv.org/abs/2502.16840)|null|
 |**2025-02-17**|**Revisiting Financial Sentiment Analysis: A Language Model Approach**|Hamid Moradi-Kamali et.al.|[2502.14897](http://arxiv.org/abs/2502.14897)|**[link](https://github.com/hamidm21/Revisit_FSA)**|
@@ -2714,6 +2732,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405](http://arxiv.org/abs/2502.18405)|null|
+|**2025-02-25**|**Unveiling and Causalizing CoT: A Causal Pespective**|Jiarun Fu et.al.|[2502.18239](http://arxiv.org/abs/2502.18239)|null|
+|**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
 |**2025-02-24**|**Joint Value Estimation and Bidding in Repeated First-Price Auctions**|Yuxiao Wen et.al.|[2502.17292](http://arxiv.org/abs/2502.17292)|null|
 |**2025-02-24**|**Teleology-Driven Affective Computing: A Causal Framework for Sustained Well-Being**|Bin Yin et.al.|[2502.17172](http://arxiv.org/abs/2502.17172)|null|
 |**2025-02-24**|**Your Assumed DAG is Wrong and Here's How To Deal With It**|Kirtan Padh et.al.|[2502.17030](http://arxiv.org/abs/2502.17030)|null|
@@ -3181,6 +3202,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|null|
+|**2025-02-24**|**A stochastic smoothing framework for nonconvex-nonconcave min-sum-max problems with applications to Wasserstein distributionally robust optimization**|Wei Liu et.al.|[2502.17602](http://arxiv.org/abs/2502.17602)|null|
 |**2025-02-24**|**Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via Emoji Sequences**|Yangshijie Zhang et.al.|[2502.17392](http://arxiv.org/abs/2502.17392)|null|
 |**2025-02-24**|**Conditional Generative Adversarial Networks for Channel Estimation in RIS-Assisted ISAC Systems**|Alice Faisal et.al.|[2502.17128](http://arxiv.org/abs/2502.17128)|null|
 |**2025-02-24**|**Adversarial Training for Defense Against Label Poisoning Attacks**|Melis Ilayda Bal et.al.|[2502.17121](http://arxiv.org/abs/2502.17121)|**[link](https://github.com/melisilaydabal/floral)**|
