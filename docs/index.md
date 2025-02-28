@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**|Siddhant Haldar et.al.|[2502.20391](http://arxiv.org/abs/2502.20391)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**The Role of Tactile Sensing for Learning Reach and Grasp**|Boya Zhang et.al.|[2502.20367](http://arxiv.org/abs/2502.20367)|null|
+|**2025-02-27**|**Accelerating Model-Based Reinforcement Learning with State-Space World Models**|Maria Krinner et.al.|[2502.20168](http://arxiv.org/abs/2502.20168)|null|
+|**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054](http://arxiv.org/abs/2502.20054)|null|
+|**2025-02-27**|**FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects**|Hongyu Deng et.al.|[2502.20037](http://arxiv.org/abs/2502.20037)|null|
+|**2025-02-27**|**Multi-Keypoint Affordance Representation for Functional Dexterous Grasping**|Fan Yang et.al.|[2502.20018](http://arxiv.org/abs/2502.20018)|null|
+|**2025-02-27**|**Sensor-Invariant Tactile Representation**|Harsh Gupta et.al.|[2502.19638](http://arxiv.org/abs/2502.19638)|null|
+|**2025-02-26**|**Image-Based Roadmaps for Vision-Only Planning and Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2502.19617](http://arxiv.org/abs/2502.19617)|null|
+|**2025-02-26**|**Generalist World Model Pre-Training for Efficient Reinforcement Learning**|Yi Zhao et.al.|[2502.19544](http://arxiv.org/abs/2502.19544)|null|
 |**2025-02-26**|**Surface-Based Manipulation**|Ziqiao Wang et.al.|[2502.19389](http://arxiv.org/abs/2502.19389)|null|
 |**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
 |**2025-02-26**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Minjie Zhu et.al.|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
@@ -718,6 +729,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
+|**2025-02-27**|**R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning**|Minggui He et.al.|[2502.19735](http://arxiv.org/abs/2502.19735)|null|
 |**2025-02-26**|**Model Adaptation: Unsupervised Domain Adaptation without Source Data**|Rui Li et.al.|[2502.19316](http://arxiv.org/abs/2502.19316)|null|
 |**2025-02-26**|**Generalizable deep learning for photoplethysmography-based blood pressure estimation -- A Benchmarking Study**|Mohammad Moulaeifard et.al.|[2502.19167](http://arxiv.org/abs/2502.19167)|null|
 |**2025-02-26**|**Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation**|Humza Sami et.al.|[2502.19091](http://arxiv.org/abs/2502.19091)|**[link](https://github.com/PrimisAI/nexus)**|
@@ -1165,6 +1178,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**|Pierre Vuillecard et.al.|[2502.20249](http://arxiv.org/abs/2502.20249)|null|
+|**2025-02-27**|**Gradient-Guided Annealing for Domain Generalization**|Aristotelis Ballas et.al.|[2502.20162](http://arxiv.org/abs/2502.20162)|null|
+|**2025-02-27**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
+|**2025-02-27**|**Teaching Dense Retrieval Models to Specialize with Listwise Distillation and LLM Data Augmentation**|Manveer Singh Tamber et.al.|[2502.19712](http://arxiv.org/abs/2502.19712)|null|
+|**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
+|**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 |**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188](http://arxiv.org/abs/2502.18188)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-22**|**On prime ends equicontinuity of unclosed inverse mappings**|Zarina Kovba et.al.|[2502.16209](http://arxiv.org/abs/2502.16209)|null|
@@ -1383,9 +1402,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore**|Hongseok Oh et.al.|[2502.20034](http://arxiv.org/abs/2502.20034)|null|
+|**2025-02-27**|**ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models**|Ke Niu et.al.|[2502.19958](http://arxiv.org/abs/2502.19958)|null|
+|**2025-02-27**|**ProAPO: Progressively Automatic Prompt Optimization for Visual Classification**|Xiangyan Qu et.al.|[2502.19844](http://arxiv.org/abs/2502.19844)|null|
+|**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
+|**2025-02-27**|**Mixtera: A Data Plane for Foundation Model Training**|Maximilian Böther et.al.|[2502.19790](http://arxiv.org/abs/2502.19790)|null|
+|**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
+|**2025-02-27**|**InPK: Infusing Prior Knowledge into Prompt for Vision-Language Models**|Shuchang Zhou et.al.|[2502.19777](http://arxiv.org/abs/2502.19777)|null|
+|**2025-02-27**|**Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion**|Yuan Bian et.al.|[2502.19697](http://arxiv.org/abs/2502.19697)|null|
+|**2025-02-27**|**Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**|Moo Jin Kim et.al.|[2502.19645](http://arxiv.org/abs/2502.19645)|null|
+|**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
+|**2025-02-26**|**Repurposing the scientific literature with vision-language models**|Anton Alyakin et.al.|[2502.19546](http://arxiv.org/abs/2502.19546)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
-|**2025-02-26**|**Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions**|Ruben T. Lucassen et.al.|[2502.19293](http://arxiv.org/abs/2502.19293)|null|
-|**2025-02-26**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
+|**2025-02-27**|**Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions**|Ruben T. Lucassen et.al.|[2502.19293](http://arxiv.org/abs/2502.19293)|null|
+|**2025-02-27**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
 |**2025-02-26**|**Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models**|Jiawei Kong et.al.|[2502.19269](http://arxiv.org/abs/2502.19269)|null|
 |**2025-02-26**|**FungalZSL: Zero-Shot Fungal Classification with Image Captioning Using a Synthetic Data Approach**|Anju Rani et.al.|[2502.19038](http://arxiv.org/abs/2502.19038)|null|
 |**2025-02-26**|**VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model**|Jiani Zheng et.al.|[2502.18906](http://arxiv.org/abs/2502.18906)|null|
@@ -2495,6 +2527,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models**|Ke Niu et.al.|[2502.19958](http://arxiv.org/abs/2502.19958)|null|
+|**2025-02-27**|**InPK: Infusing Prior Knowledge into Prompt for Vision-Language Models**|Shuchang Zhou et.al.|[2502.19777](http://arxiv.org/abs/2502.19777)|null|
+|**2025-02-27**|**Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data**|Pei-Yau Weng et.al.|[2502.19752](http://arxiv.org/abs/2502.19752)|null|
+|**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
 |**2025-02-26**|**Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models**|Jiawei Kong et.al.|[2502.19269](http://arxiv.org/abs/2502.19269)|null|
 |**2025-02-26**|**Random Forest-of-Thoughts: Uncertainty-aware Reasoning for Computational Social Science**|Xiaohua Wu et.al.|[2502.18729](http://arxiv.org/abs/2502.18729)|null|
 |**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200](http://arxiv.org/abs/2502.18200)|null|
@@ -2751,6 +2787,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Transfer Learning in Latent Contextual Bandits with Covariate Shift Through Causal Transportability**|Mingwei Deng et.al.|[2502.20153](http://arxiv.org/abs/2502.20153)|null|
+|**2025-02-27**|**Identifiable Multi-View Causal Discovery Without Non-Gaussianity**|Ambroise Heurtebise et.al.|[2502.20115](http://arxiv.org/abs/2502.20115)|null|
+|**2025-02-27**|**Offline Reinforcement Learning via Inverse Optimization**|Ioannis Dimanidis et.al.|[2502.20030](http://arxiv.org/abs/2502.20030)|null|
+|**2025-02-27**|**Economic Causal Inference Based on DML Framework: Python Implementation of Binary and Continuous Treatment Variables**|Shunxin Yao et.al.|[2502.19898](http://arxiv.org/abs/2502.19898)|null|
+|**2025-02-27**|**Fair and Actionable Causal Prescription Ruleset**|Benton Li et.al.|[2502.19846](http://arxiv.org/abs/2502.19846)|null|
+|**2025-02-27**|**Semiparametric Triple Difference Estimators**|Sina Akbari et.al.|[2502.19788](http://arxiv.org/abs/2502.19788)|null|
+|**2025-02-26**|**Treatment Non-Adherence Bias in Clinical Machine Learning: A Real-World Study on Hypertension Medication**|Zhongyuan Liang et.al.|[2502.19625](http://arxiv.org/abs/2502.19625)|null|
+|**2025-02-26**|**Extremely Greedy Equivalence Search**|Achille Nazaret et.al.|[2502.19551](http://arxiv.org/abs/2502.19551)|null|
 |**2025-02-26**|**Long-term Causal Inference via Modeling Sequential Latent Confounding**|Weilin Chen et.al.|[2502.18994](http://arxiv.org/abs/2502.18994)|null|
 |**2025-02-26**|**Nonparametric Heterogeneous Long-term Causal Effect Estimation via Data Combination**|Weilin Chen et.al.|[2502.18960](http://arxiv.org/abs/2502.18960)|null|
 |**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405](http://arxiv.org/abs/2502.18405)|null|
@@ -3223,6 +3267,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Adversarial Robustness in Parameter-Space Classifiers**|Tamir Shor et.al.|[2502.20314](http://arxiv.org/abs/2502.20314)|null|
+|**2025-02-26**|**Evaluation of Hate Speech Detection Using Large Language Models and Geographical Contextualization**|Anwar Hossain Zahid et.al.|[2502.19612](http://arxiv.org/abs/2502.19612)|null|
+|**2025-02-26**|**No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**|Joshua Kazdan et.al.|[2502.19537](http://arxiv.org/abs/2502.19537)|null|
 |**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|**[link](https://github.com/tmlresearchgroup-cas/clipure)**|
 |**2025-02-24**|**A stochastic smoothing framework for nonconvex-nonconcave min-sum-max problems with applications to Wasserstein distributionally robust optimization**|Wei Liu et.al.|[2502.17602](http://arxiv.org/abs/2502.17602)|null|
 |**2025-02-24**|**Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via Emoji Sequences**|Yangshijie Zhang et.al.|[2502.17392](http://arxiv.org/abs/2502.17392)|null|
