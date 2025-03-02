@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -3276,7 +3276,7 @@ layout: default
 |**2025-02-24**|**Conditional Generative Adversarial Networks for Channel Estimation in RIS-Assisted ISAC Systems**|Alice Faisal et.al.|[2502.17128](http://arxiv.org/abs/2502.17128)|null|
 |**2025-02-24**|**Adversarial Training for Defense Against Label Poisoning Attacks**|Melis Ilayda Bal et.al.|[2502.17121](http://arxiv.org/abs/2502.17121)|**[link](https://github.com/melisilaydabal/floral)**|
 |**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
-|**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
+|**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|**[link](https://github.com/RyanHaoranLi/CAR-RL)**|
 |**2025-02-21**|**A Defensive Framework Against Adversarial Attacks on Machine Learning-Based Network Intrusion Detection Systems**|Benyamin Tafreshian et.al.|[2502.15561](http://arxiv.org/abs/2502.15561)|null|
 |**2025-02-21**|**Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation**|Yue Zhou et.al.|[2502.15434](http://arxiv.org/abs/2502.15434)|null|
 |**2025-02-21**|**Adversarially-Robust Gossip Algorithms for Approximate Quantile and Mean Computations**|Bernhard Haeupler et.al.|[2502.15320](http://arxiv.org/abs/2502.15320)|null|
