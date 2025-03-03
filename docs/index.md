@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -24,7 +24,7 @@ layout: default
 |**2025-02-26**|**Hybrid Robot Learning for Automatic Robot Motion Planning in Manufacturing**|Siddharth Singh et.al.|[2502.19340](http://arxiv.org/abs/2502.19340)|null|
 |**2025-02-26**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Minjie Zhu et.al.|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**CPG-Based Manipulation with Multi-Module Origami Robot Surface**|Yuhao Jiang et.al.|[2502.19218](http://arxiv.org/abs/2502.19218)|null|
-|**2025-02-26**|**Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation**|Muhammad A. Muttaqien et.al.|[2502.18842](http://arxiv.org/abs/2502.18842)|null|
+|**2025-02-28**|**Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation**|Muhammad A. Muttaqien et.al.|[2502.18842](http://arxiv.org/abs/2502.18842)|null|
 |**2025-02-25**|**Supervised Reward Inference**|Will Schwarzer et.al.|[2502.18447](http://arxiv.org/abs/2502.18447)|null|
 |**2025-02-26**|**Enhancing Reusability of Learned Skills for Robot Manipulation via Gaze and Bottleneck**|Ryo Takizawa et.al.|[2502.18121](http://arxiv.org/abs/2502.18121)|null|
 |**2025-02-24**|**Modeling, Simulation, and Application of Spatio-Temporal Characteristics Detection in Incipient Slip**|Mingxuan Li et.al.|[2502.17335](http://arxiv.org/abs/2502.17335)|null|
