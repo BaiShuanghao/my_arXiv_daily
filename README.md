@@ -1,4 +1,4 @@
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -837,7 +837,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## DA
 
@@ -847,7 +847,7 @@
 |**2025-03-13**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020](http://arxiv.org/abs/2503.10020)|null|
 |**2025-03-13**|**PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation**|Sen Wang et.al.|[2503.09938](http://arxiv.org/abs/2503.09938)|null|
 |**2025-03-12**|**Domain Adaptation for Japanese Sentence Embeddings with Contrastive Learning based on Synthetic Sentence Generation**|Zihao Chen et.al.|[2503.09094](http://arxiv.org/abs/2503.09094)|null|
-|**2025-03-11**|**Source-free domain adaptation based on label reliability for cross-domain bearing fault diagnosis**|Wenyi Wu et.al.|[2503.08749](http://arxiv.org/abs/2503.08749)|null|
+|**2025-03-11**|**Source-free domain adaptation based on label reliability for cross-domain bearing fault diagnosis**|Wenyi Wu et.al.|[2503.08749](http://arxiv.org/abs/2503.08749)|**[link](https://github.com/bdlab405/sdalr)**|
 |**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
 |**2025-03-11**|**SegDesicNet: Lightweight Semantic Segmentation in Remote Sensing with Geo-Coordinate Embeddings for Domain Adaptation**|Sachin Verma et.al.|[2503.08290](http://arxiv.org/abs/2503.08290)|null|
 |**2025-03-11**|**LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization**|Wenzhe Niu et.al.|[2503.08271](http://arxiv.org/abs/2503.08271)|null|
@@ -858,7 +858,7 @@
 |**2025-03-10**|**Fair Text Classification via Transferable Representations**|Thibaud Leteno et.al.|[2503.07691](http://arxiv.org/abs/2503.07691)|null|
 |**2025-03-10**|**TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**|Shaobin Zhuang et.al.|[2503.07416](http://arxiv.org/abs/2503.07416)|null|
 |**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
-|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|null|
+|**2025-03-10**|**HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**|Siyu Li et.al.|[2503.06821](http://arxiv.org/abs/2503.06821)|**[link](https://github.com/lynn-yu/hierdamap)**|
 |**2025-03-08**|**From Dataset to Real-world: General 3D Object Detection via Generalized Cross-domain Few-shot Learning**|Shuangzhi Li et.al.|[2503.06282](http://arxiv.org/abs/2503.06282)|null|
 |**2025-03-08**|**NeuroADDA: Active Discriminative Domain Adaptation in Connectomic**|Shashata Sawmya et.al.|[2503.06196](http://arxiv.org/abs/2503.06196)|null|
 |**2025-03-08**|**Vision-aware Multimodal Prompt Tuning for Uploadable Multi-source Few-shot Domain Adaptation**|Kuanghong Liu et.al.|[2503.06106](http://arxiv.org/abs/2503.06106)|null|
@@ -1332,7 +1332,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## DG
 
@@ -1344,7 +1344,7 @@
 |**2025-03-13**|**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2503.09968](http://arxiv.org/abs/2503.09968)|null|
 |**2025-03-12**|**Towards Hardware Supported Domain Generalization in DNN-Based Edge Computing Devices for Health Monitoring**|Johnson Loh et.al.|[2503.09661](http://arxiv.org/abs/2503.09661)|null|
 |**2025-03-12**|**Mono2D: A Trainable Monogenic Layer for Robust Knee Cartilage Segmentation on Out-of-Distribution 2D Ultrasound Data**|Alvin Kimbowa et.al.|[2503.09050](http://arxiv.org/abs/2503.09050)|null|
-|**2025-03-11**|**Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation**|Xiwen Chen et.al.|[2503.08906](http://arxiv.org/abs/2503.08906)|null|
+|**2025-03-11**|**Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation**|Xiwen Chen et.al.|[2503.08906](http://arxiv.org/abs/2503.08906)|**[link](https://github.com/chongqingnosubway/prompt-ot)**|
 |**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
 |**2025-03-11**|**LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization**|Wenzhe Niu et.al.|[2503.08271](http://arxiv.org/abs/2503.08271)|null|
 |**2025-03-11**|**A General Framework to Evaluate Methods for Assessing Dimensions of Lexical Semantic Change Using LLM-Generated Synthetic Data**|Naomi Baes et.al.|[2503.08042](http://arxiv.org/abs/2503.08042)|null|
@@ -1354,7 +1354,7 @@
 |**2025-03-08**|**Single Domain Generalization with Adversarial Memory**|Hao Yan et.al.|[2503.06288](http://arxiv.org/abs/2503.06288)|null|
 |**2025-03-06**|**MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching**|Peng Xu et.al.|[2503.04376](http://arxiv.org/abs/2503.04376)|null|
 |**2025-03-06**|**When Claims Evolve: Evaluating and Enhancing the Robustness of Embedding Models Against Misinformation Edits**|Jabez Magomere et.al.|[2503.03417](http://arxiv.org/abs/2503.03417)|null|
-|**2025-03-05**|**Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments**|Hanyu Duan et.al.|[2503.03399](http://arxiv.org/abs/2503.03399)|null|
+|**2025-03-05**|**Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments**|Hanyu Duan et.al.|[2503.03399](http://arxiv.org/abs/2503.03399)|**[link](https://github.com/hduanac/gradframe)**|
 |**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
 |**2025-03-03**|**Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**|Yiming Wang et.al.|[2503.01422](http://arxiv.org/abs/2503.01422)|null|
 |**2025-03-03**|**Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting**|Xiaobin Hong et.al.|[2503.01157](http://arxiv.org/abs/2503.01157)|null|
@@ -1582,7 +1582,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## VLM
 
@@ -2845,7 +2845,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Prompt
 
@@ -2858,13 +2858,13 @@
 |**2025-03-12**|**N2C2: Nearest Neighbor Enhanced Confidence Calibration for Cross-Lingual In-Context Learning**|Jie He et.al.|[2503.09218](http://arxiv.org/abs/2503.09218)|null|
 |**2025-03-12**|**Urban Region Representation Learning: A Flexible Approach**|Fengze Sun et.al.|[2503.09128](http://arxiv.org/abs/2503.09128)|null|
 |**2025-03-12**|**Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal**|Rongxin Liao et.al.|[2503.09013](http://arxiv.org/abs/2503.09013)|null|
-|**2025-03-11**|**Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation**|Xiwen Chen et.al.|[2503.08906](http://arxiv.org/abs/2503.08906)|null|
+|**2025-03-11**|**Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation**|Xiwen Chen et.al.|[2503.08906](http://arxiv.org/abs/2503.08906)|**[link](https://github.com/chongqingnosubway/prompt-ot)**|
 |**2025-03-11**|**Debiased Prompt Tuning in Vision-Language Model without Annotations**|Chaoquan Jiang et.al.|[2503.08368](http://arxiv.org/abs/2503.08368)|null|
-|**2025-03-12**|**Modeling Variants of Prompts for Vision-Language Models**|Ao Li et.al.|[2503.08229](http://arxiv.org/abs/2503.08229)|null|
+|**2025-03-12**|**Modeling Variants of Prompts for Vision-Language Models**|Ao Li et.al.|[2503.08229](http://arxiv.org/abs/2503.08229)|**[link](https://github.com/liaolea/mvp)**|
 |**2025-03-11**|**Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning**|Haoran Chen et.al.|[2503.07979](http://arxiv.org/abs/2503.07979)|null|
 |**2025-03-10**|**XR-VLM: Cross-Relationship Modeling with Multi-part Prompts and Visual Features for Fine-Grained Recognition**|Chuanming Wang et.al.|[2503.07075](http://arxiv.org/abs/2503.07075)|null|
 |**2025-03-10**|**CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model**|Shihao Hou et.al.|[2503.06993](http://arxiv.org/abs/2503.06993)|null|
-|**2025-03-10**|**Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning**|Chikai Shang et.al.|[2503.06901](http://arxiv.org/abs/2503.06901)|null|
+|**2025-03-10**|**Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning**|Chikai Shang et.al.|[2503.06901](http://arxiv.org/abs/2503.06901)|**[link](https://github.com/ckshang/pro-vpt)**|
 |**2025-03-08**|**Vision-aware Multimodal Prompt Tuning for Uploadable Multi-source Few-shot Domain Adaptation**|Kuanghong Liu et.al.|[2503.06106](http://arxiv.org/abs/2503.06106)|null|
 |**2025-03-08**|**Exploring Interpretability for Visual Prompt Tuning with Hierarchical Concepts**|Yubin Wang et.al.|[2503.06084](http://arxiv.org/abs/2503.06084)|null|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
@@ -3137,7 +3137,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -3158,7 +3158,7 @@
 |**2025-03-08**|**Antibiotic Resistance Microbiology Dataset (ARMD): A De-identified Resource for Studying Antimicrobial Resistance Using Electronic Health Records**|Fateme Nateghi Haredasht et.al.|[2503.07664](http://arxiv.org/abs/2503.07664)|null|
 |**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475](http://arxiv.org/abs/2503.07475)|null|
 |**2025-03-10**|**Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies**|Luyi Jiang et.al.|[2503.07306](http://arxiv.org/abs/2503.07306)|null|
-|**2025-03-10**|**When Selection Meets Intervention: Additional Complexities in Causal Discovery**|Haoyue Dai et.al.|[2503.07302](http://arxiv.org/abs/2503.07302)|null|
+|**2025-03-10**|**When Selection Meets Intervention: Additional Complexities in Causal Discovery**|Haoyue Dai et.al.|[2503.07302](http://arxiv.org/abs/2503.07302)|**[link](https://github.com/MarkDana/CDIS)**|
 |**2025-03-09**|**Extremes of structural causal models**|Sebastian Engelke et.al.|[2503.06536](http://arxiv.org/abs/2503.06536)|null|
 |**2025-03-09**|**AXAI-CDSS : An Affective Explainable AI-Driven Clinical Decision Support System for Cannabis Use**|Tongze Zhang et.al.|[2503.06463](http://arxiv.org/abs/2503.06463)|null|
 |**2025-03-09**|**Causal Discovery and Inference towards Urban Elements and Associated Factors**|Tao Feng et.al.|[2503.06395](http://arxiv.org/abs/2503.06395)|null|
@@ -3668,7 +3668,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## Adversarial
 
@@ -3692,7 +3692,7 @@
 |**2025-03-08**|**Exploring Adversarial Transferability between Kolmogorov-arnold Networks**|Songping Wang et.al.|[2503.06276](http://arxiv.org/abs/2503.06276)|null|
 |**2025-03-07**|**Generalizable Image Repair for Robust Visual Autonomous Racing**|Carson Sobolewski et.al.|[2503.05911](http://arxiv.org/abs/2503.05911)|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
-|**2025-03-07**|**Pretext Task Adversarial Learning for Unpaired Low-field to Ultra High-field MRI Synthesis**|Zhenxuan Zhang et.al.|[2503.05339](http://arxiv.org/abs/2503.05339)|null|
+|**2025-03-07**|**Pretext Task Adversarial Learning for Unpaired Low-field to Ultra High-field MRI Synthesis**|Zhenxuan Zhang et.al.|[2503.05339](http://arxiv.org/abs/2503.05339)|**[link](https://github.com/zhenxuan-zhang/pta4unpaired_hf_mri_syn)**|
 |**2025-03-07**|**Robust Intrusion Detection System with Explainable Artificial Intelligence**|Betül Güvenç Paltun et.al.|[2503.05303](http://arxiv.org/abs/2503.05303)|null|
 |**2025-03-07**|**Accelerated Patient-specific Non-Cartesian MRI Reconstruction using Implicit Neural Representations**|Di Xu et.al.|[2503.05051](http://arxiv.org/abs/2503.05051)|null|
 |**2025-03-05**|**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**|Liming Lu et.al.|[2503.04833](http://arxiv.org/abs/2503.04833)|null|
@@ -4054,5 +4054,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
