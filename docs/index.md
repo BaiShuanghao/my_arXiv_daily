@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -3698,7 +3698,7 @@ layout: default
 |**2025-03-13**|**Robustness Tokens: Towards Adversarial Robustness of Transformers**|Brian Pulfer et.al.|[2503.10191](http://arxiv.org/abs/2503.10191)|**[link](https://github.com/brianpulfer/robustness-tokens)**|
 |**2025-03-12**|**Detecting and Preventing Data Poisoning Attacks on AI Models**|Halima I. Kure et.al.|[2503.09302](http://arxiv.org/abs/2503.09302)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
-|**2025-03-11**|**Imitation Learning of Correlated Policies in Stackelberg Games**|Kunag-Da Wang et.al.|[2503.08883](http://arxiv.org/abs/2503.08883)|null|
+|**2025-03-16**|**Imitation Learning of Correlated Policies in Stackelberg Games**|Kuang-Da Wang et.al.|[2503.08883](http://arxiv.org/abs/2503.08883)|null|
 |**2025-03-11**|**FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods**|Seyyed Mohammad Sadegh Moosavi Khorzooghi et.al.|[2503.08731](http://arxiv.org/abs/2503.08731)|**[link](https://github.com/fairdeface/FairDeface)**|
 |**2025-03-09**|**Life-Cycle Routing Vulnerabilities of LLM Router**|Qiqi Lin et.al.|[2503.08704](http://arxiv.org/abs/2503.08704)|null|
 |**2025-03-11**|**Generalized Kullback-Leibler Divergence Loss**|Jiequan Cui et.al.|[2503.08038](http://arxiv.org/abs/2503.08038)|null|
