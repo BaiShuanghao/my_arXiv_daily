@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment**|Yufei Zhu et.al.|[2503.14329](http://arxiv.org/abs/2503.14329)|null|
+|**2025-03-19**|**EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment**|Yufei Zhu et.al.|[2503.14329](http://arxiv.org/abs/2503.14329)|null|
 |**2025-03-18**|**Risk-Sensitive Model Predictive Control for Interaction-Aware Planning -- A Sequential Convexification Algorithm**|Renzi Wang et.al.|[2503.14328](http://arxiv.org/abs/2503.14328)|null|
 |**2025-03-18**|**FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks**|Siqi Zhang et.al.|[2503.13966](http://arxiv.org/abs/2503.13966)|null|
 |**2025-03-18**|**COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning**|Yuki Tomita et.al.|[2503.13934](http://arxiv.org/abs/2503.13934)|null|
