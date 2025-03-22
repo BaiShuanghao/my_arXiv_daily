@@ -3331,13 +3331,13 @@
 |**2025-03-19**|**World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child**|Javier Del Ser et.al.|[2503.15168](http://arxiv.org/abs/2503.15168)|null|
 |**2025-03-19**|**DeCaFlow: A Deconfounding Causal Generative Model**|Alejandro Almodóvar et.al.|[2503.15114](http://arxiv.org/abs/2503.15114)|null|
 |**2025-03-18**|**Generating Causal Explanations of Vehicular Agent Behavioural Interactions with Learnt Reward Profiles**|Rhys Howard et.al.|[2503.14557](http://arxiv.org/abs/2503.14557)|null|
-|**2025-03-18**|**Doubly robust identification of treatment effects from multiple environments**|Piersilvio De Bartolomeis et.al.|[2503.14459](http://arxiv.org/abs/2503.14459)|null|
+|**2025-03-18**|**Doubly robust identification of treatment effects from multiple environments**|Piersilvio De Bartolomeis et.al.|[2503.14459](http://arxiv.org/abs/2503.14459)|**[link](https://github.com/jaabmar/RAMEN)**|
 |**2025-03-18**|**Inducing Causal Structure for Interpretable Neural Networks Applied to Glucose Prediction for T1DM Patients**|Ana Esponera et.al.|[2503.14442](http://arxiv.org/abs/2503.14442)|**[link](https://github.com/aespogom/IIT_simglucose)**|
 |**2025-03-18**|**The covariance of causal effect estimators for binary v-structures**|Jack Kuipers et.al.|[2503.14242](http://arxiv.org/abs/2503.14242)|null|
 |**2025-03-18**|**KANITE: Kolmogorov-Arnold Networks for ITE estimation**|Eshan Mehendale et.al.|[2503.13912](http://arxiv.org/abs/2503.13912)|null|
 |**2025-03-18**|**Causal Discovery from Data Assisted by Large Language Models**|Kamyar Barakati et.al.|[2503.13833](http://arxiv.org/abs/2503.13833)|null|
 |**2025-03-17**|**Causes of evolutionary divergence in prostate cancer**|Emre Esenturk et.al.|[2503.13189](http://arxiv.org/abs/2503.13189)|null|
-|**2025-03-17**|**Causal Feature Learning in the Social Sciences**|Jingzhou Huang et.al.|[2503.12784](http://arxiv.org/abs/2503.12784)|null|
+|**2025-03-17**|**Causal Feature Learning in the Social Sciences**|Jingzhou Huang et.al.|[2503.12784](http://arxiv.org/abs/2503.12784)|**[link](https://github.com/Rorn001/causal-learning)**|
 |**2025-03-16**|**Causality Model for Semantic Understanding on Videos**|Li Yicong et.al.|[2503.12447](http://arxiv.org/abs/2503.12447)|null|
 |**2025-03-16**|**Computational identification of ketone metabolism as a key regulator of sleep stability and circadian dynamics via real-time metabolic profiling**|Hao Huang et.al.|[2503.12330](http://arxiv.org/abs/2503.12330)|null|
 |**2025-03-13**|**The Relativity of Causal Knowledge**|Gabriele D'Acunto et.al.|[2503.11718](http://arxiv.org/abs/2503.11718)|null|
