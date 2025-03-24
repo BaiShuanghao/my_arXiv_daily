@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -883,7 +883,7 @@ layout: default
 |**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
 |**2025-03-19**|**PointSFDA: Source-free Domain Adaptation for Point Cloud Completion**|Xing He et.al.|[2503.15144](http://arxiv.org/abs/2503.15144)|null|
 |**2025-03-19**|**Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift**|Jingyi Liao et.al.|[2503.14910](http://arxiv.org/abs/2503.14910)|null|
-|**2025-03-19**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
+|**2025-03-21**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
 |**2025-03-18**|**MTLoc: A Confidence-Based Source-Free Domain Adaptation Approach For Indoor Localization**|Negar Mehregan et.al.|[2503.14767](http://arxiv.org/abs/2503.14767)|null|
 |**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743](http://arxiv.org/abs/2503.13743)|null|
 |**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
@@ -1401,7 +1401,7 @@ layout: default
 |**2025-03-20**|**OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP**|Mohamad Hassan N C et.al.|[2503.16106](http://arxiv.org/abs/2503.16106)|null|
 |**2025-03-20**|**No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2503.15910](http://arxiv.org/abs/2503.15910)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
-|**2025-03-19**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
+|**2025-03-21**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
 |**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-18**|**COPA: Comparing the Incomparable to Explore the Pareto Front**|Adrián Javaloy et.al.|[2503.14321](http://arxiv.org/abs/2503.14321)|null|
 |**2025-03-18**|**SCORE: Soft Label Compression-Centric Dataset Condensation via Coding Rate Optimization**|Bowen Yuan et.al.|[2503.13935](http://arxiv.org/abs/2503.13935)|null|
@@ -1673,7 +1673,7 @@ layout: default
 |**2025-03-20**|**Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts**|Elisei Rykov et.al.|[2503.15948](http://arxiv.org/abs/2503.15948)|null|
 |**2025-03-20**|**UniCrossAdapter: Multimodal Adaptation of CLIP for Radiology Report Generation**|Yaxiong Chen et.al.|[2503.15940](http://arxiv.org/abs/2503.15940)|null|
 |**2025-03-20**|**UMIT: Unifying Medical Imaging Tasks via Vision-Language Models**|Haiyang Yu et.al.|[2503.15892](http://arxiv.org/abs/2503.15892)|null|
-|**2025-03-20**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
+|**2025-03-21**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[2503.15778](http://arxiv.org/abs/2503.15778)|null|
 |**2025-03-19**|**Vision-Speech Models: Teaching Speech Models to Converse about Images**|Amélie Royer et.al.|[2503.15633](http://arxiv.org/abs/2503.15633)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -883,7 +883,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## DA
 
@@ -894,7 +894,7 @@
 |**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
 |**2025-03-19**|**PointSFDA: Source-free Domain Adaptation for Point Cloud Completion**|Xing He et.al.|[2503.15144](http://arxiv.org/abs/2503.15144)|null|
 |**2025-03-19**|**Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift**|Jingyi Liao et.al.|[2503.14910](http://arxiv.org/abs/2503.14910)|null|
-|**2025-03-19**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
+|**2025-03-21**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
 |**2025-03-18**|**MTLoc: A Confidence-Based Source-Free Domain Adaptation Approach For Indoor Localization**|Negar Mehregan et.al.|[2503.14767](http://arxiv.org/abs/2503.14767)|null|
 |**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743](http://arxiv.org/abs/2503.13743)|null|
 |**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617](http://arxiv.org/abs/2503.13617)|null|
@@ -1404,7 +1404,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## DG
 
@@ -1414,7 +1414,7 @@
 |**2025-03-20**|**OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP**|Mohamad Hassan N C et.al.|[2503.16106](http://arxiv.org/abs/2503.16106)|null|
 |**2025-03-20**|**No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather**|Junsung Park et.al.|[2503.15910](http://arxiv.org/abs/2503.15910)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
-|**2025-03-19**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
+|**2025-03-21**|**When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach**|Vaibhav Rathore et.al.|[2503.14897](http://arxiv.org/abs/2503.14897)|null|
 |**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-18**|**COPA: Comparing the Incomparable to Explore the Pareto Front**|Adrián Javaloy et.al.|[2503.14321](http://arxiv.org/abs/2503.14321)|null|
 |**2025-03-18**|**SCORE: Soft Label Compression-Centric Dataset Condensation via Coding Rate Optimization**|Bowen Yuan et.al.|[2503.13935](http://arxiv.org/abs/2503.13935)|null|
@@ -1671,7 +1671,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## VLM
 
@@ -1688,7 +1688,7 @@
 |**2025-03-20**|**Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts**|Elisei Rykov et.al.|[2503.15948](http://arxiv.org/abs/2503.15948)|null|
 |**2025-03-20**|**UniCrossAdapter: Multimodal Adaptation of CLIP for Radiology Report Generation**|Yaxiong Chen et.al.|[2503.15940](http://arxiv.org/abs/2503.15940)|null|
 |**2025-03-20**|**UMIT: Unifying Medical Imaging Tasks via Vision-Language Models**|Haiyang Yu et.al.|[2503.15892](http://arxiv.org/abs/2503.15892)|null|
-|**2025-03-20**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
+|**2025-03-21**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[2503.15778](http://arxiv.org/abs/2503.15778)|null|
 |**2025-03-19**|**Vision-Speech Models: Teaching Speech Models to Converse about Images**|Amélie Royer et.al.|[2503.15633](http://arxiv.org/abs/2503.15633)|null|
 |**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
@@ -3015,7 +3015,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Prompt
 
@@ -3318,7 +3318,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -3871,7 +3871,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Adversarial
 
@@ -4271,5 +4271,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
