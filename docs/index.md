@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -10,12 +10,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
-|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361](http://arxiv.org/abs/2503.24361)|null|
+|**2025-04-02**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361](http://arxiv.org/abs/2503.24361)|null|
 |**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278](http://arxiv.org/abs/2503.24278)|**[link](https://github.com/zhouzypaul/auto_eval)**|
 |**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070](http://arxiv.org/abs/2503.24070)|null|
 |**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009](http://arxiv.org/abs/2503.24009)|null|
 |**2025-03-31**|**MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation**|Shanze Wang et.al.|[2503.23908](http://arxiv.org/abs/2503.23908)|null|
-|**2025-03-31**|**ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos**|Junyao Shi et.al.|[2503.23877](http://arxiv.org/abs/2503.23877)|null|
+|**2025-03-31**|**ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos**|Junyao Shi et.al.|[2503.23877](http://arxiv.org/abs/2503.23877)|**[link](https://github.com/everloom-129/rekep)**|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Shutong Jin et.al.|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 |**2025-03-30**|**Learning Predictive Visuomotor Coordination**|Wenqi Jia et.al.|[2503.23300](http://arxiv.org/abs/2503.23300)|null|
 |**2025-03-29**|**Adaptive Interactive Navigation of Quadruped Robots using Large Language Models**|Kangjie Zhou et.al.|[2503.22942](http://arxiv.org/abs/2503.22942)|null|
@@ -944,7 +944,7 @@ layout: default
 |**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/abs/2503.19693)|**[link](https://github.com/itay-nakash/AdaptiVocab)**|
 |**2025-03-24**|**FACE: Few-shot Adapter with Cross-view Fusion for Cross-subject EEG Emotion Recognition**|Haiqi Liu et.al.|[2503.18998](http://arxiv.org/abs/2503.18998)|null|
 |**2025-03-24**|**ClinText-SP and RigoBERTa Clinical: a new set of open resources for Spanish Clinical NLP**|Guillem García Subies et.al.|[2503.18594](http://arxiv.org/abs/2503.18594)|null|
-|**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|null|
+|**2025-04-02**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|**[link](https://github.com/aicell-lab/cell-video-diffusion)**|
 |**2025-03-24**|**AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text**|Tadesse Destaw Belay et.al.|[2503.18247](http://arxiv.org/abs/2503.18247)|null|
 |**2025-03-23**|**CustomKD: Customizing Large Vision Foundation for Edge Model Improvement via Knowledge Distillation**|Jungsoo Lee et.al.|[2503.18244](http://arxiv.org/abs/2503.18244)|null|
 |**2025-03-22**|**Decentralized Federated Dataset Dictionary Learning for Multi-Source Domain Adaptation**|Rebecca Clain et.al.|[2503.17683](http://arxiv.org/abs/2503.17683)|null|
@@ -1476,8 +1476,8 @@ layout: default
 |**2025-03-30**|**DGSAM: Domain Generalization via Individual Sharpness-Aware Minimization**|Youngjun Song et.al.|[2503.23430](http://arxiv.org/abs/2503.23430)|null|
 |**2025-03-30**|**GMapLatent: Geometric Mapping in Latent Space**|Wei Zeng et.al.|[2503.23407](http://arxiv.org/abs/2503.23407)|null|
 |**2025-03-30**|**COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**|Fanding Huang et.al.|[2503.23388](http://arxiv.org/abs/2503.23388)|**[link](https://github.com/hf618/cosmic)**|
-|**2025-03-29**|**Unsupervised Anomaly Detection in Multivariate Time Series across Heterogeneous Domains**|Vincent Jacob et.al.|[2503.23060](http://arxiv.org/abs/2503.23060)|null|
-|**2025-03-29**|**Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing**|Pei-Kai Huanga et.al.|[2503.22936](http://arxiv.org/abs/2503.22936)|null|
+|**2025-03-29**|**Unsupervised Anomaly Detection in Multivariate Time Series across Heterogeneous Domains**|Vincent Jacob et.al.|[2503.23060](http://arxiv.org/abs/2503.23060)|**[link](https://github.com/exathlonbenchmark/divad)**|
+|**2025-03-29**|**Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing**|Pei-Kai Huanga et.al.|[2503.22936](http://arxiv.org/abs/2503.22936)|**[link](https://github.com/Pei-KaiHuang/LDCformer_Ext)**|
 |**2025-03-28**|**Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study**|Soumitri Chattopadhyay et.al.|[2503.22862](http://arxiv.org/abs/2503.22862)|null|
 |**2025-03-28**|**Generating Synthetic Oracle Datasets to Analyze Noise Impact: A Study on Building Function Classification Using Tweets**|Shanshan Bai et.al.|[2503.22856](http://arxiv.org/abs/2503.22856)|null|
 |**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
@@ -1485,7 +1485,7 @@ layout: default
 |**2025-03-27**|**ReCoM: Realistic Co-Speech Motion Generation with Recurrent Embedded Transformer**|Yong Xie et.al.|[2503.21847](http://arxiv.org/abs/2503.21847)|null|
 |**2025-03-26**|**Feature Modulation for Semi-Supervised Domain Generalization without Domain Labels**|Venuri Amarasinghe et.al.|[2503.20897](http://arxiv.org/abs/2503.20897)|null|
 |**2025-03-18**|**Robust Object Detection of Underwater Robot based on Domain Generalization**|Pinhao Song et.al.|[2503.19929](http://arxiv.org/abs/2503.19929)|null|
-|**2025-03-23**|**Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization**|Xiran Wang et.al.|[2503.18987](http://arxiv.org/abs/2503.18987)|null|
+|**2025-03-23**|**Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization**|Xiran Wang et.al.|[2503.18987](http://arxiv.org/abs/2503.18987)|**[link](https://github.com/zzwdx/ARITH)**|
 |**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695](http://arxiv.org/abs/2503.18695)|**[link](https://github.com/lytang63/OCRT)**|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Explaining Domain Shifts in Language: Concept erasing for Interpretable Image Classification**|Zequn Zeng et.al.|[2503.18483](http://arxiv.org/abs/2503.18483)|null|
@@ -1766,13 +1766,13 @@ layout: default
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730](http://arxiv.org/abs/2503.23730)|**[link](https://github.com/maum-ai/koffvqa)**|
 |**2025-03-31**|**From Geometry to Culture: An Iterative VLM Layout Framework for Placing Objects in Complex 3D Scene Contexts**|Yuto Asano et.al.|[2503.23707](http://arxiv.org/abs/2503.23707)|null|
 |**2025-03-30**|**DASH: Detection and Assessment of Systematic Hallucinations of VLMs**|Maximilian Augustin et.al.|[2503.23573](http://arxiv.org/abs/2503.23573)|null|
-|**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534](http://arxiv.org/abs/2503.23534)|null|
+|**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534](http://arxiv.org/abs/2503.23534)|**[link](https://github.com/rafiibnsultan/bipvl-seg)**|
 |**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
 |**2025-03-30**|**Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models**|Sid Bharthulwar et.al.|[2503.23503](http://arxiv.org/abs/2503.23503)|null|
 |**2025-03-30**|**Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning**|Ashim Dahal et.al.|[2503.23495](http://arxiv.org/abs/2503.23495)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
 |**2025-03-30**|**COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**|Fanding Huang et.al.|[2503.23388](http://arxiv.org/abs/2503.23388)|**[link](https://github.com/hf618/cosmic)**|
-|**2025-03-30**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
+|**2025-04-02**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
 |**2025-03-30**|**From Panels to Prose: Generating Literary Narratives from Comics**|Ragav Sachdeva et.al.|[2503.23344](http://arxiv.org/abs/2503.23344)|null|
 |**2025-03-30**|**AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design**|Mohamed Elrefaie et.al.|[2503.23315](http://arxiv.org/abs/2503.23315)|null|
 |**2025-03-30**|**LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation**|Hyunsik Jeon et.al.|[2503.23312](http://arxiv.org/abs/2503.23312)|**[link](https://github.com/jeon185/lavic)**|
