@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1818,7 +1818,7 @@ layout: default
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Julio Silva-Rodríguez et.al.|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
 |**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
-|**2025-04-07**|**A Taxonomy of Self-Handover**|Naoki Wake et.al.|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
+|**2025-04-08**|**A Taxonomy of Self-Handover**|Naoki Wake et.al.|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
 |**2025-04-07**|**SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models**|Justus Westerhoff et.al.|[2504.04893](http://arxiv.org/abs/2504.04893)|null|
 |**2025-04-07**|**Don't Lag, RAG: Training-Free Adversarial Detection Using RAG**|Roie Kazoom et.al.|[2504.04858](http://arxiv.org/abs/2504.04858)|null|
 |**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781](http://arxiv.org/abs/2504.04781)|null|
@@ -3652,7 +3652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-06**|**Causal Inference Isn't Special: Why It's Just Another Prediction Problem**|Carlos Fernández-Loría et.al.|[2504.04320](http://arxiv.org/abs/2504.04320)|null|
 |**2025-04-02**|**MMCE: A Framework for Deep Monotonic Modeling of Multiple Causal Effects**|Juhua Chen et.al.|[2504.03753](http://arxiv.org/abs/2504.03753)|null|
 |**2025-04-04**|**Multivariate Causal Effects: a Bayesian Causal Regression Factor Model**|Dafne Zorzetto et.al.|[2504.03480](http://arxiv.org/abs/2504.03480)|null|
