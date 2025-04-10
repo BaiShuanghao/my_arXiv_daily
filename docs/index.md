@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -20,7 +20,7 @@ layout: default
 |**2025-04-06**|**Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions**|Pau Marquez Julbe et.al.|[2504.04603](http://arxiv.org/abs/2504.04603)|null|
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Jieyi Zhang et.al.|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
 |**2025-04-06**|**DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments**|Lixin Xu et.al.|[2504.04516](http://arxiv.org/abs/2504.04516)|null|
-|**2025-04-05**|**Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
+|**2025-04-09**|**Digital Gene: Learning about the Physical World through Analytic Concepts**|Jianhua Sun et.al.|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
 |**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Haozhan Tang et.al.|[2504.03129](http://arxiv.org/abs/2504.03129)|null|
 |**2025-04-03**|**Statics of continuum planar grasping**|Udit Halder et.al.|[2504.03067](http://arxiv.org/abs/2504.03067)|null|
 |**2025-04-03**|**Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization**|Boce Hu et.al.|[2504.03053](http://arxiv.org/abs/2504.03053)|null|
@@ -957,7 +957,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-08**|**QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform**|Movina Moses et.al.|[2504.06136](http://arxiv.org/abs/2504.06136)|null|
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789](http://arxiv.org/abs/2504.05789)|null|
 |**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774](http://arxiv.org/abs/2504.05774)|null|
@@ -968,7 +968,7 @@ layout: default
 |**2025-04-05**|**Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition**|Muhammad Osama Zeeshan et.al.|[2504.04252](http://arxiv.org/abs/2504.04252)|null|
 |**2025-04-04**|**Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**|Shubham Kumar Nigam et.al.|[2504.03486](http://arxiv.org/abs/2504.03486)|null|
 |**2025-04-04**|**Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**|Taichi Tanaka et.al.|[2504.03196](http://arxiv.org/abs/2504.03196)|null|
-|**2025-04-03**|**Sliced Wasserstein Discrepancy in Disentangling Representation and Adaptation Networks for Unsupervised Domain Adaptation**|Joel Sol et.al.|[2504.03043](http://arxiv.org/abs/2504.03043)|null|
+|**2025-04-09**|**Sliced Wasserstein Discrepancy in Disentangling Representation and Adaptation Networks for Unsupervised Domain Adaptation**|Joel Sol et.al.|[2504.03043](http://arxiv.org/abs/2504.03043)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343](http://arxiv.org/abs/2504.02343)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
@@ -1525,7 +1525,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470](http://arxiv.org/abs/2504.04470)|null|
 |**2025-04-04**|**Optimizing Specific and Shared Parameters for Efficient Parameter Tuning**|Van-Anh Nguyen et.al.|[2504.03450](http://arxiv.org/abs/2504.03450)|null|
@@ -4279,8 +4279,8 @@ layout: default
 |**2025-04-05**|**Generative Market Equilibrium Models with Stable Adversarial Learning via Reinforcement**|Anastasis Kratsios et.al.|[2504.04300](http://arxiv.org/abs/2504.04300)|null|
 |**2025-04-03**|**A Study on Adversarial Robustness of Discriminative Prototypical Learning**|Ramin Zarei Sabzevar et.al.|[2504.03782](http://arxiv.org/abs/2504.03782)|null|
 |**2025-04-01**|**Misaligned Roles, Misplaced Images: Structural Input Perturbations Expose Multimodal Alignment Blind Spots**|Erfan Shayegani et.al.|[2504.03735](http://arxiv.org/abs/2504.03735)|null|
-|**2025-04-03**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
-|**2025-04-03**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|null|
+|**2025-04-08**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
+|**2025-04-08**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|null|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335](http://arxiv.org/abs/2504.02335)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
 |**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
