@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Artem Bazhenov et.al.|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
+|**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Yulia Danik et.al.|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
+|**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677](http://arxiv.org/abs/2504.07677)|null|
+|**2025-04-10**|**Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation**|Yisheng Li et.al.|[2504.07554](http://arxiv.org/abs/2504.07554)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
+|**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866](http://arxiv.org/abs/2504.06866)|null|
 |**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Brian Flynn et.al.|[2504.06819](http://arxiv.org/abs/2504.06819)|null|
@@ -974,6 +980,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**S2R-HDR: A Large-Scale Rendered Dataset for HDR Fusion**|Yujin Wang et.al.|[2504.07667](http://arxiv.org/abs/2504.07667)|null|
+|**2025-04-10**|**Conditional Data Synthesis Augmentation**|Xinyu Tian et.al.|[2504.07426](http://arxiv.org/abs/2504.07426)|null|
 |**2025-04-09**|**A Cross-Domain Few-Shot Learning Method Based on Domain Knowledge Mapping**|Jiajun Chen et.al.|[2504.06608](http://arxiv.org/abs/2504.06608)|null|
 |**2025-04-09**|**Visually Similar Pair Alignment for Robust Cross-Domain Object Detection**|Onkar Krishna et.al.|[2504.06607](http://arxiv.org/abs/2504.06607)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
@@ -1554,7 +1562,7 @@
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470](http://arxiv.org/abs/2504.04470)|null|
 |**2025-04-04**|**Optimizing Specific and Shared Parameters for Efficient Parameter Tuning**|Van-Anh Nguyen et.al.|[2504.03450](http://arxiv.org/abs/2504.03450)|null|
-|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|**[link](https://github.com/devinxzhang/mfuser)**|
 |**2025-04-03**|**Context-Aware Self-Adaptation for Domain Generalization**|Hao Yan et.al.|[2504.03064](http://arxiv.org/abs/2504.03064)|null|
 |**2025-04-03**|**Noise-Aware Generalization: Robustness to In-Domain Noise and Out-of-Domain Generalization**|Siqi Wang et.al.|[2504.02996](http://arxiv.org/abs/2504.02996)|null|
 |**2025-04-02**|**A Practical Synthesis of Detecting AI-Generated Textual, Visual, and Audio Content**|Lele Cao et.al.|[2504.02898](http://arxiv.org/abs/2504.02898)|null|
@@ -1851,6 +1859,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
+|**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
+|**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Florian Schneider et.al.|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Zijian Zhang et.al.|[2504.07556](http://arxiv.org/abs/2504.07556)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521](http://arxiv.org/abs/2504.07521)|null|
+|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-09**|**Perception in Reflection**|Yana Wei et.al.|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
 |**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
 |**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Sergio Romero-Tapiador et.al.|[2504.06925](http://arxiv.org/abs/2504.06925)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
@@ -3712,6 +3728,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
+|**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
+|**2025-04-09**|**Causal Inference under Interference through Designed Markets**|Evan Munro et.al.|[2504.07217](http://arxiv.org/abs/2504.07217)|null|
 |**2025-04-08**|**Characterizing direct and indirect causal effects when outcomes are dependent due to treatment spillover and outcome spillover**|Subhankar Bhadra et.al.|[2504.06108](http://arxiv.org/abs/2504.06108)|null|
 |**2025-04-08**|**Identification and estimation of causal peer effects using instrumental variables**|Shanshan Luo et.al.|[2504.05658](http://arxiv.org/abs/2504.05658)|null|
 |**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
@@ -4311,6 +4330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-09**|**Adversarial Training for Dynamics Matching in Coarse-Grained Models**|Yihang Wang et.al.|[2504.06505](http://arxiv.org/abs/2504.06505)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
@@ -4324,11 +4344,11 @@
 |**2025-04-03**|**A Study on Adversarial Robustness of Discriminative Prototypical Learning**|Ramin Zarei Sabzevar et.al.|[2504.03782](http://arxiv.org/abs/2504.03782)|null|
 |**2025-04-01**|**Misaligned Roles, Misplaced Images: Structural Input Perturbations Expose Multimodal Alignment Blind Spots**|Erfan Shayegani et.al.|[2504.03735](http://arxiv.org/abs/2504.03735)|null|
 |**2025-04-08**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
-|**2025-04-08**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|null|
+|**2025-04-08**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|**[link](https://github.com/blaisedelattre/bridging_the_gap_rs)**|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335](http://arxiv.org/abs/2504.02335)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
 |**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
-|**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|null|
+|**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
 |**2025-04-01**|**TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting**|Liangbin Xie et.al.|[2504.00996](http://arxiv.org/abs/2504.00996)|null|
 |**2025-04-01**|**Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**|Songran Bai et.al.|[2504.00721](http://arxiv.org/abs/2504.00721)|null|
 |**2025-04-01**|**Impact of Data Duplication on Deep Neural Network-Based Image Classifiers: Robust vs. Standard Models**|Alireza Aghabagherloo et.al.|[2504.00638](http://arxiv.org/abs/2504.00638)|null|
