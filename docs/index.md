@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1847,7 +1847,7 @@ layout: default
 |**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Narine Kokhlikyan et.al.|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
-|**2025-04-07**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Ahmed Masry et.al.|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
+|**2025-04-10**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Ahmed Masry et.al.|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
 |**2025-04-07**|**Trust Through Transparency: Explainable Social Navigation for Autonomous Mobile Robots via Vision-Language Models**|Oluwadamilola Sotomi et.al.|[2504.05477](http://arxiv.org/abs/2504.05477)|null|
 |**2025-04-07**|**Taxonomy-Aware Evaluation of Vision-Language Models**|Vésteinn Snæbjarnarson et.al.|[2504.05457](http://arxiv.org/abs/2504.05457)|null|
 |**2025-04-07**|**Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly**|Lianghan Dong et.al.|[2504.05445](http://arxiv.org/abs/2504.05445)|null|
@@ -3700,7 +3700,7 @@ layout: default
 |**2025-04-02**|**MMCE: A Framework for Deep Monotonic Modeling of Multiple Causal Effects**|Juhua Chen et.al.|[2504.03753](http://arxiv.org/abs/2504.03753)|null|
 |**2025-04-04**|**Multivariate Causal Effects: a Bayesian Causal Regression Factor Model**|Dafne Zorzetto et.al.|[2504.03480](http://arxiv.org/abs/2504.03480)|null|
 |**2025-04-04**|**Spatiotemporal causal inference with arbitrary spillover and carryover effects**|Mitsuru Mukaigawara et.al.|[2504.03464](http://arxiv.org/abs/2504.03464)|null|
-|**2025-04-04**|**From Observation to Orientation: an Adaptive Integer Programming Approach to Intervention Design**|Abdelmonem Elrefaey et.al.|[2504.03122](http://arxiv.org/abs/2504.03122)|null|
+|**2025-04-10**|**From Observation to Orientation: an Adaptive Integer Programming Approach to Intervention Design**|Abdelmonem Elrefaey et.al.|[2504.03122](http://arxiv.org/abs/2504.03122)|null|
 |**2025-04-03**|**How Artificial Intelligence Leads to Knowledge Why: An Inquiry Inspired by Aristotle's Posterior Analytics**|Guus Eelink et.al.|[2504.02430](http://arxiv.org/abs/2504.02430)|null|
 |**2025-04-03**|**Causal Self-supervised Pretrained Frontend with Predictive Code for Speech Separation**|Wupeng Wang et.al.|[2504.02302](http://arxiv.org/abs/2504.02302)|null|
 |**2025-04-02**|**A Causal Inference Framework for Data Rich Environments**|Alberto Abadie et.al.|[2504.01702](http://arxiv.org/abs/2504.01702)|null|
@@ -3709,7 +3709,7 @@ layout: default
 |**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509](http://arxiv.org/abs/2504.01509)|**[link](https://github.com/TZWwww/PROPHET)**|
 |**2025-04-02**|**Cause or Trigger? From Philosophy to Causal Modeling**|Kateřina Hlaváčková-Schindler et.al.|[2504.01398](http://arxiv.org/abs/2504.01398)|null|
 |**2025-04-01**|**Causal Models for Growing Networks**|Gecia Bravo-Hermsdorff et.al.|[2504.01012](http://arxiv.org/abs/2504.01012)|null|
-|**2025-04-01**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
+|**2025-04-10**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
 |**2025-03-30**|**Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**|Amar Kumar et.al.|[2503.23618](http://arxiv.org/abs/2503.23618)|null|
 |**2025-03-30**|**Partial Transportability for Domain Generalization**|Kasra Jalaldoust et.al.|[2503.23605](http://arxiv.org/abs/2503.23605)|null|
 |**2025-03-30**|**Rethinking Structural Equation Modeling in Political Science: Challenges, Best Practices, and Future Directions**|Bang Quan Zheng et.al.|[2503.23551](http://arxiv.org/abs/2503.23551)|null|
