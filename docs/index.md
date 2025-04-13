@@ -13,7 +13,7 @@ layout: default
 |**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Yulia Danik et.al.|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
 |**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677](http://arxiv.org/abs/2504.07677)|null|
 |**2025-04-10**|**Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation**|Yisheng Li et.al.|[2504.07554](http://arxiv.org/abs/2504.07554)|null|
-|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866](http://arxiv.org/abs/2504.06866)|**[link](https://github.com/SeungBack/graspclutter6dAPI)**|
@@ -25,7 +25,7 @@ layout: default
 |**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Huazhi Dong et.al.|[2504.05987](http://arxiv.org/abs/2504.05987)|null|
 |**2025-04-08**|**TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning**|Yuxuan Li et.al.|[2504.05585](http://arxiv.org/abs/2504.05585)|null|
 |**2025-04-07**|**SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation**|Adam Imdieke et.al.|[2504.05488](http://arxiv.org/abs/2504.05488)|null|
-|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|**[link](https://github.com/ppjmchen/vlmpc)**|
 |**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991](http://arxiv.org/abs/2504.04991)|null|
 |**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
 |**2025-04-07**|**Feedback-Enhanced Hallucination-Resistant Vision-Language Model for Real-Time Scene Understanding**|Zahir Alsulaimawi et.al.|[2504.04772](http://arxiv.org/abs/2504.04772)|null|
@@ -981,11 +981,11 @@ layout: default
 |**2025-04-07**|**Sparse Optimization for Transfer Learning: A L0-Regularized Framework for Multi-Source Domain Adaptation**|Chenqi Gong et.al.|[2504.04812](http://arxiv.org/abs/2504.04812)|null|
 |**2025-04-06**|**Causal Inference Isn't Special: Why It's Just Another Prediction Problem**|Carlos Fernández-Loría et.al.|[2504.04320](http://arxiv.org/abs/2504.04320)|null|
 |**2025-04-05**|**CATS: Mitigating Correlation Shift for Multivariate Time Series Classification**|Xiao Lin et.al.|[2504.04283](http://arxiv.org/abs/2504.04283)|null|
-|**2025-04-05**|**ADA-Net: Attention-Guided Domain Adaptation Network with Contrastive Learning for Standing Dead Tree Segmentation Using Aerial Imagery**|Mete Ahishali et.al.|[2504.04271](http://arxiv.org/abs/2504.04271)|null|
+|**2025-04-05**|**ADA-Net: Attention-Guided Domain Adaptation Network with Contrastive Learning for Standing Dead Tree Segmentation Using Aerial Imagery**|Mete Ahishali et.al.|[2504.04271](http://arxiv.org/abs/2504.04271)|**[link](https://github.com/meteahishali/ada-net)**|
 |**2025-04-05**|**Progressive Multi-Source Domain Adaptation for Personalized Facial Expression Recognition**|Muhammad Osama Zeeshan et.al.|[2504.04252](http://arxiv.org/abs/2504.04252)|null|
 |**2025-04-04**|**Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**|Shubham Kumar Nigam et.al.|[2504.03486](http://arxiv.org/abs/2504.03486)|null|
 |**2025-04-04**|**Mitigating the Impact of Electrode Shift on Classification Performance in Electromyography-Based Motion Prediction Using Sliding-Window Normalization**|Taichi Tanaka et.al.|[2504.03196](http://arxiv.org/abs/2504.03196)|null|
-|**2025-04-09**|**Sliced Wasserstein Discrepancy in Disentangling Representation and Adaptation Networks for Unsupervised Domain Adaptation**|Joel Sol et.al.|[2504.03043](http://arxiv.org/abs/2504.03043)|null|
+|**2025-04-09**|**Sliced Wasserstein Discrepancy in Disentangling Representation and Adaptation Networks for Unsupervised Domain Adaptation**|Joel Sol et.al.|[2504.03043](http://arxiv.org/abs/2504.03043)|**[link](https://github.com/joelesol/dranet-swd)**|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343](http://arxiv.org/abs/2504.02343)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
@@ -1847,10 +1847,10 @@ layout: default
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Florian Schneider et.al.|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
-|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
 |**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Zijian Zhang et.al.|[2504.07556](http://arxiv.org/abs/2504.07556)|null|
-|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521](http://arxiv.org/abs/2504.07521)|null|
-|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Yuxiang Lin et.al.|[2504.07521](http://arxiv.org/abs/2504.07521)|**[link](https://github.com/lum1104/eibench)**|
+|**2025-04-10**|**Kimi-VL Technical Report**|Kimi Team et.al.|[2504.07491](http://arxiv.org/abs/2504.07491)|**[link](https://github.com/moonshotai/kimi-vl)**|
 |**2025-04-09**|**Perception in Reflection**|Yana Wei et.al.|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
 |**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
 |**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Sergio Romero-Tapiador et.al.|[2504.06925](http://arxiv.org/abs/2504.06925)|null|
@@ -1860,7 +1860,7 @@ layout: default
 |**2025-04-08**|**PromptHMR: Promptable Human Mesh Recovery**|Yufu Wang et.al.|[2504.06397](http://arxiv.org/abs/2504.06397)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
-|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|**[link](https://github.com/stevejpapad/miscaptioned-image-reconstruction)**|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Narine Kokhlikyan et.al.|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-10**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Ahmed Masry et.al.|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
@@ -4313,7 +4313,7 @@ layout: default
 |**2025-04-09**|**Adversarial Training for Dynamics Matching in Coarse-Grained Models**|Yihang Wang et.al.|[2504.06505](http://arxiv.org/abs/2504.06505)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
-|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-07**|**Secure Diagnostics: Adversarial Robustness Meets Clinical Interpretability**|Mohammad Hossein Najafi et.al.|[2504.05483](http://arxiv.org/abs/2504.05483)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
