@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**|Gu-Cheol Jeong et.al.|[2504.08706](http://arxiv.org/abs/2504.08706)|null|
+|**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
+|**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
+|**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603](http://arxiv.org/abs/2504.08603)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Artem Bazhenov et.al.|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
 |**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Yulia Danik et.al.|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
 |**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677](http://arxiv.org/abs/2504.07677)|null|
@@ -980,6 +985,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|null|
+|**2025-04-09**|**More diverse more adaptive: Comprehensive Multi-task Learning for Improved LLM Domain Adaptation in E-commerce**|Tong Piao et.al.|[2504.08002](http://arxiv.org/abs/2504.08002)|null|
+|**2025-04-07**|**mixEEG: Enhancing EEG Federated Learning for Cross-subject EEG Classification with Tailored mixup**|Xuan-Hao Liu et.al.|[2504.07987](http://arxiv.org/abs/2504.07987)|**[link](https://github.com/XuanhaoLiu/mixEEG)**|
 |**2025-04-10**|**S2R-HDR: A Large-Scale Rendered Dataset for HDR Fusion**|Yujin Wang et.al.|[2504.07667](http://arxiv.org/abs/2504.07667)|null|
 |**2025-04-10**|**Conditional Data Synthesis Augmentation**|Xinyu Tian et.al.|[2504.07426](http://arxiv.org/abs/2504.07426)|null|
 |**2025-04-09**|**A Cross-Domain Few-Shot Learning Method Based on Domain Knowledge Mapping**|Jiajun Chen et.al.|[2504.06608](http://arxiv.org/abs/2504.06608)|null|
@@ -1554,6 +1562,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Learning Fine-grained Domain Generalization via Hyperbolic State Space Hallucination**|Qi Bi et.al.|[2504.08020](http://arxiv.org/abs/2504.08020)|null|
+|**2025-04-10**|**DGFamba: Learning Flow Factorized State Space for Visual Domain Generalization**|Qi Bi et.al.|[2504.08019](http://arxiv.org/abs/2504.08019)|null|
 |**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-09**|**Domain Generalization via Discrete Codebook Learning**|Shaocong Long et.al.|[2504.06572](http://arxiv.org/abs/2504.06572)|null|
@@ -1859,6 +1869,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Sharaf Zaman et.al.|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
+|**2025-04-11**|**EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**|Minjae Seo et.al.|[2504.08205](http://arxiv.org/abs/2504.08205)|null|
+|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
+|**2025-04-10**|**The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search**|Yutaro Yamada et.al.|[2504.08066](http://arxiv.org/abs/2504.08066)|null|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Florian Schneider et.al.|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
@@ -3728,6 +3742,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Enhanced Marginal Sensitivity Model and Bounds**|Yi Zhang et.al.|[2504.08301](http://arxiv.org/abs/2504.08301)|null|
+|**2025-04-11**|**A roadmap for systematic identification and analysis of multiple biases in causal inference**|Rushani Wijesuriya et.al.|[2504.08263](http://arxiv.org/abs/2504.08263)|null|
+|**2025-04-10**|**Emergence of psychopathological computations in large language models**|Soo Yong Lee et.al.|[2504.08016](http://arxiv.org/abs/2504.08016)|null|
+|**2025-04-08**|**BiasCause: Evaluate Socially Biased Causal Reasoning of Large Language Models**|Tian Xie et.al.|[2504.07997](http://arxiv.org/abs/2504.07997)|null|
 |**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
 |**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
 |**2025-04-09**|**Causal Inference under Interference through Designed Markets**|Evan Munro et.al.|[2504.07217](http://arxiv.org/abs/2504.07217)|null|
@@ -4330,6 +4348,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Adversarial Examples in Environment Perception for Automated Driving (Review)**|Jun Yan et.al.|[2504.08414](http://arxiv.org/abs/2504.08414)|null|
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-09**|**Adversarial Training for Dynamics Matching in Coarse-Grained Models**|Yihang Wang et.al.|[2504.06505](http://arxiv.org/abs/2504.06505)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
