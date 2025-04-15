@@ -1,4 +1,4 @@
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -979,7 +979,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## DA
 
@@ -1556,7 +1556,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## DG
 
@@ -1863,7 +1863,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## VLM
 
@@ -3399,7 +3399,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Prompt
 
@@ -3736,7 +3736,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -4342,7 +4342,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Adversarial
 
@@ -4352,7 +4352,7 @@
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-09**|**Adversarial Training for Dynamics Matching in Coarse-Grained Models**|Yihang Wang et.al.|[2504.06505](http://arxiv.org/abs/2504.06505)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
-|**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
+|**2025-04-11**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-07**|**Secure Diagnostics: Adversarial Robustness Meets Clinical Interpretability**|Mohammad Hossein Najafi et.al.|[2504.05483](http://arxiv.org/abs/2504.05483)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
@@ -4366,7 +4366,7 @@
 |**2025-04-08**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|**[link](https://github.com/blaisedelattre/bridging_the_gap_rs)**|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335](http://arxiv.org/abs/2504.02335)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
-|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-12**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
 |**2025-04-01**|**TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting**|Liangbin Xie et.al.|[2504.00996](http://arxiv.org/abs/2504.00996)|null|
 |**2025-04-01**|**Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**|Songran Bai et.al.|[2504.00721](http://arxiv.org/abs/2504.00721)|null|
@@ -4789,5 +4789,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 

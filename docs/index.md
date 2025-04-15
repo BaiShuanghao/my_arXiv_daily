@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -4331,7 +4331,7 @@ layout: default
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-09**|**Adversarial Training for Dynamics Matching in Coarse-Grained Models**|Yihang Wang et.al.|[2504.06505](http://arxiv.org/abs/2504.06505)|null|
 |**2025-04-08**|**Towards Calibration Enhanced Network by Inverse Adversarial Attack**|Yupeng Cheng et.al.|[2504.06358](http://arxiv.org/abs/2504.06358)|null|
-|**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
+|**2025-04-11**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-07**|**Secure Diagnostics: Adversarial Robustness Meets Clinical Interpretability**|Mohammad Hossein Najafi et.al.|[2504.05483](http://arxiv.org/abs/2504.05483)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
@@ -4345,7 +4345,7 @@ layout: default
 |**2025-04-08**|**Bridging the Theoretical Gap in Randomized Smoothing**|Blaise Delattre et.al.|[2504.02412](http://arxiv.org/abs/2504.02412)|**[link](https://github.com/blaisedelattre/bridging_the_gap_rs)**|
 |**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335](http://arxiv.org/abs/2504.02335)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
-|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-12**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
 |**2025-04-01**|**TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting**|Liangbin Xie et.al.|[2504.00996](http://arxiv.org/abs/2504.00996)|null|
 |**2025-04-01**|**Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning Under Zero-Inflated Distribution**|Songran Bai et.al.|[2504.00721](http://arxiv.org/abs/2504.00721)|null|
