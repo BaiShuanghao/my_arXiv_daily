@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -988,7 +988,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## DA
 
@@ -1013,7 +1013,7 @@
 |**2025-04-09**|**A Cross-Domain Few-Shot Learning Method Based on Domain Knowledge Mapping**|Jiajun Chen et.al.|[2504.06608](http://arxiv.org/abs/2504.06608)|null|
 |**2025-04-09**|**Visually Similar Pair Alignment for Robust Cross-Domain Object Detection**|Onkar Krishna et.al.|[2504.06607](http://arxiv.org/abs/2504.06607)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Hritam Basak et.al.|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
-|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
 |**2025-04-08**|**QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform**|Movina Moses et.al.|[2504.06136](http://arxiv.org/abs/2504.06136)|null|
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789](http://arxiv.org/abs/2504.05789)|null|
 |**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774](http://arxiv.org/abs/2504.05774)|null|
@@ -1576,24 +1576,24 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-13**|**Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation**|Jia Wei et.al.|[2504.09601](http://arxiv.org/abs/2504.09601)|null|
-|**2025-04-10**|**Learning Fine-grained Domain Generalization via Hyperbolic State Space Hallucination**|Qi Bi et.al.|[2504.08020](http://arxiv.org/abs/2504.08020)|null|
+|**2025-04-10**|**Learning Fine-grained Domain Generalization via Hyperbolic State Space Hallucination**|Qi Bi et.al.|[2504.08020](http://arxiv.org/abs/2504.08020)|**[link](https://github.com/biqiwhu/hssh)**|
 |**2025-04-10**|**DGFamba: Learning Flow Factorized State Space for Visual Domain Generalization**|Qi Bi et.al.|[2504.08019](http://arxiv.org/abs/2504.08019)|null|
 |**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-09**|**Domain Generalization via Discrete Codebook Learning**|Shaocong Long et.al.|[2504.06572](http://arxiv.org/abs/2504.06572)|null|
 |**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
-|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470](http://arxiv.org/abs/2504.04470)|null|
 |**2025-04-04**|**Optimizing Specific and Shared Parameters for Efficient Parameter Tuning**|Van-Anh Nguyen et.al.|[2504.03450](http://arxiv.org/abs/2504.03450)|null|
-|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|**[link](https://github.com/devinxzhang/mfuser)**|
+|**2025-04-15**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|**[link](https://github.com/devinxzhang/mfuser)**|
 |**2025-04-03**|**Context-Aware Self-Adaptation for Domain Generalization**|Hao Yan et.al.|[2504.03064](http://arxiv.org/abs/2504.03064)|null|
 |**2025-04-03**|**Noise-Aware Generalization: Robustness to In-Domain Noise and Out-of-Domain Generalization**|Siqi Wang et.al.|[2504.02996](http://arxiv.org/abs/2504.02996)|null|
 |**2025-04-02**|**A Practical Synthesis of Detecting AI-Generated Textual, Visual, and Audio Content**|Lele Cao et.al.|[2504.02898](http://arxiv.org/abs/2504.02898)|null|
@@ -1884,16 +1884,16 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
-|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
+|**2025-04-15**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
 |**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117](http://arxiv.org/abs/2504.10117)|null|
 |**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|I-Sheng Fang et.al.|[2504.10090](http://arxiv.org/abs/2504.10090)|null|
 |**2025-04-14**|**Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure**|Théo Gigant et.al.|[2504.10049](http://arxiv.org/abs/2504.10049)|null|
@@ -3440,18 +3440,18 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-14**|**Efficient Prompt Tuning for Hierarchical Ingredient Recognition**|Yinxuan Gui et.al.|[2504.10322](http://arxiv.org/abs/2504.10322)|null|
+|**2025-04-15**|**Efficient Prompt Tuning for Hierarchical Ingredient Recognition**|Yinxuan Gui et.al.|[2504.10322](http://arxiv.org/abs/2504.10322)|null|
 |**2025-04-14**|**Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning**|LeiLei Ma et.al.|[2504.09990](http://arxiv.org/abs/2504.09990)|null|
 |**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|null|
 |**2025-04-14**|**FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data**|Hezhao Liu et.al.|[2504.09828](http://arxiv.org/abs/2504.09828)|null|
 |**2025-04-09**|**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**|Seonghwan Park et.al.|[2504.06838](http://arxiv.org/abs/2504.06838)|null|
-|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|null|
+|**2025-04-09**|**Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception**|Yuankun Xie et.al.|[2504.06753](http://arxiv.org/abs/2504.06753)|**[link](https://github.com/xieyuankun/all-type-add)**|
 |**2025-04-08**|**KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection**|Xingyuan Li et.al.|[2504.05878](http://arxiv.org/abs/2504.05878)|null|
 |**2025-04-08**|**Leveraging Prompt-Tuning for Bengali Grammatical Error Explanation Using Large Language Models**|Subhankar Maity et.al.|[2504.05642](http://arxiv.org/abs/2504.05642)|null|
 |**2025-04-06**|**DDPT: Diffusion-Driven Prompt Tuning for Large Language Model Code Generation**|Jinyang Li et.al.|[2504.04351](http://arxiv.org/abs/2504.04351)|null|
@@ -3781,7 +3781,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -3794,8 +3794,8 @@
 |**2025-04-10**|**Double Machine Learning for Causal Inference under Shared-State Interference**|Chris Hays et.al.|[2504.08836](http://arxiv.org/abs/2504.08836)|null|
 |**2025-04-03**|**Counterfactual Inference under Thompson Sampling**|Olivier Jeunen et.al.|[2504.08773](http://arxiv.org/abs/2504.08773)|null|
 |**2025-04-11**|**Enhanced Marginal Sensitivity Model and Bounds**|Yi Zhang et.al.|[2504.08301](http://arxiv.org/abs/2504.08301)|null|
-|**2025-04-11**|**A roadmap for systematic identification and analysis of multiple biases in causal inference**|Rushani Wijesuriya et.al.|[2504.08263](http://arxiv.org/abs/2504.08263)|null|
-|**2025-04-10**|**Emergence of psychopathological computations in large language models**|Soo Yong Lee et.al.|[2504.08016](http://arxiv.org/abs/2504.08016)|null|
+|**2025-04-11**|**A roadmap for systematic identification and analysis of multiple biases in causal inference**|Rushani Wijesuriya et.al.|[2504.08263](http://arxiv.org/abs/2504.08263)|**[link](https://github.com/rushwije/mba_roadmap)**|
+|**2025-04-10**|**Emergence of psychopathological computations in large language models**|Soo Yong Lee et.al.|[2504.08016](http://arxiv.org/abs/2504.08016)|**[link](https://github.com/syleeheal/machine_psychopathology)**|
 |**2025-04-08**|**BiasCause: Evaluate Socially Biased Causal Reasoning of Large Language Models**|Tian Xie et.al.|[2504.07997](http://arxiv.org/abs/2504.07997)|null|
 |**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
 |**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
@@ -4393,7 +4393,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Adversarial
 
@@ -4401,7 +4401,7 @@
 |---|---|---|---|---|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**Refining Financial Consumer Complaints through Multi-Scale Model Interaction**|Bo-Wei Chen et.al.|[2504.09903](http://arxiv.org/abs/2504.09903)|null|
-|**2025-04-12**|**FairACE: Achieving Degree Fairness in Graph Neural Networks via Contrastive and Adversarial Group-Balanced Training**|Jiaxin Liu et.al.|[2504.09210](http://arxiv.org/abs/2504.09210)|null|
+|**2025-04-15**|**FairACE: Achieving Degree Fairness in Graph Neural Networks via Contrastive and Adversarial Group-Balanced Training**|Jiaxin Liu et.al.|[2504.09210](http://arxiv.org/abs/2504.09210)|null|
 |**2025-04-12**|**From Visual Explanations to Counterfactual Explanations with Latent Diffusion**|Tung Luu et.al.|[2504.09202](http://arxiv.org/abs/2504.09202)|null|
 |**2025-04-11**|**Robust SAM: On the Adversarial Robustness of Vision Foundation Models**|Jiahuan Long et.al.|[2504.08906](http://arxiv.org/abs/2504.08906)|null|
 |**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897](http://arxiv.org/abs/2504.08897)|null|
@@ -4416,7 +4416,7 @@
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
 |**2025-04-07**|**Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models**|Yoojin Jung et.al.|[2504.04747](http://arxiv.org/abs/2504.04747)|null|
 |**2025-04-06**|**A Doubly Stochastically Perturbed Algorithm for Linearly Constrained Bilevel Optimization**|Prashant Khanduri et.al.|[2504.04545](http://arxiv.org/abs/2504.04545)|null|
-|**2025-04-05**|**Generative Market Equilibrium Models with Stable Adversarial Learning via Reinforcement**|Anastasis Kratsios et.al.|[2504.04300](http://arxiv.org/abs/2504.04300)|null|
+|**2025-04-05**|**Generative Market Equilibrium Models with Stable Adversarial Learning via Reinforcement**|Anastasis Kratsios et.al.|[2504.04300](http://arxiv.org/abs/2504.04300)|**[link](https://github.com/xf-shi/Reinforced-GAN)**|
 |**2025-04-03**|**A Study on Adversarial Robustness of Discriminative Prototypical Learning**|Ramin Zarei Sabzevar et.al.|[2504.03782](http://arxiv.org/abs/2504.03782)|null|
 |**2025-04-01**|**Misaligned Roles, Misplaced Images: Structural Input Perturbations Expose Multimodal Alignment Blind Spots**|Erfan Shayegani et.al.|[2504.03735](http://arxiv.org/abs/2504.03735)|null|
 |**2025-04-08**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
@@ -4846,5 +4846,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
