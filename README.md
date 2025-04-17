@@ -1,4 +1,4 @@
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -993,7 +993,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## DA
 
@@ -1011,7 +1011,7 @@
 |**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
 |**2025-04-12**|**Cycle Training with Semi-Supervised Domain Adaptation: Bridging Accuracy and Efficiency for Real-Time Mobile Scene Detection**|Huu-Phong Phan-Nguyen et.al.|[2504.09297](http://arxiv.org/abs/2504.09297)|null|
 |**2025-04-12**|**RT-DATR:Real-time Unsupervised Domain Adaptive Detection Transformer with Adversarial Feature Learning**|Feng Lv et.al.|[2504.09196](http://arxiv.org/abs/2504.09196)|null|
-|**2025-04-12**|**Probability Distribution Alignment and Low-Rank Weight Decomposition for Source-Free Domain Adaptive Brain Decoding**|Ganxi Xu et.al.|[2504.09109](http://arxiv.org/abs/2504.09109)|null|
+|**2025-04-15**|**Probability Distribution Alignment and Low-Rank Weight Decomposition for Source-Free Domain Adaptive Brain Decoding**|Ganxi Xu et.al.|[2504.09109](http://arxiv.org/abs/2504.09109)|null|
 |**2025-04-10**|**Datum-wise Transformer for Synthetic Tabular Data Detection in the Wild**|G. Charbel N. Kindji et.al.|[2504.08829](http://arxiv.org/abs/2504.08829)|null|
 |**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|null|
 |**2025-04-09**|**More diverse more adaptive: Comprehensive Multi-task Learning for Improved LLM Domain Adaptation in E-commerce**|Tong Piao et.al.|[2504.08002](http://arxiv.org/abs/2504.08002)|null|
@@ -1584,7 +1584,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## DG
 
@@ -1598,7 +1598,7 @@
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-09**|**Domain Generalization via Discrete Codebook Learning**|Shaocong Long et.al.|[2504.06572](http://arxiv.org/abs/2504.06572)|null|
 |**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
-|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
+|**2025-04-16**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470](http://arxiv.org/abs/2504.04470)|null|
 |**2025-04-04**|**Optimizing Specific and Shared Parameters for Efficient Parameter Tuning**|Van-Anh Nguyen et.al.|[2504.03450](http://arxiv.org/abs/2504.03450)|null|
@@ -1893,17 +1893,17 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jingkun Chen et.al.|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
-|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-16**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
 |**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
 |**2025-04-15**|**Benchmarking Vision Language Models on German Factual Data**|René Peinl et.al.|[2504.11108](http://arxiv.org/abs/2504.11108)|null|
-|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
+|**2025-04-16**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
 |**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
@@ -3460,7 +3460,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Prompt
 
@@ -3806,7 +3806,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -3826,7 +3826,7 @@
 |**2025-04-11**|**A roadmap for systematic identification and analysis of multiple biases in causal inference**|Rushani Wijesuriya et.al.|[2504.08263](http://arxiv.org/abs/2504.08263)|**[link](https://github.com/rushwije/mba_roadmap)**|
 |**2025-04-10**|**Emergence of psychopathological computations in large language models**|Soo Yong Lee et.al.|[2504.08016](http://arxiv.org/abs/2504.08016)|**[link](https://github.com/syleeheal/machine_psychopathology)**|
 |**2025-04-08**|**BiasCause: Evaluate Socially Biased Causal Reasoning of Large Language Models**|Tian Xie et.al.|[2504.07997](http://arxiv.org/abs/2504.07997)|null|
-|**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
+|**2025-04-16**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
 |**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
 |**2025-04-09**|**Causal Inference under Interference through Designed Markets**|Evan Munro et.al.|[2504.07217](http://arxiv.org/abs/2504.07217)|null|
 |**2025-04-08**|**Characterizing direct and indirect causal effects when outcomes are dependent due to treatment spillover and outcome spillover**|Subhankar Bhadra et.al.|[2504.06108](http://arxiv.org/abs/2504.06108)|null|
@@ -4422,7 +4422,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## Adversarial
 
@@ -4433,7 +4433,7 @@
 |**2025-04-15**|**Defending Against Frequency-Based Attacks with Diffusion Models**|Fatemeh Amerehi et.al.|[2504.11034](http://arxiv.org/abs/2504.11034)|null|
 |**2025-04-15**|**How to Enhance Downstream Adversarial Robustness (almost) without Touching the Pre-Trained Foundation Model?**|Meiqi Liu et.al.|[2504.10850](http://arxiv.org/abs/2504.10850)|null|
 |**2025-04-15**|**The Sword of Damocles in ViTs: Computational Redundancy Amplifies Adversarial Transferability**|Jiani Liu et.al.|[2504.10804](http://arxiv.org/abs/2504.10804)|null|
-|**2025-04-15**|**Generative and Explainable AI for High-Dimensional Channel Estimation**|Nghia Thinh Nguyen et.al.|[2504.10775](http://arxiv.org/abs/2504.10775)|null|
+|**2025-04-15**|**Generative and Explainable AI for High-Dimensional Channel Estimation**|Nghia Thinh Nguyen et.al.|[2504.10775](http://arxiv.org/abs/2504.10775)|**[link](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)**|
 |**2025-04-14**|**Beyond Worst-Case Online Classification: VC-Based Regret Bounds for Relaxed Benchmarks**|Omar Montasser et.al.|[2504.10598](http://arxiv.org/abs/2504.10598)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**Refining Financial Consumer Complaints through Multi-Scale Model Interaction**|Bo-Wei Chen et.al.|[2504.09903](http://arxiv.org/abs/2504.09903)|null|
@@ -4882,5 +4882,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
