@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -14,7 +14,7 @@ layout: default
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
 |**2025-04-14**|**Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning**|Azizul Zahid et.al.|[2504.11493](http://arxiv.org/abs/2504.11493)|null|
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
-|**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
+|**2025-04-17**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-15**|**The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets**|Matt Franchi et.al.|[2504.11163](http://arxiv.org/abs/2504.11163)|null|
 |**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857](http://arxiv.org/abs/2504.10857)|null|
 |**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
@@ -995,7 +995,7 @@ layout: default
 |**2025-04-16**|**Analysis of Pseudo-Labeling for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al.|[2504.11992](http://arxiv.org/abs/2504.11992)|null|
 |**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873](http://arxiv.org/abs/2504.11873)|null|
 |**2025-04-15**|**Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation**|Amirhossein Dadashzadeh et.al.|[2504.11669](http://arxiv.org/abs/2504.11669)|null|
-|**2025-04-15**|**Multi-output Classification Framework and Frequency Layer Normalization for Compound Fault Diagnosis in Motor**|Wonjun Yi et.al.|[2504.11513](http://arxiv.org/abs/2504.11513)|null|
+|**2025-04-17**|**Multi-output Classification Framework and Frequency Layer Normalization for Compound Fault Diagnosis in Motor**|Wonjun Yi et.al.|[2504.11513](http://arxiv.org/abs/2504.11513)|null|
 |**2025-04-15**|**eARCO: Efficient Automated Root Cause Analysis with Prompt Optimization**|Drishti Goel et.al.|[2504.11505](http://arxiv.org/abs/2504.11505)|null|
 |**2025-04-15**|**Weather-Aware Object Detection Transformer for Domain Adaptation**|Soheil Gharatappeh et.al.|[2504.10877](http://arxiv.org/abs/2504.10877)|null|
 |**2025-04-15**|**IlluSign: Illustrating Sign Language Videos by Leveraging the Attention Mechanism**|Janna Bruner et.al.|[2504.10822](http://arxiv.org/abs/2504.10822)|null|
@@ -1005,7 +1005,7 @@ layout: default
 |**2025-04-14**|**SemiETS: Integrating Spatial and Content Consistencies for Semi-Supervised End-to-end Text Spotting**|Dongliang Luo et.al.|[2504.09966](http://arxiv.org/abs/2504.09966)|null|
 |**2025-04-14**|**DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation**|Beomseok Kang et.al.|[2504.09814](http://arxiv.org/abs/2504.09814)|null|
 |**2025-04-13**|**Domain-Adaptive Continued Pre-Training of Small Language Models**|Salman Faroz et.al.|[2504.09687](http://arxiv.org/abs/2504.09687)|null|
-|**2025-04-13**|**ControlNET: A Firewall for RAG-based LLM System**|Hongwei Yao et.al.|[2504.09593](http://arxiv.org/abs/2504.09593)|null|
+|**2025-04-17**|**ControlNET: A Firewall for RAG-based LLM System**|Hongwei Yao et.al.|[2504.09593](http://arxiv.org/abs/2504.09593)|null|
 |**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
 |**2025-04-12**|**Cycle Training with Semi-Supervised Domain Adaptation: Bridging Accuracy and Efficiency for Real-Time Mobile Scene Detection**|Huu-Phong Phan-Nguyen et.al.|[2504.09297](http://arxiv.org/abs/2504.09297)|null|
 |**2025-04-12**|**RT-DATR:Real-time Unsupervised Domain Adaptive Detection Transformer with Adversarial Feature Learning**|Feng Lv et.al.|[2504.09196](http://arxiv.org/abs/2504.09196)|null|
@@ -1593,7 +1593,7 @@ layout: default
 |**2025-04-09**|**Domain Generalization through Attenuation of Domain-Specific Information**|Reiji Saito et.al.|[2504.06781](http://arxiv.org/abs/2504.06781)|null|
 |**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-09**|**Domain Generalization via Discrete Codebook Learning**|Shaocong Long et.al.|[2504.06572](http://arxiv.org/abs/2504.06572)|null|
-|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
+|**2025-04-17**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
 |**2025-04-16**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|**[link](https://github.com/visionxlab/earth-adapter)**|
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470](http://arxiv.org/abs/2504.04470)|null|
@@ -1895,16 +1895,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
 |**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Laura Fieback et.al.|[2504.12137](http://arxiv.org/abs/2504.12137)|null|
-|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
+|**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
 |**2025-04-16**|**Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning**|Hairui Ren et.al.|[2504.11930](http://arxiv.org/abs/2504.11930)|null|
 |**2025-04-16**|**A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification**|Bianca Lamm et.al.|[2504.11838](http://arxiv.org/abs/2504.11838)|null|
-|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
+|**2025-04-17**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
 |**2025-04-16**|**Interpreting the Linear Structure of Vision-language Model Embedding Spaces**|Isabel Papadimitriou et.al.|[2504.11695](http://arxiv.org/abs/2504.11695)|null|
 |**2025-04-16**|**VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps**|Biniam Fisseha Demissie et.al.|[2504.11675](http://arxiv.org/abs/2504.11675)|null|
 |**2025-04-15**|**Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation**|Amirhossein Dadashzadeh et.al.|[2504.11669](http://arxiv.org/abs/2504.11669)|null|
-|**2025-04-15**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509](http://arxiv.org/abs/2504.11509)|null|
+|**2025-04-17**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage**|Wenyi Zhang et.al.|[2504.11509](http://arxiv.org/abs/2504.11509)|null|
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jingkun Chen et.al.|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
-|**2025-04-16**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-17**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
 |**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
 |**2025-04-15**|**Benchmarking Vision Language Models on German Factual Data**|René Peinl et.al.|[2504.11108](http://arxiv.org/abs/2504.11108)|null|
 |**2025-04-16**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
@@ -3468,7 +3468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|null|
+|**2025-04-17**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|null|
 |**2025-04-16**|**Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning**|Hairui Ren et.al.|[2504.11930](http://arxiv.org/abs/2504.11930)|null|
 |**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
 |**2025-04-15**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections**|Alireza Salehi et.al.|[2504.11055](http://arxiv.org/abs/2504.11055)|null|
@@ -3815,7 +3815,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**Semiparametric Causal Discovery and Inference with Invalid Instruments**|Jing Zou et.al.|[2504.12085](http://arxiv.org/abs/2504.12085)|null|
-|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901](http://arxiv.org/abs/2504.11901)|null|
+|**2025-04-17**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901](http://arxiv.org/abs/2504.11901)|null|
 |**2025-04-16**|**A cautionary note for plasmode simulation studies in the setting of causal inference**|Pamela A Shaw et.al.|[2504.11740](http://arxiv.org/abs/2504.11740)|null|
 |**2025-04-15**|**Clinically Interpretable Survival Risk Stratification in Head and Neck Cancer Using Bayesian Networks and Markov Blankets**|Keyur D. Shah et.al.|[2504.11188](http://arxiv.org/abs/2504.11188)|null|
 |**2025-04-15**|**On relative universality, regression operator, and conditional independence**|Bing Li et.al.|[2504.11044](http://arxiv.org/abs/2504.11044)|null|
