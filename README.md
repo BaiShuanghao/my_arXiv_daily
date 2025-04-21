@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Remko Proesmans et.al.|[2504.13711](http://arxiv.org/abs/2504.13711)|null|
+|**2025-04-18**|**Robot Navigation in Dynamic Environments using Acceleration Obstacles**|Asher Stern et.al.|[2504.13637](http://arxiv.org/abs/2504.13637)|null|
+|**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Niklas Funk et.al.|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
+|**2025-04-17**|**Integration of a Graph-Based Path Planner and Mixed-Integer MPC for Robot Navigation in Cluttered Environments**|Joshua A. Robbins et.al.|[2504.13372](http://arxiv.org/abs/2504.13372)|null|
+|**2025-04-17**|**Physical Reservoir Computing in Hook-Shaped Rover Wheel Spokes for Real-Time Terrain Identification**|Xiao Jin et.al.|[2504.13348](http://arxiv.org/abs/2504.13348)|null|
 |**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149](http://arxiv.org/abs/2504.13149)|null|
 |**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059](http://arxiv.org/abs/2504.13059)|null|
 |**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|L. Wan et.al.|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
@@ -1013,6 +1019,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748](http://arxiv.org/abs/2504.13748)|null|
+|**2025-04-17**|**Deep literature reviews: an application of fine-tuned language models to migration research**|Stefano M. Iacus et.al.|[2504.13685](http://arxiv.org/abs/2504.13685)|null|
+|**2025-04-18**|**Continual Pre-Training is (not) What You Need in Domain Adaption**|Pin-Er Chen et.al.|[2504.13603](http://arxiv.org/abs/2504.13603)|null|
+|**2025-04-18**|**BeetleVerse: A study on taxonomic classification of ground beetles**|S M Rayeed et.al.|[2504.13393](http://arxiv.org/abs/2504.13393)|null|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
 |**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891](http://arxiv.org/abs/2504.12891)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709](http://arxiv.org/abs/2504.12709)|null|
@@ -1928,6 +1938,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
+|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460](http://arxiv.org/abs/2504.13460)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
+|**2025-04-17**|**Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models**|Chen Wang et.al.|[2504.13351](http://arxiv.org/abs/2504.13351)|null|
+|**2025-04-17**|**WildFireCan-MMD: A Multimodal dataset for Classification of User-generated Content During Wildfires in Canada**|Braeden Sherritt et.al.|[2504.13231](http://arxiv.org/abs/2504.13231)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
 |**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123](http://arxiv.org/abs/2504.13123)|null|
@@ -3515,6 +3533,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-13**|**CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent**|Liang-bo Ning et.al.|[2504.13192](http://arxiv.org/abs/2504.13192)|null|
 |**2025-04-09**|**Learning Optimal Prompt Ensemble for Multi-source Visual Prompt Transfer**|Enming Zhang et.al.|[2504.12311](http://arxiv.org/abs/2504.12311)|null|
 |**2025-04-17**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|**[link](https://github.com/zaplm/dc-sam)**|
 |**2025-04-16**|**Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning**|Hairui Ren et.al.|[2504.11930](http://arxiv.org/abs/2504.11930)|null|
@@ -3864,6 +3884,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Dynamic Regularized CBDT: Variance-Calibrated Causal Boosting for Interpretable Heterogeneous Treatment Effects**|Yichen Liu et.al.|[2504.13733](http://arxiv.org/abs/2504.13733)|null|
+|**2025-04-18**|**MR-MAGIC: Robust Causal Inference Using Many Weak Genetic Interactions**|Di Zhang et.al.|[2504.13565](http://arxiv.org/abs/2504.13565)|null|
+|**2025-04-17**|**Eco-efficiency as a Catalyst for Citizen Co-production: Evidence from Chinese Cities**|Ruiyu Zhang et.al.|[2504.13290](http://arxiv.org/abs/2504.13290)|null|
+|**2025-04-17**|**Causal-Copilot: An Autonomous Causal Analysis Agent**|Xinyue Wang et.al.|[2504.13263](http://arxiv.org/abs/2504.13263)|null|
+|**2025-04-17**|**The heterogeneous causal effects of the EU's Cohesion Fund**|Angelos Alexopoulos et.al.|[2504.13223](http://arxiv.org/abs/2504.13223)|null|
 |**2025-04-17**|**Covariate balancing estimation and model selection for difference-in-differences approach**|Takamichi Baba et.al.|[2504.13057](http://arxiv.org/abs/2504.13057)|null|
 |**2025-04-17**|**Meta-Dependence in Conditional Independence Testing**|Bijan Mazaheri et.al.|[2504.12594](http://arxiv.org/abs/2504.12594)|null|
 |**2025-04-17**|**CDF-RAG: Causal Dynamic Feedback for Adaptive Retrieval-Augmented Generation**|Elahe Khatibi et.al.|[2504.12560](http://arxiv.org/abs/2504.12560)|**[link](https://github.com/elakhatibi/cdf-rag)**|
