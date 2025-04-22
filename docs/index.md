@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -23,7 +23,7 @@ layout: default
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-17**|**Trajectory Adaptation using Large Language Models**|Anurag Maurya et.al.|[2504.12755](http://arxiv.org/abs/2504.12755)|null|
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702](http://arxiv.org/abs/2504.12702)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
-|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
+|**2025-04-21**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Rongtao Xu et.al.|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
 |**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Tyler Ga Wei Lum et.al.|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
 |**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|William Xie et.al.|[2504.11827](http://arxiv.org/abs/2504.11827)|null|
 |**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|**[link](https://github.com/vlar-group/grabs)**|
