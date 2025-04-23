@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -3917,7 +3917,7 @@ layout: default
 |**2025-04-16**|**A cautionary note for plasmode simulation studies in the setting of causal inference**|Pamela A Shaw et.al.|[2504.11740](http://arxiv.org/abs/2504.11740)|null|
 |**2025-04-15**|**Clinically Interpretable Survival Risk Stratification in Head and Neck Cancer Using Bayesian Networks and Markov Blankets**|Keyur D. Shah et.al.|[2504.11188](http://arxiv.org/abs/2504.11188)|null|
 |**2025-04-15**|**On relative universality, regression operator, and conditional independence**|Bing Li et.al.|[2504.11044](http://arxiv.org/abs/2504.11044)|null|
-|**2025-04-15**|**A conceptual synthesis of causal assumptions for causal discovery and inference**|Hannah E. Correia et.al.|[2504.11035](http://arxiv.org/abs/2504.11035)|null|
+|**2025-04-21**|**A conceptual synthesis of causal assumptions for causal discovery and inference**|Hannah E. Correia et.al.|[2504.11035](http://arxiv.org/abs/2504.11035)|null|
 |**2025-04-15**|**Can LLMs Leverage Observational Data? Towards Data-Driven Causal Discovery with LLMs**|Yuni Susanti et.al.|[2504.10936](http://arxiv.org/abs/2504.10936)|null|
 |**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397](http://arxiv.org/abs/2504.10397)|null|
 |**2025-04-13**|**A Two-Stage Interpretable Matching Framework for Causal Inference**|Sahil Shikalgar et.al.|[2504.09635](http://arxiv.org/abs/2504.09635)|null|
