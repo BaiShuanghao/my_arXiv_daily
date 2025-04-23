@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
+|**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
+|**2025-04-22**|**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**|Jingkai Xu et.al.|[2504.15561](http://arxiv.org/abs/2504.15561)|null|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
+|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Pingcheng Jian et.al.|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
 |**2025-04-21**|**A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing**|Nathan Steffen et.al.|[2504.15226](http://arxiv.org/abs/2504.15226)|null|
@@ -1027,6 +1033,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
+|**2025-04-22**|**Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**|Yuxin Jiang et.al.|[2504.15573](http://arxiv.org/abs/2504.15573)|null|
 |**2025-04-21**|**Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation**|Hankang Sun et.al.|[2504.14994](http://arxiv.org/abs/2504.14994)|null|
 |**2025-04-19**|**CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey**|Jindong Li et.al.|[2504.14280](http://arxiv.org/abs/2504.14280)|**[link](https://github.com/jindongli-ai/survey_on_clip-powered_domain_generalization_and_adaptation)**|
 |**2025-04-19**|**Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering**|Yongguang Li et.al.|[2504.14224](http://arxiv.org/abs/2504.14224)|null|
@@ -1638,6 +1647,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743](http://arxiv.org/abs/2504.15743)|null|
+|**2025-04-22**|**Invariant Learning with Annotation-free Environments**|Phuong Quynh Le et.al.|[2504.15686](http://arxiv.org/abs/2504.15686)|null|
 |**2025-04-21**|**DONOD: Robust and Generalizable Instruction Fine-Tuning for LLMs via Model-Intrinsic Dataset Pruning**|Jucheng Hu et.al.|[2504.14810](http://arxiv.org/abs/2504.14810)|null|
 |**2025-04-19**|**CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey**|Jindong Li et.al.|[2504.14280](http://arxiv.org/abs/2504.14280)|**[link](https://github.com/jindongli-ai/survey_on_clip-powered_domain_generalization_and_adaptation)**|
 |**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang et.al.|[2504.12966](http://arxiv.org/abs/2504.12966)|null|
@@ -1953,6 +1964,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|Sangeet Khemlani et.al.|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
+|**2025-04-22**|**Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation**|Ziqiao Ma et.al.|[2504.16060](http://arxiv.org/abs/2504.16060)|null|
+|**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Frank Li et.al.|[2504.16047](http://arxiv.org/abs/2504.16047)|null|
+|**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Joya Chen et.al.|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
+|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-21**|**CAPTURe: Evaluating Spatial Reasoning in Vision Language Models via Occluded Object Counting**|Atin Pothiraj et.al.|[2504.15485](http://arxiv.org/abs/2504.15485)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
 |**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Hong-Tao Yu et.al.|[2504.14988](http://arxiv.org/abs/2504.14988)|**[link](https://github.com/seu-vipgroup/fg-bmk)**|
@@ -3564,6 +3584,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016](http://arxiv.org/abs/2504.16016)|null|
 |**2025-04-19**|**CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey**|Jindong Li et.al.|[2504.14280](http://arxiv.org/abs/2504.14280)|**[link](https://github.com/jindongli-ai/survey_on_clip-powered_domain_generalization_and_adaptation)**|
 |**2025-04-19**|**Visual Consensus Prompting for Co-Salient Object Detection**|Jie Wang et.al.|[2504.14254](http://arxiv.org/abs/2504.14254)|**[link](https://github.com/wj-cv/vcp)**|
 |**2025-04-19**|**Bayesian Principles Improve Prompt Learning In Vision-Language Models**|Mingyu Kim et.al.|[2504.14123](http://arxiv.org/abs/2504.14123)|null|
@@ -3918,6 +3939,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Consistent Causal Inference of Group Effects in Non-Targeted Trials with Finitely Many Effect Levels**|Georgios Mavroudeas et.al.|[2504.15854](http://arxiv.org/abs/2504.15854)|null|
 |**2025-04-21**|**Causal DAG Summarization (Full Version)**|Anna Zeng et.al.|[2504.14937](http://arxiv.org/abs/2504.14937)|null|
 |**2025-04-20**|**Causality for Natural Language Processing**|Zhijing Jin et.al.|[2504.14530](http://arxiv.org/abs/2504.14530)|null|
 |**2025-04-19**|**Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data**|Shlomi Hod et.al.|[2504.14368](http://arxiv.org/abs/2504.14368)|null|
@@ -4550,6 +4572,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
+|**2025-04-21**|**Post-Convergence Sim-to-Real Policy Transfer: A Principled Alternative to Cherry-Picking**|Dylan Khor et.al.|[2504.15414](http://arxiv.org/abs/2504.15414)|null|
 |**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
 |**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
 |**2025-04-21**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921](http://arxiv.org/abs/2504.14921)|null|
