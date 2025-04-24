@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -4554,8 +4554,8 @@ layout: default
 |**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
 |**2025-04-21**|**Post-Convergence Sim-to-Real Policy Transfer: A Principled Alternative to Cherry-Picking**|Dylan Khor et.al.|[2504.15414](http://arxiv.org/abs/2504.15414)|null|
 |**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
-|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
-|**2025-04-21**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921](http://arxiv.org/abs/2504.14921)|null|
+|**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+|**2025-04-23**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921](http://arxiv.org/abs/2504.14921)|null|
 |**2025-04-19**|**Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**|Chung-En et.al.|[2504.14395](http://arxiv.org/abs/2504.14395)|null|
 |**2025-04-15**|**RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems**|Xiaohua Feng et.al.|[2504.11510](http://arxiv.org/abs/2504.11510)|null|
 |**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
