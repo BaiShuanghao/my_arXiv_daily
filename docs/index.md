@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1067,7 +1067,7 @@ layout: default
 |**2025-04-29**|**Digital Shielding for Cross-Domain Wi-Fi Signal Adaptation using Relativistic Average Generative Adversarial Network**|Danilo Avola et.al.|[2504.20568](http://arxiv.org/abs/2504.20568)|null|
 |**2025-04-29**|**Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection**|Jianhong Han et.al.|[2504.20498](http://arxiv.org/abs/2504.20498)|null|
 |**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000](http://arxiv.org/abs/2504.20000)|null|
-|**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
+|**2025-04-30**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
 |**2025-04-28**|**ClearVision: Leveraging CycleGAN and SigLIP-2 for Robust All-Weather Classification in Traffic Camera Imagery**|Anush Lakshman Sivaraman et.al.|[2504.19684](http://arxiv.org/abs/2504.19684)|null|
 |**2025-04-27**|**Adaptive Dual-domain Learning for Underwater Image Enhancement**|Lingtao Peng et.al.|[2504.19198](http://arxiv.org/abs/2504.19198)|null|
 |**2025-04-27**|**A tissue-informed deep learning-based method for positron range correction in preclinical 68Ga PET imaging**|Nerea Encina-Baranda et.al.|[2504.19175](http://arxiv.org/abs/2504.19175)|null|
@@ -4696,7 +4696,7 @@ layout: default
 |**2025-04-24**|**Evaluating the Vulnerability of ML-Based Ethereum Phishing Detectors to Single-Feature Adversarial Perturbations**|Ahod Alghuried et.al.|[2504.17684](http://arxiv.org/abs/2504.17684)|null|
 |**2025-04-24**|**Enhancing Variational Autoencoders with Smooth Robust Latent Encoding**|Hyomin Lee et.al.|[2504.17219](http://arxiv.org/abs/2504.17219)|null|
 |**2025-04-21**|**Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends**|Mohammad Abu Tami et.al.|[2504.16134](http://arxiv.org/abs/2504.16134)|null|
-|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
+|**2025-04-29**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
 |**2025-04-21**|**Post-Convergence Sim-to-Real Policy Transfer: A Principled Alternative to Cherry-Picking**|Dylan Khor et.al.|[2504.15414](http://arxiv.org/abs/2504.15414)|null|
 |**2025-04-21**|**Fast-Slow Co-advancing Optimizer: Toward Harmonious Adversarial Training of GAN**|Lin Wang et.al.|[2504.15099](http://arxiv.org/abs/2504.15099)|null|
 |**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
