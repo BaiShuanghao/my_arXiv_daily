@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -25,7 +25,7 @@ layout: default
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-06**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**Optimal Interactive Learning on the Job via Facility Location Planning**|Shivam Vats et.al.|[2505.00490](http://arxiv.org/abs/2505.00490)|null|
 |**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
@@ -3768,7 +3768,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-04**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|null|
+|**2025-05-06**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|null|
 |**2025-05-04**|**GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code**|Samidha Verma et.al.|[2505.02124](http://arxiv.org/abs/2505.02124)|null|
 |**2025-05-03**|**Mitigating Group-Level Fairness Disparities in Federated Visual Language Models**|Chaomeng Chen et.al.|[2505.01851](http://arxiv.org/abs/2505.01851)|null|
 |**2025-05-02**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234](http://arxiv.org/abs/2505.00234)|null|
@@ -4804,7 +4804,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**Catastrophic Overfitting, Entropy Gap and Participation Ratio: A Noiseless $l^p$ Norm Solution for Fast Adversarial Training**|Fares B. Mehouachi et.al.|[2505.02360](http://arxiv.org/abs/2505.02360)|null|
 |**2025-05-04**|**Lightweight Defense Against Adversarial Attacks in Time Series Classification**|Yi Han et.al.|[2505.02073](http://arxiv.org/abs/2505.02073)|null|
-|**2025-05-03**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|null|
+|**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|null|
 |**2025-05-03**|**Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition with Adversarial Feature Disentanglement**|Long Bai et.al.|[2505.01766](http://arxiv.org/abs/2505.01766)|null|
 |**2025-05-02**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al.|[2505.01012](http://arxiv.org/abs/2505.01012)|null|
 |**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843](http://arxiv.org/abs/2505.00843)|null|
