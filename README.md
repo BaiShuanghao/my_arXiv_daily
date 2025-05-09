@@ -1,4 +1,4 @@
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1100,7 +1100,7 @@
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## DA
 
@@ -1750,7 +1750,7 @@
 |**2024-09-12**|**Domain Adaptation for DoA Estimation in Multipath Channels with Interferences**|Amitay Bar et.al.|[2409.07782](http://arxiv.org/abs/2409.07782)|**[link](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)**|
 |**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## DG
 
@@ -2092,7 +2092,7 @@
 |**2024-09-03**|**Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations**|Jun-Young Lee et.al.|[2409.02256](http://arxiv.org/abs/2409.02256)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## VLM
 
@@ -3808,7 +3808,7 @@
 |**2024-09-24**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
 |**2024-09-20**|**TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings**|Dawei Yan et.al.|[2409.09564](http://arxiv.org/abs/2409.09564)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Prompt
 
@@ -4183,7 +4183,7 @@
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-07**|**Towards Generative Class Prompt Learning for Fine-grained Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|**[link](https://github.com/soumitri2001/gcpl)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -4202,7 +4202,7 @@
 |**2025-05-03**|**TV-SurvCaus: Dynamic Representation Balancing for Causal Survival Analysis**|Ayoub Abraich et.al.|[2505.01785](http://arxiv.org/abs/2505.01785)|null|
 |**2025-05-03**|**Causally Fair Node Classification on Non-IID Graph Data**|Yucong Dai et.al.|[2505.01652](http://arxiv.org/abs/2505.01652)|null|
 |**2025-05-02**|**TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action**|Jen-Hao Cheng et.al.|[2505.01583](http://arxiv.org/abs/2505.01583)|**[link](https://github.com/andy-cheng/tempura)**|
-|**2025-05-05**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
+|**2025-05-08**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
 |**2025-05-02**|**Discovering Mechanistic Causality from Time Series: A Behavioral-System Approach**|Yingzhu Liu et.al.|[2505.01226](http://arxiv.org/abs/2505.01226)|null|
 |**2025-05-02**|**Characterization and Learning of Causal Graphs from Hard Interventions**|Zihan Zhou et.al.|[2505.01037](http://arxiv.org/abs/2505.01037)|null|
 |**2025-05-02**|**Robust Root Cause Diagnosis using In-Distribution Interventions**|Lokesh Nagalapatti et.al.|[2505.00930](http://arxiv.org/abs/2505.00930)|null|
@@ -4852,7 +4852,7 @@
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836](http://arxiv.org/abs/2409.04836)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Adversarial
 
@@ -5349,5 +5349,5 @@
 |**2024-09-07**|**PANTS: Practical Adversarial Network Traffic Samples against ML-powered Networking Classifiers**|Minhao Jin et.al.|[2409.04691](http://arxiv.org/abs/2409.04691)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 

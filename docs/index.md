@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -4183,7 +4183,7 @@ layout: default
 |**2025-05-03**|**TV-SurvCaus: Dynamic Representation Balancing for Causal Survival Analysis**|Ayoub Abraich et.al.|[2505.01785](http://arxiv.org/abs/2505.01785)|null|
 |**2025-05-03**|**Causally Fair Node Classification on Non-IID Graph Data**|Yucong Dai et.al.|[2505.01652](http://arxiv.org/abs/2505.01652)|null|
 |**2025-05-02**|**TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action**|Jen-Hao Cheng et.al.|[2505.01583](http://arxiv.org/abs/2505.01583)|**[link](https://github.com/andy-cheng/tempura)**|
-|**2025-05-05**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
+|**2025-05-08**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
 |**2025-05-02**|**Discovering Mechanistic Causality from Time Series: A Behavioral-System Approach**|Yingzhu Liu et.al.|[2505.01226](http://arxiv.org/abs/2505.01226)|null|
 |**2025-05-02**|**Characterization and Learning of Causal Graphs from Hard Interventions**|Zihan Zhou et.al.|[2505.01037](http://arxiv.org/abs/2505.01037)|null|
 |**2025-05-02**|**Robust Root Cause Diagnosis using In-Distribution Interventions**|Lokesh Nagalapatti et.al.|[2505.00930](http://arxiv.org/abs/2505.00930)|null|
