@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1772,7 +1772,7 @@ layout: default
 |**2025-04-30**|**Effective Inference-Free Retrieval for Learned Sparse Representations**|Franco Maria Nardini et.al.|[2505.01452](http://arxiv.org/abs/2505.01452)|null|
 |**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168](http://arxiv.org/abs/2505.01168)|null|
 |**2025-05-01**|**Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior**|Timo P. Gros et.al.|[2505.00439](http://arxiv.org/abs/2505.00439)|null|
-|**2025-04-30**|**Adapting In-Domain Few-Shot Segmentation to New Domains without Retraining**|Qi Fan et.al.|[2504.21414](http://arxiv.org/abs/2504.21414)|null|
+|**2025-05-12**|**Adapting In-Domain Few-Shot Segmentation to New Domains without Retraining**|Qi Fan et.al.|[2504.21414](http://arxiv.org/abs/2504.21414)|null|
 |**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
 |**2025-04-29**|**General vector auxiliary differential equation finite-difference time-domain method for rotationally symmetric vector wave propagation in nonlinear optics**|Caleb J. Grimms et.al.|[2504.21201](http://arxiv.org/abs/2504.21201)|null|
 |**2025-04-29**|**Graph Synthetic Out-of-Distribution Exposure with Large Language Models**|Haoyan Xu et.al.|[2504.21198](http://arxiv.org/abs/2504.21198)|null|
