@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
+|**2025-05-13**|**Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration**|David Cáceres Domínguez et.al.|[2505.08625](http://arxiv.org/abs/2505.08625)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges**|Miguel Arana-Catania et.al.|[2505.08453](http://arxiv.org/abs/2505.08453)|null|
+|**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
+|**2025-05-13**|**Adaptive Diffusion Policy Optimization for Robotic Manipulation**|Huiyun Jiang et.al.|[2505.08376](http://arxiv.org/abs/2505.08376)|null|
+|**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Xinyue Wang et.al.|[2505.08361](http://arxiv.org/abs/2505.08361)|null|
+|**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Junda Huang et.al.|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
+|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Wenxuan Ma et.al.|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
+|**2025-05-12**|**What Matters for Batch Online Reinforcement Learning in Robotics?**|Perry Dong et.al.|[2505.08078](http://arxiv.org/abs/2505.08078)|null|
 |**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 |**2025-05-12**|**Improving Trajectory Stitching with Flow Models**|Reece O'Mahoney et.al.|[2505.07802](http://arxiv.org/abs/2505.07802)|null|
@@ -1131,6 +1141,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527](http://arxiv.org/abs/2505.08527)|**[link](https://github.com/zheangh/dfg)**|
+|**2025-05-13**|**Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM**|Nicholas Attolino et.al.|[2505.08492](http://arxiv.org/abs/2505.08492)|null|
 |**2025-05-12**|**Noise Optimized Conditional Diffusion for Domain Adaptation**|Lingkun Luo et.al.|[2505.07548](http://arxiv.org/abs/2505.07548)|null|
 |**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
@@ -1795,6 +1807,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions**|Lata Pangtey et.al.|[2505.08464](http://arxiv.org/abs/2505.08464)|null|
+|**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
 |**2025-05-12**|**Language-Driven Dual Style Mixing for Single-Domain Generalized Object Detection**|Hongda Qin et.al.|[2505.07219](http://arxiv.org/abs/2505.07219)|**[link](https://github.com/qinhongda8/ldds)**|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
@@ -2145,6 +2159,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Md Tahmid Rahman Laskar et.al.|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
+|**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Xianghui Wang et.al.|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
+|**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
+|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Wenxuan Ma et.al.|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
+|**2025-05-13**|**DSADF: Thinking Fast and Slow for Decision Making**|Alex Zhihao Dou et.al.|[2505.08189](http://arxiv.org/abs/2505.08189)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 |**2025-05-12**|**Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction**|Jingfen Qiao et.al.|[2505.07730](http://arxiv.org/abs/2505.07730)|null|
 |**2025-05-12**|**Through the Looking Glass: Common Sense Consistency Evaluation of Weird Images**|Elisei Rykov et.al.|[2505.07704](http://arxiv.org/abs/2505.07704)|null|
@@ -4280,6 +4302,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
+|**2025-05-13**|**Assumption-robust Causal Inference**|Aditya Ghosh et.al.|[2505.08729](http://arxiv.org/abs/2505.08729)|null|
+|**2025-05-13**|**VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models**|Pritam Sarkar et.al.|[2505.08455](http://arxiv.org/abs/2505.08455)|**[link](https://github.com/pritamqu/vcrbench)**|
+|**2025-05-13**|**Bayesian Estimation of Causal Effects Using Proxies of a Latent Interference Network**|Bar Weinstein et.al.|[2505.08395](http://arxiv.org/abs/2505.08395)|null|
+|**2025-05-13**|**Density Ratio-based Causal Discovery from Bivariate Continuous-Discrete Data**|Takashi Nicholas Maeda et.al.|[2505.08371](http://arxiv.org/abs/2505.08371)|null|
+|**2025-05-13**|**An Identifiable Cost-Aware Causal Decision-Making Framework Using Counterfactual Reasoning**|Ruichu Cai et.al.|[2505.08343](http://arxiv.org/abs/2505.08343)|null|
+|**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
+|**2025-05-13**|**Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification**|Xiaoshuo Yan et.al.|[2505.08173](http://arxiv.org/abs/2505.08173)|null|
+|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|null|
+|**2025-05-12**|**Separation-based causal discovery for extremes**|Junshu Jiang et.al.|[2505.08008](http://arxiv.org/abs/2505.08008)|null|
+|**2025-05-12**|**rd2d: Causal Inference in Boundary Discontinuity Designs**|Matias D. Cattaneo et.al.|[2505.07989](http://arxiv.org/abs/2505.07989)|null|
 |**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|**[link](https://github.com/quangdzuytran/COMIC)**|
 |**2025-05-12**|**GMM with Many Weak Moment Conditions and Nuisance Parameters: General Theory and Applications to Causal Inference**|Rui Wang et.al.|[2505.07295](http://arxiv.org/abs/2505.07295)|null|
 |**2025-05-11**|**Causal knowledge graph analysis identifies adverse drug effects**|Sumyyah Toonsi et.al.|[2505.06949](http://arxiv.org/abs/2505.06949)|null|
@@ -4961,6 +4994,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks**|Steffen Schotthöfer et.al.|[2505.08022](http://arxiv.org/abs/2505.08022)|null|
+|**2025-05-08**|**Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights**|Paweł Walkowiak et.al.|[2505.07856](http://arxiv.org/abs/2505.07856)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-11**|**IM-BERT: Enhancing Robustness of BERT through the Implicit Euler Method**|Mihyeon Kim et.al.|[2505.06889](http://arxiv.org/abs/2505.06889)|null|
 |**2025-05-11**|**NewsNet-SDF: Stochastic Discount Factor Estimation with Pretrained Language Model News Embeddings via Adversarial Networks**|Shunyao Wang et.al.|[2505.06864](http://arxiv.org/abs/2505.06864)|null|
