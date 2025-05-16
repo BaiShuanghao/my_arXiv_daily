@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -1140,13 +1140,13 @@ layout: default
 |**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123](http://arxiv.org/abs/2505.09123)|null|
 |**2025-05-14**|**2D-3D Attention and Entropy for Pose Robust 2D Facial Recognition**|J. Brennan Peace et.al.|[2505.09073](http://arxiv.org/abs/2505.09073)|null|
 |**2025-05-14**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527](http://arxiv.org/abs/2505.08527)|**[link](https://github.com/xmed-lab/dfg)**|
-|**2025-05-13**|**Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM**|Nicholas Attolino et.al.|[2505.08492](http://arxiv.org/abs/2505.08492)|null|
+|**2025-05-13**|**Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM**|Nicholas Attolino et.al.|[2505.08492](http://arxiv.org/abs/2505.08492)|**[link](https://github.com/nichattgh/gideon)**|
 |**2025-05-12**|**Noise Optimized Conditional Diffusion for Domain Adaptation**|Lingkun Luo et.al.|[2505.07548](http://arxiv.org/abs/2505.07548)|null|
-|**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
+|**2025-05-15**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050](http://arxiv.org/abs/2505.07050)|null|
 |**2025-05-11**|**Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation**|Seokjun Kwon et.al.|[2505.06951](http://arxiv.org/abs/2505.06951)|null|
 |**2025-05-11**|**Enhancing Monocular Height Estimation via Sparse LiDAR-Guided Correction**|Jian Song et.al.|[2505.06905](http://arxiv.org/abs/2505.06905)|null|
-|**2025-05-10**|**TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification**|Dongyoon Yang et.al.|[2505.06580](http://arxiv.org/abs/2505.06580)|**[link](https://github.com/dyoony/TAROT)**|
+|**2025-05-10**|**TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification**|Dongyoon Yang et.al.|[2505.06580](http://arxiv.org/abs/2505.06580)|null|
 |**2025-05-09**|**TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries**|Jinze Lv et.al.|[2505.05714](http://arxiv.org/abs/2505.05714)|null|
 |**2025-05-08**|**Semantic Style Transfer for Enhancing Animal Facial Landmark Detection**|Anadil Hussein et.al.|[2505.05640](http://arxiv.org/abs/2505.05640)|null|
 |**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232](http://arxiv.org/abs/2505.05232)|null|
@@ -1812,7 +1812,7 @@ layout: default
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
 |**2025-05-11**|**Mice to Machines: Neural Representations from Visual Cortex for Domain Generalization**|Ahmed Qazi et.al.|[2505.06886](http://arxiv.org/abs/2505.06886)|null|
 |**2025-05-11**|**NeuRN: Neuro-inspired Domain Generalization for Image Classification**|Hamd Jalil et.al.|[2505.06881](http://arxiv.org/abs/2505.06881)|null|
-|**2025-05-10**|**TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification**|Dongyoon Yang et.al.|[2505.06580](http://arxiv.org/abs/2505.06580)|**[link](https://github.com/dyoony/TAROT)**|
+|**2025-05-10**|**TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification**|Dongyoon Yang et.al.|[2505.06580](http://arxiv.org/abs/2505.06580)|null|
 |**2025-05-08**|**Domain-Adversarial Anatomical Graph Networks for Cross-User Human Activity Recognition**|Xiaozhou Ye et.al.|[2505.06301](http://arxiv.org/abs/2505.06301)|null|
 |**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Benjamin Raphael Ernhofer et.al.|[2505.05895](http://arxiv.org/abs/2505.05895)|**[link](https://huggingface.co/sparks-solutions/ELAM-7B)**|
 |**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539](http://arxiv.org/abs/2505.03539)|**[link](https://github.com/mengfeid/panoos)**|
@@ -2164,10 +2164,10 @@ layout: default
 |**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Dayong Liang et.al.|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[2505.09092](http://arxiv.org/abs/2505.09092)|**[link](https://github.com/openlka/openlka)**|
 |**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Yangyi Chen et.al.|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
-|**2025-05-13**|**Behind Maya: Building a Multilingual Vision Language Model**|Nahid Alam et.al.|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
+|**2025-05-15**|**Behind Maya: Building a Multilingual Vision Language Model**|Nahid Alam et.al.|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
 |**2025-05-12**|**Position: Restructuring of Categories and Implementation of Guidelines Essential for VLM Adoption in Healthcare**|Amara Tariq et.al.|[2505.08818](http://arxiv.org/abs/2505.08818)|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
-|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
 |**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Md Tahmid Rahman Laskar et.al.|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
 |**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Xianghui Wang et.al.|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
@@ -4311,15 +4311,15 @@ layout: default
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
 |**2025-05-13**|**Assumption-robust Causal Inference**|Aditya Ghosh et.al.|[2505.08729](http://arxiv.org/abs/2505.08729)|null|
 |**2025-05-13**|**VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models**|Pritam Sarkar et.al.|[2505.08455](http://arxiv.org/abs/2505.08455)|**[link](https://github.com/pritamqu/vcrbench)**|
-|**2025-05-13**|**Bayesian Estimation of Causal Effects Using Proxies of a Latent Interference Network**|Bar Weinstein et.al.|[2505.08395](http://arxiv.org/abs/2505.08395)|null|
-|**2025-05-13**|**Density Ratio-based Causal Discovery from Bivariate Continuous-Discrete Data**|Takashi Nicholas Maeda et.al.|[2505.08371](http://arxiv.org/abs/2505.08371)|null|
+|**2025-05-13**|**Bayesian Estimation of Causal Effects Using Proxies of a Latent Interference Network**|Bar Weinstein et.al.|[2505.08395](http://arxiv.org/abs/2505.08395)|**[link](https://github.com/barwein/BayesProxyNets)**|
+|**2025-05-13**|**Density Ratio-based Causal Discovery from Bivariate Continuous-Discrete Data**|Takashi Nicholas Maeda et.al.|[2505.08371](http://arxiv.org/abs/2505.08371)|**[link](https://github.com/causal111/DRCD)**|
 |**2025-05-13**|**An Identifiable Cost-Aware Causal Decision-Making Framework Using Counterfactual Reasoning**|Ruichu Cai et.al.|[2505.08343](http://arxiv.org/abs/2505.08343)|null|
 |**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
 |**2025-05-13**|**Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification**|Xiaoshuo Yan et.al.|[2505.08173](http://arxiv.org/abs/2505.08173)|null|
-|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|null|
+|**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|**[link](https://github.com/herbps10/efficient_penalized_estimation_paper)**|
 |**2025-05-12**|**Separation-based causal discovery for extremes**|Junshu Jiang et.al.|[2505.08008](http://arxiv.org/abs/2505.08008)|null|
 |**2025-05-12**|**rd2d: Causal Inference in Boundary Discontinuity Designs**|Matias D. Cattaneo et.al.|[2505.07989](http://arxiv.org/abs/2505.07989)|null|
-|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|**[link](https://github.com/quangdzuytran/COMIC)**|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|null|
 |**2025-05-12**|**GMM with Many Weak Moment Conditions and Nuisance Parameters: General Theory and Applications to Causal Inference**|Rui Wang et.al.|[2505.07295](http://arxiv.org/abs/2505.07295)|null|
 |**2025-05-11**|**Causal knowledge graph analysis identifies adverse drug effects**|Sumyyah Toonsi et.al.|[2505.06949](http://arxiv.org/abs/2505.06949)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[2505.06856](http://arxiv.org/abs/2505.06856)|null|
