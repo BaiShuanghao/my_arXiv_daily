@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -25,7 +25,7 @@ layout: default
 |**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Enyu Zhao et.al.|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
-|**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424](http://arxiv.org/abs/2505.09424)|null|
+|**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424](http://arxiv.org/abs/2505.09424)|**[link](https://github.com/sunhan1997/poseinsert)**|
 |**2025-05-14**|**Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation**|Chengyang He et.al.|[2505.09144](http://arxiv.org/abs/2505.09144)|null|
 |**2025-05-13**|**ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation**|Amirreza Davar et.al.|[2505.08986](http://arxiv.org/abs/2505.08986)|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
@@ -3955,7 +3955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|null|
+|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|**[link](https://github.com/zongqianli/pt-moe)**|
 |**2025-05-09**|**PromptIQ: Who Cares About Prompts? Let System Handle It -- A Component-Aware Framework for T2I Generation**|Nisan Chhetri et.al.|[2505.06467](http://arxiv.org/abs/2505.06467)|null|
 |**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
 |**2025-05-08**|**OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning**|Cong Hua et.al.|[2505.05180](http://arxiv.org/abs/2505.05180)|**[link](https://github.com/huacong/openworldauc)**|
