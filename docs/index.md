@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-15**|**PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**|Long Cheng et.al.|[2505.09990](http://arxiv.org/abs/2505.09990)|null|
 |**2025-05-15**|**Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots**|Huiqiao Fu et.al.|[2505.09979](http://arxiv.org/abs/2505.09979)|null|
 |**2025-05-14**|**Learning Rock Pushability on Rough Planetary Terrain**|Tuba Girgin et.al.|[2505.09833](http://arxiv.org/abs/2505.09833)|null|
-|**2025-05-14**|**Grasp EveryThing (GET): 1-DoF, 3-Fingered Gripper with Tactile Sensing for Robust Grasping**|Michael Burgess et.al.|[2505.09771](http://arxiv.org/abs/2505.09771)|**[link](https://github.com/GelSight-lab/GraspEveryThing)**|
+|**2025-05-16**|**Grasp EveryThing (GET): 1-DoF, 3-Fingered Gripper with Tactile Sensing for Robust Grasping**|Michael Burgess et.al.|[2505.09771](http://arxiv.org/abs/2505.09771)|**[link](https://github.com/GelSight-lab/GraspEveryThing)**|
 |**2025-05-14**|**EnerVerse-AC: Envisioning Embodied Environments with Action Condition**|Yuxin Jiang et.al.|[2505.09723](http://arxiv.org/abs/2505.09723)|null|
 |**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Enyu Zhao et.al.|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
@@ -4344,9 +4344,9 @@ layout: default
 |**2025-05-13**|**Assumption-robust Causal Inference**|Aditya Ghosh et.al.|[2505.08729](http://arxiv.org/abs/2505.08729)|null|
 |**2025-05-13**|**VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models**|Pritam Sarkar et.al.|[2505.08455](http://arxiv.org/abs/2505.08455)|**[link](https://github.com/pritamqu/vcrbench)**|
 |**2025-05-13**|**Bayesian Estimation of Causal Effects Using Proxies of a Latent Interference Network**|Bar Weinstein et.al.|[2505.08395](http://arxiv.org/abs/2505.08395)|**[link](https://github.com/barwein/BayesProxyNets)**|
-|**2025-05-13**|**Density Ratio-based Causal Discovery from Bivariate Continuous-Discrete Data**|Takashi Nicholas Maeda et.al.|[2505.08371](http://arxiv.org/abs/2505.08371)|**[link](https://github.com/causal111/DRCD)**|
+|**2025-05-16**|**Density Ratio-based Causal Discovery from Bivariate Continuous-Discrete Data**|Takashi Nicholas Maeda et.al.|[2505.08371](http://arxiv.org/abs/2505.08371)|**[link](https://github.com/causal111/DRCD)**|
 |**2025-05-13**|**An Identifiable Cost-Aware Causal Decision-Making Framework Using Counterfactual Reasoning**|Ruichu Cai et.al.|[2505.08343](http://arxiv.org/abs/2505.08343)|null|
-|**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
+|**2025-05-15**|**Large Language Model Enhancers for Graph Neural Networks: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
 |**2025-05-13**|**Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification**|Xiaoshuo Yan et.al.|[2505.08173](http://arxiv.org/abs/2505.08173)|null|
 |**2025-05-12**|**Asymptotically Efficient Data-adaptive Penalized Shrinkage Estimation with Application to Causal Inference**|Herbert P. Susmann et.al.|[2505.08065](http://arxiv.org/abs/2505.08065)|**[link](https://github.com/herbps10/efficient_penalized_estimation_paper)**|
 |**2025-05-12**|**Separation-based causal discovery for extremes**|Junshu Jiang et.al.|[2505.08008](http://arxiv.org/abs/2505.08008)|null|
