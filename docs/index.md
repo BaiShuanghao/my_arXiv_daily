@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -5301,7 +5301,7 @@ layout: default
 |**2025-05-19**|**Robust learning of halfspaces under log-concave marginals**|Jane Lange et.al.|[2505.13708](http://arxiv.org/abs/2505.13708)|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
-|**2025-05-22**|**A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection**|Sanggeon Yun et.al.|[2505.12586](http://arxiv.org/abs/2505.12586)|null|
+|**2025-05-22**|**A Few Large Shifts: Layer-Inconsistency Based Minimal Overhead Adversarial Example Detection**|Sanggeon Yun et.al.|[2505.12586](http://arxiv.org/abs/2505.12586)|**[link](https://github.com/c0510gy/AFLS-AED)**|
 |**2025-05-18**|**Towards Open-world Generalized Deepfake Detection: General Feature Extraction via Unsupervised Domain Adaptation**|Midou Guo et.al.|[2505.12339](http://arxiv.org/abs/2505.12339)|null|
 |**2025-05-18**|**Beyond Single-Point Judgment: Distribution Alignment for LLM-as-a-Judge**|Luyu Chen et.al.|[2505.12301](http://arxiv.org/abs/2505.12301)|null|
 |**2025-05-18**|**Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather**|Kui Jiang et.al.|[2505.12199](http://arxiv.org/abs/2505.12199)|**[link](https://github.com/msscao/acdepth)**|
