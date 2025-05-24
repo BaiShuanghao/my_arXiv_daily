@@ -42,7 +42,7 @@ keywords:
     "Robotics":
         filters: ["Embodied Agent", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", 
             "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Imitation Learning"]
-    "DA":
+    "DA & DG":
         filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
                   "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
     "VLM":
