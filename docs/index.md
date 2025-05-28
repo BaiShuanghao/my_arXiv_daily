@@ -9,6 +9,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495](http://arxiv.org/abs/2505.21495)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351](http://arxiv.org/abs/2505.21351)|null|
+|**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Timur Akhtyamov et.al.|[2505.21282](http://arxiv.org/abs/2505.21282)|null|
+|**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
+|**2025-05-27**|**Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations**|Huy Hoang et.al.|[2505.21182](http://arxiv.org/abs/2505.21182)|null|
+|**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962](http://arxiv.org/abs/2505.20962)|null|
+|**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Peiyuan Zhi et.al.|[2505.20829](http://arxiv.org/abs/2505.20829)|null|
+|**2025-05-27**|**Spatial RoboGrasp: Generalized Robotic Grasping Control Policy**|Yiqi Huang et.al.|[2505.20814](http://arxiv.org/abs/2505.20814)|null|
+|**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Xiang Zhu et.al.|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
+|**2025-05-27**|**ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making**|Liu Dai et.al.|[2505.20726](http://arxiv.org/abs/2505.20726)|null|
+|**2025-05-27**|**IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios**|Yifan Li et.al.|[2505.20640](http://arxiv.org/abs/2505.20640)|null|
+|**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610](http://arxiv.org/abs/2505.20610)|null|
+|**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
+|**2025-05-26**|**ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image**|Dongyu Luo et.al.|[2505.20498](http://arxiv.org/abs/2505.20498)|null|
+|**2025-05-26**|**OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation**|Raktim Gautam Goswami et.al.|[2505.20425](http://arxiv.org/abs/2505.20425)|null|
+|**2025-05-26**|**Co-Design of Soft Gripper with Neural Physics**|Sha Yi et.al.|[2505.20404](http://arxiv.org/abs/2505.20404)|null|
+|**2025-05-26**|**EgoZero: Robot Learning from Smart Glasses**|Vincent Liu et.al.|[2505.20290](http://arxiv.org/abs/2505.20290)|null|
+|**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175](http://arxiv.org/abs/2505.20175)|null|
 |**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
 |**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024](http://arxiv.org/abs/2505.20024)|null|
@@ -75,6 +95,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
+|**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
+|**2025-05-27**|**A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction**|Bogdan Bogachov et.al.|[2505.21109](http://arxiv.org/abs/2505.21109)|null|
+|**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
+|**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010](http://arxiv.org/abs/2505.21010)|null|
+|**2025-05-27**|**Frequency Composition for Compressed and Domain-Adaptive Neural Networks**|Yoojin Kwon et.al.|[2505.20890](http://arxiv.org/abs/2505.20890)|null|
+|**2025-05-27**|**Unpaired Image-to-Image Translation for Segmentation and Signal Unmixing**|Nikola Andrejic et.al.|[2505.20746](http://arxiv.org/abs/2505.20746)|null|
+|**2025-05-27**|**RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment**|Lingyu Qiu et.al.|[2505.20653](http://arxiv.org/abs/2505.20653)|null|
+|**2025-05-26**|**Time Series Generation Under Data Scarcity: A Unified Generative Modeling Approach**|Tal Gonen et.al.|[2505.20446](http://arxiv.org/abs/2505.20446)|null|
+|**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|null|
 |**2025-05-27**|**Homophily Enhanced Graph Domain Adaptation**|Ruiyi Fang et.al.|[2505.20089](http://arxiv.org/abs/2505.20089)|null|
 |**2025-05-26**|**Multi-Domain Explainability of Preferences**|Nitay Calderon et.al.|[2505.20088](http://arxiv.org/abs/2505.20088)|null|
 |**2025-05-26**|**An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks**|Jinyan Wang et.al.|[2505.20074](http://arxiv.org/abs/2505.20074)|null|
@@ -134,6 +164,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
+|**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
+|**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
+|**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382](http://arxiv.org/abs/2505.21382)|null|
+|**2025-05-27**|**XBOUND: Exploring the Capability Boundaries of Device-Control Agents through Trajectory Tree Exploration**|Shaoqing Zhang et.al.|[2505.21279](http://arxiv.org/abs/2505.21279)|null|
+|**2025-05-27**|**Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation**|Zhengyang Ji et.al.|[2505.21106](http://arxiv.org/abs/2505.21106)|null|
+|**2025-05-27**|**DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response**|Junjue Wang et.al.|[2505.21089](http://arxiv.org/abs/2505.21089)|null|
+|**2025-05-27**|**LPOI: Listwise Preference Optimization for Vision Language Models**|Fatemeh Pesaran Zadeh et.al.|[2505.21061](http://arxiv.org/abs/2505.21061)|null|
+|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981](http://arxiv.org/abs/2505.20981)|null|
+|**2025-05-27**|**On VLMs for Diverse Tasks in Multimodal Meme Classification**|Deepesh Gavit et.al.|[2505.20937](http://arxiv.org/abs/2505.20937)|null|
+|**2025-05-27**|**A Stereotype Content Analysis on Color-related Social Bias in Large Vision Language Models**|Junhyuk Choi et.al.|[2505.20901](http://arxiv.org/abs/2505.20901)|null|
+|**2025-05-27**|**AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding**|Chaeyoung Jung et.al.|[2505.20862](http://arxiv.org/abs/2505.20862)|null|
+|**2025-05-27**|**Rendering-Aware Reinforcement Learning for Vector Graphics Generation**|Juan A. Rodriguez et.al.|[2505.20793](http://arxiv.org/abs/2505.20793)|null|
+|**2025-05-27**|**FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation**|Jiaping Xiao et.al.|[2505.20783](http://arxiv.org/abs/2505.20783)|null|
+|**2025-05-27**|**Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models**|Zesen Lyu et.al.|[2505.20728](http://arxiv.org/abs/2505.20728)|null|
+|**2025-05-27**|**ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making**|Liu Dai et.al.|[2505.20726](http://arxiv.org/abs/2505.20726)|null|
+|**2025-05-27**|**Automating eHMI Action Design with LLMs for Automated Vehicle Communication**|Ding Xia et.al.|[2505.20711](http://arxiv.org/abs/2505.20711)|null|
+|**2025-05-27**|**GIFARC: Synthetic Dataset for Leveraging Human-Intuitive Analogies to Elevate AI Reasoning**|Woochang Sim et.al.|[2505.20672](http://arxiv.org/abs/2505.20672)|null|
+|**2025-05-27**|**DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving**|Muxi Diao et.al.|[2505.20665](http://arxiv.org/abs/2505.20665)|null|
+|**2025-05-27**|**Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models**|Peter Robicheaux et.al.|[2505.20612](http://arxiv.org/abs/2505.20612)|null|
+|**2025-05-26**|**Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models**|Jihoon Lee et.al.|[2505.20569](http://arxiv.org/abs/2505.20569)|null|
+|**2025-05-26**|**CoRI: Synthesizing Communication of Robot Intent for Physical Human-Robot Interaction**|Junxiang Wang et.al.|[2505.20537](http://arxiv.org/abs/2505.20537)|null|
+|**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
+|**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
+|**2025-05-26**|**HoPE: Hybrid of Position Embedding for Length Generalization in Vision-Language Models**|Haoran Li et.al.|[2505.20444](http://arxiv.org/abs/2505.20444)|null|
+|**2025-05-26**|**Robot Operation of Home Appliances by Reading User Manuals**|Jian Zhang et.al.|[2505.20424](http://arxiv.org/abs/2505.20424)|null|
+|**2025-05-26**|**ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking**|Sijia Chen et.al.|[2505.20381](http://arxiv.org/abs/2505.20381)|null|
+|**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|null|
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al.|[2505.20122](http://arxiv.org/abs/2505.20122)|null|
 |**2025-05-27**|**EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition**|Christoph Schuhmann et.al.|[2505.20033](http://arxiv.org/abs/2505.20033)|null|
@@ -227,6 +287,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Information-Theoretic Complementary Prompts for Improved Continual Text Classification**|Duzhen Zhang et.al.|[2505.20933](http://arxiv.org/abs/2505.20933)|null|
+|**2025-05-27**|**Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors**|Haodong Lu et.al.|[2505.20680](http://arxiv.org/abs/2505.20680)|null|
+|**2025-05-26**|**MetaWriter: Personalized Handwritten Text Recognition Using Meta-Learned Prompt Tuning**|Wenhao Gu et.al.|[2505.20513](http://arxiv.org/abs/2505.20513)|null|
 |**2025-05-26**|**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**|Yaoning Yu et.al.|[2505.19514](http://arxiv.org/abs/2505.19514)|null|
 |**2025-05-26**|**Language of Network: A Generative Pre-trained Model for Encrypted Traffic Comprehension**|Di Zhao et.al.|[2505.19482](http://arxiv.org/abs/2505.19482)|null|
 |**2025-05-26**|**MM-Prompt: Cross-Modal Prompt Tuning for Continual Visual Question Answering**|Xu Li et.al.|[2505.19455](http://arxiv.org/abs/2505.19455)|null|
@@ -273,6 +336,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
+|**2025-05-27**|**Debiased Ill-Posed Regression**|AmirEmad Ghassami et.al.|[2505.20787](http://arxiv.org/abs/2505.20787)|null|
+|**2025-05-27**|**Causal inference with dyadic data in randomized experiments**|Yilin Li et.al.|[2505.20780](http://arxiv.org/abs/2505.20780)|null|
+|**2025-05-27**|**Generating Hypotheses of Dynamic Causal Graphs in Neuroscience: Leveraging Generative Factor Models of Observed Time Series**|Zachary C. Brown et.al.|[2505.20697](http://arxiv.org/abs/2505.20697)|null|
+|**2025-05-26**|**Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey**|Md Rashidunnabi et.al.|[2505.20540](http://arxiv.org/abs/2505.20540)|null|
+|**2025-05-26**|**Differentially private ratio statistics**|Tomer Shoham et.al.|[2505.20351](http://arxiv.org/abs/2505.20351)|null|
+|**2025-05-23**|**BiomedSQL: Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases**|Mathew J. Koretsky et.al.|[2505.20321](http://arxiv.org/abs/2505.20321)|null|
+|**2025-05-26**|**Causal Meta-Analysis: Rethinking the Foundations of Evidence-Based Medicine**|Clément Berenfeld et.al.|[2505.20168](http://arxiv.org/abs/2505.20168)|null|
 |**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127](http://arxiv.org/abs/2505.20127)|null|
 |**2025-05-26**|**Causal Bayesian Networks for Data-driven Safety Analysis of Complex Systems**|Roman Gansch et.al.|[2505.19860](http://arxiv.org/abs/2505.19860)|null|
 |**2025-05-27**|**Model Agnostic Differentially Private Causal Inference**|Christian Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
@@ -321,6 +392,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations**|Huy Hoang et.al.|[2505.21182](http://arxiv.org/abs/2505.21182)|null|
+|**2025-05-27**|**Study of Lightweight Transformer Architectures for Single-Channel Speech Enhancement**|Haixin Zhao et.al.|[2505.21057](http://arxiv.org/abs/2505.21057)|null|
+|**2025-05-27**|**One-Time Soft Alignment Enables Resilient Learning without Weight Transport**|Jeonghwan Cheon et.al.|[2505.20892](http://arxiv.org/abs/2505.20892)|null|
 |**2025-05-26**|**Model Stitching by Functional Latent Alignment**|Ioannis Athanasiadis et.al.|[2505.20142](http://arxiv.org/abs/2505.20142)|null|
 |**2025-05-26**|**Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals to Applications**|Christoph R. Landolt et.al.|[2505.19837](http://arxiv.org/abs/2505.19837)|null|
 |**2025-05-26**|**TESSER: Transfer-Enhancing Adversarial Attacks from Vision Transformers via Spectral and Semantic Regularization**|Amira Guesmi et.al.|[2505.19613](http://arxiv.org/abs/2505.19613)|null|
