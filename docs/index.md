@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -22,11 +22,11 @@ layout: default
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-28**|**Streaming Flow Policy: Simplifying diffusion $/$ flow-matching policies by treating action trajectories as flow trajectories**|Sunshine Jiang et.al.|[2505.21851](http://arxiv.org/abs/2505.21851)|null|
 |**2025-05-27**|**PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation**|Yifan Yin et.al.|[2505.21652](http://arxiv.org/abs/2505.21652)|null|
-|**2025-05-27**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Keanu Nichols et.al.|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
+|**2025-05-29**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Keanu Nichols et.al.|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Feng Jiang et.al.|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
 |**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495](http://arxiv.org/abs/2505.21495)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
-|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351](http://arxiv.org/abs/2505.21351)|null|
 |**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Timur Akhtyamov et.al.|[2505.21282](http://arxiv.org/abs/2505.21282)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
@@ -121,7 +121,7 @@ layout: default
 |**2025-05-28**|**GL-PGENet: A Parameterized Generation Framework for Robust Document Image Enhancement**|Zhihong Tang et.al.|[2505.22021](http://arxiv.org/abs/2505.22021)|null|
 |**2025-05-28**|**Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting**|Wei Lin et.al.|[2505.21943](http://arxiv.org/abs/2505.21943)|null|
 |**2025-05-28**|**BD Open LULC Map: High-resolution land use land cover mapping & benchmarking for urban development in Dhaka, Bangladesh**|Mir Sazzat Hossain et.al.|[2505.21915](http://arxiv.org/abs/2505.21915)|null|
-|**2025-05-28**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
+|**2025-05-29**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
 |**2025-05-27**|**MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis**|Yitong Li et.al.|[2505.21698](http://arxiv.org/abs/2505.21698)|null|
 |**2025-05-27**|**StreamLink: Large-Language-Model Driven Distributed Data Engineering System**|Dawei Feng et.al.|[2505.21575](http://arxiv.org/abs/2505.21575)|null|
 |**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
@@ -135,7 +135,7 @@ layout: default
 |**2025-05-26**|**Time Series Generation Under Data Scarcity: A Unified Generative Modeling Approach**|Tal Gonen et.al.|[2505.20446](http://arxiv.org/abs/2505.20446)|null|
 |**2025-05-26**|**Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**|Hao Zhong et.al.|[2505.20256](http://arxiv.org/abs/2505.20256)|**[link](https://github.com/aim-uofa/omni-r1)**|
 |**2025-05-27**|**Homophily Enhanced Graph Domain Adaptation**|Ruiyi Fang et.al.|[2505.20089](http://arxiv.org/abs/2505.20089)|null|
-|**2025-05-26**|**Multi-Domain Explainability of Preferences**|Nitay Calderon et.al.|[2505.20088](http://arxiv.org/abs/2505.20088)|null|
+|**2025-05-29**|**Multi-Domain Explainability of Preferences**|Nitay Calderon et.al.|[2505.20088](http://arxiv.org/abs/2505.20088)|null|
 |**2025-05-26**|**An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks**|Jinyan Wang et.al.|[2505.20074](http://arxiv.org/abs/2505.20074)|null|
 |**2025-05-26**|**How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation for Multi-Domain Machine Translation**|Yongshi Ye et.al.|[2505.19987](http://arxiv.org/abs/2505.19987)|**[link](https://github.com/wingseeye/transeval-lrm)**|
 |**2025-05-26**|**Leveraging Importance Sampling to Detach Alignment Modules from Large Language Models**|Yi Liu et.al.|[2505.19700](http://arxiv.org/abs/2505.19700)|null|
@@ -201,19 +201,19 @@ layout: default
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429](http://arxiv.org/abs/2505.22429)|null|
 |**2025-05-28**|**IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth**|Md Touhidul Islam et.al.|[2505.22305](http://arxiv.org/abs/2505.22305)|null|
 |**2025-05-28**|**Investigating Mechanisms for In-Context Vision Language Binding**|Darshana Saravanan et.al.|[2505.22200](http://arxiv.org/abs/2505.22200)|null|
-|**2025-05-28**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
+|**2025-05-29**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
 |**2025-05-28**|**3D Question Answering via only 2D Vision-Language Models**|Fengyun Wang et.al.|[2505.22143](http://arxiv.org/abs/2505.22143)|null|
 |**2025-05-28**|**Reinforced Reasoning for Embodied Planning**|Di Wu et.al.|[2505.22050](http://arxiv.org/abs/2505.22050)|null|
 |**2025-05-28**|**Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization**|Kaiyuan Li et.al.|[2505.22038](http://arxiv.org/abs/2505.22038)|null|
 |**2025-05-28**|**Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset**|Fakhraddin Alwajih et.al.|[2505.21979](http://arxiv.org/abs/2505.21979)|null|
-|**2025-05-28**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
+|**2025-05-29**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
 |**2025-05-28**|**Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack**|Juan Ren et.al.|[2505.21967](http://arxiv.org/abs/2505.21967)|null|
 |**2025-05-28**|**Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs**|Insu Lee et.al.|[2505.21955](http://arxiv.org/abs/2505.21955)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
 |**2025-05-27**|**MMTBENCH: A Unified Benchmark for Complex Multimodal Table Reasoning**|Prasham Yatinkumar Titiya et.al.|[2505.21771](http://arxiv.org/abs/2505.21771)|null|
 |**2025-05-27**|**MedBridge: Bridging Foundation Vision-Language Models to Medical Image Diagnosis**|Yitong Li et.al.|[2505.21698](http://arxiv.org/abs/2505.21698)|null|
-|**2025-05-27**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Keanu Nichols et.al.|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
+|**2025-05-29**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Keanu Nichols et.al.|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
 |**2025-05-27**|**QuARI: Query Adaptive Retrieval Improvement**|Eric Xing et.al.|[2505.21647](http://arxiv.org/abs/2505.21647)|null|
 |**2025-05-27**|**Fast and Cost-effective Speculative Edge-Cloud Decoding with Early Exits**|Yeshwanth Venkatesha et.al.|[2505.21594](http://arxiv.org/abs/2505.21594)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
@@ -460,7 +460,7 @@ layout: default
 |**2025-05-26**|**Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals to Applications**|Christoph R. Landolt et.al.|[2505.19837](http://arxiv.org/abs/2505.19837)|null|
 |**2025-05-26**|**TESSER: Transfer-Enhancing Adversarial Attacks from Vision Transformers via Spectral and Semantic Regularization**|Amira Guesmi et.al.|[2505.19613](http://arxiv.org/abs/2505.19613)|null|
 |**2025-05-26**|**Your Classifier Can Do More: Towards Bridging the Gaps in Classification, Robustness, and Generation**|Kaichao Jiang et.al.|[2505.19459](http://arxiv.org/abs/2505.19459)|null|
-|**2025-05-26**|**Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression**|Yiwei Xie et.al.|[2505.19398](http://arxiv.org/abs/2505.19398)|null|
+|**2025-05-29**|**Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression**|Yiwei Xie et.al.|[2505.19398](http://arxiv.org/abs/2505.19398)|null|
 |**2025-05-26**|**Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains**|Jiawen Zhang et.al.|[2505.19397](http://arxiv.org/abs/2505.19397)|null|
 |**2025-05-25**|**RADEP: A Resilient Adaptive Defense Framework Against Model Extraction Attacks**|Amit Chakraborty et.al.|[2505.19364](http://arxiv.org/abs/2505.19364)|null|
 |**2025-05-25**|**ALRPHFS: Adversarially Learned Risk Patterns with Hierarchical Fast \& Slow Reasoning for Robust Agent Defense**|Shiyu Xiang et.al.|[2505.19260](http://arxiv.org/abs/2505.19260)|null|
