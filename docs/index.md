@@ -254,11 +254,11 @@ layout: default
 |**2025-06-12**|**Flick: Few Labels Text Classification using K-Aware Intermediate Learning in Multi-Task Low-Resource Languages**|Ali Almutairi et.al.|[2506.10292](http://arxiv.org/abs/2506.10292)|null|
 |**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2506.10145](http://arxiv.org/abs/2506.10145)|null|
 |**2025-06-11**|**Description and Discussion on DCASE 2025 Challenge Task 2: First-shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Tomoya Nishida et.al.|[2506.10097](http://arxiv.org/abs/2506.10097)|null|
-|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|null|
+|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|**[link](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
 |**2025-06-11**|**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|[2506.09460](http://arxiv.org/abs/2506.09460)|null|
 |**2025-06-11**|**Harmonizing and Merging Source Models for CLIP-based Domain Generalization**|Yuhe Ding et.al.|[2506.09446](http://arxiv.org/abs/2506.09446)|null|
-|**2025-06-11**|**SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation**|Xinya Liu et.al.|[2506.09403](http://arxiv.org/abs/2506.09403)|null|
+|**2025-06-11**|**SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation**|Xinya Liu et.al.|[2506.09403](http://arxiv.org/abs/2506.09403)|**[link](https://github.com/hilab-git/srpl-sfda)**|
 |**2025-06-10**|**ThinkQE: Query Expansion via an Evolving Thinking Process**|Yibin Lei et.al.|[2506.09260](http://arxiv.org/abs/2506.09260)|null|
 |**2025-06-10**|**PlantBert: An Open Source Language Model for Plant Science**|Hiba Khey et.al.|[2506.08897](http://arxiv.org/abs/2506.08897)|null|
 |**2025-06-11**|**Adapting Vision-Language Foundation Model for Next Generation Medical Ultrasound Image Analysis**|Jingguo Qu et.al.|[2506.08849](http://arxiv.org/abs/2506.08849)|**[link](https://github.com/jinggqu/nextgen-uia)**|
@@ -266,8 +266,8 @@ layout: default
 |**2025-06-10**|**Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework**|Xiao Wei et.al.|[2506.08490](http://arxiv.org/abs/2506.08490)|null|
 |**2025-06-11**|**Low-resource domain adaptation while minimizing energy and hardware resource consumption**|Hernán Maina et.al.|[2506.08433](http://arxiv.org/abs/2506.08433)|null|
 |**2025-06-09**|**Dealing with the Evil Twins: Improving Random Augmentation by Addressing Catastrophic Forgetting of Diverse Augmentations**|Dongkyu Cho et.al.|[2506.08240](http://arxiv.org/abs/2506.08240)|null|
-|**2025-06-12**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
-|**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769](http://arxiv.org/abs/2506.07769)|null|
+|**2025-06-12**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|**[link](https://github.com/yunfeixie233/vigal)**|
+|**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769](http://arxiv.org/abs/2506.07769)|**[link](https://github.com/dkaizhang/emdcfl)**|
 |**2025-06-09**|**Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping**|Nitin Sharma et.al.|[2506.07658](http://arxiv.org/abs/2506.07658)|null|
 |**2025-06-09**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603](http://arxiv.org/abs/2506.07603)|null|
 |**2025-06-09**|**Flowing Datasets with Wasserstein over Wasserstein Gradient Flows**|Clément Bonet et.al.|[2506.07534](http://arxiv.org/abs/2506.07534)|**[link](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows)**|
@@ -426,15 +426,15 @@ layout: default
 |**2025-06-11**|**One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence**|Michelle M. Li et.al.|[2506.10157](http://arxiv.org/abs/2506.10157)|null|
 |**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
 |**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Christos Ziakas et.al.|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
-|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|**[link](https://github.com/antresearchnlp/vilasr)**|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Seonho Lee et.al.|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
-|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|**[link](https://github.com/imirandam/structure-inference-compositionality)**|
 |**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
 |**2025-06-11**|**Revisit What You See: Disclose Language Prior in Vision Tokens for Efficient Guided Decoding of LVLMs**|Beomsik Cho et.al.|[2506.09522](http://arxiv.org/abs/2506.09522)|**[link](https://github.com/bscho333/ReVisiT)**|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
 |**2025-06-11**|**TOGA: Temporally Grounded Open-Ended Video QA with Weak Supervision**|Ayush Gupta et.al.|[2506.09445](http://arxiv.org/abs/2506.09445)|null|
-|**2025-06-11**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353](http://arxiv.org/abs/2506.09353)|null|
+|**2025-06-11**|**DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**|Yitong Zhang et.al.|[2506.09353](http://arxiv.org/abs/2506.09353)|**[link](https://github.com/zhangyitonggg/davsp)**|
 |**2025-06-10**|**UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation**|Yihe Tang et.al.|[2506.09284](http://arxiv.org/abs/2506.09284)|null|
 |**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
@@ -837,20 +837,20 @@ layout: default
 |**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
 |**2025-06-12**|**Think before You Simulate: Symbolic Reasoning to Orchestrate Neural Computation for Counterfactual Question Answering**|Adam Ishay et.al.|[2506.10753](http://arxiv.org/abs/2506.10753)|null|
 |**2025-06-12**|**From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations**|Yutong Zhou et.al.|[2506.10559](http://arxiv.org/abs/2506.10559)|null|
-|**2025-06-12**|**Towards Robust Multimodal Emotion Recognition under Missing Modalities and Distribution Shifts**|Guowei Zhong et.al.|[2506.10452](http://arxiv.org/abs/2506.10452)|null|
+|**2025-06-12**|**Towards Robust Multimodal Emotion Recognition under Missing Modalities and Distribution Shifts**|Guowei Zhong et.al.|[2506.10452](http://arxiv.org/abs/2506.10452)|**[link](https://github.com/gw-zhong/cider)**|
 |**2025-06-11**|**Correlation vs causation in Alzheimer's disease: an interpretability-driven study**|Hamzah Dabool et.al.|[2506.10179](http://arxiv.org/abs/2506.10179)|null|
-|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|null|
+|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|**[link](https://github.com/facebookresearch/causalvqa)**|
 |**2025-06-12**|**STOAT: Spatial-Temporal Probabilistic Causal Inference Network**|Yang Yang et.al.|[2506.09544](http://arxiv.org/abs/2506.09544)|null|
 |**2025-06-11**|**Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training**|Shurui Gui et.al.|[2506.09433](http://arxiv.org/abs/2506.09433)|null|
 |**2025-06-10**|**Longitudinal weighted and trimmed treatment effects with flip interventions**|Alec McClean et.al.|[2506.09188](http://arxiv.org/abs/2506.09188)|null|
 |**2025-06-10**|**Revolutionizing Clinical Trials: A Manifesto for AI-Driven Transformation**|Mihaela van der Schaar et.al.|[2506.09102](http://arxiv.org/abs/2506.09102)|null|
 |**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|null|
 |**2025-06-09**|**CausalPFN: Amortized Causal Effect Estimation via In-Context Learning**|Vahid Balazadeh et.al.|[2506.07918](http://arxiv.org/abs/2506.07918)|**[link](https://github.com/vdblm/CausalPFN)**|
-|**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883](http://arxiv.org/abs/2506.07883)|null|
+|**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883](http://arxiv.org/abs/2506.07883)|**[link](https://github.com/rajatrasal/diffusion-counterfactuals)**|
 |**2025-06-09**|**Conditional Local Independence Testing with Application to Dynamic Causal Discovery**|Mingzhou Liu et.al.|[2506.07844](http://arxiv.org/abs/2506.07844)|null|
 |**2025-06-09**|**Quickest Causal Change Point Detection by Adaptive Intervention**|Haijie Xu et.al.|[2506.07760](http://arxiv.org/abs/2506.07760)|null|
 |**2025-06-06**|**E-LDA: Toward Interpretable LDA Topic Models with Strong Guarantees in Logarithmic Parallel Time**|Adam Breuer et.al.|[2506.07747](http://arxiv.org/abs/2506.07747)|null|
-|**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|null|
+|**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
 |**2025-06-12**|**Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models**|Haochen Song et.al.|[2506.07275](http://arxiv.org/abs/2506.07275)|null|
 |**2025-06-08**|**Quantile-Optimal Policy Learning under Unmeasured Confounding**|Zhongren Chen et.al.|[2506.07140](http://arxiv.org/abs/2506.07140)|null|
 |**2025-06-08**|**FairPFN: A Tabular Foundation Model for Causal Fairness**|Jake Robertson et.al.|[2506.07049](http://arxiv.org/abs/2506.07049)|null|
@@ -958,12 +958,12 @@ layout: default
 |**2025-06-11**|**Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature**|Andrew Gracyk et.al.|[2506.09679](http://arxiv.org/abs/2506.09679)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-11**|**Adversarial Surrogate Risk Bounds for Binary Classification**|Natalie S. Frank et.al.|[2506.09348](http://arxiv.org/abs/2506.09348)|null|
-|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|null|
+|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|**[link](https://github.com/rohban-lab/patchgaurd)**|
 |**2025-06-10**|**Towards Robust Deep Reinforcement Learning against Environmental State Perturbation**|Chenxu Wang et.al.|[2506.08961](http://arxiv.org/abs/2506.08961)|null|
-|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|null|
+|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|**[link](https://github.com/zhaoshiji123/absld)**|
 |**2025-06-10**|**DiffGradCAM: A Universal Class Activation Map Resistant to Adversarial Training**|Jacob Piland et.al.|[2506.08514](http://arxiv.org/abs/2506.08514)|null|
 |**2025-06-10**|**The interplay of robustness and generalization in quantum machine learning**|Julian Berberich et.al.|[2506.08455](http://arxiv.org/abs/2506.08455)|null|
-|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
+|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|**[link](https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction)**|
 |**2025-06-09**|**ProARD: progressive adversarial robustness distillation: provide wide range of robust students**|Seyedhamidreza Mousavi et.al.|[2506.07666](http://arxiv.org/abs/2506.07666)|null|
 |**2025-06-09**|**Minimax Optimal Rates for Regression on Manifolds and Distributions**|Rong Tang et.al.|[2506.07504](http://arxiv.org/abs/2506.07504)|null|
 |**2025-06-08**|**PASS: Private Attributes Protection with Stochastic Data Substitution**|Yizhuo Chen et.al.|[2506.07308](http://arxiv.org/abs/2506.07308)|null|
