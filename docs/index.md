@@ -9,9 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Carolina Higuera et.al.|[2506.14754](http://arxiv.org/abs/2506.14754)|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
+|**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648](http://arxiv.org/abs/2506.14648)|null|
+|**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608](http://arxiv.org/abs/2506.14608)|null|
+|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507](http://arxiv.org/abs/2506.14507)|null|
+|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-17**|**Steering Robots with Inference-Time Interactions**|Yanwei Wang et.al.|[2506.14287](http://arxiv.org/abs/2506.14287)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
+|**2025-06-17**|**Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments**|Amirreza Payandeh et.al.|[2506.14233](http://arxiv.org/abs/2506.14233)|null|
+|**2025-06-17**|**AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**|Jeremy A. Collins et.al.|[2506.14198](http://arxiv.org/abs/2506.14198)|null|
+|**2025-06-17**|**Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy**|Hong Huang et.al.|[2506.14180](http://arxiv.org/abs/2506.14180)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**Socially-aware Object Transportation by a Mobile Manipulator in Static Planar Environments with Obstacles**|Caio C. G. Ribeiro et.al.|[2506.13953](http://arxiv.org/abs/2506.13953)|null|
+|**2025-06-16**|**ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning**|Yunchu Zhang et.al.|[2506.13867](http://arxiv.org/abs/2506.13867)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
-|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Vaibhav Saxena et.al.|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
 |**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Toshiaki Tsuji et.al.|[2506.13498](http://arxiv.org/abs/2506.13498)|null|
@@ -271,6 +286,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Expressive Score-Based Priors for Distribution Matching with Geometry-Preserving Regularization**|Ziyu Gong et.al.|[2506.14607](http://arxiv.org/abs/2506.14607)|null|
+|**2025-06-17**|**M3SD: Multi-modal, Multi-scenario and Multi-language Speaker Diarization Dataset**|Shilong Wu et.al.|[2506.14427](http://arxiv.org/abs/2506.14427)|null|
+|**2025-06-17**|**One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification**|Renao Yan et.al.|[2506.14176](http://arxiv.org/abs/2506.14176)|null|
+|**2025-06-17**|**Collaborative Editable Model**|Kaiwen Tang et.al.|[2506.14146](http://arxiv.org/abs/2506.14146)|null|
+|**2025-06-12**|**BotTrans: A Multi-Source Graph Domain Adaptation Approach for Social Bot Detection**|Boshen Shi et.al.|[2506.13795](http://arxiv.org/abs/2506.13795)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414](http://arxiv.org/abs/2506.13414)|null|
@@ -446,6 +466,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697](http://arxiv.org/abs/2506.14697)|null|
+|**2025-06-17**|**Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models**|Ling Li et.al.|[2506.14674](http://arxiv.org/abs/2506.14674)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
+|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507](http://arxiv.org/abs/2506.14507)|null|
+|**2025-06-17**|**Adapting Lightweight Vision Language Models for Radiological Visual Question Answering**|Aditya Shourya et.al.|[2506.14451](http://arxiv.org/abs/2506.14451)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments**|Amirreza Payandeh et.al.|[2506.14233](http://arxiv.org/abs/2506.14233)|null|
+|**2025-06-17**|**Interpreting Biomedical VLMs on High-Imbalance Out-of-Distributions: An Insight into BiomedCLIP on Radiology**|Nafiz Sadman et.al.|[2506.14136](http://arxiv.org/abs/2506.14136)|null|
+|**2025-06-17**|**A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**|Yupeng Zhou et.al.|[2506.14100](http://arxiv.org/abs/2506.14100)|null|
+|**2025-06-16**|**Disentangling 3D from Large Vision-Language Models for Controlled Portrait Generation**|Nick Yiwen Huang et.al.|[2506.14015](http://arxiv.org/abs/2506.14015)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
+|**2025-06-16**|**Comparison of ConvNeXt and Vision-Language Models for Breast Density Assessment in Screening Mammography**|Yusdivia Molina-Román et.al.|[2506.13964](http://arxiv.org/abs/2506.13964)|null|
+|**2025-06-16**|**HierVL: Semi-Supervised Segmentation leveraging Hierarchical Vision-Language Synergy with Dynamic Text-Spatial Query Alignment**|Numair Nadeem et.al.|[2506.13925](http://arxiv.org/abs/2506.13925)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
@@ -913,6 +949,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Causes in neuron diagrams, and testing causal reasoning in Large Language Models. A glimpse of the future of philosophy?**|Louis Vervoort et.al.|[2506.14239](http://arxiv.org/abs/2506.14239)|null|
+|**2025-06-16**|**Estimation of Treatment Effects in Extreme and Unobserved Data**|Jiyuan Tan et.al.|[2506.14051](http://arxiv.org/abs/2506.14051)|null|
+|**2025-06-13**|**Causality in the human niche: lessons for machine learning**|Richard D. Lange et.al.|[2506.13803](http://arxiv.org/abs/2506.13803)|null|
 |**2025-06-16**|**Chaos, coherence and turbulence**|Javier Jimenez et.al.|[2506.13417](http://arxiv.org/abs/2506.13417)|null|
 |**2025-06-16**|**Characteristic Imsets for Cyclic Linear Causal Models and the Chickering Ideal**|Joseph Johnson et.al.|[2506.13407](http://arxiv.org/abs/2506.13407)|null|
 |**2025-06-16**|**Socratic RL: A Novel Framework for Efficient Knowledge Acquisition through Iterative Reflection and Viewpoint Distillation**|Xiangfan Wu et.al.|[2506.13358](http://arxiv.org/abs/2506.13358)|null|
@@ -1051,6 +1090,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603](http://arxiv.org/abs/2506.14603)|null|
+|**2025-06-17**|**HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control**|Yaqiao Zhu et.al.|[2506.14391](http://arxiv.org/abs/2506.14391)|null|
+|**2025-06-16**|**Fake it till You Make it: Reward Modeling as Discriminative Prediction**|Runtao Liu et.al.|[2506.13846](http://arxiv.org/abs/2506.13846)|null|
 |**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658](http://arxiv.org/abs/2506.13658)|null|
 |**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
 |**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875](http://arxiv.org/abs/2506.12875)|null|
