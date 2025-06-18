@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -459,7 +459,7 @@ layout: default
 |**2025-06-16**|**GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models**|Ruiguang Pei et.al.|[2506.13166](http://arxiv.org/abs/2506.13166)|null|
 |**2025-06-16**|**Rethinking Test-Time Scaling for Medical AI: Model and Task-Aware Strategies for LLMs and VLMs**|Gyutaek Oh et.al.|[2506.13102](http://arxiv.org/abs/2506.13102)|null|
 |**2025-06-16**|**PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue**|George Shaikovski et.al.|[2506.13063](http://arxiv.org/abs/2506.13063)|null|
-|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
+|**2025-06-17**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
 |**2025-06-15**|**CAPO: Reinforcing Consistent Reasoning in Medical Decision-Making**|Songtao Jiang et.al.|[2506.12849](http://arxiv.org/abs/2506.12849)|null|
 |**2025-06-15**|**Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models**|Tung Minh Luu et.al.|[2506.12822](http://arxiv.org/abs/2506.12822)|null|
 |**2025-06-15**|**Native Visual Understanding: Resolving Resolution Dilemmas in Vision-Language Models**|Junbo Niu et.al.|[2506.12776](http://arxiv.org/abs/2506.12776)|null|
@@ -469,7 +469,7 @@ layout: default
 |**2025-06-14**|**CLIP-HandID: Vision-Language Model for Hand-Based Person Identification**|Nathanael L. Baisa et.al.|[2506.12447](http://arxiv.org/abs/2506.12447)|null|
 |**2025-06-14**|**Branch, or Layer? Zeroth-Order Optimization for Continual Learning of Vision-Language Models**|Ziwei Liu et.al.|[2506.12409](http://arxiv.org/abs/2506.12409)|null|
 |**2025-06-14**|**AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making**|Wenbo Li et.al.|[2506.12374](http://arxiv.org/abs/2506.12374)|null|
-|**2025-06-14**|**Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models**|Zongyu Wu et.al.|[2506.12340](http://arxiv.org/abs/2506.12340)|null|
+|**2025-06-17**|**Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models**|Zongyu Wu et.al.|[2506.12340](http://arxiv.org/abs/2506.12340)|null|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
