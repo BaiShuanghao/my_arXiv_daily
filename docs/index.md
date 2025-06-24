@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
-|**2025-06-20**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-23**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
 |**2025-06-20**|**Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections**|Xiaomeng Xu et.al.|[2506.16685](http://arxiv.org/abs/2506.16685)|null|
 |**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Guang Yin et.al.|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
 |**2025-06-19**|**History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation**|Mobin Habibpour et.al.|[2506.16623](http://arxiv.org/abs/2506.16623)|null|
