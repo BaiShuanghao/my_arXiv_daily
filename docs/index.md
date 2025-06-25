@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -27,7 +27,7 @@ layout: default
 |**2025-06-20**|**General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting**|Bernard Lange et.al.|[2506.17462](http://arxiv.org/abs/2506.17462)|null|
 |**2025-06-20**|**Kinematic Model Optimization via Differentiable Contact Manifold for In-Space Manipulation**|Abhay Negi et.al.|[2506.17458](http://arxiv.org/abs/2506.17458)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
-|**2025-06-23**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-24**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
 |**2025-06-20**|**Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections**|Xiaomeng Xu et.al.|[2506.16685](http://arxiv.org/abs/2506.16685)|null|
 |**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Guang Yin et.al.|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
 |**2025-06-19**|**History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation**|Mobin Habibpour et.al.|[2506.16623](http://arxiv.org/abs/2506.16623)|null|
@@ -533,7 +533,7 @@ layout: default
 |**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Nianchen Deng et.al.|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
 |**2025-06-23**|**Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review**|Haoneng Lin et.al.|[2506.18378](http://arxiv.org/abs/2506.18378)|null|
 |**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Yiwei Yang et.al.|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
-|**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[2506.18234](http://arxiv.org/abs/2506.18234)|null|
 |**2025-06-22**|**See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis**|Ruinan Jin et.al.|[2506.18140](http://arxiv.org/abs/2506.18140)|null|
 |**2025-06-22**|**CLGRPO: Reasoning Ability Enhancement for Small VLMs**|Fanyi Wang et.al.|[2506.18048](http://arxiv.org/abs/2506.18048)|null|
@@ -550,7 +550,7 @@ layout: default
 |**2025-06-20**|**Aha Moment Revisited: Are VLMs Truly Capable of Self Verification in Inference-time Scaling?**|Mingyuan Wu et.al.|[2506.17417](http://arxiv.org/abs/2506.17417)|null|
 |**2025-06-20**|**From Drawings to Decisions: A Hybrid Vision-Language Framework for Parsing 2D Engineering Drawings into Structured Manufacturing Knowledge**|Muhammad Tayyab Khan et.al.|[2506.17374](http://arxiv.org/abs/2506.17374)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
-|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|**[link](https://github.com/umass-embodied-agi/mirage)**|
 |**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
 |**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994](http://arxiv.org/abs/2506.16994)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
@@ -989,7 +989,7 @@ layout: default
 |**2025-06-23**|**Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation**|Jie Li et.al.|[2506.18716](http://arxiv.org/abs/2506.18716)|**[link](https://github.com/JieLi-dd/MAGTKD)**|
 |**2025-06-23**|**Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review**|Haoneng Lin et.al.|[2506.18378](http://arxiv.org/abs/2506.18378)|null|
 |**2025-06-19**|**SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage**|Tongan Cai et.al.|[2506.16578](http://arxiv.org/abs/2506.16578)|null|
-|**2025-06-19**|**FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**|Xinting Liao et.al.|[2506.16218](http://arxiv.org/abs/2506.16218)|null|
+|**2025-06-24**|**FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**|Xinting Liao et.al.|[2506.16218](http://arxiv.org/abs/2506.16218)|null|
 |**2025-06-19**|**Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs**|Xun Wang et.al.|[2506.16196](http://arxiv.org/abs/2506.16196)|null|
 |**2025-06-15**|**The Safety Reminder: A Soft Prompt to Reactivate Delayed Safety Awareness in Vision-Language Models**|Peiyuan Tang et.al.|[2506.15734](http://arxiv.org/abs/2506.15734)|null|
 |**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
@@ -1075,7 +1075,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-23**|**A Practical Introduction to Regression-based Causal Inference in Meteorology (I): All confounders measured**|Caren Marzban et.al.|[2506.18808](http://arxiv.org/abs/2506.18808)|null|
+|**2025-06-24**|**A Practical Introduction to Regression-based Causal Inference in Meteorology (I): All confounders measured**|Caren Marzban et.al.|[2506.18808](http://arxiv.org/abs/2506.18808)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
 |**2025-06-23**|**A Structural Causal Model for Electronic Device Reliability: From Effects to Counterfactuals**|Federico Mattia Stefanini et.al.|[2506.18663](http://arxiv.org/abs/2506.18663)|null|
 |**2025-06-23**|**A Practical Introduction to Regression-based Causal Inference in Meteorology (II): Unmeasured confounders**|Caren Marzban et.al.|[2506.18652](http://arxiv.org/abs/2506.18652)|null|
@@ -1095,7 +1095,7 @@ layout: default
 |**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180](http://arxiv.org/abs/2506.17180)|null|
 |**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065](http://arxiv.org/abs/2506.17065)|null|
 |**2025-06-20**|**From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology**|Zhicheng Lin et.al.|[2506.16697](http://arxiv.org/abs/2506.16697)|null|
-|**2025-06-19**|**Learning Causally Predictable Outcomes from Psychiatric Longitudinal Data**|Eric V. Strobl et.al.|[2506.16629](http://arxiv.org/abs/2506.16629)|null|
+|**2025-06-19**|**Learning Causally Predictable Outcomes from Psychiatric Longitudinal Data**|Eric V. Strobl et.al.|[2506.16629](http://arxiv.org/abs/2506.16629)|**[link](https://github.com/ericstrobl/debias)**|
 |**2025-06-19**|**Robust Reward Modeling via Causal Rubrics**|Pragya Srivastava et.al.|[2506.16507](http://arxiv.org/abs/2506.16507)|null|
 |**2025-06-19**|**An introduction to Causal Modelling**|Gauranga Kumar Baishya et.al.|[2506.16486](http://arxiv.org/abs/2506.16486)|null|
 |**2025-06-19**|**Unveiling Political Influence Through Social Media: Network and Causal Dynamics in the 2022 French Presidential Election**|Ixandra Achitouv et.al.|[2506.16449](http://arxiv.org/abs/2506.16449)|null|
@@ -1256,7 +1256,7 @@ layout: default
 |**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162](http://arxiv.org/abs/2506.17162)|null|
 |**2025-06-20**|**Robust Training with Data Augmentation for Medical Imaging Classification**|Josué Martínez-Martínez et.al.|[2506.17133](http://arxiv.org/abs/2506.17133)|null|
 |**2025-06-20**|**Hybrid-Sep: Language-queried audio source separation via pre-trained Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833](http://arxiv.org/abs/2506.16833)|null|
-|**2025-06-20**|**Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation**|Kosuke Nakanishi et.al.|[2506.16753](http://arxiv.org/abs/2506.16753)|null|
+|**2025-06-20**|**Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation**|Kosuke Nakanishi et.al.|[2506.16753](http://arxiv.org/abs/2506.16753)|**[link](https://github.com/nakanakakosuke/valt_sac)**|
 |**2025-06-20**|**RapFlow-TTS: Rapid and High-Fidelity Text-to-Speech with Improved Consistency Flow Matching**|Hyun Joon Park et.al.|[2506.16741](http://arxiv.org/abs/2506.16741)|null|
 |**2025-06-19**|**MBA: Multimodal Bidirectional Attack for Referring Expression Segmentation Models**|Xingbai Chen et.al.|[2506.16157](http://arxiv.org/abs/2506.16157)|null|
 |**2025-06-19**|**PRISON: Unmasking the Criminal Potential of Large Language Models**|Xinyi Wu et.al.|[2506.16150](http://arxiv.org/abs/2506.16150)|null|
@@ -1274,7 +1274,7 @@ layout: default
 |**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
 |**2025-06-11**|**Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot Learning for Software Vulnerability Detection**|David Farr et.al.|[2506.10104](http://arxiv.org/abs/2506.10104)|null|
 |**2025-06-11**|**Canonical Latent Representations in Conditional Diffusion Models**|Yitao Xu et.al.|[2506.09955](http://arxiv.org/abs/2506.09955)|null|
-|**2025-06-11**|**Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature**|Andrew Gracyk et.al.|[2506.09679](http://arxiv.org/abs/2506.09679)|null|
+|**2025-06-24**|**Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature**|Andrew Gracyk et.al.|[2506.09679](http://arxiv.org/abs/2506.09679)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-11**|**Adversarial Surrogate Risk Bounds for Binary Classification**|Natalie S. Frank et.al.|[2506.09348](http://arxiv.org/abs/2506.09348)|null|
 |**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|**[link](https://github.com/rohban-lab/patchgaurd)**|
