@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -12,10 +12,10 @@ layout: default
 |**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Yitong Quan et.al.|[2506.20586](http://arxiv.org/abs/2506.20586)|null|
 |**2025-06-25**|**Learn to Position -- A Novel Meta Method for Robotic Positioning**|Dongkun Wang et.al.|[2506.20445](http://arxiv.org/abs/2506.20445)|null|
 |**2025-06-25**|**Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation**|Lingyun Chen et.al.|[2506.20376](http://arxiv.org/abs/2506.20376)|null|
-|**2025-06-25**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
+|**2025-06-26**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320](http://arxiv.org/abs/2506.20320)|null|
 |**2025-06-25**|**Building Forest Inventories with Autonomous Legged Robots -- System, Lessons, and Challenges Ahead**|Matías Mattamala et.al.|[2506.20315](http://arxiv.org/abs/2506.20315)|null|
 |**2025-06-25**|**Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration**|Heyang Zhao et.al.|[2506.20307](http://arxiv.org/abs/2506.20307)|null|
-|**2025-06-24**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045](http://arxiv.org/abs/2506.20045)|null|
+|**2025-06-26**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045](http://arxiv.org/abs/2506.20045)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
 |**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
@@ -1338,7 +1338,7 @@ layout: default
 |**2025-06-19**|**PRISON: Unmasking the Criminal Potential of Large Language Models**|Xinyi Wu et.al.|[2506.16150](http://arxiv.org/abs/2506.16150)|null|
 |**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603](http://arxiv.org/abs/2506.14603)|null|
 |**2025-06-17**|**HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control**|Yaqiao Zhu et.al.|[2506.14391](http://arxiv.org/abs/2506.14391)|null|
-|**2025-06-16**|**Fake it till You Make it: Reward Modeling as Discriminative Prediction**|Runtao Liu et.al.|[2506.13846](http://arxiv.org/abs/2506.13846)|null|
+|**2025-06-26**|**Fake it till You Make it: Reward Modeling as Discriminative Prediction**|Runtao Liu et.al.|[2506.13846](http://arxiv.org/abs/2506.13846)|null|
 |**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658](http://arxiv.org/abs/2506.13658)|null|
 |**2025-06-16**|**LapDDPM: A Conditional Graph Diffusion Model for scRNA-seq Generation with Spectral Adversarial Perturbations**|Lorenzo Bini et.al.|[2506.13344](http://arxiv.org/abs/2506.13344)|null|
 |**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875](http://arxiv.org/abs/2506.12875)|null|
