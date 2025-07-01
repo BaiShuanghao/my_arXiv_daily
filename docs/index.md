@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -369,7 +369,7 @@ layout: default
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
 |**2025-06-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2506.21198](http://arxiv.org/abs/2506.21198)|null|
 |**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165](http://arxiv.org/abs/2506.21165)|null|
-|**2025-06-26**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
+|**2025-06-28**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
 |**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
 |**2025-06-25**|**FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization**|Ha Min Son et.al.|[2506.20841](http://arxiv.org/abs/2506.20841)|null|
 |**2025-06-25**|**A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools**|Minh-Hao Van et.al.|[2506.20743](http://arxiv.org/abs/2506.20743)|null|
@@ -386,7 +386,7 @@ layout: default
 |**2025-06-22**|**Deep Supervised LSTM for 3D morphology estimation from Multi-View RGB Images of Wheat Spikes**|Olivia Zumsteg et.al.|[2506.18060](http://arxiv.org/abs/2506.18060)|null|
 |**2025-06-22**|**IDAL: Improved Domain Adaptive Learning for Natural Images Dataset**|Ravi Kant Gupta et.al.|[2506.17931](http://arxiv.org/abs/2506.17931)|null|
 |**2025-06-21**|**Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis**|Pengyu Han et.al.|[2506.17740](http://arxiv.org/abs/2506.17740)|null|
-|**2025-06-21**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
+|**2025-06-28**|**Learning Time-Aware Causal Representation for Model Generalization in Evolving Domains**|Zhuo He et.al.|[2506.17718](http://arxiv.org/abs/2506.17718)|null|
 |**2025-06-21**|**Domain Generalization using Action Sequences for Egocentric Action Recognition**|Amirshayan Nasirimajd et.al.|[2506.17685](http://arxiv.org/abs/2506.17685)|null|
 |**2025-06-20**|**Adaptive Control Attention Network for Underwater Acoustic Localization and Domain Adaptation**|Quoc Thinh Vo et.al.|[2506.17409](http://arxiv.org/abs/2506.17409)|null|
 |**2025-06-18**|**Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation**|Zhixiang Chi et.al.|[2506.17307](http://arxiv.org/abs/2506.17307)|null|
@@ -1205,7 +1205,7 @@ layout: default
 |**2025-06-26**|**Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?**|Haoang Chi et.al.|[2506.21215](http://arxiv.org/abs/2506.21215)|null|
 |**2025-06-26**|**Lower Bounds on the Size of Markov Equivalence Classes**|Erik Jahn et.al.|[2506.20933](http://arxiv.org/abs/2506.20933)|null|
 |**2025-06-26**|**Causal Inference for Latent Outcomes Learned with Factor Models**|Jenna M. Landy et.al.|[2506.20549](http://arxiv.org/abs/2506.20549)|null|
-|**2025-06-25**|**Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power**|Daniel Molitor et.al.|[2506.20523](http://arxiv.org/abs/2506.20523)|null|
+|**2025-06-29**|**Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power**|Daniel Molitor et.al.|[2506.20523](http://arxiv.org/abs/2506.20523)|null|
 |**2025-06-25**|**The Role of Partisan Culture in Mental Health Language Online**|Sachin R. Pendse et.al.|[2506.20377](http://arxiv.org/abs/2506.20377)|null|
 |**2025-06-25**|**Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks**|Ronald Katende et.al.|[2506.20181](http://arxiv.org/abs/2506.20181)|null|
 |**2025-06-25**|**Causal discovery in deterministic discrete LTI-DAE systems**|Bala Rajesh Konkathi et.al.|[2506.20169](http://arxiv.org/abs/2506.20169)|null|
