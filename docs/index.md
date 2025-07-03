@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -29,7 +29,7 @@ layout: default
 |**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Shiyi Wang et.al.|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Jing Bi et.al.|[2506.21250](http://arxiv.org/abs/2506.21250)|null|
-|**2025-06-26**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Junhao Shi et.al.|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
+|**2025-07-02**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Junhao Shi et.al.|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
 |**2025-06-26**|**UAIbot: Beginner-friendly web-based simulator for interactive robotics learning and research**|Johnata Brayan et.al.|[2506.21178](http://arxiv.org/abs/2506.21178)|null|
 |**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057](http://arxiv.org/abs/2506.21057)|null|
 |**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
