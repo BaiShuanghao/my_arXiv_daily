@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -13,7 +13,7 @@ layout: default
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
 |**2025-07-02**|**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**|Daniyal Maroufi et.al.|[2507.01779](http://arxiv.org/abs/2507.01779)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-01**|**Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives**|Benjamin Kraljusic et.al.|[2507.01198](http://arxiv.org/abs/2507.01198)|null|
 |**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
 |**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
@@ -640,7 +640,7 @@ layout: default
 |**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Benjamin Feuer et.al.|[2507.01544](http://arxiv.org/abs/2507.01544)|null|
 |**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
 |**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-02**|**CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning**|Kuniaki Saito et.al.|[2507.01409](http://arxiv.org/abs/2507.01409)|null|
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
@@ -1529,7 +1529,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**T3DM: Test-Time Training-Guided Distribution Shift Modelling for Temporal Knowledge Graph Reasoning**|Yuehang Si et.al.|[2507.01597](http://arxiv.org/abs/2507.01597)|null|
 |**2025-07-01**|**Out-of-distribution detection in 3D applications: a review**|Zizhao Li et.al.|[2507.00570](http://arxiv.org/abs/2507.00570)|null|
-|**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
+|**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
 |**2025-06-30**|**PBCAT: Patch-based composite adversarial training against physically realizable attacks on object detection**|Xiao Li et.al.|[2506.23581](http://arxiv.org/abs/2506.23581)|null|
 |**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
 |**2025-06-29**|**CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation**|Yi Liu et.al.|[2506.23347](http://arxiv.org/abs/2506.23347)|null|
