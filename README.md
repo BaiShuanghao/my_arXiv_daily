@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2025-07-07**|**Gaussian Process-Based Active Exploration Strategies in Vision and Touch**|Ho Jin Choi et.al.|[2507.05522](http://arxiv.org/abs/2507.05522)|null|
 |**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|TRI LBM Team et.al.|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
-|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning**|Maxence Boels et.al.|[2507.05011](http://arxiv.org/abs/2507.05011)|null|
 |**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
 |**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
@@ -440,14 +440,14 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## DA & DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
-|**2025-07-09**|**Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining: Method, Evaluation and Applications**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/abs/2507.06795)|null|
+|**2025-07-10**|**ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/abs/2507.06795)|null|
 |**2025-07-09**|**Tailoring deep learning for real-time brain-computer interfaces: From offline models to calibration-free online decoding**|Martin Wimpff et.al.|[2507.06779](http://arxiv.org/abs/2507.06779)|null|
 |**2025-07-09**|**On the Hardness of Unsupervised Domain Adaptation: Optimal Learners and Information-Theoretic Perspective**|Zhiyi Dong et.al.|[2507.06552](http://arxiv.org/abs/2507.06552)|null|
 |**2025-07-08**|**Bridging Data Gaps of Rare Conditions in ICU: A Multi-Disease Adaptation Approach for Clinical Prediction**|Mingcheng Zhu et.al.|[2507.06432](http://arxiv.org/abs/2507.06432)|null|
@@ -730,7 +730,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## VLM
 
@@ -751,7 +751,7 @@
 |**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[2507.06441](http://arxiv.org/abs/2507.06441)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-10**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al.|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Amane Watahiki et.al.|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
@@ -1369,7 +1369,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Prompt
 
@@ -1494,7 +1494,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1505,7 +1505,7 @@
 |**2025-07-09**|**Deep Disentangled Representation Network for Treatment Effect Estimation**|Hui Meng et.al.|[2507.06650](http://arxiv.org/abs/2507.06650)|null|
 |**2025-07-09**|**Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**|Xu Shaowu et.al.|[2507.06603](http://arxiv.org/abs/2507.06603)|null|
 |**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
-|**2025-07-08**|**PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning**|Pengzhou Chen et.al.|[2507.05995](http://arxiv.org/abs/2507.05995)|null|
+|**2025-07-10**|**PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning**|Pengzhou Chen et.al.|[2507.05995](http://arxiv.org/abs/2507.05995)|null|
 |**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
 |**2025-07-07**|**Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning**|Anish Dhir et.al.|[2507.05526](http://arxiv.org/abs/2507.05526)|null|
 |**2025-07-07**|**Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift**|Gautam Sreekumar et.al.|[2507.05412](http://arxiv.org/abs/2507.05412)|null|
@@ -1527,7 +1527,7 @@
 |**2025-07-04**|**LILI clustering algorithm: Limit Inferior Leaf Interval Integrated into Causal Forest for Causal Interference**|Yiran Dong et.al.|[2507.03271](http://arxiv.org/abs/2507.03271)|null|
 |**2025-07-03**|**Counterfactual Tuning for Temporal Sensitivity Enhancement in Large Language Model-based Recommendation**|Yutian Liu et.al.|[2507.03047](http://arxiv.org/abs/2507.03047)|null|
 |**2025-07-03**|**Nonlinear Network Reconstruction by Pairwise Time-delayed Transfer Entropy**|Kai Chen et.al.|[2507.02304](http://arxiv.org/abs/2507.02304)|null|
-|**2025-07-03**|**It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation**|Jikai Jin et.al.|[2507.02275](http://arxiv.org/abs/2507.02275)|null|
+|**2025-07-10**|**It's Hard to Be Normal: The Impact of Noise on Structure-agnostic Estimation**|Jikai Jin et.al.|[2507.02275](http://arxiv.org/abs/2507.02275)|null|
 |**2025-07-02**|**Relational Causal Discovery with Latent Confounders**|Andrea Piras et.al.|[2507.01700](http://arxiv.org/abs/2507.01700)|null|
 |**2025-07-02**|**Analysis of Drone-Assisted Building Inspection Training in VR vs 2D Monitor Display: an EEG Study**|Pengkun Liu et.al.|[2507.01471](http://arxiv.org/abs/2507.01471)|null|
 |**2025-07-02**|**Beyond Black-Box AI: Interpretable Hybrid Systems for Dementia Care**|Matthew JY Kang et.al.|[2507.01282](http://arxiv.org/abs/2507.01282)|null|
@@ -1737,7 +1737,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1908,5 +1908,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
