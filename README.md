@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -445,13 +445,13 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## DA & DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
+|**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-10**|**Not Only Consistency: Enhance Test-Time Adaptation with Spatio-temporal Inconsistency for Remote Physiological Measurement**|Xiao Yang et.al.|[2507.07908](http://arxiv.org/abs/2507.07908)|null|
 |**2025-07-10**|**Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation**|Junyu Luo et.al.|[2507.07621](http://arxiv.org/abs/2507.07621)|null|
 |**2025-07-10**|**Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation**|Yupu Liang et.al.|[2507.07572](http://arxiv.org/abs/2507.07572)|null|
@@ -740,7 +740,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## VLM
 
@@ -753,11 +753,11 @@
 |**2025-07-10**|**Energy-Guided Decoding for Object Hallucination Mitigation**|Xixi Liu et.al.|[2507.07731](http://arxiv.org/abs/2507.07731)|null|
 |**2025-07-10**|**One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**|Jiale Zhao et.al.|[2507.07709](http://arxiv.org/abs/2507.07709)|null|
 |**2025-07-10**|**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**|Shin'ya Yamaguchi et.al.|[2507.07685](http://arxiv.org/abs/2507.07685)|null|
-|**2025-07-10**|**ViLU: Learning Vision-Language Uncertainties for Failure Prediction**|Marc Lafon et.al.|[2507.07620](http://arxiv.org/abs/2507.07620)|null|
+|**2025-07-11**|**ViLU: Learning Vision-Language Uncertainties for Failure Prediction**|Marc Lafon et.al.|[2507.07620](http://arxiv.org/abs/2507.07620)|null|
 |**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
 |**2025-07-10**|**The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs**|Jierun Chen et.al.|[2507.07562](http://arxiv.org/abs/2507.07562)|null|
 |**2025-07-10**|**ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing**|Line Abele et.al.|[2507.07551](http://arxiv.org/abs/2507.07551)|null|
-|**2025-07-09**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
+|**2025-07-11**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
 |**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
 |**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
 |**2025-07-09**|**MagiC: Evaluating Multimodal Cognition Toward Grounded Visual Reasoning**|Chengfei Wu et.al.|[2507.07297](http://arxiv.org/abs/2507.07297)|null|
@@ -765,7 +765,7 @@
 |**2025-07-09**|**Weighted Multi-Prompt Learning with Description-free Large Language Model Distillation**|Sua Lee et.al.|[2507.07147](http://arxiv.org/abs/2507.07147)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
-|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-11**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
 |**2025-07-09**|**Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM**|Qiyuan Dai et.al.|[2507.06973](http://arxiv.org/abs/2507.06973)|null|
 |**2025-07-09**|**CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale**|Xiao Liang et.al.|[2507.06959](http://arxiv.org/abs/2507.06959)|null|
@@ -1397,13 +1397,13 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-10**|**Synergistic Prompting for Robust Visual Recognition with Missing Modalities**|Zhihui Zhang et.al.|[2507.07802](http://arxiv.org/abs/2507.07802)|null|
+|**2025-07-11**|**Synergistic Prompting for Robust Visual Recognition with Missing Modalities**|Zhihui Zhang et.al.|[2507.07802](http://arxiv.org/abs/2507.07802)|null|
 |**2025-07-10**|**Visual Instance-aware Prompt Tuning**|Xi Xiao et.al.|[2507.07796](http://arxiv.org/abs/2507.07796)|null|
 |**2025-07-10**|**HGMP:Heterogeneous Graph Multi-Task Prompt Learning**|Pengfei Jiao et.al.|[2507.07405](http://arxiv.org/abs/2507.07405)|null|
 |**2025-07-09**|**Weighted Multi-Prompt Learning with Description-free Large Language Model Distillation**|Sua Lee et.al.|[2507.07147](http://arxiv.org/abs/2507.07147)|null|
@@ -1526,7 +1526,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1775,7 +1775,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1949,5 +1949,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
 
