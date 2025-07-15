@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Nam Gyun Kim et.al.|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
-|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-13**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
 |**2025-07-09**|**Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement**|Michael Bloesch et.al.|[2507.06701](http://arxiv.org/abs/2507.06701)|null|
 |**2025-07-09**|**Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**|Jinmin He et.al.|[2507.06628](http://arxiv.org/abs/2507.06628)|null|
 |**2025-07-09**|**Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic**|Shizhe Cai et.al.|[2507.06625](http://arxiv.org/abs/2507.06625)|null|
@@ -37,7 +37,7 @@
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224](http://arxiv.org/abs/2507.06224)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
-|**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
+|**2025-07-14**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
 |**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
 |**2025-07-08**|**SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles**|Jakub F. Kowalewski et.al.|[2507.06053](http://arxiv.org/abs/2507.06053)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
@@ -449,7 +449,7 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## DA & DG
 
@@ -474,7 +474,7 @@
 |**2025-07-04**|**Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation**|Saierdaer Yusuyin et.al.|[2507.06249](http://arxiv.org/abs/2507.06249)|null|
 |**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230](http://arxiv.org/abs/2507.06230)|null|
 |**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
-|**2025-07-08**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al.|[2507.05823](http://arxiv.org/abs/2507.05823)|null|
+|**2025-07-13**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al.|[2507.05823](http://arxiv.org/abs/2507.05823)|null|
 |**2025-07-08**|**Improving Robustness of Foundation Models in Domain Adaptation with Soup-Adapters**|Marco Roschkowski et.al.|[2507.05807](http://arxiv.org/abs/2507.05807)|null|
 |**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Jiahui Wang et.al.|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
@@ -749,7 +749,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## VLM
 
@@ -1414,7 +1414,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Prompt
 
@@ -1446,7 +1446,7 @@
 |**2025-06-30**|**Visual and Memory Dual Adapter for Multi-Modal Object Tracking**|Boyue Xu et.al.|[2506.23972](http://arxiv.org/abs/2506.23972)|null|
 |**2025-06-30**|**A Closer Look at Conditional Prompt Tuning for Vision-Language Models**|Ji Zhang et.al.|[2506.23856](http://arxiv.org/abs/2506.23856)|null|
 |**2025-07-05**|**StackCLIP: Clustering-Driven Stacked Prompt in Zero-Shot Industrial Anomaly Detection**|Yanning Hou et.al.|[2506.23577](http://arxiv.org/abs/2506.23577)|null|
-|**2025-06-30**|**LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching**|Mengxiao Tian et.al.|[2506.23502](http://arxiv.org/abs/2506.23502)|null|
+|**2025-07-12**|**LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching**|Mengxiao Tian et.al.|[2506.23502](http://arxiv.org/abs/2506.23502)|null|
 |**2025-06-28**|**Attention to Burstiness: Low-Rank Bilinear Prompt Tuning**|Yuzhu Wang et.al.|[2506.22908](http://arxiv.org/abs/2506.22908)|null|
 |**2025-06-28**|**Prompting without Panic: Attribute-aware, Zero-shot, Test-Time Calibration**|Ramya Hebbalaguppe et.al.|[2506.22819](http://arxiv.org/abs/2506.22819)|null|
 |**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
@@ -1544,7 +1544,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1796,7 +1796,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1804,7 +1804,7 @@
 |---|---|---|---|---|
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-11**|**Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training**|Aleksei Ilin et.al.|[2507.08284](http://arxiv.org/abs/2507.08284)|null|
-|**2025-07-10**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
+|**2025-07-14**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
 |**2025-07-10**|**TRIX- Trading Adversarial Fairness via Mixed Adversarial Training**|Tejaswini Medi et.al.|[2507.07768](http://arxiv.org/abs/2507.07768)|null|
 |**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406](http://arxiv.org/abs/2507.07406)|null|
 |**2025-07-09**|**A Single-Point Measurement Framework for Robust Cyber-Attack Diagnosis in Smart Microgrids Using Dual Fractional-Order Feature Analysis**|Yifan Wang et.al.|[2507.06890](http://arxiv.org/abs/2507.06890)|null|
@@ -1972,5 +1972,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
