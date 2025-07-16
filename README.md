@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-07-13**|**Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles**|Yangang Ren et.al.|[2507.09537](http://arxiv.org/abs/2507.09537)|null|
 |**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
 |**2025-07-12**|**DAA*: Deep Angular A Star for Image-based Path Planning**|Zhiwei Xu et.al.|[2507.09305](http://arxiv.org/abs/2507.09305)|null|
-|**2025-07-12**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Zichun Xu et.al.|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
+|**2025-07-15**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Zichun Xu et.al.|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
 |**2025-07-12**|**PRAG: Procedural Action Generator**|Michal Vavrecka et.al.|[2507.09167](http://arxiv.org/abs/2507.09167)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Jialei Huang et.al.|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
 |**2025-07-12**|**Towards Human-level Dexterity via Robot Learning**|Gagan Khandate et.al.|[2507.09117](http://arxiv.org/abs/2507.09117)|null|
@@ -38,8 +38,8 @@
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
 |**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Lamiaa H. Zain et.al.|[2507.08112](http://arxiv.org/abs/2507.08112)|null|
-|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
-|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-15**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-15**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-10**|**Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning**|Guoyan Liang et.al.|[2507.07602](http://arxiv.org/abs/2507.07602)|null|
 |**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Nam Gyun Kim et.al.|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
@@ -466,7 +466,7 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## DA & DG
 
@@ -477,7 +477,7 @@
 |**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160](http://arxiv.org/abs/2507.10160)|null|
 |**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al.|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
 |**2025-07-14**|**Statistical Inference for Conditional Group Distributionally Robust Optimization with Cross-Entropy Loss**|Zijian Guo et.al.|[2507.09905](http://arxiv.org/abs/2507.09905)|null|
-|**2025-07-14**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-13**|**NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance**|Hanwool Lee et.al.|[2507.09601](http://arxiv.org/abs/2507.09601)|null|
 |**2025-07-12**|**Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data**|Timothy Chase Jr et.al.|[2507.09420](http://arxiv.org/abs/2507.09420)|null|
 |**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Chenglin Zhu et.al.|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
@@ -779,7 +779,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## VLM
 
@@ -1465,7 +1465,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Prompt
 
@@ -1599,7 +1599,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1625,10 +1625,10 @@
 |**2025-07-09**|**Deep Disentangled Representation Network for Treatment Effect Estimation**|Hui Meng et.al.|[2507.06650](http://arxiv.org/abs/2507.06650)|null|
 |**2025-07-09**|**Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**|Xu Shaowu et.al.|[2507.06603](http://arxiv.org/abs/2507.06603)|null|
 |**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
-|**2025-07-10**|**PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning**|Pengzhou Chen et.al.|[2507.05995](http://arxiv.org/abs/2507.05995)|null|
+|**2025-07-15**|**PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning**|Pengzhou Chen et.al.|[2507.05995](http://arxiv.org/abs/2507.05995)|null|
 |**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
 |**2025-07-07**|**Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning**|Anish Dhir et.al.|[2507.05526](http://arxiv.org/abs/2507.05526)|null|
-|**2025-07-07**|**Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift**|Gautam Sreekumar et.al.|[2507.05412](http://arxiv.org/abs/2507.05412)|null|
+|**2025-07-14**|**Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift**|Gautam Sreekumar et.al.|[2507.05412](http://arxiv.org/abs/2507.05412)|null|
 |**2025-07-07**|**Identification of Causal Effects with a Bunching Design**|Carolina Caetano et.al.|[2507.05210](http://arxiv.org/abs/2507.05210)|null|
 |**2025-07-07**|**Predictive posteriors under hidden confounding**|Carlos García Meixide et.al.|[2507.05170](http://arxiv.org/abs/2507.05170)|null|
 |**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128](http://arxiv.org/abs/2507.05128)|null|
@@ -1857,7 +1857,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2039,5 +2039,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
