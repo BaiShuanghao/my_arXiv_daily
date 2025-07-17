@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -19,11 +19,11 @@ layout: default
 |**2025-07-14**|**A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers**|Jeffrey Joan Sam et.al.|[2507.10775](http://arxiv.org/abs/2507.10775)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
-|**2025-07-14**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
+|**2025-07-16**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
 |**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
-|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
+|**2025-07-16**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
 |**2025-07-14**|**Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths**|Shuaikang Wang et.al.|[2507.09858](http://arxiv.org/abs/2507.09858)|null|
 |**2025-07-14**|**AdvGrasp: Adversarial Attacks on Robotic Grasping from a Physical Perspective**|Xiaofei Wang et.al.|[2507.09857](http://arxiv.org/abs/2507.09857)|null|
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
@@ -1612,7 +1612,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
-|**2025-07-15**|**From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies**|Rom Gutman et.al.|[2507.11381](http://arxiv.org/abs/2507.11381)|null|
+|**2025-07-16**|**From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies**|Rom Gutman et.al.|[2507.11381](http://arxiv.org/abs/2507.11381)|null|
 |**2025-07-15**|**Gradient Regularization-based Neural Granger Causality**|Meiliang Liu et.al.|[2507.11178](http://arxiv.org/abs/2507.11178)|null|
 |**2025-07-14**|**Uncovering Causal Relation Shifts in Event Sequences under Out-of-Domain Interventions**|Kazi Tasnim Zinat et.al.|[2507.10809](http://arxiv.org/abs/2507.10809)|null|
 |**2025-07-14**|**Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations**|Alec McClean et.al.|[2507.10774](http://arxiv.org/abs/2507.10774)|null|

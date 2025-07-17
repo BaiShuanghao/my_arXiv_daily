@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,11 +27,11 @@
 |**2025-07-14**|**A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers**|Jeffrey Joan Sam et.al.|[2507.10775](http://arxiv.org/abs/2507.10775)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
-|**2025-07-14**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
+|**2025-07-16**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
 |**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
-|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
+|**2025-07-16**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
 |**2025-07-14**|**Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths**|Shuaikang Wang et.al.|[2507.09858](http://arxiv.org/abs/2507.09858)|null|
 |**2025-07-14**|**AdvGrasp: Adversarial Attacks on Robotic Grasping from a Physical Perspective**|Xiaofei Wang et.al.|[2507.09857](http://arxiv.org/abs/2507.09857)|null|
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
@@ -477,7 +477,7 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## DA & DG
 
@@ -794,7 +794,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## VLM
 
@@ -1486,7 +1486,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Prompt
 
@@ -1621,14 +1621,14 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Causal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
-|**2025-07-15**|**From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies**|Rom Gutman et.al.|[2507.11381](http://arxiv.org/abs/2507.11381)|null|
+|**2025-07-16**|**From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies**|Rom Gutman et.al.|[2507.11381](http://arxiv.org/abs/2507.11381)|null|
 |**2025-07-15**|**Gradient Regularization-based Neural Granger Causality**|Meiliang Liu et.al.|[2507.11178](http://arxiv.org/abs/2507.11178)|null|
 |**2025-07-14**|**Uncovering Causal Relation Shifts in Event Sequences under Out-of-Domain Interventions**|Kazi Tasnim Zinat et.al.|[2507.10809](http://arxiv.org/abs/2507.10809)|null|
 |**2025-07-14**|**Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations**|Alec McClean et.al.|[2507.10774](http://arxiv.org/abs/2507.10774)|null|
@@ -1886,7 +1886,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2071,5 +2071,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
