@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
 |**2025-07-17**|**ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation**|Cheng Liu et.al.|[2507.12744](http://arxiv.org/abs/2507.12744)|null|
 |**2025-07-17**|**Learning to Predict Mobile Robot Stability in Off-Road Environments**|Nathaniel Rose et.al.|[2507.12731](http://arxiv.org/abs/2507.12731)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
 |**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
@@ -488,13 +488,13 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## DA & DG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
 |**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851](http://arxiv.org/abs/2507.12851)|null|
 |**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al.|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
@@ -814,7 +814,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## VLM
 
@@ -839,7 +839,7 @@
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Yichen Xu et.al.|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
 |**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Maciej Szankin et.al.|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
-|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongfei Ye et.al.|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
 |**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Seif Ahmed et.al.|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
@@ -1525,7 +1525,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Prompt
 
@@ -1662,7 +1662,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1933,7 +1933,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Adversarial
 
@@ -2121,5 +2121,5 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 

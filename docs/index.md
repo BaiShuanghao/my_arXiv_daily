@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -17,7 +17,7 @@ layout: default
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
 |**2025-07-17**|**ASC-SW: Atrous strip convolution network with sliding windows for visual-assisted map navigation**|Cheng Liu et.al.|[2507.12744](http://arxiv.org/abs/2507.12744)|null|
 |**2025-07-17**|**Learning to Predict Mobile Robot Stability in Off-Road Environments**|Nathaniel Rose et.al.|[2507.12731](http://arxiv.org/abs/2507.12731)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
 |**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
@@ -484,7 +484,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
 |**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851](http://arxiv.org/abs/2507.12851)|null|
 |**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al.|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
@@ -827,7 +827,7 @@ layout: default
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Yichen Xu et.al.|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
 |**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Maciej Szankin et.al.|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
-|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongfei Ye et.al.|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
 |**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Seif Ahmed et.al.|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
