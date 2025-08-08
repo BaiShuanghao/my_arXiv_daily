@@ -14,7 +14,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-# ======= 常量（替换掉原来的 arxiv.paperswithcode base_url） =======
+# ======= 常量 =======
 # Hugging Face：用 arxiv_id 映射 Hub 上的 spaces/models/datasets
 HF_REPOS_API = "https://huggingface.co/api/arxiv/{arxiv_id}/repos"
 HF_HEADERS = {"User-Agent": "arxiv-daily/1.0"}
@@ -35,30 +35,29 @@ arxiv_url = "https://arxiv.org/"
 # ======= 工具函数 =======
 
 def load_config(config_file:str) -> dict:
-    '''
-    config_file: input config file path
-    return: a dict of configuration
-    '''
-    # make filters pretty
+    """
+    读取配置，并把 keywords->filters 拼成 arXiv 查询串：
+    形如：all:"Vision Language Model" OR all:"Vision-Language Model"
+    """
     def pretty_filters(**config) -> dict:
-        keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)
-                else:
-                    ret += (QUOTA + filter + QUOTA)
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
+        keywords = {}
+        OR = ' OR '
+        FIELD = 'all:'
+
+        def quote_if_needed(s: str) -> str:
+            s = s.strip()
+            return f"\"{s}\"" if (' ' in s or '-' in s) else s
+
+        def parse_filters(filters: list) -> str:
+            terms = []
+            for flt in filters:
+                terms.append(FIELD + quote_if_needed(flt))
+            return OR.join(terms)
+
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
+
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
@@ -66,15 +65,14 @@ def load_config(config_file:str) -> dict:
     return config
 
 def get_authors(authors, first_author = False):
-    output = str()
-    if first_author == False:
-        output = ", ".join(str(author) for author in authors)
-    else:
-        output = str(authors[0])
-    return output
+    if not authors:
+        return ""
+    if first_author:
+        return str(authors[0])
+    return ", ".join(str(author) for author in authors)
 
 def sort_papers(papers):
-    output = dict()
+    output = {}
     keys = list(papers.keys())
     keys.sort(reverse=True)
     for key in keys:
@@ -84,7 +82,7 @@ def sort_papers(papers):
 def http_get(url, headers=None, params=None, timeout=10, retries=2, sleep=0.8):
     """ 简单 GET 带重试 """
     last_exc = None
-    for i in range(retries + 1):
+    for _ in range(retries + 1):
         try:
             r = requests.get(url, headers=headers, params=params, timeout=timeout)
             if r.status_code == 200:
@@ -99,7 +97,7 @@ def http_get(url, headers=None, params=None, timeout=10, retries=2, sleep=0.8):
         raise last_exc
     return None
 
-def get_code_link(qword:str) -> str:
+def get_code_link(qword:str) -> str | None:
     """
     用 GitHub 仓库搜索找一个可能的实现（按 stars 降序）。
     @param qword: 论文标题或 arxiv id
@@ -123,9 +121,9 @@ def get_code_link(qword:str) -> str:
         logging.error(f"GitHub search error: {e}")
     return None
 
-def find_code_repo(paper_title, arxiv_id_no_ver, primary_author=None):
+def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str | None = None) -> str | None:
     """
-    比 get_code_link 更智能一些：
+    更智能的 GitHub 兜底：
     1) 用标题短语搜 README/描述
     2) 再用 arXiv ID 搜
     3) 再用 Code Search 在 README 文件里搜 arXiv ID
@@ -155,7 +153,7 @@ def find_code_repo(paper_title, arxiv_id_no_ver, primary_author=None):
         logging.error(f"find_code_repo error: {e}")
     return None
 
-def get_repo_from_hf(arxiv_id_no_ver):
+def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
     """
     从 Hugging Face Hub 获取与论文关联的 spaces/models/datasets。
     优先选择：Spaces -> Models -> Datasets
@@ -182,32 +180,40 @@ def get_repo_from_hf(arxiv_id_no_ver):
         logging.error(f"HF repos error: {e}")
         return None
 
+def _iter_arxiv_results(query: str, n: int):
+    """
+    封装 arxiv.Search().results()，遇到 UnexpectedEmptyPageError 降级到 ≤25 条再拉。
+    """
+    try:
+        se = arxiv.Search(query=query, max_results=n, sort_by=arxiv.SortCriterion.SubmittedDate)
+        for r in se.results():
+            yield r
+    except arxiv.UnexpectedEmptyPageError:
+        logging.warning("Empty page from arXiv; retrying with fewer results (<=25)")
+        se2 = arxiv.Search(query=query, max_results=min(n, 25), sort_by=arxiv.SortCriterion.SubmittedDate)
+        for r in se2.results():
+            yield r
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
-    content = dict()
-    content_to_web = dict()
+    content = {}
+    content_to_web = {}
 
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
-
-    for result in search_engine.results():
+    for result in _iter_arxiv_results(query, max_results):
 
         paper_id            = result.get_short_id()         # 例如 2108.09112v1
         paper_title         = result.title
         paper_url           = result.entry_id
-        paper_abstract      = result.summary.replace("\n"," ")
+        paper_abstract      = (result.summary or "").replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
+        publish_time        = result.published.date() if result.published else ""
+        update_time         = result.updated.date() if result.updated else publish_time
         comments            = result.comment
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
@@ -220,9 +226,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         # 先尝试 HF，失败再 GitHub 搜索作为兜底
         repo_url = get_repo_from_hf(paper_key)
         if repo_url is None:
-            repo_url = find_code_repo(paper_title, paper_key, paper_first_author) \
-                       or get_code_link(paper_title) \
-                       or get_code_link(paper_key)
+            repo_url = (find_code_repo(paper_title, paper_key, paper_first_author)
+                        or get_code_link(paper_title)
+                        or get_code_link(paper_key))
 
         try:
             if repo_url is not None:
@@ -288,11 +294,10 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    # 先 HF，再 GitHub（注意这里能拿到标题和一作）
-                    repo_url = get_repo_from_hf(paper_id) \
-                               or find_code_repo(paper_title, paper_id, paper_first_author) \
-                               or get_code_link(paper_title) \
-                               or get_code_link(paper_id)
+                    repo_url = (get_repo_from_hf(paper_id)
+                                or find_code_repo(paper_title, paper_id, paper_first_author)
+                                or get_code_link(paper_title)
+                                or get_code_link(paper_id))
 
                     if repo_url is not None:
                         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
@@ -456,7 +461,6 @@ def json_to_md(filename,md_filename,
     logging.info(f"{task} finished")
 
 def demo(**config):
-    # TODO: use config
     data_collector = []
     data_collector_web= []
 
@@ -484,40 +488,34 @@ def demo(**config):
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
-        # update paper links
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
-            # update json data
             update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        json_to_md(json_file,md_file, task ='Update Readme', show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task ='Update GitPage',
+                   to_web = True, show_badge = show_badge,
+                   use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+        json_to_md(json_file, md_file, task ='Update Wechat',
+                   to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
