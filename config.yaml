@@ -1,17 +1,15 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+# basic info
 user_name: "Bai Shuanghao"
 repo_name: "cv-arxiv-daily"
-show_authors: True
-show_links: True
-show_badge: False
+
+show_badge: false
 max_results: 30
 
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
 
-# file paths
+# file path 
 json_readme_path: './docs/cv-arxiv-daily.json'
 json_gitpage_path: './docs/cv-arxiv-daily-web.json'
 json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
@@ -20,40 +18,18 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
+# keywords
 keywords:
-    # "SLAM": 
-    #     filters: ["SLAM", "Visual Odometry"]
-    # "SFM":
-    #     filters: ["SFM", "Structure from Motion"]
-    # "Visual Localization":
-    #     filters: ["Visual Localization","Camera Localization",
-    #               "Camera Re-localisation","Loop Closure Detection",
-    #               "visual place recognition","image retrieval"]
-    # "Keypoint Detection":
-    #     filters: ["Keypoint Detection", "Feature Descriptor"]
-    # "Image Matching":
-    #     filters: ["Image Matching", "Keypoint Matching", 
-    #               "Line Segment Detection", "Local Feature Matching"]
-    # "NeRF":
-    #     filters: ["NeRF"]
-
-    # --------- My Keywords ---------
-    "Robotics":
-        filters: ["Embodied Agent", "Manipulation", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", "World Model", 
-            "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Vision-and-Language Navigation",
-            "Imitation Learning", "Human-Robot", "Robot Policy", "Robot Policies", "Cross-Embodiment"
-            ]
-    "DA & DG":
-        filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
-                  "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
-    "Prompt":
-        filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
-    "Causal Learning":
-        filters: ["Causal Inference", "Causal Model", "Causal Discovery", "Causal Reasoning"]
-    # "Adversarial":
-    #     filters: ["Adversarial Robustness", "Adversarial Training", "Adversarial Learning"]
-    
-        
+  "Robotics":
+    filters: ["Embodied Agent", "Manipulation", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", "World Model",
+      "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Vision-and-Language Navigation",
+      "Imitation Learning", "Human-Robot", "Robot Policy", "Robot Policies", "Cross-Embodiment"]
+  "DA & DG":
+    filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
+      "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
+  "VLM":
+    filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
+  "Prompt":
+    filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
+  "Causal Learning":
+    filters: ["Causal Inference", "Causal Model", "Causal Discovery", "Causal Reasoning"]
