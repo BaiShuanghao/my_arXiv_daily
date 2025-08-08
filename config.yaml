@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "Bai Shuanghao"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -40,8 +40,10 @@ keywords:
 
     # --------- My Keywords ---------
     "Robotics":
-        filters: ["Embodied Agent", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", 
-            "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Imitation Learning"]
+        filters: ["Embodied Agent", "Manipulation", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", "World Model", 
+            "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Vision-and-Language Navigation",
+            "Imitation Learning", "Human-Robot", "Robot Policy", "Robot Policies", "Cross-Embodiment"
+            ]
     "DA & DG":
         filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
                   "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
@@ -50,8 +52,8 @@ keywords:
     "Prompt":
         filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
     "Causal Learning":
-        filters: ["Causal Inference", "Causal model", "Causal Discovery", "Causal reasoning"]
-    "Adversarial":
-        filters: ["Adversarial Robustness", "Adversarial Training", "Adversarial Learning"]
+        filters: ["Causal Inference", "Causal Model", "Causal Discovery", "Causal Reasoning"]
+    # "Adversarial":
+    #     filters: ["Adversarial Robustness", "Adversarial Training", "Adversarial Learning"]
     
         
