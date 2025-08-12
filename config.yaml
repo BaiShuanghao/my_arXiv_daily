@@ -20,10 +20,16 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords
 keywords:
-  "Robotics":
-    filters: ["Embodied Agent", "Manipulation", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", "World Model",
-      "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Vision-and-Language Navigation",
-      "Imitation Learning", "Human-Robot", "Robot Policy", "Robot Policies", "Cross-Embodiment"]
+  "Robot & Agent":
+    filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
+  "Robotic Manipulation":
+    filters: ["Manipulation", "Robot Manipulation", "Robotic Manipulation", "Grasp", "Robot Grasp", "World Model"]
+  "Vision Language Action Model":
+    filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
+  "Imitation Learning":
+    filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
+  "Robotic Navigation":
+    filters: ["Navigation", "Robot Navigation", "Vision-and-Language Navigation"]
   "DA & DG":
     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
