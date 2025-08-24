@@ -29,7 +29,7 @@ keywords:
   "Imitation Learning":
     filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
   "Robotic Navigation":
-    filters: ["Robot Navigation", "Vision-and-Language Navigation"， "Vision Language Navigation", "Vision-Language-Navigation"]
+    filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
 #   "DA & DG":
 #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
 #       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
