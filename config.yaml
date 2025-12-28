@@ -23,13 +23,13 @@ keywords:
   "Robot & Agent":
     filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
   "Robotic Manipulation":
-    filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp", "Robot Grasp", "World Model"]
+    filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp"]
   "Vision Language Action Model":
     filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
   "Imitation Learning":
     filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
-  "Robotic Navigation":
-    filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
+  # "Robotic Navigation":
+  #   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
 #   "DA & DG":
 #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
 #       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
