@@ -25,7 +25,7 @@ keywords:
   "Robotic Manipulation":
     filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp"]
   "Vision Language Action Model":
-    filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
+    filters: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA", "VLAs", "VLA Models"]
   "Imitation Learning":
     filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
   # "Robotic Navigation":
