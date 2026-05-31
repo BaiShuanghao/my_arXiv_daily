@@ -3,7 +3,7 @@ user_name: "Bai Shuanghao"
 repo_name: "cv-arxiv-daily"
 
 show_badge: false
-max_results: 150
+max_results: 100
 
 publish_readme: true
 publish_gitpage: true

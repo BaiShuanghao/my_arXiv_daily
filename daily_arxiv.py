@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import re
 import json
@@ -182,18 +183,26 @@ def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
 
 def _iter_arxiv_results(query: str, n: int):
     """
-    封装 arxiv.Search().results()，遇到 UnexpectedEmptyPageError 降级到 ≤25 条再拉。
+    封装 arxiv.Search().results()，遇到 UnexpectedEmptyPageError 逐级降级重试。
+    arXiv API 单次查询有返回上限（通常 50-100 条），设置过高容易触发空页。
+    降级顺序：n → 100 → 50 → 25
     """
-    try:
-        se = arxiv.Search(query=query, max_results=n, sort_by=arxiv.SortCriterion.SubmittedDate)
-        client = arxiv.Client()
-        for r in client.results(se):
-            yield r
-    except arxiv.UnexpectedEmptyPageError:
-        logging.warning("Empty page from arXiv; retrying with fewer results (<=25)")
-        se2 = arxiv.Search(query=query, max_results=min(n, 25), sort_by=arxiv.SortCriterion.SubmittedDate)
-        for r in se2.results():
-            yield r
+    client = arxiv.Client()
+    for attempt, limit in enumerate([n, 100, 50, 25]):
+        if attempt > 0:
+            logging.warning(f"Empty page from arXiv; retrying with max_results={limit}")
+        try:
+            se = arxiv.Search(query=query, max_results=limit, sort_by=arxiv.SortCriterion.SubmittedDate)
+            for r in client.results(se):
+                yield r
+            return  # 成功跑完，跳出
+        except arxiv.UnexpectedEmptyPageError:
+            continue  # 尝试下一个更小的 limit
+    # 全部失败，最后用 25 再试一次（不 catch 异常）
+    logging.warning("All retries failed, trying with max_results=25 as last resort")
+    se = arxiv.Search(query=query, max_results=25, sort_by=arxiv.SortCriterion.SubmittedDate)
+    for r in client.results(se):
+        yield r
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
