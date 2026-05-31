@@ -186,7 +186,8 @@ def _iter_arxiv_results(query: str, n: int):
     """
     try:
         se = arxiv.Search(query=query, max_results=n, sort_by=arxiv.SortCriterion.SubmittedDate)
-        for r in se.results():
+        client = arxiv.Client()
+        for r in client.results(se):
             yield r
     except arxiv.UnexpectedEmptyPageError:
         logging.warning("Empty page from arXiv; retrying with fewer results (<=25)")
