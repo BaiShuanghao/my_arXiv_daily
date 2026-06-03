@@ -188,7 +188,7 @@ def _iter_arxiv_results(query: str, n: int):
     降级顺序：n → 100 → 50 → 25
     """
     client = arxiv.Client()
-    for attempt, limit in enumerate([n, 100, 50, 25]):
+    for attempt, limit in enumerate([n, 25, 10]):
         if attempt > 0:
             logging.warning(f"Empty page from arXiv; retrying with max_results={limit}")
         try:
@@ -198,9 +198,9 @@ def _iter_arxiv_results(query: str, n: int):
             return  # 成功跑完，跳出
         except arxiv.UnexpectedEmptyPageError:
             continue  # 尝试下一个更小的 limit
-    # 全部失败，最后用 25 再试一次（不 catch 异常）
-    logging.warning("All retries failed, trying with max_results=25 as last resort")
-    se = arxiv.Search(query=query, max_results=25, sort_by=arxiv.SortCriterion.SubmittedDate)
+    # 全部失败，最后用 5 再试一次（不 catch 异常）
+    logging.warning("All retries failed, trying with max_results=5 as last resort")
+    se = arxiv.Search(query=query, max_results=5, sort_by=arxiv.SortCriterion.SubmittedDate)
     for r in client.results(se):
         yield r
 
