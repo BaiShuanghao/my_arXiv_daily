@@ -21,7 +21,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords
 keywords:
   "Robot & Agent":
-    filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Human-Robot", "Cross-Embodiment", "World Model"]
+    filters: ["Embodied Agent", "Human-Robot", "Cross-Embodiment", "World Model"]
   "Robotic Manipulation":
     filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp", "Loco-Manipulation", "Whole-body Manipulation"]
   "Vision Language Action Model":
