@@ -2,13 +2,33 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robot & Agent
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**ROWBench: Do Video Models Render What the Program Specifies?**|Zheng-Hui Huang et.al.|[2610.02205](https://arxiv.org/abs/2610.02205)|**[link](https://github.com/Aditharavind/ai-intel-hub)**|
+|**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](https://arxiv.org/abs/2610.02204)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**World Observer: Joint Actor-Observer Generation for Persistent World Modeling**|Hyunwook Choi et.al.|[2610.02162](https://arxiv.org/abs/2610.02162)|**[link](https://github.com/cvlab-kaist/world-observer)**|
+|**2026-10-01**|**4Director: Controlling Video World Models with Rigid 3D Geometry**|Wei Cao et.al.|[2610.02160](https://arxiv.org/abs/2610.02160)|**[link](https://github.com/VVeiCao/4Director)**|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](https://arxiv.org/abs/2610.02054)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models**|Efstathios Karypidis et.al.|[2610.01942](https://arxiv.org/abs/2610.01942)|null|
+|**2026-10-01**|**On the Divergence of Accuracy and Mechanism Consistency in Time Series World Models**|Haochen Zhang et.al.|[2610.01842](https://arxiv.org/abs/2610.01842)|null|
+|**2026-10-01**|**Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities**|Peng Yi et.al.|[2610.01826](https://arxiv.org/abs/2610.01826)|null|
+|**2026-10-01**|**World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories**|Jiahui Lei et.al.|[2610.01742](https://arxiv.org/abs/2610.01742)|null|
+|**2026-10-01**|**Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models**|Xindi Yang et.al.|[2610.01614](https://arxiv.org/abs/2610.01614)|null|
+|**2026-10-01**|**Completion Aware Guidance for World Action Models**|Seungyeon Kim et.al.|[2610.01559](https://arxiv.org/abs/2610.01559)|null|
+|**2026-10-01**|**Learning Commute-Time-Preserving World Models for Planning**|Michael Hauri et.al.|[2610.01373](https://arxiv.org/abs/2610.01373)|**[link](https://github.com/fmi-basel/commute-time-preserving-world-models)**|
+|**2026-10-01**|**Cross-entropy optimization with prioritized constraints**|Francisco Roldan Sanchez et.al.|[2610.01319](https://arxiv.org/abs/2610.01319)|null|
+|**2026-10-01**|**Supervise What Decides Success: Criterion-Aligned Auxiliary Losses for Latent World-Model Planning**|Takumi Hara et.al.|[2610.01224](https://arxiv.org/abs/2610.01224)|null|
+|**2026-10-01**|**AutoGUIWorld: Image Generators as Visual World Models for GUI Agent**|Cheng Yang et.al.|[2610.01215](https://arxiv.org/abs/2610.01215)|**[link](https://huggingface.co/models/YangC777/AGW-35B)**|
+|**2026-10-01**|**iSEE: Object Permanence Through Self-Supervision**|Pramish Paudel et.al.|[2610.01201](https://arxiv.org/abs/2610.01201)|null|
+|**2026-10-01**|**PhysicsLENS: Diagnosing Physical Property Blindness in Video Generation Models**|Isaiah Milkey et.al.|[2610.01162](https://arxiv.org/abs/2610.01162)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation**|Patrick Amadeus Irawan et.al.|[2610.01092](https://arxiv.org/abs/2610.01092)|**[link](https://github.com/greasebig/daily-video-papers)**|
+|**2026-10-01**|**Network World Models as Environments for Algorithm Design on Complex Systems**|Rishab Alagharu et.al.|[2610.01048](https://arxiv.org/abs/2610.01048)|**[link](https://github.com/RishabSA/NetworkWorldModel)**|
+|**2026-10-01**|**FutureWorlds: Learning Robotic World Models from Alternative Futures**|Hao Wu et.al.|[2610.01019](https://arxiv.org/abs/2610.01019)|**[link](https://github.com/Alexander-wu/FutureWorlds)**|
 |**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](https://arxiv.org/abs/2609.40358)|**[link](https://github.com/Physis-Intelligence/Physis-Lang)**|
 |**2026-09-30**|**Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?**|Zhihao Sun et.al.|[2609.40341](https://arxiv.org/abs/2609.40341)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
 |**2026-09-30**|**STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction**|Nathan Tsoi et.al.|[2609.40245](https://arxiv.org/abs/2609.40245)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
@@ -1288,6 +1308,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation**|Zhuo Lin et.al.|[2610.02196](https://arxiv.org/abs/2610.02196)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**SkeleWAM: Skeleton World-Action Modeling for Efficient Robotic Manipulation**|Juyi Sheng et.al.|[2610.02120](https://arxiv.org/abs/2610.02120)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting**|Kyungmin Lee et.al.|[2610.01849](https://arxiv.org/abs/2610.01849)|null|
+|**2026-10-01**|**GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking**|Jian Liu et.al.|[2610.01758](https://arxiv.org/abs/2610.01758)|null|
+|**2026-10-01**|**3DROID: A Renderable 3D Gaussian Dataset with Measured Per-Scene Reliability**|Wonguen Cho et.al.|[2610.01744](https://arxiv.org/abs/2610.01744)|null|
+|**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Yijie Zhu et.al.|[2610.01741](https://arxiv.org/abs/2610.01741)|null|
+|**2026-10-01**|**Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks**|Sophie Higham et.al.|[2610.01351](https://arxiv.org/abs/2610.01351)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**Continual Learning for 6-DoF Grasp Synthesis via Experience and Demonstrations**|Giulio Schiavi et.al.|[2610.01301](https://arxiv.org/abs/2610.01301)|null|
+|**2026-10-01**|**Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation**|Isabella Liu et.al.|[2610.01178](https://arxiv.org/abs/2610.01178)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**Experience-Based Feasibility-Aware Generative Adversarial Imitation from Observation under Embodiment Mismatch**|Yoshiki Takebayashi et.al.|[2610.01171](https://arxiv.org/abs/2610.01171)|null|
+|**2026-10-01**|**MASkillBlender: Decentralized Whole-Body Coordination for Multi-Humanoid Loco-Manipulation via Skill Blending**|Yifan Hu et.al.|[2610.01102](https://arxiv.org/abs/2610.01102)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**WBAG: A Whole-Body and Attached-Geometry Safety Framework for Vision-Language-Action Manipulation**|Samuel Zhen et.al.|[2610.01083](https://arxiv.org/abs/2610.01083)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation**|Araki Wakiuchi et.al.|[2610.01072](https://arxiv.org/abs/2610.01072)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**eRLT: Efficient VLA Reinforcement Learning via Action-Relevant Token Routing**|Dehao Huang et.al.|[2610.00913](https://arxiv.org/abs/2610.00913)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models**|Keisuke Shirai et.al.|[2610.00899](https://arxiv.org/abs/2610.00899)|null|
+|**2026-09-30**|**DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention**|Zhanpeng He et.al.|[2610.00781](https://arxiv.org/abs/2610.00781)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model**|Enyi Wang et.al.|[2610.00638](https://arxiv.org/abs/2610.00638)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies**|Sathwik Karnik et.al.|[2610.00601](https://arxiv.org/abs/2610.00601)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**Token-World: World Modeling in Vision-Language Model Token Space for Robot Manipulation**|Chuyao Fu et.al.|[2610.00575](https://arxiv.org/abs/2610.00575)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining**|Chongyang Xu et.al.|[2610.00438](https://arxiv.org/abs/2610.00438)|null|
 |**2026-09-30**|**Tactile Curiosity Drives Robot Interaction**|Klemens Iten et.al.|[2609.40134](https://arxiv.org/abs/2609.40134)|null|
 |**2026-09-30**|**Cognitive Enhancement: Rethinking the Necessity of Role-Playing for Large Language Models**|Xingjie Zhuang et.al.|[2609.39853](https://arxiv.org/abs/2609.39853)|null|
 |**2026-09-30**|**Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models**|Mingyue Cui et.al.|[2609.39820](https://arxiv.org/abs/2609.39820)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
@@ -2277,21 +2317,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](https://arxiv.org/abs/2609.40325)|**[link](https://github.com/UCSB-NLP-Chang/WorldAuditBench)**|
-|**2026-09-30**|**Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models**|Mingyue Cui et.al.|[2609.39820](https://arxiv.org/abs/2609.39820)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-30**|**Inline Memory Meets Reusable Skills: Memory-centric Framework for Vision-Language-Action Model**|Zaijing Li et.al.|[2609.39794](https://arxiv.org/abs/2609.39794)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514](https://arxiv.org/abs/2609.39514)|null|
-|**2026-09-30**|**Exploiting Vulnerabilities: Universal Adversarial Attacks on Vision-Language-Action Models in Robotics**|Songhua Yang et.al.|[2609.39178](https://arxiv.org/abs/2609.39178)|**[link](https://github.com/DoongLi/ICRA2026-Paper-List)**|
-|**2026-09-30**|**Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation**|Haoxuan Wang et.al.|[2609.38989](https://arxiv.org/abs/2609.38989)|null|
-|**2026-09-29**|**Correcting WHERE, Preserving HOW: Compositional Generalization for Vision-Language-Action Models via Referential Guidance**|Yanyan Zhang et.al.|[2609.38616](https://arxiv.org/abs/2609.38616)|null|
-|**2026-09-30**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yiming Jiang et.al.|[2609.38046](https://arxiv.org/abs/2609.38046)|**[link](https://github.com/LambdaHumanoid/EgoAlign)**|
-|**2026-09-29**|**Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead**|Junghyun Kim et.al.|[2609.37165](https://arxiv.org/abs/2609.37165)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-09-29**|**Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving**|Katharina Winter et.al.|[2609.37046](https://arxiv.org/abs/2609.37046)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
-|**2026-09-29**|**VLALight: A Vision-Language-Action Model for Traffic Signal Control**|Pan Zhang et.al.|[2609.36934](https://arxiv.org/abs/2609.36934)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-09-29**|**Cooperative Multi-Agent Vision-Language-Action Models via Reinforced Fine Tuning**|Ruixiao Xu et.al.|[2609.36588](https://arxiv.org/abs/2609.36588)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540](https://arxiv.org/abs/2609.36540)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2026-09-29**|**FineART: Fine-grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation**|Jade Choghari et.al.|[2609.36416](https://arxiv.org/abs/2609.36416)|**[link](https://github.com/zezhishao/DailyArXiv)**|
-|**2026-09-29**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575](https://arxiv.org/abs/2609.35575)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2026-10-01**|**DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication**|Hanchu Zhou et.al.|[2610.02161](https://arxiv.org/abs/2610.02161)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](https://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**ATI-VLA: Action-Centric Predictive Vision-Language-Action Models via Actionable Alignment Then Adaptive Injection**|Yijie Zhu et.al.|[2610.01741](https://arxiv.org/abs/2610.01741)|null|
+|**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981](https://arxiv.org/abs/2610.00981)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models**|Keisuke Shirai et.al.|[2610.00899](https://arxiv.org/abs/2610.00899)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](https://arxiv.org/abs/2609.40325)|**[link](https://huggingface.co/spaces/ziyjiang/WorldAuditBench)**|
+|**2026-09-30**|**Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models**|Mingyue Cui et.al.|[2609.39820](https://arxiv.org/abs/2609.39820)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-30**|**Inline Memory Meets Reusable Skills: Memory-centric Framework for Vision-Language-Action Model**|Zaijing Li et.al.|[2609.39794](https://arxiv.org/abs/2609.39794)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514](https://arxiv.org/abs/2609.39514)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-30**|**Exploiting Vulnerabilities: Universal Adversarial Attacks on Vision-Language-Action Models in Robotics**|Songhua Yang et.al.|[2609.39178](https://arxiv.org/abs/2609.39178)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
+|**2026-09-30**|**Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation**|Haoxuan Wang et.al.|[2609.38989](https://arxiv.org/abs/2609.38989)|**[link](https://github.com/iszhanjiawei/flow_matching_arxiv_daily)**|
+|**2026-09-29**|**Correcting WHERE, Preserving HOW: Compositional Generalization for Vision-Language-Action Models via Referential Guidance**|Yanyan Zhang et.al.|[2609.38616](https://arxiv.org/abs/2609.38616)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2026-09-30**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yiming Jiang et.al.|[2609.38046](https://arxiv.org/abs/2609.38046)|null|
+|**2026-09-29**|**Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead**|Junghyun Kim et.al.|[2609.37165](https://arxiv.org/abs/2609.37165)|null|
+|**2026-09-29**|**Speed in the Blind Spot: An Interpretability Analysis of Dynamic Perception in VLMs for Autonomous Driving**|Katharina Winter et.al.|[2609.37046](https://arxiv.org/abs/2609.37046)|null|
+|**2026-09-29**|**VLALight: A Vision-Language-Action Model for Traffic Signal Control**|Pan Zhang et.al.|[2609.36934](https://arxiv.org/abs/2609.36934)|null|
+|**2026-09-29**|**Cooperative Multi-Agent Vision-Language-Action Models via Reinforced Fine Tuning**|Ruixiao Xu et.al.|[2609.36588](https://arxiv.org/abs/2609.36588)|**[link](https://github.com/HyperbolicCurve/Awesome-World-Action-Model)**|
+|**2026-09-29**|**Reactive Real-Time Flow Policies via Asynchronous Distribution Alignment**|Moritz Zoellner et.al.|[2609.36540](https://arxiv.org/abs/2609.36540)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-30**|**FineART: Fine-Grained Annotated Robotic Trajectory Dataset and Vision-Language-Action Model for Bimanual Manipulation**|Jade Choghari et.al.|[2609.36416](https://arxiv.org/abs/2609.36416)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2026-09-29**|**F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement**|Zhuoyuan Yu et.al.|[2609.35575](https://arxiv.org/abs/2609.35575)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Dingsheng Liu et.al.|[2609.35249](https://arxiv.org/abs/2609.35249)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-09-29**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231](https://arxiv.org/abs/2609.35231)|null|
 |**2026-09-28**|**Learning to Act under Visual Interruptions with Vision-Language-Action Models**|Mingle Jiang et.al.|[2609.35003](https://arxiv.org/abs/2609.35003)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
@@ -2618,19 +2663,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-30**|**Identifiable Decomposition of Submovements in Human Hand Trajectories**|Adrian Prados et.al.|[2609.40012](https://arxiv.org/abs/2609.40012)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](https://arxiv.org/abs/2609.39038)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-10-01**|**Iterative Policy Refinement through Semantic Rollout Analysis**|Feiyu Gavin Zhu et.al.|[2610.01652](https://arxiv.org/abs/2610.01652)|null|
+|**2026-10-01**|**Measuring the Stability Assumption Behind Action Chunking**|Aryan Goyal et.al.|[2610.01626](https://arxiv.org/abs/2610.01626)|null|
+|**2026-10-01**|**Optimal Transport Meets Reinforcement Learning: A Survey**|Yujie Zhu et.al.|[2610.01413](https://arxiv.org/abs/2610.01413)|null|
+|**2026-10-01**|**Divide-and-Remember: Recursive Action-Relevant Memory for Long-Horizon VLA Policies**|Xuehui Yu et.al.|[2610.00982](https://arxiv.org/abs/2610.00982)|null|
+|**2026-09-30**|**Does Continual Imitation Learning Remain Grounded? A Language-Perturbed Benchmark for Robotic Task Retention**|Siddeshwar Raghavan et.al.|[2610.00542](https://arxiv.org/abs/2610.00542)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
+|**2026-09-30**|**Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon**|Johannes F. Loevenich et.al.|[2610.00422](https://arxiv.org/abs/2610.00422)|null|
+|**2026-09-30**|**Identifiable Decomposition of Submovements in Human Hand Trajectories**|Adrian Prados et.al.|[2609.40012](https://arxiv.org/abs/2609.40012)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](https://arxiv.org/abs/2609.39038)|null|
 |**2026-09-30**|**Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving**|Chenglin Chen et.al.|[2609.38862](https://arxiv.org/abs/2609.38862)|null|
 |**2026-09-30**|**Plan-Conditioned Imitation for Robust Object Retrieval under Self-Occlusion in Dense Clutter**|Kowndinya Boyalakuntla et.al.|[2609.38857](https://arxiv.org/abs/2609.38857)|null|
 |**2026-09-30**|**Learning to Route in Visual Space via Multi-Step Embedding Retrieval**|Tianyu Chen et.al.|[2609.38743](https://arxiv.org/abs/2609.38743)|null|
-|**2026-09-29**|**Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving**|Bruno Maciel Machado et.al.|[2609.38472](https://arxiv.org/abs/2609.38472)|null|
-|**2026-09-29**|**Disagreement-Regularized Imitation Learning for Image-Based Continuous Control with Gaussian and Beta Policies**|Irving Giovani Bronzatti Petrazzini et.al.|[2609.38407](https://arxiv.org/abs/2609.38407)|null|
-|**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401](https://arxiv.org/abs/2609.38401)|**[link](https://github.com/cold-young/robotics_paper_daily)**|
-|**2026-09-29**|**VoxelSage: Tool-Augmented 3D CT Analysis and Simulator-Shielded Sequential Resection Planning for Liver Tumors**|Binghong Qian et.al.|[2609.37648](https://arxiv.org/abs/2609.37648)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
-|**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599](https://arxiv.org/abs/2609.37599)|null|
+|**2026-09-29**|**Diffusion-2BC: Hybrid Diffusion and Regression Training for Offline Behavior Cloning in Autonomous Driving**|Bruno Maciel Machado et.al.|[2609.38472](https://arxiv.org/abs/2609.38472)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
+|**2026-09-29**|**Disagreement-Regularized Imitation Learning for Image-Based Continuous Control with Gaussian and Beta Policies**|Irving Giovani Bronzatti Petrazzini et.al.|[2609.38407](https://arxiv.org/abs/2609.38407)|**[link](https://github.com/arxivsub/arXivSub_daily_arxiv)**|
+|**2026-09-29**|**Memorize, Adapt, Ignore: Diagnosing Robot Learning Mechanisms under Training Data Variation**|Ke Zhang et.al.|[2609.38401](https://arxiv.org/abs/2609.38401)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2026-09-29**|**VoxelSage: Tool-Augmented 3D CT Analysis and Simulator-Shielded Sequential Resection Planning for Liver Tumors**|Binghong Qian et.al.|[2609.37648](https://arxiv.org/abs/2609.37648)|**[link](https://github.com/NY1024/AgentSafety-Papers)**|
+|**2026-09-29**|**BlenDAgger: Blended Shared Control for Interactive Imitation Learning**|Cailyn Smith et.al.|[2609.37599](https://arxiv.org/abs/2609.37599)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-29**|**Wrench-ACT: Enhancing Robot Policies for Contact Rich Behavior Using Direct Wrench Control**|Johannes Hechtl et.al.|[2609.37552](https://arxiv.org/abs/2609.37552)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-09-29**|**DROM: A Language-Guided Diffusion Framework for Multi-Skill Robotic Manipulation**|Vincenzo Pomponi et.al.|[2609.37348](https://arxiv.org/abs/2609.37348)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-09-29**|**Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport**|Sergio Calo et.al.|[2609.37239](https://arxiv.org/abs/2609.37239)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
+|**2026-09-29**|**Differentiating Bisimulation Metrics: A Framework for Parametric Markov Chain Fitting via Bicausal Optimal Transport**|Sergio Calo et.al.|[2609.37239](https://arxiv.org/abs/2609.37239)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-09-29**|**Multi-Granularity Language-Guided Imitation Learning via Instruction Decomposition**|Yi-Pei Chiu et.al.|[2609.37135](https://arxiv.org/abs/2609.37135)|**[link](https://github.com/ttylerzh/robotics_paper_daily)**|
 |**2026-09-29**|**BCNav: Bearing-Conditioned Depth Policies for Sound Source Navigation**|Yaozhong Kang et.al.|[2609.37084](https://arxiv.org/abs/2609.37084)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2026-09-29**|**AeroManip-VLA: Scalable Vision-Language-Action Learning for Aerial Manipulation with RL-Generated Demonstrations**|Rui Huang et.al.|[2609.36915](https://arxiv.org/abs/2609.36915)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
