@@ -10,15 +10,19 @@ import datetime
 import requests
 import subprocess
 import time
+import random
+
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
+
 # ======= 常量 =======
 # Hugging Face：用 arxiv_id 映射 Hub 上的 spaces/models/datasets
 HF_REPOS_API = "https://huggingface.co/api/arxiv/{arxiv_id}/repos"
 HF_HEADERS = {"User-Agent": "arxiv-daily/1.0"}
+
 
 # GitHub 搜索（兜底）
 GITHUB_SEARCH_REPO = "https://api.github.com/search/repositories"
@@ -30,10 +34,13 @@ GH_HEADERS = {
 if os.getenv("GITHUB_TOKEN"):
     GH_HEADERS["Authorization"] = f"Bearer {os.getenv('GITHUB_TOKEN')}"
 
+
 # arXiv 页面
 arxiv_url = "https://arxiv.org/"
 
+
 # ======= 工具函数 =======
+
 
 def load_config(config_file:str) -> dict:
     """
@@ -45,9 +52,11 @@ def load_config(config_file:str) -> dict:
         OR = ' OR '
         FIELD = 'all:'
 
+
         def quote_if_needed(s: str) -> str:
             s = s.strip()
             return f"\"{s}\"" if (' ' in s or '-' in s) else s
+
 
         def parse_filters(filters: list) -> str:
             terms = []
@@ -55,15 +64,18 @@ def load_config(config_file:str) -> dict:
                 terms.append(FIELD + quote_if_needed(flt))
             return OR.join(terms)
 
+
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
+
 
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
     return config
+
 
 def get_authors(authors, first_author = False):
     if not authors:
@@ -72,6 +84,7 @@ def get_authors(authors, first_author = False):
         return str(authors[0])
     return ", ".join(str(author) for author in authors)
 
+
 def sort_papers(papers):
     output = {}
     keys = list(papers.keys())
@@ -79,6 +92,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
+
 
 def http_get(url, headers=None, params=None, timeout=10, retries=2, sleep=0.8):
     """ 简单 GET 带重试 """
@@ -97,6 +111,7 @@ def http_get(url, headers=None, params=None, timeout=10, retries=2, sleep=0.8):
     if last_exc:
         raise last_exc
     return None
+
 
 def get_code_link(qword:str) -> str | None:
     """
@@ -122,6 +137,7 @@ def get_code_link(qword:str) -> str | None:
         logging.error(f"GitHub search error: {e}")
     return None
 
+
 def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str | None = None) -> str | None:
     """
     更智能的 GitHub 兜底：
@@ -137,12 +153,14 @@ def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str |
         if r and r.json().get("items"):
             return r.json()["items"][0]["html_url"]
 
+
         # 2) arXiv ID 搜索
         q2 = f"\"{arxiv_id_no_ver}\" in:name,readme,description"
         r = http_get(GITHUB_SEARCH_REPO, headers=GH_HEADERS,
                      params={"q": q2, "sort": "stars", "order": "desc", "per_page": 5}, timeout=10)
         if r and r.json().get("items"):
             return r.json()["items"][0]["html_url"]
+
 
         # 3) Code Search：README 中包含 arXiv ID
         q3 = f"\"{arxiv_id_no_ver}\" in:file filename:README"
@@ -153,6 +171,7 @@ def find_code_repo(paper_title: str, arxiv_id_no_ver: str, primary_author: str |
     except Exception as e:
         logging.error(f"find_code_repo error: {e}")
     return None
+
 
 def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
     """
@@ -167,12 +186,14 @@ def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
             return None
         data = r.json()  # {"models":[...], "datasets":[...], "spaces":[...]}
 
+
         def pick(arr, t):
             for it in (arr or []):
                 rid = it.get("id")  # 形如 "org/name"
                 if rid:
                     return f"https://huggingface.co/{t}/{rid}"
             return None
+
 
         return (pick(data.get("spaces"), "spaces")
                 or pick(data.get("models"), "models")
@@ -181,28 +202,63 @@ def get_repo_from_hf(arxiv_id_no_ver: str) -> str | None:
         logging.error(f"HF repos error: {e}")
         return None
 
+
+# 一个客户端供所有关键词复用，保证不同查询和分页请求之间都遵守间隔。
+# 仅设置 num_retries=0，改由下方的退避机制处理，避免快速重复请求。
+ARXIV_CLIENT = arxiv.Client(page_size=100, delay_seconds=5.0, num_retries=0)
+
 def _iter_arxiv_results(query: str, n: int):
-    """
-    封装 arxiv.Search().results()，遇到 UnexpectedEmptyPageError 逐级降级重试。
-    arXiv API 单次查询有返回上限（通常 50-100 条），设置过高容易触发空页。
-    降级顺序：n → 100 → 50 → 25
-    """
-    client = arxiv.Client()
-    for attempt, limit in enumerate([n, 25, 10]):
-        if attempt > 0:
-            logging.warning(f"Empty page from arXiv; retrying with max_results={limit}")
-        try:
-            se = arxiv.Search(query=query, max_results=limit, sort_by=arxiv.SortCriterion.SubmittedDate)
-            for r in client.results(se):
-                yield r
-            return  # 成功跑完，跳出
-        except arxiv.UnexpectedEmptyPageError:
-            continue  # 尝试下一个更小的 limit
-    # 全部失败，最后用 5 再试一次（不 catch 异常）
-    logging.warning("All retries failed, trying with max_results=5 as last resort")
-    se = arxiv.Search(query=query, max_results=5, sort_by=arxiv.SortCriterion.SubmittedDate)
-    for r in client.results(se):
-        yield r
+    """拉取 arXiv 结果：限流退避、空页降级、失败跳过，不中断整个日报。"""
+    if n <= 0:
+        return
+    # 仅在 UnexpectedEmptyPageError 时缩小获取数量；HTTP 429 不靠缩小数量解决。
+    limits = list(dict.fromkeys([n] + [min(n, k) for k in (25, 10, 5)]))
+    seen_ids = set()
+    for limit in limits:
+        search = arxiv.Search(
+            query=query,
+            max_results=limit,
+            sort_by=arxiv.SortCriterion.SubmittedDate,
+        )
+        for attempt in range(4):
+            try:
+                for paper in ARXIV_CLIENT.results(search):
+                    paper_id = paper.get_short_id()
+                    if paper_id not in seen_ids:
+                        seen_ids.add(paper_id)
+                        yield paper
+                if limit < n:
+                    logging.warning(
+                        "arXiv query recovered with fewer results: requested=%s, fallback=%s, query=%s",
+                        n, limit, query
+                    )
+                return
+            except arxiv.UnexpectedEmptyPageError as exc:
+                logging.warning("arXiv returned an empty page at limit=%s: %s", limit, exc)
+                break  # 只在空页异常时降低 limit
+            except arxiv.HTTPError as exc:
+                status = getattr(exc, "status", None)
+                if status not in (429, 503) and not (
+                    status is None and any(str(code) in str(exc) for code in (429, 503))
+                ):
+                    logging.exception("arXiv HTTP failure (query=%s); skipping this topic", query)
+                    return
+                if attempt == 3:
+                    logging.error(
+                        "arXiv rate limit persisted after retries; skipping query=%s. "
+                        "Existing JSON records will be preserved.", query
+                    )
+                    return
+                wait = min(30 * (2 ** attempt), 180) + random.uniform(0, 5)
+                logging.warning(
+                    "arXiv HTTP %s (query=%s). Retry %s/3 after %.1f s.",
+                    status or "429/503", query, attempt + 1, wait,
+                )
+                time.sleep(wait)
+            except Exception:
+                logging.exception("Unexpected arXiv query failure (query=%s); skipping", query)
+                return
+    logging.error("arXiv query failed at all fallback sizes: %s", query)
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -213,7 +269,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content = {}
     content_to_web = {}
 
+
     for result in _iter_arxiv_results(query, max_results):
+
 
         paper_id            = result.get_short_id()         # 例如 2108.09112v1
         paper_title         = result.title
@@ -226,12 +284,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date() if result.updated else publish_time
         comments            = result.comment
 
+
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+
 
         # 去掉版本号：2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
         paper_key = paper_id if ver_pos == -1 else paper_id[:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
+
 
         # 先尝试 HF，失败再 GitHub 搜索作为兜底
         repo_url = get_repo_from_hf(paper_key)
@@ -239,6 +300,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             repo_url = (find_code_repo(paper_title, paper_key, paper_first_author)
                         or get_code_link(paper_title)
                         or get_code_link(paper_key))
+
 
         try:
             if repo_url is not None:
@@ -252,18 +314,22 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
+
             comments = None  # TODO: 保留注释逻辑
             if comments != None:
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
 
+
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
+
 
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web
+
 
 def update_paper_links(filename):
     '''
@@ -279,6 +345,7 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
+
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -286,19 +353,24 @@ def update_paper_links(filename):
         else:
             m = json.loads(content)
 
+
         json_data = m.copy()
+
 
         for keywords,v in json_data.items():
             logging.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
                 contents = str(contents)
 
+
                 update_time, paper_title, paper_first_author, paper_url_field, code_url = parse_arxiv_string(contents)
+
 
                 # 保持原格式
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url_field,code_url)
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
+
 
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
@@ -309,16 +381,19 @@ def update_paper_links(filename):
                                 or get_code_link(paper_title)
                                 or get_code_link(paper_id))
 
+
                     if repo_url is not None:
                         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
                         logging.info(f'ID = {paper_id}, contents = {new_cont}')
                         json_data[keywords][paper_id] = str(new_cont)
+
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
+
 
 def update_json_file(filename,data_dict):
     '''
@@ -331,20 +406,25 @@ def update_json_file(filename,data_dict):
         else:
             m = json.loads(content)
 
+
     json_data = m.copy()
+
 
     # update papers in each keywords
     for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
 
+
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
 
+
     with open(filename,"w") as f:
         json.dump(json_data,f)
+
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -358,23 +438,14 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
-        ret += s[:math_start]
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
-        ret += s[math_end:]
-        return ret
+    def pretty_math(s: str) -> str:
+        # 将 Markdown 中的 **$公式$** 转为 $公式$。
+        return re.sub(r"\*\*\$(.*?)\$\*\*", r"$\1$", s)
 
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
+
 
     with open(filename,"r") as f:
         content = f.read()
@@ -383,15 +454,19 @@ def json_to_md(filename,md_filename,
         else:
             data = json.loads(content)
 
+
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
         pass
 
+
     # write data into README.md
     with open(md_filename,"a+") as f:
 
+
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
+
 
         if show_badge == True:
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
@@ -399,12 +474,15 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
+
         if use_title == True:
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
+
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+
 
         #Add: table of contents
         if use_tc == True:
@@ -420,12 +498,14 @@ def json_to_md(filename,md_filename,
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
+
 
             if use_title == True :
                 if to_web == False:
@@ -434,20 +514,25 @@ def json_to_md(filename,md_filename,
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
+
             # sort papers by date
             day_content = sort_papers(day_content)
+
 
             for _,v in day_content.items():
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
+
             f.write(f"\n")
+
 
             #Add: back to top
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+
 
         if show_badge == True:
             # we don't like long string, break it!
@@ -468,11 +553,14 @@ def json_to_md(filename,md_filename,
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/issues\n\n"))
 
+
     logging.info(f"{task} finished")
+
 
 def demo(**config):
     data_collector = []
     data_collector_web= []
+
 
     keywords = config['kv']
     max_results = config['max_results']
@@ -481,18 +569,24 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
+
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            try:
+                data, data_web = get_daily_papers(topic, query=keyword,
+                                                  max_results=max_results)
+            except Exception:
+                logging.exception("Failed topic %s, continuing to the next topic", topic)
+                continue
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
+
 
     # 1. update README.md file
     if publish_readme:
@@ -503,6 +597,7 @@ def demo(**config):
         else:
             update_json_file(json_file,data_collector)
         json_to_md(json_file,md_file, task ='Update Readme', show_badge = show_badge)
+
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -516,6 +611,7 @@ def demo(**config):
                    to_web = True, show_badge = show_badge,
                    use_tc=False, use_b2t=False)
 
+
     # 3. Update docs/wechat.md file
     if publish_wechat:
         json_file = config['json_wechat_path']
@@ -527,6 +623,7 @@ def demo(**config):
         json_to_md(json_file, md_file, task ='Update Wechat',
                    to_web=False, use_title= False, show_badge = show_badge)
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
@@ -537,6 +634,7 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
+
 
     try:
         subprocess.run(["git", "add", "."], check=True)
